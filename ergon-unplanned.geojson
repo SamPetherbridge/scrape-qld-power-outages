@@ -136,6 +136,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            150.634374,
+                            -23.179794
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.634758,
+                                    -23.180337
+                                ],
+                                [
+                                    150.634946,
+                                    -23.179751
+                                ],
+                                [
+                                    150.634892,
+                                    -23.179384
+                                ],
+                                [
+                                    150.63472,
+                                    -23.179129
+                                ],
+                                [
+                                    150.634176,
+                                    -23.178933
+                                ],
+                                [
+                                    150.633819,
+                                    -23.17936
+                                ],
+                                [
+                                    150.633802,
+                                    -23.1802
+                                ],
+                                [
+                                    150.634215,
+                                    -23.180654
+                                ],
+                                [
+                                    150.634758,
+                                    -23.180337
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA5059",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "3:00AM 13 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "PINE MOUNTAIN DR",
+                "SUBURBS": "BONDOOLA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             149.431527,
                             -22.807324
                         ]
@@ -458,5 +527,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1741806601.136528"
+    "extracted": "1741807201.251998"
 }
