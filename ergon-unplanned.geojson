@@ -10,6 +10,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.95116,
+                            -27.567261
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.950031,
+                                    -27.567252
+                                ],
+                                [
+                                    151.950309,
+                                    -27.567917
+                                ],
+                                [
+                                    151.95094,
+                                    -27.568188
+                                ],
+                                [
+                                    151.951733,
+                                    -27.567956
+                                ],
+                                [
+                                    151.951882,
+                                    -27.567885
+                                ],
+                                [
+                                    151.952257,
+                                    -27.567629
+                                ],
+                                [
+                                    151.95229,
+                                    -27.566939
+                                ],
+                                [
+                                    151.951731,
+                                    -27.566486
+                                ],
+                                [
+                                    151.951469,
+                                    -27.566375
+                                ],
+                                [
+                                    151.951171,
+                                    -27.566334
+                                ],
+                                [
+                                    151.950834,
+                                    -27.566393
+                                ],
+                                [
+                                    151.950244,
+                                    -27.566709
+                                ],
+                                [
+                                    151.950031,
+                                    -27.567252
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW4754",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "13",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "7:18PM 13 Mar 2025",
+                "EST_FIX_TIME": "11:00PM 13 Mar 2025",
+                "STREETS": "DONALD ST, JAMES ST, RUTHVEN ST, TELFORD ST",
+                "SUBURBS": "TOOWOOMBA, TOOWOOMBA CITY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -414,94 +499,9 @@
                 "STREETS": "BYRON ST, EVAN ST, GOLD ST, GOLDSMITH ST, HAGUE ST, HUCKER ST, KATE ST, MACROSSAN ST, PARK ST, RAE ST, SHAKESPEARE ST",
                 "SUBURBS": "EAST MACKAY, MACKAY"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.95116,
-                            -27.567261
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.950031,
-                                    -27.567252
-                                ],
-                                [
-                                    151.950309,
-                                    -27.567917
-                                ],
-                                [
-                                    151.95094,
-                                    -27.568188
-                                ],
-                                [
-                                    151.951733,
-                                    -27.567956
-                                ],
-                                [
-                                    151.951882,
-                                    -27.567885
-                                ],
-                                [
-                                    151.952257,
-                                    -27.567629
-                                ],
-                                [
-                                    151.95229,
-                                    -27.566939
-                                ],
-                                [
-                                    151.951731,
-                                    -27.566486
-                                ],
-                                [
-                                    151.951469,
-                                    -27.566375
-                                ],
-                                [
-                                    151.951171,
-                                    -27.566334
-                                ],
-                                [
-                                    151.950834,
-                                    -27.566393
-                                ],
-                                [
-                                    151.950244,
-                                    -27.566709
-                                ],
-                                [
-                                    151.950031,
-                                    -27.567252
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW4754",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "13",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "7:18PM 13 Mar 2025",
-                "EST_FIX_TIME": "11:00PM 13 Mar 2025",
-                "STREETS": "DONALD ST, JAMES ST, RUTHVEN ST, TELFORD ST",
-                "SUBURBS": "TOOWOOMBA, TOOWOOMBA CITY"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1741859401.217465"
+    "extracted": "1741860003.792315"
 }
