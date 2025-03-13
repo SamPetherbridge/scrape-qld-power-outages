@@ -10,6 +10,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            149.431527,
+                            -22.807324
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    149.432026,
+                                    -22.80705
+                                ],
+                                [
+                                    149.43146,
+                                    -22.806789
+                                ],
+                                [
+                                    149.430808,
+                                    -22.806993
+                                ],
+                                [
+                                    149.431028,
+                                    -22.807598
+                                ],
+                                [
+                                    149.431594,
+                                    -22.807858
+                                ],
+                                [
+                                    149.432246,
+                                    -22.807655
+                                ],
+                                [
+                                    149.432026,
+                                    -22.80705
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA5006",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews on route",
+                "START": "10:26AM 12 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "MARLBOROUGH-SARINA RD, OFF MARLB-SARINA RD",
+                "SUBURBS": "MARLBOROUGH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -65,99 +126,6 @@
                 "EST_FIX_TIME": "9:30AM 31 Mar 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            149.532946,
-                            -23.890973
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    149.444475,
-                                    -23.867107
-                                ],
-                                [
-                                    149.609756,
-                                    -23.949399
-                                ],
-                                [
-                                    149.610181,
-                                    -23.949418
-                                ],
-                                [
-                                    149.612239,
-                                    -23.948616
-                                ],
-                                [
-                                    149.612527,
-                                    -23.948302
-                                ],
-                                [
-                                    149.621623,
-                                    -23.911894
-                                ],
-                                [
-                                    149.62151,
-                                    -23.911492
-                                ],
-                                [
-                                    149.621287,
-                                    -23.911264
-                                ],
-                                [
-                                    149.621271,
-                                    -23.911247
-                                ],
-                                [
-                                    149.571717,
-                                    -23.865172
-                                ],
-                                [
-                                    149.57152,
-                                    -23.86506
-                                ],
-                                [
-                                    149.463163,
-                                    -23.832528
-                                ],
-                                [
-                                    149.462572,
-                                    -23.832756
-                                ],
-                                [
-                                    149.44427,
-                                    -23.866509
-                                ],
-                                [
-                                    149.444475,
-                                    -23.867107
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA5105",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "12",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "3:30PM 13 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "COOMOO BARALABA RD, COOMOOBOOLAROO BARALABA RD, FITZROY DEVELOPMENT RD, PARKES RD",
-                "SUBURBS": "COOMOO, DUARINGA"
             }
         },
         {
@@ -426,67 +394,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            149.431527,
-                            -22.807324
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    149.432026,
-                                    -22.80705
-                                ],
-                                [
-                                    149.43146,
-                                    -22.806789
-                                ],
-                                [
-                                    149.430808,
-                                    -22.806993
-                                ],
-                                [
-                                    149.431028,
-                                    -22.807598
-                                ],
-                                [
-                                    149.431594,
-                                    -22.807858
-                                ],
-                                [
-                                    149.432246,
-                                    -22.807655
-                                ],
-                                [
-                                    149.432026,
-                                    -22.80705
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA5006",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
-                "START": "10:26AM 12 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "MARLBOROUGH-SARINA RD, OFF MARLB-SARINA RD",
-                "SUBURBS": "MARLBOROUGH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -543,5 +450,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1741842600.30049"
+    "extracted": "1741843200.237215"
 }
