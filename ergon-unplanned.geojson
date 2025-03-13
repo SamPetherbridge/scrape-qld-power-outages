@@ -135,6 +135,59 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.149024,
+                            -23.567454
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.149514,
+                                    -23.56745
+                                ],
+                                [
+                                    148.14902,
+                                    -23.567002
+                                ],
+                                [
+                                    148.148534,
+                                    -23.567458
+                                ],
+                                [
+                                    148.149028,
+                                    -23.567906
+                                ],
+                                [
+                                    148.149514,
+                                    -23.56745
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA5115",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "7:54PM 13 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "PILOT FARM RD",
+                "SUBURBS": "EMERALD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -628,5 +681,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1741864516.753294"
+    "extracted": "1741864801.238499"
 }
