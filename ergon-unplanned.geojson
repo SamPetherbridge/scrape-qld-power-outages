@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.579277,
-                            -18.734227
+                            149.111619,
+                            -23.224956
                         ]
                     },
                     {
@@ -19,56 +19,64 @@
                         "coordinates": [
                             [
                                 [
-                                    146.578873,
-                                    -18.735125
+                                    148.926737,
+                                    -23.143604
                                 ],
                                 [
-                                    146.579665,
-                                    -18.734972
+                                    149.132408,
+                                    -23.348844
                                 ],
                                 [
-                                    146.579874,
-                                    -18.734877
+                                    149.132948,
+                                    -23.348957
                                 ],
                                 [
-                                    146.579898,
-                                    -18.734859
+                                    149.155547,
+                                    -23.340608
                                 ],
                                 [
-                                    146.579934,
-                                    -18.734827
+                                    149.155722,
+                                    -23.340497
                                 ],
                                 [
-                                    146.580245,
-                                    -18.734525
+                                    149.262372,
+                                    -23.235131
                                 ],
                                 [
-                                    146.580229,
-                                    -18.733877
+                                    149.262465,
+                                    -23.234999
                                 ],
                                 [
-                                    146.579608,
-                                    -18.733329
+                                    149.2965,
+                                    -23.16089
                                 ],
                                 [
-                                    146.578947,
-                                    -18.733345
+                                    149.296273,
+                                    -23.160311
                                 ],
                                 [
-                                    146.578517,
-                                    -18.733762
+                                    149.195891,
+                                    -23.112946
                                 ],
                                 [
-                                    146.578385,
-                                    -18.734024
+                                    149.195751,
+                                    -23.112903
                                 ],
                                 [
-                                    146.578309,
-                                    -18.734628
+                                    149.119967,
+                                    -23.100956
                                 ],
                                 [
-                                    146.578873,
-                                    -18.735125
+                                    149.119773,
+                                    -23.100962
+                                ],
+                                [
+                                    148.926985,
+                                    -23.142858
+                                ],
+                                [
+                                    148.926737,
+                                    -23.143604
                                 ]
                             ]
                         ]
@@ -76,15 +84,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4328",
+                "EVENT_ID": "25CA5160",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "17",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
-                "START": "11:52PM 14 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BEACH RD, DORMITORY DR, MAIN ST, MANGO AVE, REID LANE",
-                "SUBURBS": "PALM ISLAND"
+                "CUSTOMERS_AFFECTED": "35",
+                "REASON": "The loss of supply is due to a pole fire.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:22PM 14 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 15 Mar 2025",
+                "STREETS": "ARIZONA RD, BINGEGANG RD, DINGO-MT FLORA RD, HILLS ACCESS RD, JELLINBAH RD, OFF MT FLORA BEEF RD, PALMALMAL RD, WILLIAMSON RD, WILLIES CREEK RD, WILPEENA RD, YARRABEE RD",
+                "SUBURBS": "BINGEGANG, BLUFF, DINGO, MACKENZIE RIVER"
             }
         },
         {
@@ -315,7 +323,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "29",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
+                "STATUS": "Crews working on-site",
                 "START": "10:46PM 14 Mar 2025",
                 "EST_FIX_TIME": "3:00AM 15 Mar 2025",
                 "STREETS": "BARRON FALLS RD, KENNEDY HWY, KURANDA CRES, MASONS RD, UNKNOWN ST, WEIR RD, WRIGHTS LOOKOUT RD",
@@ -447,6 +455,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            146.579277,
+                            -18.734227
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.578873,
+                                    -18.735125
+                                ],
+                                [
+                                    146.579665,
+                                    -18.734972
+                                ],
+                                [
+                                    146.579874,
+                                    -18.734877
+                                ],
+                                [
+                                    146.579898,
+                                    -18.734859
+                                ],
+                                [
+                                    146.579934,
+                                    -18.734827
+                                ],
+                                [
+                                    146.580245,
+                                    -18.734525
+                                ],
+                                [
+                                    146.580229,
+                                    -18.733877
+                                ],
+                                [
+                                    146.579608,
+                                    -18.733329
+                                ],
+                                [
+                                    146.578947,
+                                    -18.733345
+                                ],
+                                [
+                                    146.578517,
+                                    -18.733762
+                                ],
+                                [
+                                    146.578385,
+                                    -18.734024
+                                ],
+                                [
+                                    146.578309,
+                                    -18.734628
+                                ],
+                                [
+                                    146.578873,
+                                    -18.735125
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4328",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "17",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "11:52PM 14 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BEACH RD, DORMITORY DR, MAIN ST, MANGO AVE, REID LANE",
+                "SUBURBS": "PALM ISLAND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             144.243195,
                             -23.370456
                         ]
@@ -526,99 +619,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "CRAMSIE MUTTABURRA RD, GOLF CLUB RD, GOLF LINKS RD, L'REACH-MUTTABURRA RD, RIVER RD, WARBLER CT",
                 "SUBURBS": "LONGREACH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            149.111619,
-                            -23.224956
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.926737,
-                                    -23.143604
-                                ],
-                                [
-                                    149.132408,
-                                    -23.348844
-                                ],
-                                [
-                                    149.132948,
-                                    -23.348957
-                                ],
-                                [
-                                    149.155547,
-                                    -23.340608
-                                ],
-                                [
-                                    149.155722,
-                                    -23.340497
-                                ],
-                                [
-                                    149.262372,
-                                    -23.235131
-                                ],
-                                [
-                                    149.262465,
-                                    -23.234999
-                                ],
-                                [
-                                    149.2965,
-                                    -23.16089
-                                ],
-                                [
-                                    149.296273,
-                                    -23.160311
-                                ],
-                                [
-                                    149.195891,
-                                    -23.112946
-                                ],
-                                [
-                                    149.195751,
-                                    -23.112903
-                                ],
-                                [
-                                    149.119967,
-                                    -23.100956
-                                ],
-                                [
-                                    149.119773,
-                                    -23.100962
-                                ],
-                                [
-                                    148.926985,
-                                    -23.142858
-                                ],
-                                [
-                                    148.926737,
-                                    -23.143604
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA5160",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "35",
-                "REASON": "The loss of supply is due to a pole fire.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:22PM 14 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 15 Mar 2025",
-                "STREETS": "ARIZONA RD, BINGEGANG RD, DINGO-MT FLORA RD, HILLS ACCESS RD, JELLINBAH RD, OFF MT FLORA BEEF RD, PALMALMAL RD, WILLIAMSON RD, WILLIES CREEK RD, WILPEENA RD, YARRABEE RD",
-                "SUBURBS": "BINGEGANG, BLUFF, DINGO, MACKENZIE RIVER"
             }
         },
         {
@@ -754,5 +754,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1741970401.202758"
+    "extracted": "1741971001.48761"
 }
