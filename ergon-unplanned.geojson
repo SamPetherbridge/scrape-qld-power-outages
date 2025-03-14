@@ -10,6 +10,123 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.169363,
+                            -23.540933
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.166291,
+                                    -23.542774
+                                ],
+                                [
+                                    148.166378,
+                                    -23.542874
+                                ],
+                                [
+                                    148.166685,
+                                    -23.543038
+                                ],
+                                [
+                                    148.166989,
+                                    -23.543081
+                                ],
+                                [
+                                    148.167013,
+                                    -23.543084
+                                ],
+                                [
+                                    148.167948,
+                                    -23.543176
+                                ],
+                                [
+                                    148.16795,
+                                    -23.543176
+                                ],
+                                [
+                                    148.168324,
+                                    -23.543212
+                                ],
+                                [
+                                    148.168479,
+                                    -23.543204
+                                ],
+                                [
+                                    148.172092,
+                                    -23.542472
+                                ],
+                                [
+                                    148.172378,
+                                    -23.542302
+                                ],
+                                [
+                                    148.17246,
+                                    -23.542202
+                                ],
+                                [
+                                    148.172524,
+                                    -23.541762
+                                ],
+                                [
+                                    148.171871,
+                                    -23.540262
+                                ],
+                                [
+                                    148.171617,
+                                    -23.540018
+                                ],
+                                [
+                                    148.16833,
+                                    -23.538654
+                                ],
+                                [
+                                    148.167691,
+                                    -23.538864
+                                ],
+                                [
+                                    148.166767,
+                                    -23.540568
+                                ],
+                                [
+                                    148.166734,
+                                    -23.540647
+                                ],
+                                [
+                                    148.166202,
+                                    -23.542368
+                                ],
+                                [
+                                    148.166291,
+                                    -23.542774
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA3425",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "42",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "8:22AM 12 Feb 2025",
+                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
+                "STREETS": "AKUBRA DR, CAMPBELL FORD DR, COUNTRY LANE, ELM ST",
+                "SUBURBS": "EMERALD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -152,123 +269,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.169363,
-                            -23.540933
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.166291,
-                                    -23.542774
-                                ],
-                                [
-                                    148.166378,
-                                    -23.542874
-                                ],
-                                [
-                                    148.166685,
-                                    -23.543038
-                                ],
-                                [
-                                    148.166989,
-                                    -23.543081
-                                ],
-                                [
-                                    148.167013,
-                                    -23.543084
-                                ],
-                                [
-                                    148.167948,
-                                    -23.543176
-                                ],
-                                [
-                                    148.16795,
-                                    -23.543176
-                                ],
-                                [
-                                    148.168324,
-                                    -23.543212
-                                ],
-                                [
-                                    148.168479,
-                                    -23.543204
-                                ],
-                                [
-                                    148.172092,
-                                    -23.542472
-                                ],
-                                [
-                                    148.172378,
-                                    -23.542302
-                                ],
-                                [
-                                    148.17246,
-                                    -23.542202
-                                ],
-                                [
-                                    148.172524,
-                                    -23.541762
-                                ],
-                                [
-                                    148.171871,
-                                    -23.540262
-                                ],
-                                [
-                                    148.171617,
-                                    -23.540018
-                                ],
-                                [
-                                    148.16833,
-                                    -23.538654
-                                ],
-                                [
-                                    148.167691,
-                                    -23.538864
-                                ],
-                                [
-                                    148.166767,
-                                    -23.540568
-                                ],
-                                [
-                                    148.166734,
-                                    -23.540647
-                                ],
-                                [
-                                    148.166202,
-                                    -23.542368
-                                ],
-                                [
-                                    148.166291,
-                                    -23.542774
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA3425",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "42",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "8:22AM 12 Feb 2025",
-                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
-                "STREETS": "AKUBRA DR, CAMPBELL FORD DR, COUNTRY LANE, ELM ST",
-                "SUBURBS": "EMERALD"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             151.926876,
                             -27.551698
                         ]
@@ -372,6 +372,87 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BERRY ST, DALMENY ST, ELLIS ST, LEAWARRA ST, ROSE ST, TOR ST",
                 "SUBURBS": "WILSONTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            144.240775,
+                            -23.370458
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    144.219918,
+                                    -23.393357
+                                ],
+                                [
+                                    144.227094,
+                                    -23.398029
+                                ],
+                                [
+                                    144.227628,
+                                    -23.398047
+                                ],
+                                [
+                                    144.236783,
+                                    -23.392968
+                                ],
+                                [
+                                    144.236796,
+                                    -23.392961
+                                ],
+                                [
+                                    144.250196,
+                                    -23.384999
+                                ],
+                                [
+                                    144.250406,
+                                    -23.38473
+                                ],
+                                [
+                                    144.26174,
+                                    -23.343387
+                                ],
+                                [
+                                    144.261478,
+                                    -23.34287
+                                ],
+                                [
+                                    144.260877,
+                                    -23.343003
+                                ],
+                                [
+                                    144.219811,
+                                    -23.392715
+                                ],
+                                [
+                                    144.219918,
+                                    -23.393357
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA5169",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "59",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "11:53PM 14 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "CRAMSIE MUTTABURRA RD, GOLF CLUB RD, GOLF LINKS RD, L'REACH-MUTTABURRA RD, RIVER RD, WARBLER CT",
+                "SUBURBS": "LONGREACH"
             }
         },
         {
@@ -536,8 +617,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            144.240775,
-                            -23.370458
+                            145.400516,
+                            -16.38227
                         ]
                     },
                     {
@@ -545,52 +626,88 @@
                         "coordinates": [
                             [
                                 [
-                                    144.219918,
-                                    -23.393357
+                                    145.382984,
+                                    -16.383564
                                 ],
                                 [
-                                    144.227094,
-                                    -23.398029
+                                    145.384709,
+                                    -16.391659
                                 ],
                                 [
-                                    144.227628,
-                                    -23.398047
+                                    145.384792,
+                                    -16.391837
                                 ],
                                 [
-                                    144.236783,
-                                    -23.392968
+                                    145.388933,
+                                    -16.39722
                                 ],
                                 [
-                                    144.236796,
-                                    -23.392961
+                                    145.389212,
+                                    -16.397392
                                 ],
                                 [
-                                    144.250196,
-                                    -23.384999
+                                    145.390914,
+                                    -16.397738
                                 ],
                                 [
-                                    144.250406,
-                                    -23.38473
+                                    145.391063,
+                                    -16.397745
                                 ],
                                 [
-                                    144.26174,
-                                    -23.343387
+                                    145.415351,
+                                    -16.39506
                                 ],
                                 [
-                                    144.261478,
-                                    -23.34287
+                                    145.415734,
+                                    -16.394775
                                 ],
                                 [
-                                    144.260877,
-                                    -23.343003
+                                    145.417944,
+                                    -16.389303
                                 ],
                                 [
-                                    144.219811,
-                                    -23.392715
+                                    145.417946,
+                                    -16.389299
                                 ],
                                 [
-                                    144.219918,
-                                    -23.393357
+                                    145.41802,
+                                    -16.389109
+                                ],
+                                [
+                                    145.418049,
+                                    -16.388909
+                                ],
+                                [
+                                    145.417995,
+                                    -16.388318
+                                ],
+                                [
+                                    145.417983,
+                                    -16.388249
+                                ],
+                                [
+                                    145.412567,
+                                    -16.367082
+                                ],
+                                [
+                                    145.411886,
+                                    -16.366796
+                                ],
+                                [
+                                    145.386557,
+                                    -16.380391
+                                ],
+                                [
+                                    145.386484,
+                                    -16.380439
+                                ],
+                                [
+                                    145.383142,
+                                    -16.383126
+                                ],
+                                [
+                                    145.382984,
+                                    -16.383564
                                 ]
                             ]
                         ]
@@ -598,15 +715,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA5169",
+                "EVENT_ID": "25FN3472",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "59",
+                "CUSTOMERS_AFFECTED": "101",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "11:53PM 14 Mar 2025",
+                "STATUS": "Crews on route",
+                "START": "6:39AM 15 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "CRAMSIE MUTTABURRA RD, GOLF CLUB RD, GOLF LINKS RD, L'REACH-MUTTABURRA RD, RIVER RD, WARBLER CT",
-                "SUBURBS": "LONGREACH"
+                "STREETS": "BAMBOO CREEK RD, BOUNDRY RD, DAINTREE RD, HIBISCUS CT, MOSSMAN DAINTREE RD, ORCHID AVE, ROCKY POINT SCHOOL RD, RUTHERFORD RD, SALTWATER CREEK, SCHOOL RD, SCIACCA RD, SEAVIEW CT, TONONI RD",
+                "SUBURBS": "BAMBOO, DAINTREE, MIALLO, ROCKY POINT, WHYANBEEL"
             }
         },
         {
@@ -677,150 +794,9 @@
                 "STREETS": "MOURANDILLA RD, SPRINGTON RD, TRYPHINIA RD",
                 "SUBURBS": "DINGO, DUARINGA"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            145.404234,
-                            -16.356366
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.382984,
-                                    -16.383564
-                                ],
-                                [
-                                    145.384709,
-                                    -16.391659
-                                ],
-                                [
-                                    145.384792,
-                                    -16.391837
-                                ],
-                                [
-                                    145.388933,
-                                    -16.39722
-                                ],
-                                [
-                                    145.389212,
-                                    -16.397392
-                                ],
-                                [
-                                    145.390914,
-                                    -16.397738
-                                ],
-                                [
-                                    145.391063,
-                                    -16.397745
-                                ],
-                                [
-                                    145.415351,
-                                    -16.39506
-                                ],
-                                [
-                                    145.415734,
-                                    -16.394775
-                                ],
-                                [
-                                    145.417944,
-                                    -16.389303
-                                ],
-                                [
-                                    145.417946,
-                                    -16.389299
-                                ],
-                                [
-                                    145.41802,
-                                    -16.389109
-                                ],
-                                [
-                                    145.418049,
-                                    -16.388993
-                                ],
-                                [
-                                    145.425484,
-                                    -16.316107
-                                ],
-                                [
-                                    145.42545,
-                                    -16.315887
-                                ],
-                                [
-                                    145.425171,
-                                    -16.315251
-                                ],
-                                [
-                                    145.424635,
-                                    -16.314986
-                                ],
-                                [
-                                    145.423289,
-                                    -16.315287
-                                ],
-                                [
-                                    145.423229,
-                                    -16.315305
-                                ],
-                                [
-                                    145.422435,
-                                    -16.315595
-                                ],
-                                [
-                                    145.422301,
-                                    -16.315671
-                                ],
-                                [
-                                    145.42102,
-                                    -16.316704
-                                ],
-                                [
-                                    145.421,
-                                    -16.316721
-                                ],
-                                [
-                                    145.406226,
-                                    -16.330064
-                                ],
-                                [
-                                    145.406114,
-                                    -16.330219
-                                ],
-                                [
-                                    145.383011,
-                                    -16.383298
-                                ],
-                                [
-                                    145.382984,
-                                    -16.383564
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN3472",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "639",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
-                "START": "6:39AM 15 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BAMBOO CREEK RD, BARKA CL, BARRA CL, BELLS REEF CL, BILLFISH CL, BOUNDRY RD, BOWMAN CL, CALOPHYLLUM CL, CAMELIA CL, DAINTREE RD, DEWAL CL, DUWAR CL, ESPLANADE, GARDENIA CL, GIBLIN ST, HERBERT CL, HIBISCUS CT, IVES AVE, JANBAL ST, JENAE CL, JIRIMANDI CL, JULIA CL, KADAN CL, KALAL CL, KALKURI CL, LIFU CL, MARLIN DR, MOSSMAN DAINTREE RD, OASIS DR, OLEANDER DR, ORCHID AVE, PADDYS LANE, ROCKY POINT SCHOOL RD, ROY CL, RUTHERFORD RD, SALTWATER CREEK, SCHOOL RD, SCIACCA RD, SEAVIEW CT, SNAPPER ISLAND DR, SOUTH ARM DR, SYLVIA CL, TONONI RD, VIXIES RD, WONGA BEACH RD, YARUN CL, YUMBA CL",
-                "SUBURBS": "BAMBOO, DAINTREE, MIALLO, MOSSMAN, ROCKY POINT, WHYANBEEL, WONGA BEACH"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1741989301.734193"
+    "extracted": "1741989901.287059"
 }
