@@ -10,71 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             145.653362,
                             -16.84782
                         ]
@@ -225,11 +160,76 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "716",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
+                "STATUS": "Crews on route",
                 "START": "10:46PM 14 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "AKAME AVE, AMBERWOOD CRES, AROONA ST, ASHWOOD CCT, BADINE ST, BARRON FALLS RD, BULBA ST, EAGLEVIEW PL, FALLON CL, FALLON RD, FIG TREE DR, GAWAY ST, GREENVALE CL, HILLVIEW PL, ILLAWARRA ST, ILLOWRA CT, IMPERIAL CT, JUMRUM CL, KALYAN CL, KAWANA ST, KENNEDY HWY, KULGUN ST, KURANDA CRES, LAKESIDE DR, LAKEVIEW ST, MASONS RD, MELINGA CL, MOONEY CT, MOONEYS CT, ORANA ST, PENNY CL, PERRY CL, PFEIFFER PL, PLATYPUS CL, RED PEAK BVD, ROSSMANN RD, SANDALWOOD CL, SHORELINE CRES, SPRING CRES, TALIA ST, UNKNOWN ST, WATTLE CL, WEIR RD, WHIPBIRD DR, WILLIAMSON DR, WIRREGA CL, WRIGHTS LOOKOUT RD, YURONGI ST",
                 "SUBURBS": "CARAVONICA, KURANDA, SMITHFIELD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -575,5 +575,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1741958401.133169"
+    "extracted": "1741959044.716657"
 }
