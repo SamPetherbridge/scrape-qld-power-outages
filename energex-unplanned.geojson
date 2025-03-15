@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.370488,
-                            -28.114524
+                            153.298935,
+                            -28.154114
                         ]
                     },
                     {
@@ -19,72 +19,56 @@
                         "coordinates": [
                             [
                                 [
-                                    153.367059,
-                                    -28.121959
+                                    153.295548,
+                                    -28.152311
                                 ],
                                 [
-                                    153.373454,
-                                    -28.122103
+                                    153.295969,
+                                    -28.157234
                                 ],
                                 [
-                                    153.373943,
-                                    -28.12181
+                                    153.295973,
+                                    -28.157265
                                 ],
                                 [
-                                    153.374398,
-                                    -28.120732
+                                    153.29631,
+                                    -28.159317
                                 ],
                                 [
-                                    153.374412,
-                                    -28.120454
+                                    153.296747,
+                                    -28.159699
                                 ],
                                 [
-                                    153.370469,
-                                    -28.107744
+                                    153.297281,
+                                    -28.159431
                                 ],
                                 [
-                                    153.37017,
-                                    -28.107446
+                                    153.302323,
+                                    -28.149104
                                 ],
                                 [
-                                    153.368785,
-                                    -28.106945
+                                    153.3022,
+                                    -28.148592
                                 ],
                                 [
-                                    153.368118,
-                                    -28.107201
+                                    153.301613,
+                                    -28.148528
                                 ],
                                 [
-                                    153.367963,
-                                    -28.107558
+                                    153.295849,
+                                    -28.151299
                                 ],
                                 [
-                                    153.367949,
-                                    -28.107596
+                                    153.295584,
+                                    -28.151671
                                 ],
                                 [
-                                    153.367002,
-                                    -28.110527
+                                    153.295548,
+                                    -28.152252
                                 ],
                                 [
-                                    153.366991,
-                                    -28.110568
-                                ],
-                                [
-                                    153.366849,
-                                    -28.11124
-                                ],
-                                [
-                                    153.366841,
-                                    -28.111312
-                                ],
-                                [
-                                    153.366563,
-                                    -28.121497
-                                ],
-                                [
-                                    153.367059,
-                                    -28.121959
+                                    153.295548,
+                                    -28.152311
                                 ]
                             ]
                         ]
@@ -92,15 +76,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-830264-g",
+                "EVENT_ID": "INCD-829407-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "70",
+                "CUSTOMERS_AFFECTED": "12",
                 "REASON": "Damage due to severe weather",
                 "STATUS": "Awaiting",
-                "START": "5:29PM 07 Mar 2025",
+                "START": "12:14AM 07 Mar 2025",
                 "EST_FIX_TIME": "9:00PM 16 Mar 2025",
-                "STREETS": "BONOGIN RD, CARRINGTON RD, TAHLIA CT",
-                "SUBURBS": "BONOGIN, MUDGEERABA",
+                "STREETS": "MT NIMMEL RD",
+                "SUBURBS": "AUSTINVILLE, SPRINGBROOK",
                 "ETR_FLAG": "Y"
             }
         },
@@ -412,9 +396,9 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "3",
                 "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
+                "STATUS": "In Progress",
                 "START": "2:55AM 16 Mar 2025",
-                "EST_FIX_TIME": "9:30AM 16 Mar 2025",
+                "EST_FIX_TIME": "9:00AM 16 Mar 2025",
                 "STREETS": "NORWELL RD",
                 "SUBURBS": "NORWELL",
                 "ETR_FLAG": "N"
@@ -2084,6 +2068,80 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.689911,
+                            -27.702806
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.681408,
+                                    -27.708744
+                                ],
+                                [
+                                    152.695521,
+                                    -27.724127
+                                ],
+                                [
+                                    152.696074,
+                                    -27.72427
+                                ],
+                                [
+                                    152.696421,
+                                    -27.723862
+                                ],
+                                [
+                                    152.698475,
+                                    -27.682113
+                                ],
+                                [
+                                    152.698127,
+                                    -27.681665
+                                ],
+                                [
+                                    152.697025,
+                                    -27.681342
+                                ],
+                                [
+                                    152.696414,
+                                    -27.681568
+                                ],
+                                [
+                                    152.681348,
+                                    -27.708256
+                                ],
+                                [
+                                    152.681408,
+                                    -27.708744
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-840326-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "Damage due to flooding",
+                "STATUS": "In Progress",
+                "START": "8:50PM 10 Mar 2025",
+                "EST_FIX_TIME": "9:00PM 16 Mar 2025",
+                "STREETS": "ANDERSON DAY DR, BAUERS RD, CUNNINGHAM HWY, GREENS RD, LUBES RD, MIDDLE RD",
+                "SUBURBS": "PURGA, WILLOWBANK",
+                "ETR_FLAG": "Y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.36937,
                             -28.14629
                         ]
@@ -2199,166 +2257,6 @@
                 "EST_FIX_TIME": "9:00PM 16 Mar 2025",
                 "STREETS": "GLIDER CT, HONEYSUCKLE LANE, SMITH RD, SUNRAY DR, WATERS RD",
                 "SUBURBS": "BONOGIN",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.689911,
-                            -27.702806
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.681408,
-                                    -27.708744
-                                ],
-                                [
-                                    152.695521,
-                                    -27.724127
-                                ],
-                                [
-                                    152.696074,
-                                    -27.72427
-                                ],
-                                [
-                                    152.696421,
-                                    -27.723862
-                                ],
-                                [
-                                    152.698475,
-                                    -27.682113
-                                ],
-                                [
-                                    152.698127,
-                                    -27.681665
-                                ],
-                                [
-                                    152.697025,
-                                    -27.681342
-                                ],
-                                [
-                                    152.696414,
-                                    -27.681568
-                                ],
-                                [
-                                    152.681348,
-                                    -27.708256
-                                ],
-                                [
-                                    152.681408,
-                                    -27.708744
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-840326-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "Damage due to flooding",
-                "STATUS": "In Progress",
-                "START": "8:50PM 10 Mar 2025",
-                "EST_FIX_TIME": "9:00PM 16 Mar 2025",
-                "STREETS": "ANDERSON DAY DR, BAUERS RD, CUNNINGHAM HWY, GREENS RD, LUBES RD, MIDDLE RD",
-                "SUBURBS": "PURGA, WILLOWBANK",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.298935,
-                            -28.154114
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.295548,
-                                    -28.152311
-                                ],
-                                [
-                                    153.295969,
-                                    -28.157234
-                                ],
-                                [
-                                    153.295973,
-                                    -28.157265
-                                ],
-                                [
-                                    153.29631,
-                                    -28.159317
-                                ],
-                                [
-                                    153.296747,
-                                    -28.159699
-                                ],
-                                [
-                                    153.297281,
-                                    -28.159431
-                                ],
-                                [
-                                    153.302323,
-                                    -28.149104
-                                ],
-                                [
-                                    153.3022,
-                                    -28.148592
-                                ],
-                                [
-                                    153.301613,
-                                    -28.148528
-                                ],
-                                [
-                                    153.295849,
-                                    -28.151299
-                                ],
-                                [
-                                    153.295584,
-                                    -28.151671
-                                ],
-                                [
-                                    153.295548,
-                                    -28.152252
-                                ],
-                                [
-                                    153.295548,
-                                    -28.152311
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-829407-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "12",
-                "REASON": "Damage due to severe weather",
-                "STATUS": "Awaiting",
-                "START": "12:14AM 07 Mar 2025",
-                "EST_FIX_TIME": "9:00PM 16 Mar 2025",
-                "STREETS": "MT NIMMEL RD",
-                "SUBURBS": "AUSTINVILLE, SPRINGBROOK",
                 "ETR_FLAG": "Y"
             }
         },
@@ -3562,6 +3460,194 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.412345,
+                            -28.16228
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.410549,
+                                    -28.161956
+                                ],
+                                [
+                                    153.410967,
+                                    -28.164738
+                                ],
+                                [
+                                    153.411844,
+                                    -28.164986
+                                ],
+                                [
+                                    153.412661,
+                                    -28.164209
+                                ],
+                                [
+                                    153.412763,
+                                    -28.164066
+                                ],
+                                [
+                                    153.414141,
+                                    -28.160946
+                                ],
+                                [
+                                    153.414067,
+                                    -28.160503
+                                ],
+                                [
+                                    153.413369,
+                                    -28.159715
+                                ],
+                                [
+                                    153.412777,
+                                    -28.159575
+                                ],
+                                [
+                                    153.411411,
+                                    -28.160065
+                                ],
+                                [
+                                    153.41112,
+                                    -28.160337
+                                ],
+                                [
+                                    153.410572,
+                                    -28.16175
+                                ],
+                                [
+                                    153.410549,
+                                    -28.161956
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-829224-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "Damage due to severe weather",
+                "STATUS": "In Progress",
+                "START": "9:13PM 06 Mar 2025",
+                "EST_FIX_TIME": "9:00PM 16 Mar 2025",
+                "STREETS": "TREES RD",
+                "SUBURBS": "TALLEBUDGERA",
+                "ETR_FLAG": "Y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.370488,
+                            -28.114524
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.367059,
+                                    -28.121959
+                                ],
+                                [
+                                    153.373454,
+                                    -28.122103
+                                ],
+                                [
+                                    153.373943,
+                                    -28.12181
+                                ],
+                                [
+                                    153.374398,
+                                    -28.120732
+                                ],
+                                [
+                                    153.374412,
+                                    -28.120454
+                                ],
+                                [
+                                    153.370469,
+                                    -28.107744
+                                ],
+                                [
+                                    153.37017,
+                                    -28.107446
+                                ],
+                                [
+                                    153.368785,
+                                    -28.106945
+                                ],
+                                [
+                                    153.368118,
+                                    -28.107201
+                                ],
+                                [
+                                    153.367963,
+                                    -28.107558
+                                ],
+                                [
+                                    153.367949,
+                                    -28.107596
+                                ],
+                                [
+                                    153.367002,
+                                    -28.110527
+                                ],
+                                [
+                                    153.366991,
+                                    -28.110568
+                                ],
+                                [
+                                    153.366849,
+                                    -28.11124
+                                ],
+                                [
+                                    153.366841,
+                                    -28.111312
+                                ],
+                                [
+                                    153.366563,
+                                    -28.121497
+                                ],
+                                [
+                                    153.367059,
+                                    -28.121959
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-830264-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "70",
+                "REASON": "Damage due to severe weather",
+                "STATUS": "Awaiting",
+                "START": "5:29PM 07 Mar 2025",
+                "EST_FIX_TIME": "9:00PM 16 Mar 2025",
+                "STREETS": "BONOGIN RD, CARRINGTON RD, TAHLIA CT",
+                "SUBURBS": "BONOGIN, MUDGEERABA",
+                "ETR_FLAG": "Y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.333125,
                             -28.057551
                         ]
@@ -3701,92 +3787,6 @@
                 "EST_FIX_TIME": "9:00PM 16 Mar 2025",
                 "STREETS": "ALAWARA DR, BRIXTON CT, CARL LENTZ CT, CHARLES KURZ DR, COORUMBENE CT, CORALCOAST DR, CREEKSIDE CT, EBELING CT, FRANK BURG CT, GLENROWAN DR, HARRY MILLS DR, IMFELD CT, JOHN NIELSEN CT, LEISURE LANE, MARGARET BRUCE CT, PARALLA PL, RANDOM WAY, SEASCAPE CT, TANJA CT, TARAWARA AVE, TATHRA PL, THE PANORAMA, TOM LATIMER CT, UPLANDS CT, VALHALLA CT, VINCE HINDE DR, WALCOY PL, WATERFALL WAY, WOODVALE DR, WORONGARY RD, XANADU CT",
                 "SUBURBS": "TALLAI, WORONGARY",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.412345,
-                            -28.16228
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.410549,
-                                    -28.161956
-                                ],
-                                [
-                                    153.410967,
-                                    -28.164738
-                                ],
-                                [
-                                    153.411844,
-                                    -28.164986
-                                ],
-                                [
-                                    153.412661,
-                                    -28.164209
-                                ],
-                                [
-                                    153.412763,
-                                    -28.164066
-                                ],
-                                [
-                                    153.414141,
-                                    -28.160946
-                                ],
-                                [
-                                    153.414067,
-                                    -28.160503
-                                ],
-                                [
-                                    153.413369,
-                                    -28.159715
-                                ],
-                                [
-                                    153.412777,
-                                    -28.159575
-                                ],
-                                [
-                                    153.411411,
-                                    -28.160065
-                                ],
-                                [
-                                    153.41112,
-                                    -28.160337
-                                ],
-                                [
-                                    153.410572,
-                                    -28.16175
-                                ],
-                                [
-                                    153.410549,
-                                    -28.161956
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-829224-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "Damage due to severe weather",
-                "STATUS": "In Progress",
-                "START": "9:13PM 06 Mar 2025",
-                "EST_FIX_TIME": "9:00PM 16 Mar 2025",
-                "STREETS": "TREES RD",
-                "SUBURBS": "TALLEBUDGERA",
                 "ETR_FLAG": "Y"
             }
         },
@@ -4169,5 +4169,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742074500.650863"
+    "extracted": "1742074801.8906"
 }
