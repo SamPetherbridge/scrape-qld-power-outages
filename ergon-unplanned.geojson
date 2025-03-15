@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.207433,
-                            -18.981624
+                            149.821315,
+                            -23.889759
                         ]
                     },
                     {
@@ -19,32 +19,48 @@
                         "coordinates": [
                             [
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    149.82069,
+                                    -23.892923
                                 ],
                                 [
-                                    146.197621,
-                                    -18.979466
+                                    149.820705,
+                                    -23.892982
                                 ],
                                 [
-                                    146.197069,
-                                    -18.97983
+                                    149.820739,
+                                    -23.893071
                                 ],
                                 [
-                                    146.197451,
-                                    -18.980355
+                                    149.820769,
+                                    -23.89313
                                 ],
                                 [
-                                    146.217246,
-                                    -18.983782
+                                    149.821312,
+                                    -23.893379
                                 ],
                                 [
-                                    146.217798,
-                                    -18.983418
+                                    149.821703,
+                                    -23.892953
                                 ],
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    149.821953,
+                                    -23.886607
+                                ],
+                                [
+                                    149.821482,
+                                    -23.886139
+                                ],
+                                [
+                                    149.820973,
+                                    -23.886571
+                                ],
+                                [
+                                    149.820677,
+                                    -23.892799
+                                ],
+                                [
+                                    149.82069,
+                                    -23.892923
                                 ]
                             ]
                         ]
@@ -52,15 +68,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ1993",
+                "EVENT_ID": "25CA5161",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 11 Apr 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "3:51PM 14 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 15 Mar 2025",
+                "STREETS": "BARALABA-DUARINGA RD, DUARINGA-BILOELA RD",
+                "SUBURBS": "BARALABA, DUARINGA"
             }
         },
         {
@@ -427,83 +443,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            149.821315,
-                            -23.889759
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    149.82069,
-                                    -23.892923
-                                ],
-                                [
-                                    149.820705,
-                                    -23.892982
-                                ],
-                                [
-                                    149.820739,
-                                    -23.893071
-                                ],
-                                [
-                                    149.820769,
-                                    -23.89313
-                                ],
-                                [
-                                    149.821312,
-                                    -23.893379
-                                ],
-                                [
-                                    149.821703,
-                                    -23.892953
-                                ],
-                                [
-                                    149.821953,
-                                    -23.886607
-                                ],
-                                [
-                                    149.821482,
-                                    -23.886139
-                                ],
-                                [
-                                    149.820973,
-                                    -23.886571
-                                ],
-                                [
-                                    149.820677,
-                                    -23.892799
-                                ],
-                                [
-                                    149.82069,
-                                    -23.892923
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA5161",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "3:51PM 14 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 15 Mar 2025",
-                "STREETS": "BARALABA-DUARINGA RD, DUARINGA-BILOELA RD",
-                "SUBURBS": "BARALABA, DUARINGA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             145.411878,
                             -16.375429
                         ]
@@ -795,6 +734,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 11 Apr 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -855,5 +855,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742005807.250074"
+    "extracted": "1742007301.378695"
 }
