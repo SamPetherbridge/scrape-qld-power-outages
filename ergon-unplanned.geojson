@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.016336,
-                            -17.830439
+                            145.372315,
+                            -16.41161
                         ]
                     },
                     {
@@ -19,40 +19,96 @@
                         "coordinates": [
                             [
                                 [
-                                    146.014084,
-                                    -17.831499
+                                    145.369099,
+                                    -16.410962
                                 ],
                                 [
-                                    146.014595,
-                                    -17.83142
+                                    145.37005,
+                                    -16.411912
                                 ],
                                 [
-                                    146.014651,
-                                    -17.831407
+                                    145.370093,
+                                    -16.41195
                                 ],
                                 [
-                                    146.018803,
-                                    -17.830248
+                                    145.370371,
+                                    -16.412166
                                 ],
                                 [
-                                    146.019125,
-                                    -17.829691
+                                    145.370378,
+                                    -16.412171
                                 ],
                                 [
-                                    146.018545,
-                                    -17.829379
+                                    145.371183,
+                                    -16.412775
                                 ],
                                 [
-                                    146.013883,
-                                    -17.830618
+                                    145.371338,
+                                    -16.412851
                                 ],
                                 [
-                                    146.013548,
-                                    -17.83115
+                                    145.372609,
+                                    -16.413211
                                 ],
                                 [
-                                    146.014084,
-                                    -17.831499
+                                    145.372774,
+                                    -16.413228
+                                ],
+                                [
+                                    145.374934,
+                                    -16.41308
+                                ],
+                                [
+                                    145.375347,
+                                    -16.412767
+                                ],
+                                [
+                                    145.375658,
+                                    -16.411828
+                                ],
+                                [
+                                    145.375392,
+                                    -16.411273
+                                ],
+                                [
+                                    145.373856,
+                                    -16.410655
+                                ],
+                                [
+                                    145.37382,
+                                    -16.410642
+                                ],
+                                [
+                                    145.372637,
+                                    -16.410274
+                                ],
+                                [
+                                    145.372632,
+                                    -16.410272
+                                ],
+                                [
+                                    145.372048,
+                                    -16.410098
+                                ],
+                                [
+                                    145.371927,
+                                    -16.410078
+                                ],
+                                [
+                                    145.369482,
+                                    -16.409992
+                                ],
+                                [
+                                    145.369001,
+                                    -16.410383
+                                ],
+                                [
+                                    145.368972,
+                                    -16.410587
+                                ],
+                                [
+                                    145.369099,
+                                    -16.410962
                                 ]
                             ]
                         ]
@@ -60,15 +116,100 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN3498",
+                "EVENT_ID": "25FN3493",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
-                "START": "8:48AM 16 Mar 2025",
+                "CUSTOMERS_AFFECTED": "28",
+                "REASON": "The loss of supply is due to public safety concerns.",
+                "STATUS": "Crews working on-site",
+                "START": "5:03AM 16 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "FRIDAY POCKET RD, GRANADILLA RD",
-                "SUBURBS": "EL ARISH, MAADI"
+                "STREETS": "JABEVA CL, O'CALLAGHAN CL, SOMERSET DR",
+                "SUBURBS": "MIALLO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.320103,
+                            -26.985801
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.294374,
+                                    -26.998197
+                                ],
+                                [
+                                    151.318359,
+                                    -27.003383
+                                ],
+                                [
+                                    151.318602,
+                                    -27.003381
+                                ],
+                                [
+                                    151.342402,
+                                    -26.997896
+                                ],
+                                [
+                                    151.342755,
+                                    -26.997597
+                                ],
+                                [
+                                    151.346205,
+                                    -26.987971
+                                ],
+                                [
+                                    151.346111,
+                                    -26.987543
+                                ],
+                                [
+                                    151.32808,
+                                    -26.968361
+                                ],
+                                [
+                                    151.327553,
+                                    -26.968219
+                                ],
+                                [
+                                    151.299742,
+                                    -26.975561
+                                ],
+                                [
+                                    151.299393,
+                                    -26.975895
+                                ],
+                                [
+                                    151.294001,
+                                    -26.997661
+                                ],
+                                [
+                                    151.294374,
+                                    -26.998197
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW4795",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "14",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "8:39AM 16 Mar 2025",
+                "EST_FIX_TIME": "11:30AM 16 Mar 2025",
+                "STREETS": "BUNYA HWY, CLIFFORD'S RD, DOONSIDE RD, JIMBOUR STATION RD, PUKALLUS' RD",
+                "SUBURBS": "COORANGA NORTH, JIMBOUR EAST, MALAKOFF"
             }
         },
         {
@@ -196,91 +337,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.320103,
-                            -26.985801
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.294374,
-                                    -26.998197
-                                ],
-                                [
-                                    151.318359,
-                                    -27.003383
-                                ],
-                                [
-                                    151.318602,
-                                    -27.003381
-                                ],
-                                [
-                                    151.342402,
-                                    -26.997896
-                                ],
-                                [
-                                    151.342755,
-                                    -26.997597
-                                ],
-                                [
-                                    151.346205,
-                                    -26.987971
-                                ],
-                                [
-                                    151.346111,
-                                    -26.987543
-                                ],
-                                [
-                                    151.32808,
-                                    -26.968361
-                                ],
-                                [
-                                    151.327553,
-                                    -26.968219
-                                ],
-                                [
-                                    151.299742,
-                                    -26.975561
-                                ],
-                                [
-                                    151.299393,
-                                    -26.975895
-                                ],
-                                [
-                                    151.294001,
-                                    -26.997661
-                                ],
-                                [
-                                    151.294374,
-                                    -26.998197
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW4795",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "14",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "8:39AM 16 Mar 2025",
-                "EST_FIX_TIME": "11:30AM 16 Mar 2025",
-                "STREETS": "BUNYA HWY, CLIFFORD'S RD, DOONSIDE RD, JIMBOUR STATION RD, PUKALLUS' RD",
-                "SUBURBS": "COORANGA NORTH, JIMBOUR EAST, MALAKOFF"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -336,200 +392,6 @@
                 "EST_FIX_TIME": "9:30AM 31 Mar 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            145.372315,
-                            -16.41161
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.369099,
-                                    -16.410962
-                                ],
-                                [
-                                    145.37005,
-                                    -16.411912
-                                ],
-                                [
-                                    145.370093,
-                                    -16.41195
-                                ],
-                                [
-                                    145.370371,
-                                    -16.412166
-                                ],
-                                [
-                                    145.370378,
-                                    -16.412171
-                                ],
-                                [
-                                    145.371183,
-                                    -16.412775
-                                ],
-                                [
-                                    145.371338,
-                                    -16.412851
-                                ],
-                                [
-                                    145.372609,
-                                    -16.413211
-                                ],
-                                [
-                                    145.372774,
-                                    -16.413228
-                                ],
-                                [
-                                    145.374934,
-                                    -16.41308
-                                ],
-                                [
-                                    145.375347,
-                                    -16.412767
-                                ],
-                                [
-                                    145.375658,
-                                    -16.411828
-                                ],
-                                [
-                                    145.375392,
-                                    -16.411273
-                                ],
-                                [
-                                    145.373856,
-                                    -16.410655
-                                ],
-                                [
-                                    145.37382,
-                                    -16.410642
-                                ],
-                                [
-                                    145.372637,
-                                    -16.410274
-                                ],
-                                [
-                                    145.372632,
-                                    -16.410272
-                                ],
-                                [
-                                    145.372048,
-                                    -16.410098
-                                ],
-                                [
-                                    145.371927,
-                                    -16.410078
-                                ],
-                                [
-                                    145.369482,
-                                    -16.409992
-                                ],
-                                [
-                                    145.369001,
-                                    -16.410383
-                                ],
-                                [
-                                    145.368972,
-                                    -16.410587
-                                ],
-                                [
-                                    145.369099,
-                                    -16.410962
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN3493",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "28",
-                "REASON": "The loss of supply is due to public safety concerns.",
-                "STATUS": "Crews working on-site",
-                "START": "5:03AM 16 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "JABEVA CL, O'CALLAGHAN CL, SOMERSET DR",
-                "SUBURBS": "MIALLO"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            149.607908,
-                            -23.008317
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    149.524278,
-                                    -22.927135
-                                ],
-                                [
-                                    149.562252,
-                                    -23.093444
-                                ],
-                                [
-                                    149.563073,
-                                    -23.093671
-                                ],
-                                [
-                                    149.691395,
-                                    -22.975482
-                                ],
-                                [
-                                    149.691538,
-                                    -22.975151
-                                ],
-                                [
-                                    149.690091,
-                                    -22.923402
-                                ],
-                                [
-                                    149.689592,
-                                    -22.922962
-                                ],
-                                [
-                                    149.524744,
-                                    -22.926591
-                                ],
-                                [
-                                    149.524278,
-                                    -22.927135
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA5195",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "13",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "6:24AM 16 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "APIS CREEK RD, CLIFTON RD, MARLBOROUGH RD",
-                "SUBURBS": "DUARINGA, MARLBOROUGH"
             }
         },
         {
@@ -647,6 +509,75 @@
                 "EST_FIX_TIME": "4:00PM 28 Mar 2025",
                 "STREETS": "AKUBRA DR, CAMPBELL FORD DR, COUNTRY LANE, ELM ST",
                 "SUBURBS": "EMERALD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.016336,
+                            -17.830439
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.014084,
+                                    -17.831499
+                                ],
+                                [
+                                    146.014595,
+                                    -17.83142
+                                ],
+                                [
+                                    146.014651,
+                                    -17.831407
+                                ],
+                                [
+                                    146.018803,
+                                    -17.830248
+                                ],
+                                [
+                                    146.019125,
+                                    -17.829691
+                                ],
+                                [
+                                    146.018545,
+                                    -17.829379
+                                ],
+                                [
+                                    146.013883,
+                                    -17.830618
+                                ],
+                                [
+                                    146.013548,
+                                    -17.83115
+                                ],
+                                [
+                                    146.014084,
+                                    -17.831499
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN3498",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "8:48AM 16 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "FRIDAY POCKET RD, GRANADILLA RD",
+                "SUBURBS": "EL ARISH, MAADI"
             }
         },
         {
@@ -862,5 +793,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742082304.904178"
+    "extracted": "1742082601.406743"
 }
