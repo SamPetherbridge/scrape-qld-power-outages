@@ -112,88 +112,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.382189,
-                            -28.213896
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.376786,
-                                    -28.213193
-                                ],
-                                [
-                                    153.377799,
-                                    -28.214337
-                                ],
-                                [
-                                    153.378061,
-                                    -28.214493
-                                ],
-                                [
-                                    153.382929,
-                                    -28.215721
-                                ],
-                                [
-                                    153.383378,
-                                    -28.215645
-                                ],
-                                [
-                                    153.387453,
-                                    -28.212882
-                                ],
-                                [
-                                    153.387625,
-                                    -28.212375
-                                ],
-                                [
-                                    153.387136,
-                                    -28.212072
-                                ],
-                                [
-                                    153.377362,
-                                    -28.212201
-                                ],
-                                [
-                                    153.376936,
-                                    -28.212416
-                                ],
-                                [
-                                    153.376753,
-                                    -28.212678
-                                ],
-                                [
-                                    153.376786,
-                                    -28.213193
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-847964-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "7",
-                "REASON": "Emergency repairs in-progress",
-                "STATUS": "Awaiting",
-                "START": "8:13AM 17 Mar 2025",
-                "EST_FIX_TIME": "3:00PM 17 Mar 2025",
-                "STREETS": "CURRUMBIN CREEK RD",
-                "SUBURBS": "CURRUMBIN VALLEY",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.67783,
                             -27.978642
                         ]
@@ -302,6 +220,88 @@
                 "STREETS": "ARTHUR TCE, BARTHOLOMEW AVE, BERRYMAN CCT, BLUMBERG ST, BONA VISTA AVE, CHELTENHAM ST, CHERRINGTON CRES, COONEY AVE, COOPER ST, CORONATION DR, DEVIN DR, FLAME TREE CT, GRANT AVE, HEISE RD, HENSELIN ST, HIGHGROVE AVE, HOYA RD, HUNTER ST, KIRKMAN AVE, MCLAUCHLAN ST, POCOCK RD, RED BRIDGE RD, ROBSON RD, SCHWARZ DR, THYRLENE CT, VOGEL ST",
                 "SUBURBS": "BOONAH, HOYA, TEMPLIN",
                 "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.382189,
+                            -28.213896
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.376786,
+                                    -28.213193
+                                ],
+                                [
+                                    153.377799,
+                                    -28.214337
+                                ],
+                                [
+                                    153.378061,
+                                    -28.214493
+                                ],
+                                [
+                                    153.382929,
+                                    -28.215721
+                                ],
+                                [
+                                    153.383378,
+                                    -28.215645
+                                ],
+                                [
+                                    153.387453,
+                                    -28.212882
+                                ],
+                                [
+                                    153.387625,
+                                    -28.212375
+                                ],
+                                [
+                                    153.387136,
+                                    -28.212072
+                                ],
+                                [
+                                    153.377362,
+                                    -28.212201
+                                ],
+                                [
+                                    153.376936,
+                                    -28.212416
+                                ],
+                                [
+                                    153.376753,
+                                    -28.212678
+                                ],
+                                [
+                                    153.376786,
+                                    -28.213193
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-847964-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "Emergency repairs in-progress",
+                "STATUS": "Awaiting",
+                "START": "8:13AM 17 Mar 2025",
+                "EST_FIX_TIME": "3:00PM 17 Mar 2025",
+                "STREETS": "CURRUMBIN CREEK RD",
+                "SUBURBS": "CURRUMBIN VALLEY",
+                "ETR_FLAG": "Y"
             }
         },
         {
@@ -763,5 +763,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742168100.371932"
+    "extracted": "1742168400.431754"
 }
