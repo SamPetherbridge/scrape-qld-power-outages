@@ -10,6 +10,142 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.258208,
+                            -28.213938
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.259052,
+                                    -28.213984
+                                ],
+                                [
+                                    153.258029,
+                                    -28.213206
+                                ],
+                                [
+                                    153.25731,
+                                    -28.213254
+                                ],
+                                [
+                                    153.257365,
+                                    -28.213891
+                                ],
+                                [
+                                    153.258388,
+                                    -28.214669
+                                ],
+                                [
+                                    153.259107,
+                                    -28.214621
+                                ],
+                                [
+                                    153.259052,
+                                    -28.213984
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-847920-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "6:39AM 17 Mar 2025",
+                "EST_FIX_TIME": "9:30AM 17 Mar 2025",
+                "STREETS": "LYREBIRD RIDGE RD",
+                "SUBURBS": "SPRINGBROOK",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.111242,
+                            -28.011799
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.105757,
+                                    -28.010991
+                                ],
+                                [
+                                    153.111836,
+                                    -28.013441
+                                ],
+                                [
+                                    153.112163,
+                                    -28.013469
+                                ],
+                                [
+                                    153.116793,
+                                    -28.012508
+                                ],
+                                [
+                                    153.117013,
+                                    -28.01173
+                                ],
+                                [
+                                    153.115118,
+                                    -28.010247
+                                ],
+                                [
+                                    153.114782,
+                                    -28.010135
+                                ],
+                                [
+                                    153.105968,
+                                    -28.010129
+                                ],
+                                [
+                                    153.10547,
+                                    -28.010485
+                                ],
+                                [
+                                    153.105757,
+                                    -28.010991
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-847903-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "2:38AM 17 Mar 2025",
+                "EST_FIX_TIME": "9:00AM 17 Mar 2025",
+                "STREETS": "BIDDADDABA CREEK RD, CAWLEY LANE",
+                "SUBURBS": "BIDDADDABA",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.031393,
                             -27.612945
                         ]
@@ -94,80 +230,6 @@
                 "STREETS": "BONEWOOD ST, ENDIANDRA ST, RIDGEWOOD RD, WOOLLYBUTT ST",
                 "SUBURBS": "ALGESTER",
                 "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.111242,
-                            -28.011799
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.105757,
-                                    -28.010991
-                                ],
-                                [
-                                    153.111836,
-                                    -28.013441
-                                ],
-                                [
-                                    153.112163,
-                                    -28.013469
-                                ],
-                                [
-                                    153.116793,
-                                    -28.012508
-                                ],
-                                [
-                                    153.117013,
-                                    -28.01173
-                                ],
-                                [
-                                    153.115118,
-                                    -28.010247
-                                ],
-                                [
-                                    153.114782,
-                                    -28.010135
-                                ],
-                                [
-                                    153.105968,
-                                    -28.010129
-                                ],
-                                [
-                                    153.10547,
-                                    -28.010485
-                                ],
-                                [
-                                    153.105757,
-                                    -28.010991
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-847903-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
-                "START": "2:38AM 17 Mar 2025",
-                "EST_FIX_TIME": "9:00AM 17 Mar 2025",
-                "STREETS": "BIDDADDABA CREEK RD, CAWLEY LANE",
-                "SUBURBS": "BIDDADDABA",
-                "ETR_FLAG": "N"
             }
         },
         {
@@ -469,71 +531,9 @@
                 "SUBURBS": "SPRINGBROOK",
                 "ETR_FLAG": "N"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.258208,
-                            -28.213938
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.259052,
-                                    -28.213984
-                                ],
-                                [
-                                    153.258029,
-                                    -28.213206
-                                ],
-                                [
-                                    153.25731,
-                                    -28.213254
-                                ],
-                                [
-                                    153.257365,
-                                    -28.213891
-                                ],
-                                [
-                                    153.258388,
-                                    -28.214669
-                                ],
-                                [
-                                    153.259107,
-                                    -28.214621
-                                ],
-                                [
-                                    153.259052,
-                                    -28.213984
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-847920-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "Emergency Repairs",
-                "STATUS": "Awaiting",
-                "START": "6:39AM 17 Mar 2025",
-                "EST_FIX_TIME": "9:30AM 17 Mar 2025",
-                "STREETS": "LYREBIRD RIDGE RD",
-                "SUBURBS": "SPRINGBROOK",
-                "ETR_FLAG": "N"
-            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742159101.271578"
+    "extracted": "1742159701.599533"
 }
