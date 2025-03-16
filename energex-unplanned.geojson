@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.947102,
-                            -27.550413
+                            153.01445,
+                            -27.471304
                         ]
                     },
                     {
@@ -19,56 +19,24 @@
                         "coordinates": [
                             [
                                 [
-                                    152.946199,
-                                    -27.550984
+                                    153.014957,
+                                    -27.471304
                                 ],
                                 [
-                                    152.946251,
-                                    -27.551113
+                                    153.01445,
+                                    -27.470853
                                 ],
                                 [
-                                    152.946647,
-                                    -27.551406
+                                    153.013944,
+                                    -27.471304
                                 ],
                                 [
-                                    152.946773,
-                                    -27.551424
+                                    153.014451,
+                                    -27.471756
                                 ],
                                 [
-                                    152.947213,
-                                    -27.551296
-                                ],
-                                [
-                                    152.947864,
-                                    -27.55071
-                                ],
-                                [
-                                    152.947895,
-                                    -27.550679
-                                ],
-                                [
-                                    152.94803,
-                                    -27.550533
-                                ],
-                                [
-                                    152.947927,
-                                    -27.549874
-                                ],
-                                [
-                                    152.947157,
-                                    -27.549401
-                                ],
-                                [
-                                    152.946369,
-                                    -27.5497
-                                ],
-                                [
-                                    152.946175,
-                                    -27.550758
-                                ],
-                                [
-                                    152.946199,
-                                    -27.550984
+                                    153.014957,
+                                    -27.471304
                                 ]
                             ]
                         ]
@@ -76,69 +44,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-846750-g",
+                "EVENT_ID": "INCD-846488-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "16",
-                "REASON": "Damage to our equipment",
-                "STATUS": "In Progress",
-                "START": "3:47AM 15 Mar 2025",
-                "EST_FIX_TIME": "9:00PM 16 Mar 2025",
-                "STREETS": "ELSIE PL, HAROLD CL",
-                "SUBURBS": "SINNAMON PARK",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.030242,
-                            -27.445635
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.030748,
-                                    -27.445635
-                                ],
-                                [
-                                    153.030242,
-                                    -27.445183
-                                ],
-                                [
-                                    153.029736,
-                                    -27.445635
-                                ],
-                                [
-                                    153.030242,
-                                    -27.446086
-                                ],
-                                [
-                                    153.030748,
-                                    -27.445635
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-837572-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
+                "CUSTOMERS_AFFECTED": "9",
                 "REASON": "Damage due to severe weather",
-                "STATUS": "In Progress",
-                "START": "6:42PM 09 Mar 2025",
+                "STATUS": "Awaiting",
+                "START": "5:05PM 14 Mar 2025",
                 "EST_FIX_TIME": "9:00PM 16 Mar 2025",
-                "STREETS": "CAMPBELL ST",
-                "SUBURBS": "BOWEN HILLS",
+                "STREETS": "MONTAGUE RD",
+                "SUBURBS": "SOUTH BRISBANE",
                 "ETR_FLAG": "Y"
             }
         },
@@ -217,6 +131,76 @@
                 "EST_FIX_TIME": "9:00PM 16 Mar 2025",
                 "STREETS": "ALGONA ST, CENTRAL ST, GOVERNMENT RD",
                 "SUBURBS": "LABRADOR",
+                "ETR_FLAG": "Y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.427878,
+                            -28.167462
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.425829,
+                                    -28.166723
+                                ],
+                                [
+                                    153.427511,
+                                    -28.170525
+                                ],
+                                [
+                                    153.428025,
+                                    -28.17081
+                                ],
+                                [
+                                    153.428483,
+                                    -28.170456
+                                ],
+                                [
+                                    153.429926,
+                                    -28.164589
+                                ],
+                                [
+                                    153.429704,
+                                    -28.164114
+                                ],
+                                [
+                                    153.429124,
+                                    -28.164132
+                                ],
+                                [
+                                    153.425999,
+                                    -28.166196
+                                ],
+                                [
+                                    153.425829,
+                                    -28.166723
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-829506-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "Damage due to severe weather",
+                "STATUS": "In Progress",
+                "START": "4:23AM 07 Mar 2025",
+                "EST_FIX_TIME": "9:00PM 16 Mar 2025",
+                "STREETS": "TALLEBUDGERA CONNECTION RD",
+                "SUBURBS": "CURRUMBIN VALLEY, TALLEBUDGERA",
                 "ETR_FLAG": "Y"
             }
         },
@@ -311,6 +295,92 @@
                 "EST_FIX_TIME": "6:00PM 16 Mar 2025",
                 "STREETS": "FLETCHER RD, STONY CREEK RD",
                 "SUBURBS": "STONY CREEK",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.947102,
+                            -27.550413
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.946199,
+                                    -27.550984
+                                ],
+                                [
+                                    152.946251,
+                                    -27.551113
+                                ],
+                                [
+                                    152.946647,
+                                    -27.551406
+                                ],
+                                [
+                                    152.946773,
+                                    -27.551424
+                                ],
+                                [
+                                    152.947213,
+                                    -27.551296
+                                ],
+                                [
+                                    152.947864,
+                                    -27.55071
+                                ],
+                                [
+                                    152.947895,
+                                    -27.550679
+                                ],
+                                [
+                                    152.94803,
+                                    -27.550533
+                                ],
+                                [
+                                    152.947927,
+                                    -27.549874
+                                ],
+                                [
+                                    152.947157,
+                                    -27.549401
+                                ],
+                                [
+                                    152.946369,
+                                    -27.5497
+                                ],
+                                [
+                                    152.946175,
+                                    -27.550758
+                                ],
+                                [
+                                    152.946199,
+                                    -27.550984
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-846750-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "16",
+                "REASON": "Damage to our equipment",
+                "STATUS": "In Progress",
+                "START": "3:47AM 15 Mar 2025",
+                "EST_FIX_TIME": "9:00PM 16 Mar 2025",
+                "STREETS": "ELSIE PL, HAROLD CL",
+                "SUBURBS": "SINNAMON PARK",
                 "ETR_FLAG": "N"
             }
         },
@@ -448,8 +518,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.298935,
-                            -28.154114
+                            153.198294,
+                            -27.616247
                         ]
                     },
                     {
@@ -457,56 +527,32 @@
                         "coordinates": [
                             [
                                 [
-                                    153.295548,
-                                    -28.152311
+                                    153.198946,
+                                    -27.617261
                                 ],
                                 [
-                                    153.295969,
-                                    -28.157234
+                                    153.198648,
+                                    -27.615121
                                 ],
                                 [
-                                    153.295973,
-                                    -28.157265
+                                    153.198083,
+                                    -27.614729
                                 ],
                                 [
-                                    153.29631,
-                                    -28.159317
+                                    153.197642,
+                                    -27.615232
                                 ],
                                 [
-                                    153.296747,
-                                    -28.159699
+                                    153.19794,
+                                    -27.617372
                                 ],
                                 [
-                                    153.297281,
-                                    -28.159431
+                                    153.198506,
+                                    -27.617765
                                 ],
                                 [
-                                    153.302323,
-                                    -28.149104
-                                ],
-                                [
-                                    153.3022,
-                                    -28.148592
-                                ],
-                                [
-                                    153.301613,
-                                    -28.148528
-                                ],
-                                [
-                                    153.295849,
-                                    -28.151299
-                                ],
-                                [
-                                    153.295584,
-                                    -28.151671
-                                ],
-                                [
-                                    153.295548,
-                                    -28.152252
-                                ],
-                                [
-                                    153.295548,
-                                    -28.152311
+                                    153.198946,
+                                    -27.617261
                                 ]
                             ]
                         ]
@@ -514,15 +560,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-829407-g",
+                "EVENT_ID": "INCD-835746-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "12",
+                "CUSTOMERS_AFFECTED": "2",
                 "REASON": "Damage due to severe weather",
-                "STATUS": "In Progress",
-                "START": "12:14AM 07 Mar 2025",
+                "STATUS": "Awaiting",
+                "START": "11:09AM 09 Mar 2025",
                 "EST_FIX_TIME": "9:00PM 16 Mar 2025",
-                "STREETS": "MT NIMMEL RD",
-                "SUBURBS": "AUSTINVILLE, SPRINGBROOK",
+                "STREETS": "WEST MOUNT COTTON RD",
+                "SUBURBS": "MOUNT COTTON",
                 "ETR_FLAG": "Y"
             }
         },
@@ -660,8 +706,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.198294,
-                            -27.616247
+                            153.255366,
+                            -28.195446
                         ]
                     },
                     {
@@ -669,32 +715,40 @@
                         "coordinates": [
                             [
                                 [
-                                    153.198946,
-                                    -27.617261
+                                    153.254656,
+                                    -28.194803
                                 ],
                                 [
-                                    153.198648,
-                                    -27.615121
+                                    153.254813,
+                                    -28.195428
                                 ],
                                 [
-                                    153.198083,
-                                    -27.614729
+                                    153.25482,
+                                    -28.195452
                                 ],
                                 [
-                                    153.197642,
-                                    -27.615232
+                                    153.255093,
+                                    -28.196312
                                 ],
                                 [
-                                    153.19794,
-                                    -27.617372
+                                    153.255716,
+                                    -28.196626
                                 ],
                                 [
-                                    153.198506,
-                                    -27.617765
+                                    153.256077,
+                                    -28.196078
                                 ],
                                 [
-                                    153.198946,
-                                    -27.617261
+                                    153.255647,
+                                    -28.194593
+                                ],
+                                [
+                                    153.255035,
+                                    -28.194266
+                                ],
+                                [
+                                    153.254656,
+                                    -28.194803
                                 ]
                             ]
                         ]
@@ -702,15 +756,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-835746-g",
+                "EVENT_ID": "INCD-847225-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "Damage due to severe weather",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Emergency repairs in-progress",
                 "STATUS": "Awaiting",
-                "START": "11:09AM 09 Mar 2025",
+                "START": "1:52PM 15 Mar 2025",
                 "EST_FIX_TIME": "9:00PM 16 Mar 2025",
-                "STREETS": "WEST MOUNT COTTON RD",
-                "SUBURBS": "MOUNT COTTON",
+                "STREETS": "LYREBIRD RIDGE RD",
+                "SUBURBS": "SPRINGBROOK",
                 "ETR_FLAG": "Y"
             }
         },
@@ -785,76 +839,6 @@
                 "EST_FIX_TIME": "9:00PM 16 Mar 2025",
                 "STREETS": "ANDERSON DAY DR, BAUERS RD, CUNNINGHAM HWY, GREENS RD, LUBES RD, MIDDLE RD",
                 "SUBURBS": "PURGA, WILLOWBANK",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.255366,
-                            -28.195446
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.254656,
-                                    -28.194803
-                                ],
-                                [
-                                    153.254813,
-                                    -28.195428
-                                ],
-                                [
-                                    153.25482,
-                                    -28.195452
-                                ],
-                                [
-                                    153.255093,
-                                    -28.196312
-                                ],
-                                [
-                                    153.255716,
-                                    -28.196626
-                                ],
-                                [
-                                    153.256077,
-                                    -28.196078
-                                ],
-                                [
-                                    153.255647,
-                                    -28.194593
-                                ],
-                                [
-                                    153.255035,
-                                    -28.194266
-                                ],
-                                [
-                                    153.254656,
-                                    -28.194803
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-847225-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Emergency repairs in-progress",
-                "STATUS": "Awaiting",
-                "START": "1:52PM 15 Mar 2025",
-                "EST_FIX_TIME": "9:00PM 16 Mar 2025",
-                "STREETS": "LYREBIRD RIDGE RD",
-                "SUBURBS": "SPRINGBROOK",
                 "ETR_FLAG": "Y"
             }
         },
@@ -976,130 +960,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.01445,
-                            -27.471304
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.014957,
-                                    -27.471304
-                                ],
-                                [
-                                    153.01445,
-                                    -27.470853
-                                ],
-                                [
-                                    153.013944,
-                                    -27.471304
-                                ],
-                                [
-                                    153.014451,
-                                    -27.471756
-                                ],
-                                [
-                                    153.014957,
-                                    -27.471304
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-846488-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "Damage due to severe weather",
-                "STATUS": "Awaiting",
-                "START": "5:05PM 14 Mar 2025",
-                "EST_FIX_TIME": "9:00PM 16 Mar 2025",
-                "STREETS": "MONTAGUE RD",
-                "SUBURBS": "SOUTH BRISBANE",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.427878,
-                            -28.167462
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.425829,
-                                    -28.166723
-                                ],
-                                [
-                                    153.427511,
-                                    -28.170525
-                                ],
-                                [
-                                    153.428025,
-                                    -28.17081
-                                ],
-                                [
-                                    153.428483,
-                                    -28.170456
-                                ],
-                                [
-                                    153.429926,
-                                    -28.164589
-                                ],
-                                [
-                                    153.429704,
-                                    -28.164114
-                                ],
-                                [
-                                    153.429124,
-                                    -28.164132
-                                ],
-                                [
-                                    153.425999,
-                                    -28.166196
-                                ],
-                                [
-                                    153.425829,
-                                    -28.166723
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-829506-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "Damage due to severe weather",
-                "STATUS": "In Progress",
-                "START": "4:23AM 07 Mar 2025",
-                "EST_FIX_TIME": "9:00PM 16 Mar 2025",
-                "STREETS": "TALLEBUDGERA CONNECTION RD",
-                "SUBURBS": "CURRUMBIN VALLEY, TALLEBUDGERA",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.437271,
                             -28.121854
                         ]
@@ -1177,9 +1037,63 @@
                 "SUBURBS": "TALLEBUDGERA",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.030242,
+                            -27.445635
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.030748,
+                                    -27.445635
+                                ],
+                                [
+                                    153.030242,
+                                    -27.445183
+                                ],
+                                [
+                                    153.029736,
+                                    -27.445635
+                                ],
+                                [
+                                    153.030242,
+                                    -27.446086
+                                ],
+                                [
+                                    153.030748,
+                                    -27.445635
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-837572-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Damage due to severe weather",
+                "STATUS": "In Progress",
+                "START": "6:42PM 09 Mar 2025",
+                "EST_FIX_TIME": "9:00PM 16 Mar 2025",
+                "STREETS": "CAMPBELL ST",
+                "SUBURBS": "BOWEN HILLS",
+                "ETR_FLAG": "Y"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742110203.97066"
+    "extracted": "1742110500.336595"
 }
