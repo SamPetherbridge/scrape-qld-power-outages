@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.437271,
-                            -28.121854
+                            153.01445,
+                            -27.471304
                         ]
                     },
                     {
@@ -19,56 +19,24 @@
                         "coordinates": [
                             [
                                 [
-                                    153.435182,
-                                    -28.123265
+                                    153.014957,
+                                    -27.471304
                                 ],
                                 [
-                                    153.435522,
-                                    -28.123242
+                                    153.01445,
+                                    -27.470853
                                 ],
                                 [
-                                    153.435667,
-                                    -28.123213
+                                    153.013944,
+                                    -27.471304
                                 ],
                                 [
-                                    153.437805,
-                                    -28.122481
+                                    153.014451,
+                                    -27.471756
                                 ],
                                 [
-                                    153.437849,
-                                    -28.122464
-                                ],
-                                [
-                                    153.438214,
-                                    -28.122302
-                                ],
-                                [
-                                    153.438306,
-                                    -28.12225
-                                ],
-                                [
-                                    153.439781,
-                                    -28.121196
-                                ],
-                                [
-                                    153.439888,
-                                    -28.120599
-                                ],
-                                [
-                                    153.439229,
-                                    -28.120444
-                                ],
-                                [
-                                    153.43491,
-                                    -28.122413
-                                ],
-                                [
-                                    153.434653,
-                                    -28.122938
-                                ],
-                                [
-                                    153.435182,
-                                    -28.123265
+                                    153.014957,
+                                    -27.471304
                                 ]
                             ]
                         ]
@@ -76,16 +44,16 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-847800-g",
+                "EVENT_ID": "INCD-846488-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "3:54PM 16 Mar 2025",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "Damage to our equipment",
+                "STATUS": "Awaiting",
+                "START": "5:05PM 14 Mar 2025",
                 "EST_FIX_TIME": "12:00PM 17 Mar 2025",
-                "STREETS": "DAFFODIL ST, HEATHER ST, TALLEBUDGERA CREEK RD",
-                "SUBURBS": "TALLEBUDGERA",
-                "ETR_FLAG": "N"
+                "STREETS": "MONTAGUE RD",
+                "SUBURBS": "SOUTH BRISBANE",
+                "ETR_FLAG": "Y"
             }
         },
         {
@@ -230,7 +198,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "6:26PM 16 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 17 Mar 2025",
+                "EST_FIX_TIME": "10:30PM 16 Mar 2025",
                 "STREETS": "PATRICK ESTATE RD",
                 "SUBURBS": "PATRICK ESTATE",
                 "ETR_FLAG": "N"
@@ -455,60 +423,6 @@
                 "EST_FIX_TIME": "12:00PM 17 Mar 2025",
                 "STREETS": "ANDERSON DAY DR, BAUERS RD, CUNNINGHAM HWY, GREENS RD, LUBES RD, MIDDLE RD",
                 "SUBURBS": "PURGA, WILLOWBANK",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.01445,
-                            -27.471304
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.014957,
-                                    -27.471304
-                                ],
-                                [
-                                    153.01445,
-                                    -27.470853
-                                ],
-                                [
-                                    153.013944,
-                                    -27.471304
-                                ],
-                                [
-                                    153.014451,
-                                    -27.471756
-                                ],
-                                [
-                                    153.014957,
-                                    -27.471304
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-846488-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "Damage to our equipment",
-                "STATUS": "Awaiting",
-                "START": "5:05PM 14 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 17 Mar 2025",
-                "STREETS": "MONTAGUE RD",
-                "SUBURBS": "SOUTH BRISBANE",
                 "ETR_FLAG": "Y"
             }
         },
@@ -759,5 +673,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742127001.221371"
+    "extracted": "1742127901.663858"
 }
