@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.009285,
-                            -27.669691
+                            152.689741,
+                            -27.706016
                         ]
                     },
                     {
@@ -19,80 +19,40 @@
                         "coordinates": [
                             [
                                 [
-                                    153.006273,
-                                    -27.66963
+                                    152.681408,
+                                    -27.708744
                                 ],
                                 [
-                                    153.006294,
-                                    -27.669808
+                                    152.695521,
+                                    -27.724127
                                 ],
                                 [
-                                    153.006454,
-                                    -27.670092
+                                    152.696074,
+                                    -27.72427
                                 ],
                                 [
-                                    153.009124,
-                                    -27.672299
+                                    152.696421,
+                                    -27.723861
                                 ],
                                 [
-                                    153.0092,
-                                    -27.672351
+                                    152.698097,
+                                    -27.688209
                                 ],
                                 [
-                                    153.009282,
-                                    -27.672396
+                                    152.697751,
+                                    -27.687762
                                 ],
                                 [
-                                    153.00981,
-                                    -27.672402
+                                    152.697173,
+                                    -27.687933
                                 ],
                                 [
-                                    153.010011,
-                                    -27.672296
+                                    152.681384,
+                                    -27.708201
                                 ],
                                 [
-                                    153.010129,
-                                    -27.672209
-                                ],
-                                [
-                                    153.012297,
-                                    -27.670056
-                                ],
-                                [
-                                    153.012297,
-                                    -27.669453
-                                ],
-                                [
-                                    153.01003,
-                                    -27.667202
-                                ],
-                                [
-                                    153.009768,
-                                    -27.667064
-                                ],
-                                [
-                                    153.009369,
-                                    -27.666981
-                                ],
-                                [
-                                    153.008899,
-                                    -27.667098
-                                ],
-                                [
-                                    153.006492,
-                                    -27.669198
-                                ],
-                                [
-                                    153.006486,
-                                    -27.669203
-                                ],
-                                [
-                                    153.006417,
-                                    -27.669265
-                                ],
-                                [
-                                    153.006273,
-                                    -27.66963
+                                    152.681408,
+                                    -27.708744
                                 ]
                             ]
                         ]
@@ -100,15 +60,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-848436-g",
+                "EVENT_ID": "INCD-840326-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "36",
-                "REASON": "Under Investigation",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "Damage due to flooding",
                 "STATUS": "In Progress",
-                "START": "6:11PM 17 Mar 2025",
-                "EST_FIX_TIME": "9:00PM 17 Mar 2025",
-                "STREETS": "ABBEY ST, ARCHERY ST, BROADSWORD CT, SARACEN CT",
-                "SUBURBS": "FORESTDALE",
+                "START": "8:50PM 10 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 18 Mar 2025",
+                "STREETS": "LUBES RD, MIDDLE RD",
+                "SUBURBS": "PURGA",
                 "ETR_FLAG": "N"
             }
         },
@@ -232,79 +192,9 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "3:11PM 17 Mar 2025",
-                "EST_FIX_TIME": "8:30PM 17 Mar 2025",
+                "EST_FIX_TIME": "9:30PM 17 Mar 2025",
                 "STREETS": "APPLEWOOD CT, BIRCHGROVE CRES, CAITLIN CT, CAMRYN CT, COOPER RD, EUCUMBENE DR, FISHER RD, KYAH CL, LAKESIDE RD, LILLYPILLY CT, LYONS RD, MONTREE CCT, NARANGBA RD, NICHOLSON RD, NUNDAH RD, PETA ST, RUE MONTAIGNE, THOMPSON RD, TORRENS RD, TYLAH ST, WOOD CT",
                 "SUBURBS": "KALLANGUR, KURWONGBAH, PETRIE",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.689741,
-                            -27.706016
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.681408,
-                                    -27.708744
-                                ],
-                                [
-                                    152.695521,
-                                    -27.724127
-                                ],
-                                [
-                                    152.696074,
-                                    -27.72427
-                                ],
-                                [
-                                    152.696421,
-                                    -27.723861
-                                ],
-                                [
-                                    152.698097,
-                                    -27.688209
-                                ],
-                                [
-                                    152.697751,
-                                    -27.687762
-                                ],
-                                [
-                                    152.697173,
-                                    -27.687933
-                                ],
-                                [
-                                    152.681384,
-                                    -27.708201
-                                ],
-                                [
-                                    152.681408,
-                                    -27.708744
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-840326-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "Damage due to flooding",
-                "STATUS": "In Progress",
-                "START": "8:50PM 10 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 18 Mar 2025",
-                "STREETS": "LUBES RD, MIDDLE RD",
-                "SUBURBS": "PURGA",
                 "ETR_FLAG": "N"
             }
         },
@@ -425,6 +315,116 @@
                 "EST_FIX_TIME": "12:00PM 18 Mar 2025",
                 "STREETS": "ANDERSON DAY DR, CUNNINGHAM HWY, GREENS RD",
                 "SUBURBS": "PURGA, WILLOWBANK",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.009285,
+                            -27.669691
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.006273,
+                                    -27.66963
+                                ],
+                                [
+                                    153.006294,
+                                    -27.669808
+                                ],
+                                [
+                                    153.006454,
+                                    -27.670092
+                                ],
+                                [
+                                    153.009124,
+                                    -27.672299
+                                ],
+                                [
+                                    153.0092,
+                                    -27.672351
+                                ],
+                                [
+                                    153.009282,
+                                    -27.672396
+                                ],
+                                [
+                                    153.00981,
+                                    -27.672402
+                                ],
+                                [
+                                    153.010011,
+                                    -27.672296
+                                ],
+                                [
+                                    153.010129,
+                                    -27.672209
+                                ],
+                                [
+                                    153.012297,
+                                    -27.670056
+                                ],
+                                [
+                                    153.012297,
+                                    -27.669453
+                                ],
+                                [
+                                    153.01003,
+                                    -27.667202
+                                ],
+                                [
+                                    153.009768,
+                                    -27.667064
+                                ],
+                                [
+                                    153.009369,
+                                    -27.666981
+                                ],
+                                [
+                                    153.008899,
+                                    -27.667098
+                                ],
+                                [
+                                    153.006492,
+                                    -27.669198
+                                ],
+                                [
+                                    153.006486,
+                                    -27.669203
+                                ],
+                                [
+                                    153.006417,
+                                    -27.669265
+                                ],
+                                [
+                                    153.006273,
+                                    -27.66963
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-848436-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "36",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "6:11PM 17 Mar 2025",
+                "EST_FIX_TIME": "9:00PM 17 Mar 2025",
+                "STREETS": "ABBEY ST, ARCHERY ST, BROADSWORD CT, SARACEN CT",
+                "SUBURBS": "FORESTDALE",
                 "ETR_FLAG": "N"
             }
         },
@@ -602,7 +602,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "Awaiting",
                 "START": "4:42PM 17 Mar 2025",
-                "EST_FIX_TIME": "9:00PM 17 Mar 2025",
+                "EST_FIX_TIME": "10:00PM 17 Mar 2025",
                 "STREETS": "BARRY RD, KILMORE DR, LUCAS RD",
                 "SUBURBS": "TAMBORINE",
                 "ETR_FLAG": "N"
@@ -611,5 +611,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742206201.479774"
+    "extracted": "1742207100.405892"
 }
