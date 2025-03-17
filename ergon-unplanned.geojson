@@ -10,6 +10,87 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            149.561622,
+                            -22.503445
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    149.554897,
+                                    -22.492547
+                                ],
+                                [
+                                    149.555991,
+                                    -22.503322
+                                ],
+                                [
+                                    149.556086,
+                                    -22.50355
+                                ],
+                                [
+                                    149.565064,
+                                    -22.514664
+                                ],
+                                [
+                                    149.565577,
+                                    -22.51483
+                                ],
+                                [
+                                    149.565934,
+                                    -22.514449
+                                ],
+                                [
+                                    149.568347,
+                                    -22.496454
+                                ],
+                                [
+                                    149.568102,
+                                    -22.496004
+                                ],
+                                [
+                                    149.562802,
+                                    -22.493261
+                                ],
+                                [
+                                    149.562649,
+                                    -22.493211
+                                ],
+                                [
+                                    149.555463,
+                                    -22.49206
+                                ],
+                                [
+                                    149.554897,
+                                    -22.492547
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA5229",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Crews working on-site",
+                "START": "8:26AM 17 Mar 2025",
+                "EST_FIX_TIME": "4:30PM 17 Mar 2025",
+                "STREETS": "BRUCE HWY, OLIVES RD, WUMALGI EAST RD, WUMALGI RD",
+                "SUBURBS": "MARLBOROUGH, ST LAWRENCE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -423,87 +504,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            149.561622,
-                            -22.503445
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    149.554897,
-                                    -22.492547
-                                ],
-                                [
-                                    149.555991,
-                                    -22.503322
-                                ],
-                                [
-                                    149.556086,
-                                    -22.50355
-                                ],
-                                [
-                                    149.565064,
-                                    -22.514664
-                                ],
-                                [
-                                    149.565577,
-                                    -22.51483
-                                ],
-                                [
-                                    149.565934,
-                                    -22.514449
-                                ],
-                                [
-                                    149.568347,
-                                    -22.496454
-                                ],
-                                [
-                                    149.568102,
-                                    -22.496004
-                                ],
-                                [
-                                    149.562802,
-                                    -22.493261
-                                ],
-                                [
-                                    149.562649,
-                                    -22.493211
-                                ],
-                                [
-                                    149.555463,
-                                    -22.49206
-                                ],
-                                [
-                                    149.554897,
-                                    -22.492547
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA5229",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Crews working on-site",
-                "START": "8:26AM 17 Mar 2025",
-                "EST_FIX_TIME": "4:30PM 17 Mar 2025",
-                "STREETS": "BRUCE HWY, OLIVES RD, WUMALGI EAST RD, WUMALGI RD",
-                "SUBURBS": "MARLBOROUGH, ST LAWRENCE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.532987,
                             -20.330903
                         ]
@@ -576,5 +576,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742191500.288931"
+    "extracted": "1742192103.429434"
 }
