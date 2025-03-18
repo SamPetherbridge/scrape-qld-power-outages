@@ -10,148 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.53619,
-                            -27.139912
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.514593,
-                                    -27.14046
-                                ],
-                                [
-                                    151.526974,
-                                    -27.165505
-                                ],
-                                [
-                                    151.527718,
-                                    -27.165695
-                                ],
-                                [
-                                    151.557729,
-                                    -27.147364
-                                ],
-                                [
-                                    151.557825,
-                                    -27.146696
-                                ],
-                                [
-                                    151.526231,
-                                    -27.114198
-                                ],
-                                [
-                                    151.525555,
-                                    -27.114129
-                                ],
-                                [
-                                    151.518334,
-                                    -27.118829
-                                ],
-                                [
-                                    151.518132,
-                                    -27.119125
-                                ],
-                                [
-                                    151.514555,
-                                    -27.14021
-                                ],
-                                [
-                                    151.514593,
-                                    -27.14046
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW4956",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:37AM 19 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BOWENVILLE MOOLA RD, BOWENVILLE RD, EDGEFIELD RD, EDGEFIELD-QUINALOW RD, IRVINGDALE-BOWENVILLE RD, QUINALOW-EDGEFIELD RD",
-                "SUBURBS": "BOWENVILLE, IRVINGDALE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.169363,
                             -23.540933
                         ]
@@ -259,6 +117,71 @@
                 "EST_FIX_TIME": "4:00PM 28 Mar 2025",
                 "STREETS": "AKUBRA DR, CAMPBELL FORD DR, COUNTRY LANE, ELM ST",
                 "SUBURBS": "EMERALD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -526,14 +449,144 @@
                 "CUSTOMERS_AFFECTED": "78",
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
-                "START": "8:21AM 19 Mar 2025",
+                "START": "8:48AM 19 Mar 2025",
                 "EST_FIX_TIME": "1:00PM 19 Mar 2025",
                 "STREETS": "ATC HALL RD, CLARKES RD, FRAMPTONS RD, HAWES RD, HUXLEY RD, HUXLEY-ICM RD, LYNWOOD RD, LYNWOOD-NORTH ISIS RD, NORTH ISIS RD, ORCHARD RD",
                 "SUBURBS": "APPLE TREE CREEK, CHILDERS, NORTH ISIS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.53619,
+                            -27.139912
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.514593,
+                                    -27.14046
+                                ],
+                                [
+                                    151.526974,
+                                    -27.165505
+                                ],
+                                [
+                                    151.527718,
+                                    -27.165695
+                                ],
+                                [
+                                    151.557729,
+                                    -27.147364
+                                ],
+                                [
+                                    151.557825,
+                                    -27.146696
+                                ],
+                                [
+                                    151.526231,
+                                    -27.114198
+                                ],
+                                [
+                                    151.525555,
+                                    -27.114129
+                                ],
+                                [
+                                    151.518334,
+                                    -27.118829
+                                ],
+                                [
+                                    151.518132,
+                                    -27.119125
+                                ],
+                                [
+                                    151.514555,
+                                    -27.14021
+                                ],
+                                [
+                                    151.514593,
+                                    -27.14046
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW4956",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:37AM 19 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BOWENVILLE MOOLA RD, BOWENVILLE RD, EDGEFIELD RD, EDGEFIELD-QUINALOW RD, IRVINGDALE-BOWENVILLE RD, QUINALOW-EDGEFIELD RD",
+                "SUBURBS": "BOWENVILLE, IRVINGDALE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.230181,
+                            -28.576873
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.230692,
+                                    -28.576869
+                                ],
+                                [
+                                    148.230176,
+                                    -28.576422
+                                ],
+                                [
+                                    148.22967,
+                                    -28.576878
+                                ],
+                                [
+                                    148.230186,
+                                    -28.577325
+                                ],
+                                [
+                                    148.230692,
+                                    -28.576869
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW4904",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "8:00AM 19 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 19 Mar 2025",
+                "STREETS": "JANE ST",
+                "SUBURBS": "DIRRANBANDI"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742338201.216632"
+    "extracted": "1742338807.013555"
 }
