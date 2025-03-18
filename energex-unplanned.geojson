@@ -10,186 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.01445,
-                            -27.471304
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.014957,
-                                    -27.471304
-                                ],
-                                [
-                                    153.01445,
-                                    -27.470853
-                                ],
-                                [
-                                    153.013944,
-                                    -27.471304
-                                ],
-                                [
-                                    153.014451,
-                                    -27.471756
-                                ],
-                                [
-                                    153.014957,
-                                    -27.471304
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-846488-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "Damage to our equipment",
-                "STATUS": "Awaiting",
-                "START": "5:05PM 14 Mar 2025",
-                "EST_FIX_TIME": "2:00AM 19 Mar 2025",
-                "STREETS": "MONTAGUE RD",
-                "SUBURBS": "SOUTH BRISBANE",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.429484,
-                            -28.188248
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.418644,
-                                    -28.189494
-                                ],
-                                [
-                                    153.418969,
-                                    -28.191266
-                                ],
-                                [
-                                    153.419054,
-                                    -28.191451
-                                ],
-                                [
-                                    153.423644,
-                                    -28.19729
-                                ],
-                                [
-                                    153.424393,
-                                    -28.197375
-                                ],
-                                [
-                                    153.427998,
-                                    -28.194641
-                                ],
-                                [
-                                    153.428028,
-                                    -28.194617
-                                ],
-                                [
-                                    153.429339,
-                                    -28.19345
-                                ],
-                                [
-                                    153.429363,
-                                    -28.193428
-                                ],
-                                [
-                                    153.433743,
-                                    -28.188959
-                                ],
-                                [
-                                    153.433758,
-                                    -28.188943
-                                ],
-                                [
-                                    153.439888,
-                                    -28.182051
-                                ],
-                                [
-                                    153.439973,
-                                    -28.18191
-                                ],
-                                [
-                                    153.440315,
-                                    -28.180966
-                                ],
-                                [
-                                    153.440331,
-                                    -28.180747
-                                ],
-                                [
-                                    153.440063,
-                                    -28.179457
-                                ],
-                                [
-                                    153.439369,
-                                    -28.179121
-                                ],
-                                [
-                                    153.43495,
-                                    -28.180733
-                                ],
-                                [
-                                    153.434913,
-                                    -28.180748
-                                ],
-                                [
-                                    153.418979,
-                                    -28.187918
-                                ],
-                                [
-                                    153.418701,
-                                    -28.188297
-                                ],
-                                [
-                                    153.418638,
-                                    -28.189399
-                                ],
-                                [
-                                    153.418644,
-                                    -28.189494
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-829221-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "66",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "9:10PM 06 Mar 2025",
-                "EST_FIX_TIME": "12:00AM 07 Mar 2025",
-                "STREETS": "BROCKS RD, DOOLOOM DR, LEMONTREE LANE, PIGGABEEN RD, SPIRIT LANE, TALLOWOOD TCE, TOMEWIN MOUNTAIN RD, VILLAGE WAY, WARRI WAY, WONGAREE WAY",
-                "SUBURBS": "CURRUMBIN VALLEY, CURRUMBIN WATERS",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.999826,
                             -27.872819
                         ]
@@ -417,9 +237,63 @@
                 "SUBURBS": "CABOOLTURE",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.01445,
+                            -27.471304
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.014957,
+                                    -27.471304
+                                ],
+                                [
+                                    153.01445,
+                                    -27.470853
+                                ],
+                                [
+                                    153.013944,
+                                    -27.471304
+                                ],
+                                [
+                                    153.014451,
+                                    -27.471756
+                                ],
+                                [
+                                    153.014957,
+                                    -27.471304
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-846488-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "Damage to our equipment",
+                "STATUS": "Awaiting",
+                "START": "5:05PM 14 Mar 2025",
+                "EST_FIX_TIME": "2:00AM 19 Mar 2025",
+                "STREETS": "MONTAGUE RD",
+                "SUBURBS": "SOUTH BRISBANE",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742306701.610697"
+    "extracted": "1742307305.921461"
 }
