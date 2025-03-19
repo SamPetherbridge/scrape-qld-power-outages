@@ -192,6 +192,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.254695,
+                            -19.765087
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ],
+                                [
+                                    147.253804,
+                                    -19.764389
+                                ],
+                                [
+                                    147.253218,
+                                    -19.764706
+                                ],
+                                [
+                                    147.253553,
+                                    -19.765261
+                                ],
+                                [
+                                    147.255586,
+                                    -19.765785
+                                ],
+                                [
+                                    147.256172,
+                                    -19.765468
+                                ],
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4471",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "9:24AM 19 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
+                "STREETS": "KIRKNIE RD",
+                "SUBURBS": "HOME HILL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             149.144164,
                             -23.254622
                         ]
@@ -301,8 +362,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.254695,
-                            -19.765087
+                            145.830559,
+                            -17.081062
                         ]
                     },
                     {
@@ -310,32 +371,40 @@
                         "coordinates": [
                             [
                                 [
-                                    147.255837,
-                                    -19.764913
+                                    145.826202,
+                                    -17.088104
                                 ],
                                 [
-                                    147.253804,
-                                    -19.764389
+                                    145.835724,
+                                    -17.074508
                                 ],
                                 [
-                                    147.253218,
-                                    -19.764706
+                                    145.835602,
+                                    -17.073884
                                 ],
                                 [
-                                    147.253553,
-                                    -19.765261
+                                    145.834952,
+                                    -17.073993
                                 ],
                                 [
-                                    147.255586,
-                                    -19.765785
+                                    145.826954,
+                                    -17.084764
                                 ],
                                 [
-                                    147.256172,
-                                    -19.765468
+                                    145.826919,
+                                    -17.084819
                                 ],
                                 [
-                                    147.255837,
-                                    -19.764913
+                                    145.825395,
+                                    -17.087644
+                                ],
+                                [
+                                    145.825572,
+                                    -17.08824
+                                ],
+                                [
+                                    145.826202,
+                                    -17.088104
                                 ]
                             ]
                         ]
@@ -343,15 +412,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4471",
+                "EVENT_ID": "25FN3710",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "9:24AM 19 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
-                "STREETS": "KIRKNIE RD",
-                "SUBURBS": "HOME HILL"
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage caused by storm activity.",
+                "STATUS": "Crews on route",
+                "START": "10:15PM 19 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "RICHARDSON RD",
+                "SUBURBS": "SANDY CREEK"
             }
         },
         {
@@ -511,5 +580,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742386201.426581"
+    "extracted": "1742387101.327287"
 }
