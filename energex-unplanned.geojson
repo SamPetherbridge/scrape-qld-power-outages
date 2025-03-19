@@ -10,60 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.01445,
-                            -27.471304
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.014957,
-                                    -27.471304
-                                ],
-                                [
-                                    153.01445,
-                                    -27.470853
-                                ],
-                                [
-                                    153.013944,
-                                    -27.471304
-                                ],
-                                [
-                                    153.014451,
-                                    -27.471756
-                                ],
-                                [
-                                    153.014957,
-                                    -27.471304
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-846488-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "Damage to our equipment",
-                "STATUS": "Awaiting",
-                "START": "5:05PM 14 Mar 2025",
-                "EST_FIX_TIME": "6:00PM 19 Mar 2025",
-                "STREETS": "MONTAGUE RD",
-                "SUBURBS": "SOUTH BRISBANE",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.338668,
                             -28.05182
                         ]
@@ -199,6 +145,60 @@
                 "EST_FIX_TIME": "9:00PM 19 Mar 2025",
                 "STREETS": "ALAWARA DR, ALBERT EVANS DR, ALICE BOWDEN CT, ARTHUR PAYNE CT, BLUE GUM CT, BRIXTON CT, CARL LENTZ CT, CHARLAND CT, CHARLES KURZ DR, COORUMBENE CT, CORALCOAST DR, CREEKSIDE CT, EBELING CT, FRANK BURG CT, GLADES DR, GLENAURA DR, GLENROWAN DR, HARRY MILLS DR, HUGH GUINEA CT, IMFELD CT, INCLINE DR, JOHN NIELSEN CT, KOOKABURRA DR, LEISURE LANE, LIQUIDAMBER CL, MAJTLIS PL, MARGARET BRUCE CT, MCKAVANAGH PL, MUDGEERABA RD, NANCY YAUN CT, NATURE VALLEY CT, PARALLA PL, RANDOM WAY, SEASCAPE CT, SILVER WATTLE CT, TANJA CT, TARAWARA AVE, TATHRA PL, THE PANORAMA, THE PINNACLE, THE SPUR, THOMAS DUNCAN CT, TOM LATIMER CT, UPLANDS CT, VALHALLA CT, VINCE HINDE DR, WALCOY PL, WATERFALL WAY, WILLIAM HOLLINDALE CT, WOODVALE DR, WORONGARY RD, XANADU CT, ZIMMERMAN CT",
                 "SUBURBS": "GILSTON, MUDGEERABA, ROBINA, TALLAI, WORONGARY",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.01445,
+                            -27.471304
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.014957,
+                                    -27.471304
+                                ],
+                                [
+                                    153.01445,
+                                    -27.470853
+                                ],
+                                [
+                                    153.013944,
+                                    -27.471304
+                                ],
+                                [
+                                    153.014451,
+                                    -27.471756
+                                ],
+                                [
+                                    153.014957,
+                                    -27.471304
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-846488-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "Damage to our equipment",
+                "STATUS": "Awaiting",
+                "START": "5:05PM 14 Mar 2025",
+                "EST_FIX_TIME": "6:00PM 20 Mar 2025",
+                "STREETS": "MONTAGUE RD",
+                "SUBURBS": "SOUTH BRISBANE",
                 "ETR_FLAG": "N"
             }
         },
@@ -364,7 +364,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "2:58PM 19 Mar 2025",
-                "EST_FIX_TIME": "7:30PM 19 Mar 2025",
+                "EST_FIX_TIME": "8:00PM 19 Mar 2025",
                 "STREETS": "CITYVIEW RD, JANIE CL",
                 "SUBURBS": "SINNAMON PARK",
                 "ETR_FLAG": "N"
@@ -467,5 +467,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742375401.161984"
+    "extracted": "1742376303.555636"
 }
