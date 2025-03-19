@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.01445,
-                            -27.471304
+                            152.638274,
+                            -27.517257
                         ]
                     },
                     {
@@ -19,24 +19,40 @@
                         "coordinates": [
                             [
                                 [
-                                    153.014957,
-                                    -27.471304
+                                    152.637454,
+                                    -27.515825
                                 ],
                                 [
-                                    153.01445,
-                                    -27.470853
+                                    152.637567,
+                                    -27.51827
                                 ],
                                 [
-                                    153.013944,
-                                    -27.471304
+                                    152.637702,
+                                    -27.518558
                                 ],
                                 [
-                                    153.014451,
-                                    -27.471756
+                                    152.638226,
+                                    -27.519061
                                 ],
                                 [
-                                    153.014957,
-                                    -27.471304
+                                    152.638826,
+                                    -27.519157
+                                ],
+                                [
+                                    152.639094,
+                                    -27.518669
+                                ],
+                                [
+                                    152.638457,
+                                    -27.515721
+                                ],
+                                [
+                                    152.637901,
+                                    -27.515358
+                                ],
+                                [
+                                    152.637454,
+                                    -27.515825
                                 ]
                             ]
                         ]
@@ -44,15 +60,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-846488-g",
+                "EVENT_ID": "INCD-849096-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "Damage to our equipment",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Emergency Repairs",
                 "STATUS": "Awaiting",
-                "START": "5:05PM 14 Mar 2025",
-                "EST_FIX_TIME": "6:00PM 19 Mar 2025",
-                "STREETS": "MONTAGUE RD",
-                "SUBURBS": "SOUTH BRISBANE",
+                "START": "11:25AM 19 Mar 2025",
+                "EST_FIX_TIME": "2:00PM 19 Mar 2025",
+                "STREETS": "FERNVALE RD, GLAMORGAN VALE RD",
+                "SUBURBS": "GLAMORGAN VALE",
                 "ETR_FLAG": "N"
             }
         },
@@ -181,9 +197,63 @@
                 "SUBURBS": "BEENLEIGH",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.01445,
+                            -27.471304
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.014957,
+                                    -27.471304
+                                ],
+                                [
+                                    153.01445,
+                                    -27.470853
+                                ],
+                                [
+                                    153.013944,
+                                    -27.471304
+                                ],
+                                [
+                                    153.014451,
+                                    -27.471756
+                                ],
+                                [
+                                    153.014957,
+                                    -27.471304
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-846488-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "Damage to our equipment",
+                "STATUS": "Awaiting",
+                "START": "5:05PM 14 Mar 2025",
+                "EST_FIX_TIME": "6:00PM 19 Mar 2025",
+                "STREETS": "MONTAGUE RD",
+                "SUBURBS": "SOUTH BRISBANE",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742345400.285085"
+    "extracted": "1742347804.067826"
 }
