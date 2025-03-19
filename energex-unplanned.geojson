@@ -10,6 +10,76 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.638274,
+                            -27.517257
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.637454,
+                                    -27.515825
+                                ],
+                                [
+                                    152.637567,
+                                    -27.51827
+                                ],
+                                [
+                                    152.637702,
+                                    -27.518558
+                                ],
+                                [
+                                    152.638226,
+                                    -27.519061
+                                ],
+                                [
+                                    152.638826,
+                                    -27.519157
+                                ],
+                                [
+                                    152.639094,
+                                    -27.518669
+                                ],
+                                [
+                                    152.638457,
+                                    -27.515721
+                                ],
+                                [
+                                    152.637901,
+                                    -27.515358
+                                ],
+                                [
+                                    152.637454,
+                                    -27.515825
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-849096-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "11:25AM 19 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 19 Mar 2025",
+                "STREETS": "FERNVALE RD, GLAMORGAN VALE RD",
+                "SUBURBS": "GLAMORGAN VALE",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.670755,
                             -27.512348
                         ]
@@ -77,76 +147,6 @@
                 "EST_FIX_TIME": "2:30PM 19 Mar 2025",
                 "STREETS": "DRAPERS RD, WANORA RD",
                 "SUBURBS": "WANORA",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.638274,
-                            -27.517257
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.637454,
-                                    -27.515825
-                                ],
-                                [
-                                    152.637567,
-                                    -27.51827
-                                ],
-                                [
-                                    152.637702,
-                                    -27.518558
-                                ],
-                                [
-                                    152.638226,
-                                    -27.519061
-                                ],
-                                [
-                                    152.638826,
-                                    -27.519157
-                                ],
-                                [
-                                    152.639094,
-                                    -27.518669
-                                ],
-                                [
-                                    152.638457,
-                                    -27.515721
-                                ],
-                                [
-                                    152.637901,
-                                    -27.515358
-                                ],
-                                [
-                                    152.637454,
-                                    -27.515825
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-849096-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Emergency Repairs",
-                "STATUS": "Awaiting",
-                "START": "11:25AM 19 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 19 Mar 2025",
-                "STREETS": "FERNVALE RD, GLAMORGAN VALE RD",
-                "SUBURBS": "GLAMORGAN VALE",
                 "ETR_FLAG": "N"
             }
         },
@@ -429,5 +429,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742355002.337561"
+    "extracted": "1742355600.309622"
 }
