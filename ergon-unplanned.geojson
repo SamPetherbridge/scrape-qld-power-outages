@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.743582,
-                            -25.196884
+                            147.254695,
+                            -19.765087
                         ]
                     },
                     {
@@ -19,68 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    146.655938,
-                                    -25.293123
+                                    147.255837,
+                                    -19.764913
                                 ],
                                 [
-                                    146.688259,
-                                    -25.268421
+                                    147.253804,
+                                    -19.764389
                                 ],
                                 [
-                                    146.688308,
-                                    -25.268378
+                                    147.253218,
+                                    -19.764706
                                 ],
                                 [
-                                    146.735727,
-                                    -25.220745
+                                    147.253553,
+                                    -19.765261
                                 ],
                                 [
-                                    146.73574,
-                                    -25.220731
+                                    147.255586,
+                                    -19.765785
                                 ],
                                 [
-                                    146.768851,
-                                    -25.184508
+                                    147.256172,
+                                    -19.765468
                                 ],
                                 [
-                                    146.768878,
-                                    -25.184476
-                                ],
-                                [
-                                    146.831987,
-                                    -25.101403
-                                ],
-                                [
-                                    146.831605,
-                                    -25.100695
-                                ],
-                                [
-                                    146.830404,
-                                    -25.100638
-                                ],
-                                [
-                                    146.830011,
-                                    -25.100785
-                                ],
-                                [
-                                    146.677757,
-                                    -25.253096
-                                ],
-                                [
-                                    146.677684,
-                                    -25.253191
-                                ],
-                                [
-                                    146.655178,
-                                    -25.292569
-                                ],
-                                [
-                                    146.655308,
-                                    -25.29313
-                                ],
-                                [
-                                    146.655938,
-                                    -25.293123
+                                    147.255837,
+                                    -19.764913
                                 ]
                             ]
                         ]
@@ -88,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW5006",
+                "EVENT_ID": "25NQ4471",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "9:46AM 20 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 20 Mar 2025",
-                "STREETS": "CALDERVALE RD, CARGARA RD, TAMBO RD, UNKNOWN RD",
-                "SUBURBS": "AUGATHELLA, CHARLEVILLE, TAMBO"
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "9:24AM 19 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
+                "STREETS": "KIRKNIE RD",
+                "SUBURBS": "HOME HILL"
             }
         },
         {
@@ -224,6 +188,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.67458,
+                            -27.104565
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.281531,
+                                    -27.195221
+                                ],
+                                [
+                                    148.431729,
+                                    -27.251992
+                                ],
+                                [
+                                    148.431926,
+                                    -27.252028
+                                ],
+                                [
+                                    148.870743,
+                                    -27.250763
+                                ],
+                                [
+                                    148.870954,
+                                    -27.25072
+                                ],
+                                [
+                                    148.996431,
+                                    -27.198445
+                                ],
+                                [
+                                    148.996647,
+                                    -27.198272
+                                ],
+                                [
+                                    149.067749,
+                                    -27.094653
+                                ],
+                                [
+                                    149.067478,
+                                    -27.093989
+                                ],
+                                [
+                                    148.609498,
+                                    -26.957102
+                                ],
+                                [
+                                    148.60902,
+                                    -26.95718
+                                ],
+                                [
+                                    148.281411,
+                                    -27.194454
+                                ],
+                                [
+                                    148.281531,
+                                    -27.195221
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5018",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "46",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Crews working on-site",
+                "START": "1:43PM 20 Mar 2025",
+                "EST_FIX_TIME": "9:00PM 20 Mar 2025",
+                "STREETS": "BEGONIA RD, CARNARVON HWY, DRUMFERN RD, DUEIDAR RD, DUNKELD RD, EULOREL RD, FOYLEVIEW RD, HARTWOOD RD, MARANOA RD, NALDERA RD, SOUTHERN RD",
+                "SUBURBS": "ROMA, SURAT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.606681,
                             -22.934115
                         ]
@@ -309,8 +358,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.67458,
-                            -27.104565
+                            146.743582,
+                            -25.196884
                         ]
                     },
                     {
@@ -318,56 +367,68 @@
                         "coordinates": [
                             [
                                 [
-                                    148.281531,
-                                    -27.195221
+                                    146.655938,
+                                    -25.293123
                                 ],
                                 [
-                                    148.431729,
-                                    -27.251992
+                                    146.688259,
+                                    -25.268421
                                 ],
                                 [
-                                    148.431926,
-                                    -27.252028
+                                    146.688308,
+                                    -25.268378
                                 ],
                                 [
-                                    148.870743,
-                                    -27.250763
+                                    146.735727,
+                                    -25.220745
                                 ],
                                 [
-                                    148.870954,
-                                    -27.25072
+                                    146.73574,
+                                    -25.220731
                                 ],
                                 [
-                                    148.996431,
-                                    -27.198445
+                                    146.768851,
+                                    -25.184508
                                 ],
                                 [
-                                    148.996647,
-                                    -27.198272
+                                    146.768878,
+                                    -25.184476
                                 ],
                                 [
-                                    149.067749,
-                                    -27.094653
+                                    146.831987,
+                                    -25.101403
                                 ],
                                 [
-                                    149.067478,
-                                    -27.093989
+                                    146.831605,
+                                    -25.100695
                                 ],
                                 [
-                                    148.609498,
-                                    -26.957102
+                                    146.830404,
+                                    -25.100638
                                 ],
                                 [
-                                    148.60902,
-                                    -26.95718
+                                    146.830011,
+                                    -25.100785
                                 ],
                                 [
-                                    148.281411,
-                                    -27.194454
+                                    146.677757,
+                                    -25.253096
                                 ],
                                 [
-                                    148.281531,
-                                    -27.195221
+                                    146.677684,
+                                    -25.253191
+                                ],
+                                [
+                                    146.655178,
+                                    -25.292569
+                                ],
+                                [
+                                    146.655308,
+                                    -25.29313
+                                ],
+                                [
+                                    146.655938,
+                                    -25.293123
                                 ]
                             ]
                         ]
@@ -375,15 +436,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW5018",
+                "EVENT_ID": "25SW5006",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "46",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
-                "START": "1:43PM 20 Mar 2025",
-                "EST_FIX_TIME": "9:00PM 20 Mar 2025",
-                "STREETS": "BEGONIA RD, CARNARVON HWY, DRUMFERN RD, DUEIDAR RD, DUNKELD RD, EULOREL RD, FOYLEVIEW RD, HARTWOOD RD, MARANOA RD, NALDERA RD, SOUTHERN RD",
-                "SUBURBS": "ROMA, SURAT"
+                "START": "9:46AM 20 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 20 Mar 2025",
+                "STREETS": "CALDERVALE RD, CARGARA RD, TAMBO RD, UNKNOWN RD",
+                "SUBURBS": "AUGATHELLA, CHARLEVILLE, TAMBO"
             }
         },
         {
@@ -538,67 +599,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BAUPLE WOOLOOGA RD",
                 "SUBURBS": "GUNDIAH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.254695,
-                            -19.765087
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.255837,
-                                    -19.764913
-                                ],
-                                [
-                                    147.253804,
-                                    -19.764389
-                                ],
-                                [
-                                    147.253218,
-                                    -19.764706
-                                ],
-                                [
-                                    147.253553,
-                                    -19.765261
-                                ],
-                                [
-                                    147.255586,
-                                    -19.765785
-                                ],
-                                [
-                                    147.256172,
-                                    -19.765468
-                                ],
-                                [
-                                    147.255837,
-                                    -19.764913
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ4471",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "9:24AM 19 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
-                "STREETS": "KIRKNIE RD",
-                "SUBURBS": "HOME HILL"
             }
         },
         {
@@ -1024,5 +1024,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742446200.395711"
+    "extracted": "1742446535.137036"
 }
