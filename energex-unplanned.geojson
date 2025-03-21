@@ -10,76 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.525924,
-                            -28.170221
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.524811,
-                                    -28.170624
-                                ],
-                                [
-                                    153.526765,
-                                    -28.171062
-                                ],
-                                [
-                                    153.52738,
-                                    -28.170503
-                                ],
-                                [
-                                    153.527249,
-                                    -28.170085
-                                ],
-                                [
-                                    153.52689,
-                                    -28.16977
-                                ],
-                                [
-                                    153.525248,
-                                    -28.169379
-                                ],
-                                [
-                                    153.524648,
-                                    -28.169637
-                                ],
-                                [
-                                    153.524468,
-                                    -28.170008
-                                ],
-                                [
-                                    153.524811,
-                                    -28.170624
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-849780-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "59",
-                "REASON": "Emergency Repairs",
-                "STATUS": "Awaiting",
-                "START": "9:28AM 21 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 21 Mar 2025",
-                "STREETS": "COOLANGATTA RD",
-                "SUBURBS": "COOLANGATTA",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.394612,
                             -27.942831
                         ]
@@ -287,9 +217,79 @@
                 "SUBURBS": "PIMPAMA",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.525924,
+                            -28.170221
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.524811,
+                                    -28.170624
+                                ],
+                                [
+                                    153.526765,
+                                    -28.171062
+                                ],
+                                [
+                                    153.52738,
+                                    -28.170503
+                                ],
+                                [
+                                    153.527249,
+                                    -28.170085
+                                ],
+                                [
+                                    153.52689,
+                                    -28.16977
+                                ],
+                                [
+                                    153.525248,
+                                    -28.169379
+                                ],
+                                [
+                                    153.524648,
+                                    -28.169637
+                                ],
+                                [
+                                    153.524468,
+                                    -28.170008
+                                ],
+                                [
+                                    153.524811,
+                                    -28.170624
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-849780-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "59",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "9:28AM 21 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 21 Mar 2025",
+                "STREETS": "COOLANGATTA RD",
+                "SUBURBS": "COOLANGATTA",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742515800.299649"
+    "extracted": "1742517007.604922"
 }
