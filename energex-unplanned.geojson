@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.016003,
-                            -27.363485
+                            153.525924,
+                            -28.170221
                         ]
                     },
                     {
@@ -19,32 +19,40 @@
                         "coordinates": [
                             [
                                 [
-                                    153.01625,
-                                    -27.363058
+                                    153.524811,
+                                    -28.170624
                                 ],
                                 [
-                                    153.015886,
-                                    -27.363016
+                                    153.526765,
+                                    -28.171062
                                 ],
                                 [
-                                    153.01532,
-                                    -27.363406
+                                    153.52738,
+                                    -28.170503
                                 ],
                                 [
-                                    153.015756,
-                                    -27.363911
+                                    153.527249,
+                                    -28.170085
                                 ],
                                 [
-                                    153.016119,
-                                    -27.363954
+                                    153.52689,
+                                    -28.16977
                                 ],
                                 [
-                                    153.016686,
-                                    -27.363564
+                                    153.525248,
+                                    -28.169379
                                 ],
                                 [
-                                    153.01625,
-                                    -27.363058
+                                    153.524648,
+                                    -28.169637
+                                ],
+                                [
+                                    153.524468,
+                                    -28.170008
+                                ],
+                                [
+                                    153.524811,
+                                    -28.170624
                                 ]
                             ]
                         ]
@@ -52,15 +60,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-849744-g",
+                "EVENT_ID": "INCD-849780-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "8:11AM 21 Mar 2025",
-                "EST_FIX_TIME": "10:00AM 21 Mar 2025",
-                "STREETS": "GAYFORD ST",
-                "SUBURBS": "ASPLEY",
+                "CUSTOMERS_AFFECTED": "59",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "9:28AM 21 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 21 Mar 2025",
+                "STREETS": "COOLANGATTA RD",
+                "SUBURBS": "COOLANGATTA",
                 "ETR_FLAG": "N"
             }
         },
@@ -279,111 +287,9 @@
                 "SUBURBS": "PIMPAMA",
                 "ETR_FLAG": "N"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.525549,
-                            -28.170476
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.52387,
-                                    -28.170723
-                                ],
-                                [
-                                    153.52515,
-                                    -28.17146
-                                ],
-                                [
-                                    153.525365,
-                                    -28.171529
-                                ],
-                                [
-                                    153.525755,
-                                    -28.171572
-                                ],
-                                [
-                                    153.526041,
-                                    -28.171529
-                                ],
-                                [
-                                    153.526329,
-                                    -28.171405
-                                ],
-                                [
-                                    153.526347,
-                                    -28.171397
-                                ],
-                                [
-                                    153.527131,
-                                    -28.171022
-                                ],
-                                [
-                                    153.52738,
-                                    -28.170503
-                                ],
-                                [
-                                    153.527249,
-                                    -28.170085
-                                ],
-                                [
-                                    153.52689,
-                                    -28.16977
-                                ],
-                                [
-                                    153.525248,
-                                    -28.169379
-                                ],
-                                [
-                                    153.524909,
-                                    -28.169403
-                                ],
-                                [
-                                    153.524089,
-                                    -28.169726
-                                ],
-                                [
-                                    153.523867,
-                                    -28.169895
-                                ],
-                                [
-                                    153.523718,
-                                    -28.170101
-                                ],
-                                [
-                                    153.52387,
-                                    -28.170723
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-849780-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "133",
-                "REASON": "Emergency Repairs",
-                "STATUS": "Awaiting",
-                "START": "9:28AM 21 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 21 Mar 2025",
-                "STREETS": "BOLTON ST, COOLANGATTA RD, OCEAN ST",
-                "SUBURBS": "COOLANGATTA",
-                "ETR_FLAG": "N"
-            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742514600.342021"
+    "extracted": "1742515800.299649"
 }
