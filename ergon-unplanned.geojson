@@ -197,6 +197,107 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.491427,
+                            -21.131292
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.486777,
+                                    -21.131666
+                                ],
+                                [
+                                    148.487371,
+                                    -21.13354
+                                ],
+                                [
+                                    148.487398,
+                                    -21.133606
+                                ],
+                                [
+                                    148.488293,
+                                    -21.135364
+                                ],
+                                [
+                                    148.488359,
+                                    -21.135459
+                                ],
+                                [
+                                    148.489551,
+                                    -21.136795
+                                ],
+                                [
+                                    148.490318,
+                                    -21.136759
+                                ],
+                                [
+                                    148.492635,
+                                    -21.133562
+                                ],
+                                [
+                                    148.492651,
+                                    -21.133538
+                                ],
+                                [
+                                    148.495383,
+                                    -21.129214
+                                ],
+                                [
+                                    148.495439,
+                                    -21.129079
+                                ],
+                                [
+                                    148.496077,
+                                    -21.126308
+                                ],
+                                [
+                                    148.495439,
+                                    -21.125789
+                                ],
+                                [
+                                    148.492635,
+                                    -21.126768
+                                ],
+                                [
+                                    148.492494,
+                                    -21.126844
+                                ],
+                                [
+                                    148.48693,
+                                    -21.13119
+                                ],
+                                [
+                                    148.486777,
+                                    -21.131666
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK2725",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "80",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "2:15PM 21 Mar 2025",
+                "EST_FIX_TIME": "5:30PM 21 Mar 2025",
+                "STREETS": "BEE CREEK RD, CHELMER ST, CUMMINGS ST, CUNNINGHAM ST, EUNGELLA DAM RD, HOWIE ST, JACK CUNNINGHAM ST, NORTH ST, RUSSELL CUNNINGHAM ST, SONNY BOY CREEK RD",
+                "SUBURBS": "DALRYMPLE HEIGHTS, EUNGELLA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.169363,
                             -23.540933
                         ]
@@ -507,102 +608,9 @@
                 "STREETS": "ALBRO RD, DEGULLA RD, OFF ALBRO RD, OFF FORRESTER RD",
                 "SUBURBS": "ALPHA, CLERMONT"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            145.696737,
-                            -16.889183
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.695441,
-                                    -16.889641
-                                ],
-                                [
-                                    145.69602,
-                                    -16.890229
-                                ],
-                                [
-                                    145.696457,
-                                    -16.89036
-                                ],
-                                [
-                                    145.697377,
-                                    -16.890174
-                                ],
-                                [
-                                    145.69751,
-                                    -16.890126
-                                ],
-                                [
-                                    145.697863,
-                                    -16.889937
-                                ],
-                                [
-                                    145.698103,
-                                    -16.889548
-                                ],
-                                [
-                                    145.698113,
-                                    -16.888894
-                                ],
-                                [
-                                    145.697957,
-                                    -16.888551
-                                ],
-                                [
-                                    145.697388,
-                                    -16.888059
-                                ],
-                                [
-                                    145.696836,
-                                    -16.888007
-                                ],
-                                [
-                                    145.695685,
-                                    -16.888663
-                                ],
-                                [
-                                    145.695504,
-                                    -16.888851
-                                ],
-                                [
-                                    145.69536,
-                                    -16.889129
-                                ],
-                                [
-                                    145.695441,
-                                    -16.889641
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN3810",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "92",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "10:33AM 21 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "HEDLEY CL, MARGARET ST, REDLYNCH INTAKE RD, SHORT ST",
-                "SUBURBS": "REDLYNCH"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742531400.99321"
+    "extracted": "1742532000.348667"
 }
