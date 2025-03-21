@@ -10,6 +10,99 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.449583,
+                            -24.973946
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.447603,
+                                    -24.973321
+                                ],
+                                [
+                                    152.447728,
+                                    -24.974775
+                                ],
+                                [
+                                    152.447755,
+                                    -24.974889
+                                ],
+                                [
+                                    152.448124,
+                                    -24.975841
+                                ],
+                                [
+                                    152.448813,
+                                    -24.976092
+                                ],
+                                [
+                                    152.451292,
+                                    -24.974945
+                                ],
+                                [
+                                    152.451562,
+                                    -24.974533
+                                ],
+                                [
+                                    152.45153,
+                                    -24.973277
+                                ],
+                                [
+                                    152.451528,
+                                    -24.973249
+                                ],
+                                [
+                                    152.451452,
+                                    -24.972448
+                                ],
+                                [
+                                    152.451334,
+                                    -24.972193
+                                ],
+                                [
+                                    152.451071,
+                                    -24.971915
+                                ],
+                                [
+                                    152.450493,
+                                    -24.9718
+                                ],
+                                [
+                                    152.447891,
+                                    -24.972876
+                                ],
+                                [
+                                    152.447603,
+                                    -24.973321
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB4120",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "15",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "7:41PM 21 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "FERN TREE DR, GUM TREE CT, PALM BEACH RD",
+                "SUBURBS": "COONARR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             147.254695,
                             -19.765087
                         ]
@@ -370,99 +463,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.449583,
-                            -24.973946
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.447603,
-                                    -24.973321
-                                ],
-                                [
-                                    152.447728,
-                                    -24.974775
-                                ],
-                                [
-                                    152.447755,
-                                    -24.974889
-                                ],
-                                [
-                                    152.448124,
-                                    -24.975841
-                                ],
-                                [
-                                    152.448813,
-                                    -24.976092
-                                ],
-                                [
-                                    152.451292,
-                                    -24.974945
-                                ],
-                                [
-                                    152.451562,
-                                    -24.974533
-                                ],
-                                [
-                                    152.45153,
-                                    -24.973277
-                                ],
-                                [
-                                    152.451528,
-                                    -24.973249
-                                ],
-                                [
-                                    152.451452,
-                                    -24.972448
-                                ],
-                                [
-                                    152.451334,
-                                    -24.972193
-                                ],
-                                [
-                                    152.451071,
-                                    -24.971915
-                                ],
-                                [
-                                    152.450493,
-                                    -24.9718
-                                ],
-                                [
-                                    152.447891,
-                                    -24.972876
-                                ],
-                                [
-                                    152.447603,
-                                    -24.973321
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB4120",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "15",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
-                "START": "7:41PM 21 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "FERN TREE DR, GUM TREE CT, PALM BEACH RD",
-                "SUBURBS": "COONARR"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -519,5 +519,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742552104.566993"
+    "extracted": "1742552701.561598"
 }
