@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.254695,
-                            -19.765087
+                            148.031578,
+                            -27.113207
                         ]
                     },
                     {
@@ -19,32 +19,64 @@
                         "coordinates": [
                             [
                                 [
-                                    147.255837,
-                                    -19.764913
+                                    147.823156,
+                                    -27.128657
                                 ],
                                 [
-                                    147.253804,
-                                    -19.764389
+                                    147.917475,
+                                    -27.305797
                                 ],
                                 [
-                                    147.253218,
-                                    -19.764706
+                                    147.918209,
+                                    -27.30598
                                 ],
                                 [
-                                    147.253553,
-                                    -19.765261
+                                    148.187264,
+                                    -27.147148
                                 ],
                                 [
-                                    147.255586,
-                                    -19.765785
+                                    148.187455,
+                                    -27.146939
                                 ],
                                 [
-                                    147.256172,
-                                    -19.765468
+                                    148.239996,
+                                    -27.028707
                                 ],
                                 [
-                                    147.255837,
-                                    -19.764913
+                                    148.239999,
+                                    -27.02838
+                                ],
+                                [
+                                    148.238914,
+                                    -27.025814
+                                ],
+                                [
+                                    148.238723,
+                                    -27.025599
+                                ],
+                                [
+                                    148.063223,
+                                    -26.920445
+                                ],
+                                [
+                                    148.062682,
+                                    -26.920434
+                                ],
+                                [
+                                    148.011097,
+                                    -26.948412
+                                ],
+                                [
+                                    148.01099,
+                                    -26.94849
+                                ],
+                                [
+                                    147.823244,
+                                    -27.128154
+                                ],
+                                [
+                                    147.823156,
+                                    -27.128657
                                 ]
                             ]
                         ]
@@ -52,15 +84,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4471",
+                "EVENT_ID": "25SW5101",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "9:24AM 19 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
-                "STREETS": "KIRKNIE RD",
-                "SUBURBS": "HOME HILL"
+                "CUSTOMERS_AFFECTED": "30",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews on route",
+                "START": "12:53AM 23 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ALBANY DOWNS RD, AVALON-TOCAL-BALFORD RD, BRIDGEMAN DOWNS RD, BUDGERI RD, DUNKELD RD, EAST MARANOA RD, FOYLEVIEW RD, MIDDLE RD, MITCHELL ST GEORGE RD, MYOLA RD, V GATE LANE",
+                "SUBURBS": "MITCHELL"
             }
         },
         {
@@ -126,6 +158,67 @@
                 "EST_FIX_TIME": "9:30AM 31 Mar 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            147.254695,
+                            -19.765087
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ],
+                                [
+                                    147.253804,
+                                    -19.764389
+                                ],
+                                [
+                                    147.253218,
+                                    -19.764706
+                                ],
+                                [
+                                    147.253553,
+                                    -19.765261
+                                ],
+                                [
+                                    147.255586,
+                                    -19.765785
+                                ],
+                                [
+                                    147.256172,
+                                    -19.765468
+                                ],
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4471",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "9:24AM 19 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
+                "STREETS": "KIRKNIE RD",
+                "SUBURBS": "HOME HILL"
             }
         },
         {
@@ -251,99 +344,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BRAESIDE RD, COLLAROY KILLARNEY RD, COLLAROY TIERAWOOMBA RD, CONNORS RIVER COLLAROY RD, LOTUS CREEK RD, MARLBOROUGH SARINA RD, MARLBOROUGH-SARINA RD, MOUNTAIN VIEW RD, MT SCOTT RD, NEW YARD RD, OXFORD DOWNS SARINA RD, OXFORD-DOWNS SARINA RD, PEAK DOWNS HWY, SALTBUSH PARK RD, SARINA MARLBOROUGH RD, SARINA NEBO RD, TIERAWOOMBA RD, WAITARA RD",
                 "SUBURBS": "COLLAROY, COLSTON PARK, CONNORS RIVER, LOTUS CREEK, MARLBOROUGH, NEBO, OXFORD, TIERAWOOMBA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.031578,
-                            -27.113207
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.823156,
-                                    -27.128657
-                                ],
-                                [
-                                    147.917475,
-                                    -27.305797
-                                ],
-                                [
-                                    147.918209,
-                                    -27.30598
-                                ],
-                                [
-                                    148.187264,
-                                    -27.147148
-                                ],
-                                [
-                                    148.187455,
-                                    -27.146939
-                                ],
-                                [
-                                    148.239996,
-                                    -27.028707
-                                ],
-                                [
-                                    148.239999,
-                                    -27.02838
-                                ],
-                                [
-                                    148.238914,
-                                    -27.025814
-                                ],
-                                [
-                                    148.238723,
-                                    -27.025599
-                                ],
-                                [
-                                    148.063223,
-                                    -26.920445
-                                ],
-                                [
-                                    148.062682,
-                                    -26.920434
-                                ],
-                                [
-                                    148.011097,
-                                    -26.948412
-                                ],
-                                [
-                                    148.01099,
-                                    -26.94849
-                                ],
-                                [
-                                    147.823244,
-                                    -27.128154
-                                ],
-                                [
-                                    147.823156,
-                                    -27.128657
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5101",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "30",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
-                "START": "12:53AM 23 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ALBANY DOWNS RD, AVALON-TOCAL-BALFORD RD, BRIDGEMAN DOWNS RD, BUDGERI RD, DUNKELD RD, EAST MARANOA RD, FOYLEVIEW RD, MIDDLE RD, MITCHELL ST GEORGE RD, MYOLA RD, V GATE LANE",
-                "SUBURBS": "MITCHELL"
             }
         },
         {
@@ -616,5 +616,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742681706.851633"
+    "extracted": "1742682301.14861"
 }
