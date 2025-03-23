@@ -72,6 +72,92 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.634013,
+                            -27.682961
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.613333,
+                                    -27.672854
+                                ],
+                                [
+                                    152.624415,
+                                    -27.705001
+                                ],
+                                [
+                                    152.625265,
+                                    -27.705182
+                                ],
+                                [
+                                    152.637038,
+                                    -27.694328
+                                ],
+                                [
+                                    152.637114,
+                                    -27.694237
+                                ],
+                                [
+                                    152.654693,
+                                    -27.666664
+                                ],
+                                [
+                                    152.654417,
+                                    -27.666014
+                                ],
+                                [
+                                    152.637153,
+                                    -27.660748
+                                ],
+                                [
+                                    152.63685,
+                                    -27.660741
+                                ],
+                                [
+                                    152.619409,
+                                    -27.665158
+                                ],
+                                [
+                                    152.619136,
+                                    -27.665329
+                                ],
+                                [
+                                    152.613405,
+                                    -27.672459
+                                ],
+                                [
+                                    152.613333,
+                                    -27.672854
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-850268-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "48",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "6:35PM 23 Mar 2025",
+                "EST_FIX_TIME": "9:30PM 23 Mar 2025",
+                "STREETS": "BERGMANS RD, COCKS RD, COOPERS RD, EBENEZER RD, HIGGS RD, LANES RD, M HINES RD, PAYNES RD, TURNBULL RD, WILKES RD",
+                "SUBURBS": "EBENEZER, MOUNT FORBES",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.034387,
                             -27.431794
                         ]
@@ -169,5 +255,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742718301.600355"
+    "extracted": "1742718901.172142"
 }
