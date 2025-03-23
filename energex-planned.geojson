@@ -29,6 +29,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    152.964457,
+                    -27.411917
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-825878-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Cancelled",
+                "START": "8:00AM 23 Mar 2025",
+                "EST_FIX_TIME": "3:00PM 23 Mar 2025",
+                "STREETS": "TALTARNI CCT",
+                "SUBURBS": "MITCHELTON",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.291632,
+                    -27.55511
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-824533-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "15",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Cancelled",
+                "START": "7:00PM 23 Mar 2025",
+                "EST_FIX_TIME": "3:00AM 24 Mar 2025",
+                "STREETS": "EASTERN DR, GATTON-HELIDON RD, WARREGO HWY",
+                "SUBURBS": "GATTON",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.266738,
                     -27.532359
                 ]
@@ -65,50 +109,6 @@
                 "EST_FIX_TIME": "3:30PM 23 Mar 2025",
                 "STREETS": "MOY POCKET GAP RD, MOY POCKET RD, OLD MOY POCKET RD, SUTTON LANE, WALKER RD, WILCOX RD",
                 "SUBURBS": "GHEERULLA, KENILWORTH, MOY POCKET",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    152.291632,
-                    -27.55511
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-824533-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "15",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Cancelled",
-                "START": "7:00PM 23 Mar 2025",
-                "EST_FIX_TIME": "3:00AM 24 Mar 2025",
-                "STREETS": "EASTERN DR, GATTON-HELIDON RD, WARREGO HWY",
-                "SUBURBS": "GATTON",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    152.964457,
-                    -27.411917
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-825878-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Cancelled",
-                "START": "8:00AM 23 Mar 2025",
-                "EST_FIX_TIME": "3:00PM 23 Mar 2025",
-                "STREETS": "TALTARNI CCT",
-                "SUBURBS": "MITCHELTON",
                 "ETR_FLAG": "N"
             }
         },
@@ -181,5 +181,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742736604.607419"
+    "extracted": "1742737201.600361"
 }
