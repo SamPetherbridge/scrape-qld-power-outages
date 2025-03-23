@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            149.385501,
-                            -24.210571
+                            146.207433,
+                            -18.981624
                         ]
                     },
                     {
@@ -19,52 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    149.372649,
-                                    -24.229739
+                                    146.217416,
+                                    -18.982893
                                 ],
                                 [
-                                    149.385893,
-                                    -24.236149
+                                    146.197621,
+                                    -18.979466
                                 ],
                                 [
-                                    149.38647,
-                                    -24.23607
+                                    146.197069,
+                                    -18.97983
                                 ],
                                 [
-                                    149.386667,
-                                    -24.23589
+                                    146.197451,
+                                    -18.980355
                                 ],
                                 [
-                                    149.386801,
-                                    -24.235665
+                                    146.217246,
+                                    -18.983782
                                 ],
                                 [
-                                    149.398583,
-                                    -24.185501
+                                    146.217798,
+                                    -18.983418
                                 ],
                                 [
-                                    149.398303,
-                                    -24.184994
-                                ],
-                                [
-                                    149.397705,
-                                    -24.185139
-                                ],
-                                [
-                                    149.383279,
-                                    -24.203214
-                                ],
-                                [
-                                    149.383217,
-                                    -24.203319
-                                ],
-                                [
-                                    149.372419,
-                                    -24.229178
-                                ],
-                                [
-                                    149.372649,
-                                    -24.229739
+                                    146.217416,
+                                    -18.982893
                                 ]
                             ]
                         ]
@@ -72,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA5487",
+                "EVENT_ID": "25NQ1993",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "7",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "2:35PM 23 Mar 2025",
-                "EST_FIX_TIME": "6:00PM 23 Mar 2025",
-                "STREETS": "CENTRAL CREEK RD, MIMOSA CK RD, MUNNS DR",
-                "SUBURBS": "WOORABINDA"
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 11 Apr 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
             }
         },
         {
@@ -503,70 +483,9 @@
                 "STREETS": "BLAKNEY RD, BOONMOO RD, BULLABURRAH CREEK RD, BURKE DEVELOPMENT RD, CARBONATE CREEK RD, DARRELL RD, EUREKA CREEK RD, FABRIS RD, LEAFGOLD RD, LEAFGOLD WEIR RD, PARISE RD, PETFORD RD, RALEIGH ST, STOKES RD, TOP EUREKA CREEK RD, TOP EUREKA RD, UNKNOWN ST, WOLFRAM RD",
                 "SUBURBS": "DIMBULAH, LEAFGOLD, SOLANUM"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.207433,
-                            -18.981624
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ],
-                                [
-                                    146.197621,
-                                    -18.979466
-                                ],
-                                [
-                                    146.197069,
-                                    -18.97983
-                                ],
-                                [
-                                    146.197451,
-                                    -18.980355
-                                ],
-                                [
-                                    146.217246,
-                                    -18.983782
-                                ],
-                                [
-                                    146.217798,
-                                    -18.983418
-                                ],
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ1993",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 11 Apr 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742709301.071125"
+    "extracted": "1742709901.41292"
 }
