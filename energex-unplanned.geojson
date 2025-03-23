@@ -10,6 +10,84 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.403128,
+                            -28.20955
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.396632,
+                                    -28.204975
+                                ],
+                                [
+                                    153.399874,
+                                    -28.214457
+                                ],
+                                [
+                                    153.400639,
+                                    -28.214705
+                                ],
+                                [
+                                    153.408909,
+                                    -28.209957
+                                ],
+                                [
+                                    153.409074,
+                                    -28.209803
+                                ],
+                                [
+                                    153.409624,
+                                    -28.208953
+                                ],
+                                [
+                                    153.409383,
+                                    -28.208314
+                                ],
+                                [
+                                    153.399838,
+                                    -28.204667
+                                ],
+                                [
+                                    153.399691,
+                                    -28.204633
+                                ],
+                                [
+                                    153.397174,
+                                    -28.204395
+                                ],
+                                [
+                                    153.396632,
+                                    -28.204975
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-850309-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "23",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "5:56AM 24 Mar 2025",
+                "EST_FIX_TIME": "9:00AM 24 Mar 2025",
+                "STREETS": "BAINS RD, TAYLORS LANE, TOMEWIN MOUNTAIN RD",
+                "SUBURBS": "CURRUMBIN VALLEY",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.161987,
                             -27.649582
                         ]
@@ -119,149 +197,9 @@
                 "SUBURBS": "SHAILER PARK",
                 "ETR_FLAG": "N"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.403128,
-                            -28.20955
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.396632,
-                                    -28.204975
-                                ],
-                                [
-                                    153.399874,
-                                    -28.214457
-                                ],
-                                [
-                                    153.400639,
-                                    -28.214705
-                                ],
-                                [
-                                    153.408909,
-                                    -28.209957
-                                ],
-                                [
-                                    153.409074,
-                                    -28.209803
-                                ],
-                                [
-                                    153.409624,
-                                    -28.208953
-                                ],
-                                [
-                                    153.409383,
-                                    -28.208314
-                                ],
-                                [
-                                    153.399838,
-                                    -28.204667
-                                ],
-                                [
-                                    153.399691,
-                                    -28.204633
-                                ],
-                                [
-                                    153.397174,
-                                    -28.204395
-                                ],
-                                [
-                                    153.396632,
-                                    -28.204975
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-850309-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "23",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "5:56AM 24 Mar 2025",
-                "EST_FIX_TIME": "9:00AM 24 Mar 2025",
-                "STREETS": "BAINS RD, TAYLORS LANE, TOMEWIN MOUNTAIN RD",
-                "SUBURBS": "CURRUMBIN VALLEY",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.112317,
-                            -26.793578
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.11266,
-                                    -26.793161
-                                ],
-                                [
-                                    153.112095,
-                                    -26.7931
-                                ],
-                                [
-                                    153.111535,
-                                    -26.793493
-                                ],
-                                [
-                                    153.111974,
-                                    -26.793996
-                                ],
-                                [
-                                    153.112539,
-                                    -26.794057
-                                ],
-                                [
-                                    153.113099,
-                                    -26.793663
-                                ],
-                                [
-                                    153.11266,
-                                    -26.793161
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-850313-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "Emergency Repairs",
-                "STATUS": "Awaiting",
-                "START": "6:24AM 24 Mar 2025",
-                "EST_FIX_TIME": "9:00AM 24 Mar 2025",
-                "STREETS": "ENTERPRISE ST",
-                "SUBURBS": "CALOUNDRA WEST",
-                "ETR_FLAG": "N"
-            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742765700.344935"
+    "extracted": "1742766301.386787"
 }
