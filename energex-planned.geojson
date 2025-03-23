@@ -51,28 +51,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.964457,
-                    -27.411917
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-825878-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Cancelled",
-                "START": "8:00AM 23 Mar 2025",
-                "EST_FIX_TIME": "3:00PM 23 Mar 2025",
-                "STREETS": "TALTARNI CCT",
-                "SUBURBS": "MITCHELTON",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     152.293786,
                     -27.558655
                 ]
@@ -161,6 +139,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    152.964457,
+                    -27.411917
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-825878-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Cancelled",
+                "START": "8:00AM 23 Mar 2025",
+                "EST_FIX_TIME": "3:00PM 23 Mar 2025",
+                "STREETS": "TALTARNI CCT",
+                "SUBURBS": "MITCHELTON",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.002092,
                     -27.474078
                 ]
@@ -181,5 +181,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742703001.322442"
+    "extracted": "1742703601.458251"
 }
