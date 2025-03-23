@@ -10,6 +10,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            149.266173,
+                            -21.371911
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    149.260733,
+                                    -21.370518
+                                ],
+                                [
+                                    149.268388,
+                                    -21.375078
+                                ],
+                                [
+                                    149.269087,
+                                    -21.374881
+                                ],
+                                [
+                                    149.271699,
+                                    -21.369377
+                                ],
+                                [
+                                    149.271217,
+                                    -21.368744
+                                ],
+                                [
+                                    149.261086,
+                                    -21.369559
+                                ],
+                                [
+                                    149.260782,
+                                    -21.369692
+                                ],
+                                [
+                                    149.260648,
+                                    -21.369821
+                                ],
+                                [
+                                    149.260733,
+                                    -21.370518
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK2743",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews on route",
+                "START": "6:36PM 22 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "GRASSTREE RD, SARINA BEACH RD",
+                "SUBURBS": "SARINA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             147.254695,
                             -19.765087
                         ]
@@ -61,71 +130,6 @@
                 "EST_FIX_TIME": "4:00PM 28 Mar 2025",
                 "STREETS": "KIRKNIE RD",
                 "SUBURBS": "HOME HILL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -261,8 +265,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            149.266173,
-                            -21.371911
+                            148.699115,
+                            -21.127962
                         ]
                     },
                     {
@@ -270,40 +274,36 @@
                         "coordinates": [
                             [
                                 [
-                                    149.260733,
-                                    -21.370518
+                                    148.697564,
+                                    -21.128178
                                 ],
                                 [
-                                    149.268388,
-                                    -21.375078
+                                    148.700208,
+                                    -21.128945
                                 ],
                                 [
-                                    149.269087,
-                                    -21.374881
+                                    148.700826,
+                                    -21.128582
                                 ],
                                 [
-                                    149.271699,
-                                    -21.369377
+                                    148.701003,
+                                    -21.127495
                                 ],
                                 [
-                                    149.271217,
-                                    -21.368744
+                                    148.700469,
+                                    -21.126979
                                 ],
                                 [
-                                    149.261086,
-                                    -21.369559
+                                    148.697649,
+                                    -21.127299
                                 ],
                                 [
-                                    149.260782,
-                                    -21.369692
+                                    148.697227,
+                                    -21.127706
                                 ],
                                 [
-                                    149.260648,
-                                    -21.369821
-                                ],
-                                [
-                                    149.260733,
-                                    -21.370518
+                                    148.697564,
+                                    -21.128178
                                 ]
                             ]
                         ]
@@ -311,15 +311,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK2743",
+                "EVENT_ID": "25MK1119",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
-                "START": "6:36PM 22 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "GRASSTREE RD, SARINA BEACH RD",
-                "SUBURBS": "SARINA"
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -448,7 +448,7 @@
                         "type": "Point",
                         "coordinates": [
                             148.031578,
-                            -27.113207
+                            -27.156573
                         ]
                     },
                     {
@@ -488,28 +488,20 @@
                                     -27.025814
                                 ],
                                 [
-                                    148.238723,
-                                    -27.025599
+                                    148.238505,
+                                    -27.025526
                                 ],
                                 [
-                                    148.063223,
-                                    -26.920445
+                                    148.074599,
+                                    -27.007166
                                 ],
                                 [
-                                    148.062682,
-                                    -26.920434
+                                    148.074297,
+                                    -27.007217
                                 ],
                                 [
-                                    148.011097,
-                                    -26.948412
-                                ],
-                                [
-                                    148.01099,
-                                    -26.94849
-                                ],
-                                [
-                                    147.823244,
-                                    -27.128154
+                                    147.823373,
+                                    -27.128065
                                 ],
                                 [
                                     147.823156,
@@ -524,11 +516,11 @@
                 "EVENT_ID": "25SW5101",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "30",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Crews working on-site",
                 "START": "12:53AM 23 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ALBANY DOWNS RD, AVALON-TOCAL-BALFORD RD, BRIDGEMAN DOWNS RD, BUDGERI RD, DUNKELD RD, EAST MARANOA RD, FOYLEVIEW RD, MIDDLE RD, MITCHELL ST GEORGE RD, MYOLA RD, V GATE LANE",
+                "STREETS": "ALBANY DOWNS RD, AVALON-TOCAL-BALFORD RD, BRIDGEMAN DOWNS RD, BUDGERI RD, EAST MARANOA RD, FOYLEVIEW RD, MIDDLE RD, MITCHELL ST GEORGE RD, MYOLA RD",
                 "SUBURBS": "MITCHELL"
             }
         },
@@ -592,98 +584,9 @@
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            142.704369,
-                            -25.296759
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    142.660967,
-                                    -25.404305
-                                ],
-                                [
-                                    142.660852,
-                                    -25.411423
-                                ],
-                                [
-                                    142.661271,
-                                    -25.411875
-                                ],
-                                [
-                                    142.663273,
-                                    -25.412162
-                                ],
-                                [
-                                    142.663626,
-                                    -25.412091
-                                ],
-                                [
-                                    142.747677,
-                                    -25.360792
-                                ],
-                                [
-                                    142.747885,
-                                    -25.360323
-                                ],
-                                [
-                                    142.740133,
-                                    -25.327716
-                                ],
-                                [
-                                    142.740114,
-                                    -25.327655
-                                ],
-                                [
-                                    142.680792,
-                                    -25.181646
-                                ],
-                                [
-                                    142.680259,
-                                    -25.181356
-                                ],
-                                [
-                                    142.679834,
-                                    -25.181767
-                                ],
-                                [
-                                    142.660968,
-                                    -25.404277
-                                ],
-                                [
-                                    142.660967,
-                                    -25.404305
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA5483",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "12:37AM 23 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "DIAMANTINA DEVELOPMENT RD, QUILPIE RD, UNKNOWN ST, WINDORAH JUNDAH RD, WINDORAH-QUILPIE RD",
-                "SUBURBS": "WINDORAH"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742689805.787054"
+    "extracted": "1742691301.53733"
 }
