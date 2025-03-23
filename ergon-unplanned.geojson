@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.186654,
-                            -20.0901
+                            151.828856,
+                            -26.402854
                         ]
                     },
                     {
@@ -19,56 +19,24 @@
                         "coordinates": [
                             [
                                 [
-                                    148.166748,
-                                    -20.086488
+                                    151.829356,
+                                    -26.402837
                                 ],
                                 [
-                                    148.171706,
-                                    -20.092485
+                                    151.828837,
+                                    -26.402404
                                 ],
                                 [
-                                    148.171919,
-                                    -20.092631
+                                    151.828356,
+                                    -26.402871
                                 ],
                                 [
-                                    148.205375,
-                                    -20.104133
+                                    151.828875,
+                                    -26.403304
                                 ],
                                 [
-                                    148.206012,
-                                    -20.103773
-                                ],
-                                [
-                                    148.206656,
-                                    -20.09959
-                                ],
-                                [
-                                    148.206505,
-                                    -20.099191
-                                ],
-                                [
-                                    148.179738,
-                                    -20.076159
-                                ],
-                                [
-                                    148.179256,
-                                    -20.076067
-                                ],
-                                [
-                                    148.1679,
-                                    -20.079889
-                                ],
-                                [
-                                    148.167587,
-                                    -20.080248
-                                ],
-                                [
-                                    148.166652,
-                                    -20.086143
-                                ],
-                                [
-                                    148.166748,
-                                    -20.086488
+                                    151.829356,
+                                    -26.402837
                                 ]
                             ]
                         ]
@@ -76,15 +44,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4626",
+                "EVENT_ID": "25WB4134",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "26",
-                "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
                 "STATUS": "Crews working on-site",
-                "START": "5:39AM 24 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BOOTOOLOO RD, PETER DELAMOTHE RD, POLICE CAMP RD, THOMAS RD, WOODHOUSE RD",
-                "SUBURBS": "BOWEN"
+                "START": "6:34AM 24 Mar 2025",
+                "EST_FIX_TIME": "9:30AM 24 Mar 2025",
+                "STREETS": "SPORTSGROUND RD",
+                "SUBURBS": "WOOROOLIN"
             }
         },
         {
@@ -212,71 +180,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             150.120447,
                             -24.300626
                         ]
@@ -364,7 +267,7 @@
                 "CUSTOMERS_AFFECTED": "15",
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
-                "START": "9:00AM 24 Mar 2025",
+                "START": "8:48AM 24 Mar 2025",
                 "EST_FIX_TIME": "3:00PM 24 Mar 2025",
                 "STREETS": "BELLDEEN DEFENCE RD, FAIRVIEW RD, LEICHHARDT HWY",
                 "SUBURBS": "BANANA"
@@ -538,6 +441,91 @@
                 "EST_FIX_TIME": "4:00PM 28 Mar 2025",
                 "STREETS": "KIRKNIE RD",
                 "SUBURBS": "HOME HILL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.186654,
+                            -20.0901
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.166748,
+                                    -20.086488
+                                ],
+                                [
+                                    148.171706,
+                                    -20.092485
+                                ],
+                                [
+                                    148.171919,
+                                    -20.092631
+                                ],
+                                [
+                                    148.205375,
+                                    -20.104133
+                                ],
+                                [
+                                    148.206012,
+                                    -20.103773
+                                ],
+                                [
+                                    148.206656,
+                                    -20.09959
+                                ],
+                                [
+                                    148.206505,
+                                    -20.099191
+                                ],
+                                [
+                                    148.179738,
+                                    -20.076159
+                                ],
+                                [
+                                    148.179256,
+                                    -20.076067
+                                ],
+                                [
+                                    148.1679,
+                                    -20.079889
+                                ],
+                                [
+                                    148.167587,
+                                    -20.080248
+                                ],
+                                [
+                                    148.166652,
+                                    -20.086143
+                                ],
+                                [
+                                    148.166748,
+                                    -20.086488
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4626",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "26",
+                "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+                "STATUS": "Crews working on-site",
+                "START": "5:39AM 24 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BOOTOOLOO RD, PETER DELAMOTHE RD, POLICE CAMP RD, THOMAS RD, WOODHOUSE RD",
+                "SUBURBS": "BOWEN"
             }
         },
         {
@@ -836,59 +824,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.828856,
-                            -26.402854
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.829356,
-                                    -26.402837
-                                ],
-                                [
-                                    151.828837,
-                                    -26.402404
-                                ],
-                                [
-                                    151.828356,
-                                    -26.402871
-                                ],
-                                [
-                                    151.828875,
-                                    -26.403304
-                                ],
-                                [
-                                    151.829356,
-                                    -26.402837
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB4134",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "6:34AM 24 Mar 2025",
-                "EST_FIX_TIME": "9:30AM 24 Mar 2025",
-                "STREETS": "SPORTSGROUND RD",
-                "SUBURBS": "WOOROOLIN"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             145.730049,
                             -16.909396
                         ]
@@ -953,9 +888,74 @@
                 "STREETS": "BROOKS ST, MCMANUS ST, ORMSBY CL, TURNER ST, WINFIELD ST",
                 "SUBURBS": "WHITFIELD"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742770500.28081"
+    "extracted": "1742771100.321171"
 }
