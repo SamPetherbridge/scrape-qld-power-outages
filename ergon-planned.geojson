@@ -7,20 +7,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    148.617409,
-                    -20.590674
+                    151.884388,
+                    -28.837266
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK1673",
+                "EVENT_ID": "25SW3547",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "14",
-                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+                "CUSTOMERS_AFFECTED": "110",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
                 "STATUS": "Crews working on-site",
-                "START": "8:47AM 23 Mar 2025",
-                "EST_FIX_TIME": "3:00PM 23 Mar 2025",
-                "STREETS": "BRUCE HWY, THOMSETTS RD",
-                "SUBURBS": "BLOOMSBURY"
+                "START": "8:30AM 23 Mar 2025",
+                "EST_FIX_TIME": "2:30PM 23 Mar 2025",
+                "STREETS": "ANDERSON RD, COSTANZO LANE, CURTIN RD, DAYS RD, FERRIS LANE, HINDMARSH RD, JACOBSENS LANE, KANGA LANE, MCDONAGH RD, NEW ENGLAND HWY, PYRAMIDS RD, REES RD, SAXBY RD, WRENS LANE, WRIGHT LANE, WYBERBA LANE",
+                "SUBURBS": "BALLANDEAN, LYRA, WYBERBA"
             }
         },
         {
@@ -49,6 +49,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    148.617409,
+                    -20.590674
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1673",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "14",
+                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+                "STATUS": "Crews working on-site",
+                "START": "8:47AM 23 Mar 2025",
+                "EST_FIX_TIME": "3:00PM 23 Mar 2025",
+                "STREETS": "BRUCE HWY, THOMSETTS RD",
+                "SUBURBS": "BLOOMSBURY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.916792,
                     -27.589261
                 ]
@@ -64,30 +85,9 @@
                 "STREETS": "ANZAC AVE, BALL ST, MURDOCH ST",
                 "SUBURBS": "DRAYTON, HARRISTOWN, TOOWOOMBA"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.884388,
-                    -28.837266
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW3547",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "110",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:30AM 23 Mar 2025",
-                "EST_FIX_TIME": "2:30PM 23 Mar 2025",
-                "STREETS": "ANDERSON RD, COSTANZO LANE, CURTIN RD, DAYS RD, FERRIS LANE, HINDMARSH RD, JACOBSENS LANE, KANGA LANE, MCDONAGH RD, NEW ENGLAND HWY, PYRAMIDS RD, REES RD, SAXBY RD, WRENS LANE, WRIGHT LANE, WYBERBA LANE",
-                "SUBURBS": "BALLANDEAN, LYRA, WYBERBA"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742700901.366639"
+    "extracted": "1742701505.792527"
 }
