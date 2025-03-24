@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.859978,
-                            -20.124702
+                            146.705684,
+                            -19.395469
                         ]
                     },
                     {
@@ -19,48 +19,40 @@
                         "coordinates": [
                             [
                                 [
-                                    147.790242,
-                                    -20.303989
+                                    146.704974,
+                                    -19.395558
                                 ],
                                 [
-                                    147.853135,
-                                    -20.301065
+                                    146.705495,
+                                    -19.396941
                                 ],
                                 [
-                                    147.853558,
-                                    -20.300775
+                                    146.706052,
+                                    -19.397229
                                 ],
                                 [
-                                    147.930192,
-                                    -20.1111
+                                    146.706416,
+                                    -19.396736
                                 ],
                                 [
-                                    147.930215,
-                                    -20.110855
+                                    146.706087,
+                                    -19.394108
                                 ],
                                 [
-                                    147.897206,
-                                    -19.945628
+                                    146.70562,
+                                    -19.393709
                                 ],
                                 [
-                                    147.896375,
-                                    -19.945415
+                                    146.705143,
+                                    -19.394096
                                 ],
                                 [
-                                    147.817618,
-                                    -20.031074
+                                    146.704952,
+                                    -19.395341
                                 ],
                                 [
-                                    147.817502,
-                                    -20.031327
-                                ],
-                                [
-                                    147.789742,
-                                    -20.303495
-                                ],
-                                [
-                                    147.790242,
-                                    -20.303989
+                                    146.704974,
+                                    -19.395558
                                 ]
                             ]
                         ]
@@ -68,15 +60,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4665",
+                "EVENT_ID": "25NQ4651",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "20",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
                 "STATUS": "Work delayed - crews unable to continue",
-                "START": "5:26PM 24 Mar 2025",
+                "START": "10:48AM 24 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BRUCE HWY N, GLENALPINE STATION, GLENORE STATION, MOUNTAIN VIEW STATION, NEVADA STATION, PETER DELAMOTHE RD, SNEAKY HILLS RD, STRATHALBYN RD, THURSO RD, THURSO STATION, WHITE KANGAROO STATION",
-                "SUBURBS": "BINBEE, BOGIE, BOWEN, GUTHALUNGRA"
+                "STREETS": "LATVIAN CT",
+                "SUBURBS": "KELSO"
             }
         },
         {
@@ -152,6 +144,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.254695,
+                            -19.765087
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ],
+                                [
+                                    147.253804,
+                                    -19.764389
+                                ],
+                                [
+                                    147.253218,
+                                    -19.764706
+                                ],
+                                [
+                                    147.253553,
+                                    -19.765261
+                                ],
+                                [
+                                    147.255586,
+                                    -19.765785
+                                ],
+                                [
+                                    147.256172,
+                                    -19.765468
+                                ],
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4471",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "9:24AM 19 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
+                "STREETS": "KIRKNIE RD",
+                "SUBURBS": "HOME HILL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             140.067668,
                             -20.790619
                         ]
@@ -215,67 +268,6 @@
                 "EST_FIX_TIME": "2:00PM 25 Mar 2025",
                 "STREETS": "AMAROO COTTAGE, BARKLY HWY, MARY KATHLEEN RD, ROSEBUD STATION",
                 "SUBURBS": "CLONCURRY, MARY KATHLEEN, MOUNT ISA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.254695,
-                            -19.765087
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.255837,
-                                    -19.764913
-                                ],
-                                [
-                                    147.253804,
-                                    -19.764389
-                                ],
-                                [
-                                    147.253218,
-                                    -19.764706
-                                ],
-                                [
-                                    147.253553,
-                                    -19.765261
-                                ],
-                                [
-                                    147.255586,
-                                    -19.765785
-                                ],
-                                [
-                                    147.256172,
-                                    -19.765468
-                                ],
-                                [
-                                    147.255837,
-                                    -19.764913
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ4471",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "9:24AM 19 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
-                "STREETS": "KIRKNIE RD",
-                "SUBURBS": "HOME HILL"
             }
         },
         {
@@ -403,8 +395,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.705684,
-                            -19.395469
+                            147.859978,
+                            -20.124702
                         ]
                     },
                     {
@@ -412,40 +404,48 @@
                         "coordinates": [
                             [
                                 [
-                                    146.704974,
-                                    -19.395558
+                                    147.790242,
+                                    -20.303989
                                 ],
                                 [
-                                    146.705495,
-                                    -19.396941
+                                    147.853135,
+                                    -20.301065
                                 ],
                                 [
-                                    146.706052,
-                                    -19.397229
+                                    147.853558,
+                                    -20.300775
                                 ],
                                 [
-                                    146.706416,
-                                    -19.396736
+                                    147.930192,
+                                    -20.1111
                                 ],
                                 [
-                                    146.706087,
-                                    -19.394108
+                                    147.930215,
+                                    -20.110855
                                 ],
                                 [
-                                    146.70562,
-                                    -19.393709
+                                    147.897206,
+                                    -19.945628
                                 ],
                                 [
-                                    146.705143,
-                                    -19.394096
+                                    147.896375,
+                                    -19.945415
                                 ],
                                 [
-                                    146.704952,
-                                    -19.395341
+                                    147.817618,
+                                    -20.031074
                                 ],
                                 [
-                                    146.704974,
-                                    -19.395558
+                                    147.817502,
+                                    -20.031327
+                                ],
+                                [
+                                    147.789742,
+                                    -20.303495
+                                ],
+                                [
+                                    147.790242,
+                                    -20.303989
                                 ]
                             ]
                         ]
@@ -453,15 +453,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4651",
+                "EVENT_ID": "25NQ4665",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+                "CUSTOMERS_AFFECTED": "20",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Work delayed - crews unable to continue",
-                "START": "10:48AM 24 Mar 2025",
+                "START": "5:26PM 24 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "LATVIAN CT",
-                "SUBURBS": "KELSO"
+                "STREETS": "BRUCE HWY N, GLENALPINE STATION, GLENORE STATION, MOUNTAIN VIEW STATION, NEVADA STATION, PETER DELAMOTHE RD, SNEAKY HILLS RD, STRATHALBYN RD, THURSO RD, THURSO STATION, WHITE KANGAROO STATION",
+                "SUBURBS": "BINBEE, BOGIE, BOWEN, GUTHALUNGRA"
             }
         },
         {
@@ -533,8 +533,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.995697,
-                            -17.508161
+                            145.108183,
+                            -22.783104
                         ]
                     },
                     {
@@ -542,52 +542,80 @@
                         "coordinates": [
                             [
                                 [
-                                    145.980925,
-                                    -17.526968
+                                    143.949161,
+                                    -22.31651
                                 ],
                                 [
-                                    146.006889,
-                                    -17.512508
+                                    143.95264,
+                                    -22.328946
                                 ],
                                 [
-                                    146.007036,
-                                    -17.51238
+                                    143.952759,
+                                    -22.329144
                                 ],
                                 [
-                                    146.011065,
-                                    -17.506969
+                                    145.052772,
+                                    -23.391212
                                 ],
                                 [
-                                    146.011149,
-                                    -17.50665
+                                    145.052839,
+                                    -23.391265
                                 ],
                                 [
-                                    146.010761,
-                                    -17.503711
+                                    145.296369,
+                                    -23.552149
                                 ],
                                 [
-                                    146.010612,
-                                    -17.503434
+                                    145.297046,
+                                    -23.552052
                                 ],
                                 [
-                                    145.994563,
-                                    -17.489353
+                                    145.559447,
+                                    -23.22843
                                 ],
                                 [
-                                    145.993801,
-                                    -17.489537
+                                    145.559447,
+                                    -23.22843
                                 ],
                                 [
-                                    145.980245,
-                                    -17.526427
+                                    146.26715,
+                                    -22.342765
                                 ],
                                 [
-                                    145.980388,
-                                    -17.526925
+                                    146.267205,
+                                    -22.342319
                                 ],
                                 [
-                                    145.980925,
-                                    -17.526968
+                                    146.26362,
+                                    -22.334567
+                                ],
+                                [
+                                    146.263461,
+                                    -22.334381
+                                ],
+                                [
+                                    146.013964,
+                                    -22.164201
+                                ],
+                                [
+                                    146.01378,
+                                    -22.164124
+                                ],
+                                [
+                                    145.283128,
+                                    -22.014058
+                                ],
+                                [
+                                    145.282906,
+                                    -22.014061
+                                ],
+                                [
+                                    143.949518,
+                                    -22.315958
+                                ],
+                                [
+                                    143.949161,
+                                    -22.31651
                                 ]
                             ]
                         ]
@@ -595,19 +623,19 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN3891",
+                "EVENT_ID": "25CA5555",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "104",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "11:31PM 24 Mar 2025",
-                "EST_FIX_TIME": "3:00AM 25 Mar 2025",
-                "STREETS": "BEL AIR AVE, BELLA VISTA AVE, BRUCE HWY, DILLON RD, KAVANAGH RD, KNOX AVE, LYONS RD, MILL RD, PALMERSTON HWY, RIVER AVE, SEE POY RD, SHAW RD, SHAWS CNR, UPPER DARADGEE RD",
-                "SUBURBS": "BELVEDERE, DARADGEE, FITZGERALD CREEK, GOONDI, INNISFAIL, MIGHELL, O'BRIENS HILL, PIN GIN HILL, SUNDOWN"
+                "CUSTOMERS_AFFECTED": "506",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "2:25AM 25 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ALBIONVALE RD, ARAMAC RD, ARAMAC-FLEETWOOD RD, ARAMAC-ILFRACOMBE RD, ARAMAC-MUTTABURRA RD, BARCALDINE-ARAMAC RD, BOOKER ST, BOORAMEEL RD, BOUNDARY ST, BOWEN DOWNS RD, BRAESIDE RD, BRIDGE ST, BRUFORD ST, BURT ST, CAPRICORN HWY, CORNISH ST, CROSSMOOR RD, DEVON ST, DRURY ST, EASTMERE RD, EDKINS ST, FRANK ST, GOLF CLUB RD, GORDON ST, HAWTHORN RD, HOSPITAL RD, HUGHENDEN-M'BURRA RD, JERICHO-ARAMAC RD, KENSINGTON RD, KERR ST, KINGSTON ST, KLUGH ST, LODGE ST, LONGREACH-M'BURRA RD, LORD ST, MARATHON RD, MCAULIFFE ST, MCWHANNELL ST, MORELLA-BERYL RD, MORELLA-MUTTABURRA RD, MUTTABURRA ARAMAC RD, MUTTABURRA RD, MUTTABURRA-PRAIRIE RD, OFF ARAMAC-MUTTABURRA RD, OFF BOWEN DOWNS RD, OFF M'BURRA-H'DEN RD, OFF TORRENS CREEK RD, PINE RD, PORTER ST, POTOSI RD, REEDY CK RD, REEDY CREEK RD, SALTERN CREEK RD, STAGMOUNT RD, SWORD ST, THE LAKE RD, TORRENS CREEK RD, UNKNOWN ST, WILGA ST",
+                "SUBURBS": "ARAMAC, BARCALDINE, JERICHO, MUTTABURRA"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742833201.706409"
+    "extracted": "1742833806.225022"
 }
