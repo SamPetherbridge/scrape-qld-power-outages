@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.254695,
-                            -19.765087
+                            150.5111,
+                            -27.088503
                         ]
                     },
                     {
@@ -19,32 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    147.255837,
-                                    -19.764913
+                                    150.511414,
+                                    -27.088132
                                 ],
                                 [
-                                    147.253804,
-                                    -19.764389
+                                    150.511172,
+                                    -27.088042
                                 ],
                                 [
-                                    147.253218,
-                                    -19.764706
+                                    150.510514,
+                                    -27.088286
                                 ],
                                 [
-                                    147.253553,
-                                    -19.765261
+                                    150.510786,
+                                    -27.088875
                                 ],
                                 [
-                                    147.255586,
-                                    -19.765785
+                                    150.511028,
+                                    -27.088965
                                 ],
                                 [
-                                    147.256172,
-                                    -19.765468
+                                    150.511686,
+                                    -27.088721
                                 ],
                                 [
-                                    147.255837,
-                                    -19.764913
+                                    150.511414,
+                                    -27.088132
                                 ]
                             ]
                         ]
@@ -52,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4471",
+                "EVENT_ID": "25SW5149",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "9:24AM 19 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
-                "STREETS": "KIRKNIE RD",
-                "SUBURBS": "HOME HILL"
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "3:03PM 24 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "TIMOTHY RD",
+                "SUBURBS": "TARA"
             }
         },
         {
@@ -491,6 +491,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.254695,
+                            -19.765087
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ],
+                                [
+                                    147.253804,
+                                    -19.764389
+                                ],
+                                [
+                                    147.253218,
+                                    -19.764706
+                                ],
+                                [
+                                    147.253553,
+                                    -19.765261
+                                ],
+                                [
+                                    147.255586,
+                                    -19.765785
+                                ],
+                                [
+                                    147.256172,
+                                    -19.765468
+                                ],
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4471",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "9:24AM 19 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
+                "STREETS": "KIRKNIE RD",
+                "SUBURBS": "HOME HILL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             140.067668,
                             -20.790619
                         ]
@@ -847,5 +908,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742789744.504772"
+    "extracted": "1742790300.32152"
 }
