@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.859978,
-                            -20.124702
+                            140.067668,
+                            -20.790619
                         ]
                     },
                     {
@@ -19,48 +19,44 @@
                         "coordinates": [
                             [
                                 [
-                                    147.790242,
-                                    -20.303989
+                                    139.979735,
+                                    -20.808343
                                 ],
                                 [
-                                    147.853135,
-                                    -20.301065
+                                    140.155795,
+                                    -20.773784
                                 ],
                                 [
-                                    147.853558,
-                                    -20.300775
+                                    140.156172,
+                                    -20.773298
                                 ],
                                 [
-                                    147.930192,
-                                    -20.1111
+                                    140.155696,
+                                    -20.772895
                                 ],
                                 [
-                                    147.930215,
-                                    -20.110855
+                                    140.028602,
+                                    -20.773146
                                 ],
                                 [
-                                    147.897206,
-                                    -19.945628
+                                    140.028488,
+                                    -20.773159
                                 ],
                                 [
-                                    147.896375,
-                                    -19.945415
+                                    139.983019,
+                                    -20.783777
                                 ],
                                 [
-                                    147.817618,
-                                    -20.031074
+                                    139.982661,
+                                    -20.784151
                                 ],
                                 [
-                                    147.817502,
-                                    -20.031327
+                                    139.979164,
+                                    -20.807842
                                 ],
                                 [
-                                    147.789742,
-                                    -20.303495
-                                ],
-                                [
-                                    147.790242,
-                                    -20.303989
+                                    139.979735,
+                                    -20.808343
                                 ]
                             ]
                         ]
@@ -68,15 +64,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4665",
+                "EVENT_ID": "25NQ4618",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "20",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "CUSTOMERS_AFFECTED": "8",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
                 "STATUS": "Work delayed - crews unable to continue",
-                "START": "5:26PM 24 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BRUCE HWY N, GLENALPINE STATION, GLENORE STATION, MOUNTAIN VIEW STATION, NEVADA STATION, PETER DELAMOTHE RD, SNEAKY HILLS RD, STRATHALBYN RD, THURSO RD, THURSO STATION, WHITE KANGAROO STATION",
-                "SUBURBS": "BINBEE, BOGIE, BOWEN, GUTHALUNGRA"
+                "START": "6:50PM 23 Mar 2025",
+                "EST_FIX_TIME": "2:00PM 25 Mar 2025",
+                "STREETS": "AMAROO COTTAGE, BARKLY HWY, MARY KATHLEEN RD, ROSEBUD STATION",
+                "SUBURBS": "CLONCURRY, MARY KATHLEEN, MOUNT ISA"
             }
         },
         {
@@ -203,79 +199,6 @@
                 "EST_FIX_TIME": "4:00PM 28 Mar 2025",
                 "STREETS": "KIRKNIE RD",
                 "SUBURBS": "HOME HILL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            140.067668,
-                            -20.790619
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    139.979735,
-                                    -20.808343
-                                ],
-                                [
-                                    140.155795,
-                                    -20.773784
-                                ],
-                                [
-                                    140.156172,
-                                    -20.773298
-                                ],
-                                [
-                                    140.155696,
-                                    -20.772895
-                                ],
-                                [
-                                    140.028602,
-                                    -20.773146
-                                ],
-                                [
-                                    140.028488,
-                                    -20.773159
-                                ],
-                                [
-                                    139.983019,
-                                    -20.783777
-                                ],
-                                [
-                                    139.982661,
-                                    -20.784151
-                                ],
-                                [
-                                    139.979164,
-                                    -20.807842
-                                ],
-                                [
-                                    139.979735,
-                                    -20.808343
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ4618",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "8",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:50PM 23 Mar 2025",
-                "EST_FIX_TIME": "2:00PM 25 Mar 2025",
-                "STREETS": "AMAROO COTTAGE, BARKLY HWY, MARY KATHLEEN RD, ROSEBUD STATION",
-                "SUBURBS": "CLONCURRY, MARY KATHLEEN, MOUNT ISA"
             }
         },
         {
@@ -533,6 +456,83 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.859978,
+                            -20.124702
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.790242,
+                                    -20.303989
+                                ],
+                                [
+                                    147.853135,
+                                    -20.301065
+                                ],
+                                [
+                                    147.853558,
+                                    -20.300775
+                                ],
+                                [
+                                    147.930192,
+                                    -20.1111
+                                ],
+                                [
+                                    147.930215,
+                                    -20.110855
+                                ],
+                                [
+                                    147.897206,
+                                    -19.945628
+                                ],
+                                [
+                                    147.896375,
+                                    -19.945415
+                                ],
+                                [
+                                    147.817618,
+                                    -20.031074
+                                ],
+                                [
+                                    147.817502,
+                                    -20.031327
+                                ],
+                                [
+                                    147.789742,
+                                    -20.303495
+                                ],
+                                [
+                                    147.790242,
+                                    -20.303989
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4665",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "20",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "5:26PM 24 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRUCE HWY N, GLENALPINE STATION, GLENORE STATION, MOUNTAIN VIEW STATION, NEVADA STATION, PETER DELAMOTHE RD, SNEAKY HILLS RD, STRATHALBYN RD, THURSO RD, THURSO STATION, WHITE KANGAROO STATION",
+                "SUBURBS": "BINBEE, BOGIE, BOWEN, GUTHALUNGRA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             145.108183,
                             -22.783104
                         ]
@@ -637,5 +637,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742845201.611727"
+    "extracted": "1742845501.379601"
 }
