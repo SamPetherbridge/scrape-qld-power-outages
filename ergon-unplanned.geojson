@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            149.120836,
-                            -21.313434
+                            147.254695,
+                            -19.765087
                         ]
                     },
                     {
@@ -19,40 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    149.111576,
-                                    -21.308419
+                                    147.255837,
+                                    -19.764913
                                 ],
                                 [
-                                    149.120185,
-                                    -21.318375
+                                    147.253804,
+                                    -19.764389
                                 ],
                                 [
-                                    149.120527,
-                                    -21.318541
+                                    147.253218,
+                                    -19.764706
                                 ],
                                 [
-                                    149.129606,
-                                    -21.319113
+                                    147.253553,
+                                    -19.765261
                                 ],
                                 [
-                                    149.130097,
-                                    -21.318803
+                                    147.255586,
+                                    -19.765785
                                 ],
                                 [
-                                    149.129897,
-                                    -21.318282
+                                    147.256172,
+                                    -19.765468
                                 ],
                                 [
-                                    149.112209,
-                                    -21.307754
-                                ],
-                                [
-                                    149.11159,
-                                    -21.307835
-                                ],
-                                [
-                                    149.111576,
-                                    -21.308419
+                                    147.255837,
+                                    -19.764913
                                 ]
                             ]
                         ]
@@ -60,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK2759",
+                "EVENT_ID": "25NQ4471",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "12:50PM 24 Mar 2025",
-                "EST_FIX_TIME": "3:00PM 24 Mar 2025",
-                "STREETS": "BALBERRA RD, MARWOOD SUNNYSIDE RD",
-                "SUBURBS": "BALBERRA, MACKAY"
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "9:24AM 19 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
+                "STREETS": "KIRKNIE RD",
+                "SUBURBS": "HOME HILL"
             }
         },
         {
@@ -364,67 +356,6 @@
                 "EST_FIX_TIME": "4:00PM 24 Mar 2025",
                 "STREETS": "OLLIMOTT RD, TROTTER RD",
                 "SUBURBS": "MUTARNEE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.254695,
-                            -19.765087
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.255837,
-                                    -19.764913
-                                ],
-                                [
-                                    147.253804,
-                                    -19.764389
-                                ],
-                                [
-                                    147.253218,
-                                    -19.764706
-                                ],
-                                [
-                                    147.253553,
-                                    -19.765261
-                                ],
-                                [
-                                    147.255586,
-                                    -19.765785
-                                ],
-                                [
-                                    147.256172,
-                                    -19.765468
-                                ],
-                                [
-                                    147.255837,
-                                    -19.764913
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ4471",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "9:24AM 19 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 28 Mar 2025",
-                "STREETS": "KIRKNIE RD",
-                "SUBURBS": "HOME HILL"
             }
         },
         {
@@ -787,6 +718,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            149.120836,
+                            -21.313434
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    149.111576,
+                                    -21.308419
+                                ],
+                                [
+                                    149.120185,
+                                    -21.318375
+                                ],
+                                [
+                                    149.120527,
+                                    -21.318541
+                                ],
+                                [
+                                    149.129606,
+                                    -21.319113
+                                ],
+                                [
+                                    149.130097,
+                                    -21.318803
+                                ],
+                                [
+                                    149.129897,
+                                    -21.318282
+                                ],
+                                [
+                                    149.112209,
+                                    -21.307754
+                                ],
+                                [
+                                    149.11159,
+                                    -21.307835
+                                ],
+                                [
+                                    149.111576,
+                                    -21.308419
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK2759",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "12:50PM 24 Mar 2025",
+                "EST_FIX_TIME": "3:00PM 24 Mar 2025",
+                "STREETS": "BALBERRA RD, MARWOOD SUNNYSIDE RD",
+                "SUBURBS": "BALBERRA, MACKAY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -847,5 +847,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742788823.82145"
+    "extracted": "1742789744.504772"
 }
