@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.859978,
-                            -20.124702
+                            143.343035,
+                            -22.707696
                         ]
                     },
                     {
@@ -19,48 +19,36 @@
                         "coordinates": [
                             [
                                 [
-                                    147.790242,
-                                    -20.303989
+                                    143.337003,
+                                    -22.739214
                                 ],
                                 [
-                                    147.853135,
-                                    -20.301065
+                                    143.350025,
+                                    -22.678883
                                 ],
                                 [
-                                    147.853558,
-                                    -20.300775
+                                    143.349833,
+                                    -22.678429
                                 ],
                                 [
-                                    147.930192,
-                                    -20.1111
+                                    143.345942,
+                                    -22.675822
                                 ],
                                 [
-                                    147.930215,
-                                    -20.110855
+                                    143.345176,
+                                    -22.676127
                                 ],
                                 [
-                                    147.897206,
-                                    -19.945628
+                                    143.336044,
+                                    -22.739066
                                 ],
                                 [
-                                    147.896375,
-                                    -19.945415
+                                    143.336446,
+                                    -22.73957
                                 ],
                                 [
-                                    147.817618,
-                                    -20.031074
-                                ],
-                                [
-                                    147.817502,
-                                    -20.031327
-                                ],
-                                [
-                                    147.789742,
-                                    -20.303495
-                                ],
-                                [
-                                    147.790242,
-                                    -20.303989
+                                    143.337003,
+                                    -22.739214
                                 ]
                             ]
                         ]
@@ -68,15 +56,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4665",
+                "EVENT_ID": "25NQ4684",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "20",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "5:26PM 24 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BRUCE HWY N, GLENALPINE STATION, GLENORE STATION, MOUNTAIN VIEW STATION, NEVADA STATION, PETER DELAMOTHE RD, SNEAKY HILLS RD, STRATHALBYN RD, THURSO RD, THURSO STATION, WHITE KANGAROO STATION",
-                "SUBURBS": "BINBEE, BOGIE, BOWEN, GUTHALUNGRA"
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to a pole fire.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "11:30AM 25 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 04 Apr 2025",
+                "STREETS": "MELROSE STATION, TUCSON STATION",
+                "SUBURBS": "LONGREACH, WINTON"
             }
         },
         {
@@ -305,6 +293,83 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.859978,
+                            -20.124702
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.790242,
+                                    -20.303989
+                                ],
+                                [
+                                    147.853135,
+                                    -20.301065
+                                ],
+                                [
+                                    147.853558,
+                                    -20.300775
+                                ],
+                                [
+                                    147.930192,
+                                    -20.1111
+                                ],
+                                [
+                                    147.930215,
+                                    -20.110855
+                                ],
+                                [
+                                    147.897206,
+                                    -19.945628
+                                ],
+                                [
+                                    147.896375,
+                                    -19.945415
+                                ],
+                                [
+                                    147.817618,
+                                    -20.031074
+                                ],
+                                [
+                                    147.817502,
+                                    -20.031327
+                                ],
+                                [
+                                    147.789742,
+                                    -20.303495
+                                ],
+                                [
+                                    147.790242,
+                                    -20.303989
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4665",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "20",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "5:26PM 24 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRUCE HWY N, GLENALPINE STATION, GLENORE STATION, MOUNTAIN VIEW STATION, NEVADA STATION, PETER DELAMOTHE RD, SNEAKY HILLS RD, STRATHALBYN RD, THURSO RD, THURSO STATION, WHITE KANGAROO STATION",
+                "SUBURBS": "BINBEE, BOGIE, BOWEN, GUTHALUNGRA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             150.038322,
                             -23.172674
                         ]
@@ -412,71 +477,6 @@
                 "EST_FIX_TIME": "4:00PM 25 Mar 2025",
                 "STREETS": "ANDY RD, BIRRAHLEE RD, CALMORIN RD, CONNOR RD, COORRUMBURRA RD, CRAIGILEE RD, CRAIGNAUGHT RD, DALMA RIDGELANDS RD, DALMA-RIDGELANDS RD, ELLROTT RD, FAIRVIEW RD, FARADAY RD, GLENROY MARLBOROUGH RD, GLENROY RD, HANSEN RD, HUNTER GULLY RD, LANYON RD, MARBLE RIDGES RD, MORBANK RD, MORINISH RD, MOSES RD, RIDGELANDS RD, ROSEWOOD RD, SEYMOUR RD",
                 "SUBURBS": "DALMA, MARLBOROUGH, MORINISH, MORINISH SOUTH, RIDGELANDS, SOUTH YAAMBA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            143.343035,
-                            -22.707696
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.337003,
-                                    -22.739214
-                                ],
-                                [
-                                    143.350025,
-                                    -22.678883
-                                ],
-                                [
-                                    143.349833,
-                                    -22.678429
-                                ],
-                                [
-                                    143.345942,
-                                    -22.675822
-                                ],
-                                [
-                                    143.345176,
-                                    -22.676127
-                                ],
-                                [
-                                    143.336044,
-                                    -22.739066
-                                ],
-                                [
-                                    143.336446,
-                                    -22.73957
-                                ],
-                                [
-                                    143.337003,
-                                    -22.739214
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ4684",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to a pole fire.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "11:30AM 25 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 04 Apr 2025",
-                "STREETS": "MELROSE STATION, TUCSON STATION",
-                "SUBURBS": "LONGREACH, WINTON"
             }
         },
         {
@@ -839,5 +839,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742876400.415219"
+    "extracted": "1742877001.017013"
 }
