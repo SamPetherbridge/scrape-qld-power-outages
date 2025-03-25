@@ -10,6 +10,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.521907,
+                            -27.73012
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.498324,
+                                    -27.716121
+                                ],
+                                [
+                                    151.541448,
+                                    -27.751886
+                                ],
+                                [
+                                    151.541895,
+                                    -27.751997
+                                ],
+                                [
+                                    151.545112,
+                                    -27.751406
+                                ],
+                                [
+                                    151.545491,
+                                    -27.750826
+                                ],
+                                [
+                                    151.535936,
+                                    -27.724652
+                                ],
+                                [
+                                    151.535868,
+                                    -27.724531
+                                ],
+                                [
+                                    151.523097,
+                                    -27.708427
+                                ],
+                                [
+                                    151.5226,
+                                    -27.708242
+                                ],
+                                [
+                                    151.504958,
+                                    -27.710879
+                                ],
+                                [
+                                    151.504729,
+                                    -27.71097
+                                ],
+                                [
+                                    151.498356,
+                                    -27.715438
+                                ],
+                                [
+                                    151.498324,
+                                    -27.716121
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5114",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "16",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "9:41AM 25 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 25 Mar 2025",
+                "STREETS": "MURLAGGAN RD, WATSON RD, YARRANLEA RD",
+                "SUBURBS": "YARRANLEA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -673,94 +758,9 @@
                 "STREETS": "ANDY RD, BIRRAHLEE RD, CALMORIN RD, CONNOR RD, COORRUMBURRA RD, CRAIGILEE RD, CRAIGNAUGHT RD, DALMA RIDGELANDS RD, DALMA-RIDGELANDS RD, ELLROTT RD, FAIRVIEW RD, FARADAY RD, GLENROY MARLBOROUGH RD, GLENROY RD, HANSEN RD, HUNTER GULLY RD, LANYON RD, MARBLE RIDGES RD, MORBANK RD, MORINISH RD, MOSES RD, RIDGELANDS RD, ROSEWOOD RD, SEYMOUR RD",
                 "SUBURBS": "DALMA, MARLBOROUGH, MORINISH, MORINISH SOUTH, RIDGELANDS, SOUTH YAAMBA"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.521907,
-                            -27.73012
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.498324,
-                                    -27.716121
-                                ],
-                                [
-                                    151.541448,
-                                    -27.751886
-                                ],
-                                [
-                                    151.541895,
-                                    -27.751997
-                                ],
-                                [
-                                    151.545112,
-                                    -27.751406
-                                ],
-                                [
-                                    151.545491,
-                                    -27.750826
-                                ],
-                                [
-                                    151.535936,
-                                    -27.724652
-                                ],
-                                [
-                                    151.535868,
-                                    -27.724531
-                                ],
-                                [
-                                    151.523097,
-                                    -27.708427
-                                ],
-                                [
-                                    151.5226,
-                                    -27.708242
-                                ],
-                                [
-                                    151.504958,
-                                    -27.710879
-                                ],
-                                [
-                                    151.504729,
-                                    -27.71097
-                                ],
-                                [
-                                    151.498356,
-                                    -27.715438
-                                ],
-                                [
-                                    151.498324,
-                                    -27.716121
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5114",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "16",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "9:41AM 25 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 25 Mar 2025",
-                "STREETS": "MURLAGGAN RD, WATSON RD, YARRANLEA RD",
-                "SUBURBS": "YARRANLEA"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742878500.293743"
+    "extracted": "1742879100.286572"
 }
