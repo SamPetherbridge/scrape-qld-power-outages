@@ -10,6 +10,84 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.720243,
+                            -26.208425
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.717465,
+                                    -26.208232
+                                ],
+                                [
+                                    152.721944,
+                                    -26.212182
+                                ],
+                                [
+                                    152.722718,
+                                    -26.212099
+                                ],
+                                [
+                                    152.722952,
+                                    -26.211762
+                                ],
+                                [
+                                    152.723022,
+                                    -26.21145
+                                ],
+                                [
+                                    152.722558,
+                                    -26.208871
+                                ],
+                                [
+                                    152.722556,
+                                    -26.208862
+                                ],
+                                [
+                                    152.721752,
+                                    -26.204915
+                                ],
+                                [
+                                    152.720917,
+                                    -26.204667
+                                ],
+                                [
+                                    152.717473,
+                                    -26.207579
+                                ],
+                                [
+                                    152.717465,
+                                    -26.208232
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-850914-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "5:21PM 25 Mar 2025",
+                "EST_FIX_TIME": "7:30PM 25 Mar 2025",
+                "STREETS": "HYLAND RD",
+                "SUBURBS": "EAST DEEP CREEK",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.403128,
                             -28.20955
                         ]
@@ -230,84 +308,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.720243,
-                            -26.208425
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.717465,
-                                    -26.208232
-                                ],
-                                [
-                                    152.721944,
-                                    -26.212182
-                                ],
-                                [
-                                    152.722718,
-                                    -26.212099
-                                ],
-                                [
-                                    152.722952,
-                                    -26.211762
-                                ],
-                                [
-                                    152.723022,
-                                    -26.21145
-                                ],
-                                [
-                                    152.722558,
-                                    -26.208871
-                                ],
-                                [
-                                    152.722556,
-                                    -26.208862
-                                ],
-                                [
-                                    152.721752,
-                                    -26.204915
-                                ],
-                                [
-                                    152.720917,
-                                    -26.204667
-                                ],
-                                [
-                                    152.717473,
-                                    -26.207579
-                                ],
-                                [
-                                    152.717465,
-                                    -26.208232
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-850914-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
-                "START": "5:21PM 25 Mar 2025",
-                "EST_FIX_TIME": "7:30PM 25 Mar 2025",
-                "STREETS": "HYLAND RD",
-                "SUBURBS": "EAST DEEP CREEK",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.289627,
                             -27.819429
                         ]
@@ -373,153 +373,9 @@
                 "SUBURBS": "PIMPAMA",
                 "ETR_FLAG": "N"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.863236,
-                            -26.356175
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.861653,
-                                    -26.355956
-                                ],
-                                [
-                                    152.862274,
-                                    -26.357132
-                                ],
-                                [
-                                    152.862939,
-                                    -26.357347
-                                ],
-                                [
-                                    152.863346,
-                                    -26.357176
-                                ],
-                                [
-                                    152.863516,
-                                    -26.35706
-                                ],
-                                [
-                                    152.86476,
-                                    -26.355743
-                                ],
-                                [
-                                    152.86482,
-                                    -26.355236
-                                ],
-                                [
-                                    152.864318,
-                                    -26.355002
-                                ],
-                                [
-                                    152.862159,
-                                    -26.355239
-                                ],
-                                [
-                                    152.861924,
-                                    -26.355323
-                                ],
-                                [
-                                    152.86181,
-                                    -26.355398
-                                ],
-                                [
-                                    152.861653,
-                                    -26.355956
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-850861-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "15",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "3:20PM 25 Mar 2025",
-                "EST_FIX_TIME": "8:00PM 25 Mar 2025",
-                "STREETS": "PAGE CT, SUMMIT RD",
-                "SUBURBS": "POMONA",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.985883,
-                            -28.292144
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.986607,
-                                    -28.292472
-                                ],
-                                [
-                                    152.986089,
-                                    -28.291447
-                                ],
-                                [
-                                    152.985415,
-                                    -28.29122
-                                ],
-                                [
-                                    152.985158,
-                                    -28.291816
-                                ],
-                                [
-                                    152.985676,
-                                    -28.292841
-                                ],
-                                [
-                                    152.98635,
-                                    -28.293069
-                                ],
-                                [
-                                    152.986607,
-                                    -28.292472
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-850833-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "2:34PM 25 Mar 2025",
-                "EST_FIX_TIME": "6:30PM 25 Mar 2025",
-                "STREETS": "CHINGHEE CREEK RD",
-                "SUBURBS": "CHINGHEE CREEK",
-                "ETR_FLAG": "N"
-            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742888704.732152"
+    "extracted": "1742889301.177789"
 }
