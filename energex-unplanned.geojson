@@ -10,6 +10,108 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.397051,
+                            -28.205486
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.384671,
+                                    -28.206327
+                                ],
+                                [
+                                    153.400095,
+                                    -28.214711
+                                ],
+                                [
+                                    153.400639,
+                                    -28.214705
+                                ],
+                                [
+                                    153.408909,
+                                    -28.209957
+                                ],
+                                [
+                                    153.409074,
+                                    -28.209803
+                                ],
+                                [
+                                    153.409624,
+                                    -28.208953
+                                ],
+                                [
+                                    153.409545,
+                                    -28.208412
+                                ],
+                                [
+                                    153.39614,
+                                    -28.196352
+                                ],
+                                [
+                                    153.395557,
+                                    -28.196261
+                                ],
+                                [
+                                    153.392746,
+                                    -28.19745
+                                ],
+                                [
+                                    153.39265,
+                                    -28.197503
+                                ],
+                                [
+                                    153.387522,
+                                    -28.201075
+                                ],
+                                [
+                                    153.387481,
+                                    -28.201107
+                                ],
+                                [
+                                    153.386639,
+                                    -28.201835
+                                ],
+                                [
+                                    153.386536,
+                                    -28.201962
+                                ],
+                                [
+                                    153.384479,
+                                    -28.205747
+                                ],
+                                [
+                                    153.384671,
+                                    -28.206327
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-850840-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "71",
+                "REASON": "Emergency repairs in-progress",
+                "STATUS": "In Progress",
+                "START": "2:42PM 25 Mar 2025",
+                "EST_FIX_TIME": "10:00PM 25 Mar 2025",
+                "STREETS": "BAINS RD, CURRUMBIN CREEK RD, DENNING RD, ESTELLE RD, REYNOLDS RD, TAYLORS LANE, TOMEWIN MOUNTAIN RD",
+                "SUBURBS": "CURRUMBIN VALLEY, CURRUMBIN WATERS",
+                "ETR_FLAG": "Y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.43543,
                             -28.055951
                         ]
@@ -125,132 +227,6 @@
                 "EST_FIX_TIME": "11:30PM 25 Mar 2025",
                 "STREETS": "ALBICORE ST, CONSTANCE AVE, DOLPHIN AVE, SOVEREIGN DR, SURF ST, TOORAK PARK AVE, WAVE ST",
                 "SUBURBS": "MERMAID BEACH, MERMAID WATERS",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.880539,
-                            -27.131291
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.869151,
-                                    -27.14197
-                                ],
-                                [
-                                    152.869722,
-                                    -27.144171
-                                ],
-                                [
-                                    152.870388,
-                                    -27.144493
-                                ],
-                                [
-                                    152.889872,
-                                    -27.13805
-                                ],
-                                [
-                                    152.890119,
-                                    -27.137876
-                                ],
-                                [
-                                    152.890281,
-                                    -27.137655
-                                ],
-                                [
-                                    152.890357,
-                                    -27.137486
-                                ],
-                                [
-                                    152.890611,
-                                    -27.136215
-                                ],
-                                [
-                                    152.890615,
-                                    -27.13619
-                                ],
-                                [
-                                    152.891928,
-                                    -27.126533
-                                ],
-                                [
-                                    152.891875,
-                                    -27.126271
-                                ],
-                                [
-                                    152.887349,
-                                    -27.118475
-                                ],
-                                [
-                                    152.886984,
-                                    -27.118238
-                                ],
-                                [
-                                    152.886132,
-                                    -27.11811
-                                ],
-                                [
-                                    152.886076,
-                                    -27.118104
-                                ],
-                                [
-                                    152.885793,
-                                    -27.11809
-                                ],
-                                [
-                                    152.885544,
-                                    -27.118135
-                                ],
-                                [
-                                    152.880782,
-                                    -27.12021
-                                ],
-                                [
-                                    152.880549,
-                                    -27.12042
-                                ],
-                                [
-                                    152.872853,
-                                    -27.134672
-                                ],
-                                [
-                                    152.87285,
-                                    -27.134677
-                                ],
-                                [
-                                    152.869185,
-                                    -27.141676
-                                ],
-                                [
-                                    152.869151,
-                                    -27.14197
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-850945-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "101",
-                "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
-                "START": "8:59PM 25 Mar 2025",
-                "EST_FIX_TIME": "11:30PM 25 Mar 2025",
-                "STREETS": "CABOOLTURE RIVER RD, FANTAIL CT, GOLDFINCH CT, HONEYEATER CT, MCCLURE RD, MOORINA RD, PHELPS RD, SPRINGFLATS CT, SUNBIRD CT",
-                "SUBURBS": "MOORINA, MORAYFIELD, UPPER CABOOLTURE",
                 "ETR_FLAG": "N"
             }
         },
@@ -404,8 +380,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.397051,
-                            -28.205486
+                            152.880539,
+                            -27.131291
                         ]
                     },
                     {
@@ -413,72 +389,96 @@
                         "coordinates": [
                             [
                                 [
-                                    153.384671,
-                                    -28.206327
+                                    152.869151,
+                                    -27.14197
                                 ],
                                 [
-                                    153.400095,
-                                    -28.214711
+                                    152.869722,
+                                    -27.144171
                                 ],
                                 [
-                                    153.400639,
-                                    -28.214705
+                                    152.870388,
+                                    -27.144493
                                 ],
                                 [
-                                    153.408909,
-                                    -28.209957
+                                    152.889872,
+                                    -27.13805
                                 ],
                                 [
-                                    153.409074,
-                                    -28.209803
+                                    152.890119,
+                                    -27.137876
                                 ],
                                 [
-                                    153.409624,
-                                    -28.208953
+                                    152.890281,
+                                    -27.137655
                                 ],
                                 [
-                                    153.409545,
-                                    -28.208412
+                                    152.890357,
+                                    -27.137486
                                 ],
                                 [
-                                    153.39614,
-                                    -28.196352
+                                    152.890611,
+                                    -27.136215
                                 ],
                                 [
-                                    153.395557,
-                                    -28.196261
+                                    152.890615,
+                                    -27.13619
                                 ],
                                 [
-                                    153.392746,
-                                    -28.19745
+                                    152.891928,
+                                    -27.126533
                                 ],
                                 [
-                                    153.39265,
-                                    -28.197503
+                                    152.891875,
+                                    -27.126271
                                 ],
                                 [
-                                    153.387522,
-                                    -28.201075
+                                    152.887349,
+                                    -27.118475
                                 ],
                                 [
-                                    153.387481,
-                                    -28.201107
+                                    152.886984,
+                                    -27.118238
                                 ],
                                 [
-                                    153.386639,
-                                    -28.201835
+                                    152.886132,
+                                    -27.11811
                                 ],
                                 [
-                                    153.386536,
-                                    -28.201962
+                                    152.886076,
+                                    -27.118104
                                 ],
                                 [
-                                    153.384479,
-                                    -28.205747
+                                    152.885793,
+                                    -27.11809
                                 ],
                                 [
-                                    153.384671,
-                                    -28.206327
+                                    152.885544,
+                                    -27.118135
+                                ],
+                                [
+                                    152.880782,
+                                    -27.12021
+                                ],
+                                [
+                                    152.880549,
+                                    -27.12042
+                                ],
+                                [
+                                    152.872853,
+                                    -27.134672
+                                ],
+                                [
+                                    152.87285,
+                                    -27.134677
+                                ],
+                                [
+                                    152.869185,
+                                    -27.141676
+                                ],
+                                [
+                                    152.869151,
+                                    -27.14197
                                 ]
                             ]
                         ]
@@ -486,16 +486,16 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-850840-g",
+                "EVENT_ID": "INCD-850945-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "71",
-                "REASON": "Emergency repairs in-progress",
+                "CUSTOMERS_AFFECTED": "101",
+                "REASON": "Under Investigation",
                 "STATUS": "In Progress",
-                "START": "2:42PM 25 Mar 2025",
-                "EST_FIX_TIME": "10:00PM 25 Mar 2025",
-                "STREETS": "BAINS RD, CURRUMBIN CREEK RD, DENNING RD, ESTELLE RD, REYNOLDS RD, TAYLORS LANE, TOMEWIN MOUNTAIN RD",
-                "SUBURBS": "CURRUMBIN VALLEY, CURRUMBIN WATERS",
-                "ETR_FLAG": "Y"
+                "START": "8:59PM 25 Mar 2025",
+                "EST_FIX_TIME": "11:30PM 25 Mar 2025",
+                "STREETS": "CABOOLTURE RIVER RD, FANTAIL CT, GOLDFINCH CT, HONEYEATER CT, MCCLURE RD, MOORINA RD, PHELPS RD, SPRINGFLATS CT, SUNBIRD CT",
+                "SUBURBS": "MOORINA, MORAYFIELD, UPPER CABOOLTURE",
+                "ETR_FLAG": "N"
             }
         },
         {
@@ -575,5 +575,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1742900408.156885"
+    "extracted": "1742901009.227151"
 }
