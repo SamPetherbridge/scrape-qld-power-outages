@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.343035,
-                            -22.707696
+                            151.521907,
+                            -27.73012
                         ]
                     },
                     {
@@ -19,36 +19,56 @@
                         "coordinates": [
                             [
                                 [
-                                    143.337003,
-                                    -22.739214
+                                    151.498324,
+                                    -27.716121
                                 ],
                                 [
-                                    143.350025,
-                                    -22.678883
+                                    151.541448,
+                                    -27.751886
                                 ],
                                 [
-                                    143.349833,
-                                    -22.678429
+                                    151.541895,
+                                    -27.751997
                                 ],
                                 [
-                                    143.345942,
-                                    -22.675822
+                                    151.545112,
+                                    -27.751406
                                 ],
                                 [
-                                    143.345176,
-                                    -22.676127
+                                    151.545491,
+                                    -27.750826
                                 ],
                                 [
-                                    143.336044,
-                                    -22.739066
+                                    151.535936,
+                                    -27.724652
                                 ],
                                 [
-                                    143.336446,
-                                    -22.73957
+                                    151.535868,
+                                    -27.724531
                                 ],
                                 [
-                                    143.337003,
-                                    -22.739214
+                                    151.523097,
+                                    -27.708427
+                                ],
+                                [
+                                    151.5226,
+                                    -27.708242
+                                ],
+                                [
+                                    151.504958,
+                                    -27.710879
+                                ],
+                                [
+                                    151.504729,
+                                    -27.71097
+                                ],
+                                [
+                                    151.498356,
+                                    -27.715438
+                                ],
+                                [
+                                    151.498324,
+                                    -27.716121
                                 ]
                             ]
                         ]
@@ -56,80 +76,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4684",
+                "EVENT_ID": "25SW5114",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to a pole fire.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "11:30AM 25 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 04 Apr 2025",
-                "STREETS": "MELROSE STATION, TUCSON STATION",
-                "SUBURBS": "LONGREACH, WINTON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
+                "CUSTOMERS_AFFECTED": "16",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "9:41AM 25 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 25 Mar 2025",
+                "STREETS": "MURLAGGAN RD, WATSON RD, YARRANLEA RD",
+                "SUBURBS": "YARRANLEA"
             }
         },
         {
@@ -292,6 +247,71 @@
                 "EST_FIX_TIME": "4:00PM 25 Mar 2025",
                 "STREETS": "GORE HWY, HEINEMANN RD, MANN SILO RD, MORRISON RD, SCHICK RD, SCRUBBY RD, TUMMAVILLE RD",
                 "SUBURBS": "KINCORA, PITTSWORTH, SCRUBBY MOUNTAIN, YARRANLEA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -504,6 +524,71 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            143.343035,
+                            -22.707696
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.337003,
+                                    -22.739214
+                                ],
+                                [
+                                    143.350025,
+                                    -22.678883
+                                ],
+                                [
+                                    143.349833,
+                                    -22.678429
+                                ],
+                                [
+                                    143.345942,
+                                    -22.675822
+                                ],
+                                [
+                                    143.345176,
+                                    -22.676127
+                                ],
+                                [
+                                    143.336044,
+                                    -22.739066
+                                ],
+                                [
+                                    143.336446,
+                                    -22.73957
+                                ],
+                                [
+                                    143.337003,
+                                    -22.739214
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4684",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to a pole fire.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "11:30AM 25 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 04 Apr 2025",
+                "STREETS": "MELROSE STATION, TUCSON STATION",
+                "SUBURBS": "LONGREACH, WINTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -555,91 +640,6 @@
                 "EST_FIX_TIME": "6:00PM 11 Apr 2025",
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.521907,
-                            -27.73012
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.498324,
-                                    -27.716121
-                                ],
-                                [
-                                    151.541448,
-                                    -27.751886
-                                ],
-                                [
-                                    151.541895,
-                                    -27.751997
-                                ],
-                                [
-                                    151.545112,
-                                    -27.751406
-                                ],
-                                [
-                                    151.545491,
-                                    -27.750826
-                                ],
-                                [
-                                    151.535936,
-                                    -27.724652
-                                ],
-                                [
-                                    151.535868,
-                                    -27.724531
-                                ],
-                                [
-                                    151.523097,
-                                    -27.708427
-                                ],
-                                [
-                                    151.5226,
-                                    -27.708242
-                                ],
-                                [
-                                    151.504958,
-                                    -27.710879
-                                ],
-                                [
-                                    151.504729,
-                                    -27.71097
-                                ],
-                                [
-                                    151.498356,
-                                    -27.715438
-                                ],
-                                [
-                                    151.498324,
-                                    -27.716121
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5114",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "16",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "9:41AM 25 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 25 Mar 2025",
-                "STREETS": "MURLAGGAN RD, WATSON RD, YARRANLEA RD",
-                "SUBURBS": "YARRANLEA"
             }
         },
         {
@@ -762,5 +762,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742881200.463326"
+    "extracted": "1742881501.138698"
 }
