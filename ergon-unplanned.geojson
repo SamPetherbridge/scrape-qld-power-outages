@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
+                            149.673403,
+                            -23.710595
                         ]
                     },
                     {
@@ -19,36 +19,60 @@
                         "coordinates": [
                             [
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    149.667293,
+                                    -23.708402
                                 ],
                                 [
-                                    148.700208,
-                                    -21.128945
+                                    149.667547,
+                                    -23.711058
                                 ],
                                 [
-                                    148.700826,
-                                    -21.128582
+                                    149.667598,
+                                    -23.711221
                                 ],
                                 [
-                                    148.701003,
-                                    -21.127495
+                                    149.668572,
+                                    -23.713005
                                 ],
                                 [
-                                    148.700469,
-                                    -21.126979
+                                    149.668995,
+                                    -23.713254
                                 ],
                                 [
-                                    148.697649,
-                                    -21.127299
+                                    149.669883,
+                                    -23.713278
                                 ],
                                 [
-                                    148.697227,
-                                    -21.127706
+                                    149.670049,
+                                    -23.713256
                                 ],
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    149.670841,
+                                    -23.713018
+                                ],
+                                [
+                                    149.670914,
+                                    -23.71299
+                                ],
+                                [
+                                    149.67926,
+                                    -23.709027
+                                ],
+                                [
+                                    149.679513,
+                                    -23.708525
+                                ],
+                                [
+                                    149.679048,
+                                    -23.708175
+                                ],
+                                [
+                                    149.667793,
+                                    -23.707912
+                                ],
+                                [
+                                    149.667293,
+                                    -23.708402
                                 ]
                             ]
                         ]
@@ -56,15 +80,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK1119",
+                "EVENT_ID": "25CA5593",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
+                "CUSTOMERS_AFFECTED": "18",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "9:06PM 25 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ANN ST, EDWARD ST, OLGA ST, VICTORIA ST",
+                "SUBURBS": "DUARINGA"
             }
         },
         {
@@ -578,95 +602,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            149.673403,
-                            -23.710595
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    149.667293,
-                                    -23.708402
-                                ],
-                                [
-                                    149.667547,
-                                    -23.711058
-                                ],
-                                [
-                                    149.667598,
-                                    -23.711221
-                                ],
-                                [
-                                    149.668572,
-                                    -23.713005
-                                ],
-                                [
-                                    149.668995,
-                                    -23.713254
-                                ],
-                                [
-                                    149.669883,
-                                    -23.713278
-                                ],
-                                [
-                                    149.670049,
-                                    -23.713256
-                                ],
-                                [
-                                    149.670841,
-                                    -23.713018
-                                ],
-                                [
-                                    149.670914,
-                                    -23.71299
-                                ],
-                                [
-                                    149.67926,
-                                    -23.709027
-                                ],
-                                [
-                                    149.679513,
-                                    -23.708525
-                                ],
-                                [
-                                    149.679048,
-                                    -23.708175
-                                ],
-                                [
-                                    149.667793,
-                                    -23.707912
-                                ],
-                                [
-                                    149.667293,
-                                    -23.708402
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA5593",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "18",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "9:06PM 25 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ANN ST, EDWARD ST, OLGA ST, VICTORIA ST",
-                "SUBURBS": "DUARINGA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             145.139455,
                             -21.457105
                         ]
@@ -743,9 +678,74 @@
                 "STREETS": "ABERFOYLE STATION, BANNOCKBURN STATION, CRANFORD STATION, ELBA STATION, HOPEWELL PARK STATION, KEEN GEA STATION, MUNDOO BLUFF STATION, PRAIRIE VALE STATION, SHIRLEY STATION, TARELLA STATION, TIMARU STATION, TIREE STATION, TUMUTVALE STATION, UANDA STATION, ULVA STATION",
                 "SUBURBS": "PRAIRIE, TORRENS CREEK"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1742901601.740107"
+    "extracted": "1742901901.297846"
 }
