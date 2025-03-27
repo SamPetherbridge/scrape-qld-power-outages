@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.35015,
-                            -19.63521
+                            142.589813,
+                            -22.023483
                         ]
                     },
                     {
@@ -19,40 +19,96 @@
                         "coordinates": [
                             [
                                 [
-                                    147.344136,
-                                    -19.631281
+                                    142.153667,
+                                    -21.866605
                                 ],
                                 [
-                                    147.352851,
-                                    -19.640722
+                                    142.199911,
+                                    -21.998395
                                 ],
                                 [
-                                    147.353669,
-                                    -19.64055
+                                    142.199954,
+                                    -21.998484
                                 ],
                                 [
-                                    147.356164,
-                                    -19.632347
+                                    142.283916,
+                                    -22.130917
                                 ],
                                 [
-                                    147.355807,
-                                    -19.631781
+                                    142.284,
+                                    -22.131015
                                 ],
                                 [
-                                    147.345658,
-                                    -19.629697
+                                    142.525501,
+                                    -22.343181
                                 ],
                                 [
-                                    147.345251,
-                                    -19.629793
+                                    142.525668,
+                                    -22.343277
                                 ],
                                 [
-                                    147.344188,
-                                    -19.630637
+                                    142.577756,
+                                    -22.36079
                                 ],
                                 [
-                                    147.344136,
-                                    -19.631281
+                                    142.577772,
+                                    -22.360795
+                                ],
+                                [
+                                    142.743687,
+                                    -22.410532
+                                ],
+                                [
+                                    142.743983,
+                                    -22.410532
+                                ],
+                                [
+                                    142.834757,
+                                    -22.383506
+                                ],
+                                [
+                                    142.83504,
+                                    -22.383283
+                                ],
+                                [
+                                    143.025958,
+                                    -22.037266
+                                ],
+                                [
+                                    143.025795,
+                                    -22.036685
+                                ],
+                                [
+                                    142.465609,
+                                    -21.688476
+                                ],
+                                [
+                                    142.465521,
+                                    -21.688433
+                                ],
+                                [
+                                    142.328016,
+                                    -21.636435
+                                ],
+                                [
+                                    142.32756,
+                                    -21.636483
+                                ],
+                                [
+                                    142.240389,
+                                    -21.693134
+                                ],
+                                [
+                                    142.240227,
+                                    -21.693313
+                                ],
+                                [
+                                    142.153689,
+                                    -21.866274
+                                ],
+                                [
+                                    142.153667,
+                                    -21.866605
                                 ]
                             ]
                         ]
@@ -60,15 +116,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4764",
+                "EVENT_ID": "25NQ4774",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "4:26PM 26 Mar 2025",
-                "EST_FIX_TIME": "6:00PM 27 Mar 2025",
-                "STREETS": "MENSO RD, OLD CLARE RD",
-                "SUBURBS": "AIRVILLE, AYR"
+                "CUSTOMERS_AFFECTED": "43",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "12:11AM 27 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ALNI STATION, BENDEMEER STATION, CASTLE HILLS STATION, CATHEDRAL STATION, COLANE STATION, COLLINGWOOD STATION, CONGEWOI STATION, DAGWORTH STATION, ELDERSLIE STATION, ETNA STATION, FAIRVIEW STATION, FAREWELL STATION, GOOLMA STATION, KAROOLA STATION, LANA DOWNS STATION, LANDSBOROUGH HWY, LEESON STATION, LOVELLE DOWNS STATION, MT CAMPBELL STATION, NADJAYAMBA STATION, NARANGIE STATION, NUKEN STATION, STRATHBOWEN STATION, STRATHFILLAN STATION, TEVIOT STATION, THE GROVE STATION, WANORA STATION, WEBB STATION, WESTON STATION, WONGAN STATION, WYBENIA STATION",
+                "SUBURBS": "WINTON"
             }
         },
         {
@@ -378,6 +434,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.35015,
+                            -19.63521
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.344136,
+                                    -19.631281
+                                ],
+                                [
+                                    147.352851,
+                                    -19.640722
+                                ],
+                                [
+                                    147.353669,
+                                    -19.64055
+                                ],
+                                [
+                                    147.356164,
+                                    -19.632347
+                                ],
+                                [
+                                    147.355807,
+                                    -19.631781
+                                ],
+                                [
+                                    147.345658,
+                                    -19.629697
+                                ],
+                                [
+                                    147.345251,
+                                    -19.629793
+                                ],
+                                [
+                                    147.344188,
+                                    -19.630637
+                                ],
+                                [
+                                    147.344136,
+                                    -19.631281
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4764",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "4:26PM 26 Mar 2025",
+                "EST_FIX_TIME": "6:00PM 27 Mar 2025",
+                "STREETS": "MENSO RD, OLD CLARE RD",
+                "SUBURBS": "AIRVILLE, AYR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.184524,
                             -28.117791
                         ]
@@ -645,71 +770,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.504738,
                             -28.631878
                         ]
@@ -785,6 +845,71 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "JOBS GATE RD, MIDDLETON RD, MUNDA MUNDA RD, WIDGEEGOARA RD",
                 "SUBURBS": "CUNNAMULLA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -1034,131 +1159,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            142.589813,
-                            -22.023483
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    142.153667,
-                                    -21.866605
-                                ],
-                                [
-                                    142.199911,
-                                    -21.998395
-                                ],
-                                [
-                                    142.199954,
-                                    -21.998484
-                                ],
-                                [
-                                    142.283916,
-                                    -22.130917
-                                ],
-                                [
-                                    142.284,
-                                    -22.131015
-                                ],
-                                [
-                                    142.525501,
-                                    -22.343181
-                                ],
-                                [
-                                    142.525668,
-                                    -22.343277
-                                ],
-                                [
-                                    142.577756,
-                                    -22.36079
-                                ],
-                                [
-                                    142.577772,
-                                    -22.360795
-                                ],
-                                [
-                                    142.743687,
-                                    -22.410532
-                                ],
-                                [
-                                    142.743983,
-                                    -22.410532
-                                ],
-                                [
-                                    142.834757,
-                                    -22.383506
-                                ],
-                                [
-                                    142.83504,
-                                    -22.383283
-                                ],
-                                [
-                                    143.025958,
-                                    -22.037266
-                                ],
-                                [
-                                    143.025795,
-                                    -22.036685
-                                ],
-                                [
-                                    142.465609,
-                                    -21.688476
-                                ],
-                                [
-                                    142.465521,
-                                    -21.688433
-                                ],
-                                [
-                                    142.328016,
-                                    -21.636435
-                                ],
-                                [
-                                    142.32756,
-                                    -21.636483
-                                ],
-                                [
-                                    142.240389,
-                                    -21.693134
-                                ],
-                                [
-                                    142.240227,
-                                    -21.693313
-                                ],
-                                [
-                                    142.153689,
-                                    -21.866274
-                                ],
-                                [
-                                    142.153667,
-                                    -21.866605
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ4774",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "43",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "12:11AM 27 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ALNI STATION, BENDEMEER STATION, CASTLE HILLS STATION, CATHEDRAL STATION, COLANE STATION, COLLINGWOOD STATION, CONGEWOI STATION, DAGWORTH STATION, ELDERSLIE STATION, ETNA STATION, FAIRVIEW STATION, FAREWELL STATION, GOOLMA STATION, KAROOLA STATION, LANA DOWNS STATION, LANDSBOROUGH HWY, LEESON STATION, LOVELLE DOWNS STATION, MT CAMPBELL STATION, NADJAYAMBA STATION, NARANGIE STATION, NUKEN STATION, STRATHBOWEN STATION, STRATHFILLAN STATION, TEVIOT STATION, THE GROVE STATION, WANORA STATION, WEBB STATION, WESTON STATION, WONGAN STATION, WYBENIA STATION",
-                "SUBURBS": "WINTON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             149.218245,
                             -21.11378
                         ]
@@ -1367,7 +1367,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "16",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
+                "STATUS": "Crews on route",
                 "START": "9:55PM 26 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "EAST EURI RD, SUMMER HILL, WEST EURI CREEK RD",
@@ -1491,8 +1491,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.982084,
-                            -24.700298
+                            144.847459,
+                            -25.78465
                         ]
                     },
                     {
@@ -1500,56 +1500,72 @@
                         "coordinates": [
                             [
                                 [
-                                    151.96096,
-                                    -24.696714
+                                    144.346118,
+                                    -26.046847
                                 ],
                                 [
-                                    151.960989,
-                                    -24.696884
+                                    144.35161,
+                                    -26.053613
                                 ],
                                 [
-                                    151.960989,
-                                    -24.696886
+                                    144.351838,
+                                    -26.053769
                                 ],
                                 [
-                                    151.961907,
-                                    -24.702213
+                                    144.88251,
+                                    -26.231251
                                 ],
                                 [
-                                    151.961907,
-                                    -24.702214
+                                    144.882811,
+                                    -26.231264
                                 ],
                                 [
-                                    151.961932,
-                                    -24.702358
+                                    145.348526,
+                                    -26.119561
                                 ],
                                 [
-                                    151.962396,
-                                    -24.702737
+                                    145.348896,
+                                    -26.119099
                                 ],
                                 [
-                                    152.000671,
-                                    -24.7044
+                                    145.325501,
+                                    -25.7399
                                 ],
                                 [
-                                    152.001147,
-                                    -24.704128
+                                    145.325384,
+                                    -25.739633
                                 ],
                                 [
-                                    152.003208,
-                                    -24.699749
+                                    145.126759,
+                                    -25.526761
                                 ],
                                 [
-                                    152.002793,
-                                    -24.699122
+                                    145.126676,
+                                    -25.52669
                                 ],
                                 [
-                                    151.961485,
-                                    -24.696197
+                                    144.848566,
+                                    -25.338124
                                 ],
                                 [
-                                    151.96096,
-                                    -24.696714
+                                    144.848236,
+                                    -25.338035
+                                ],
+                                [
+                                    144.362494,
+                                    -25.366652
+                                ],
+                                [
+                                    144.362029,
+                                    -25.367092
+                                ],
+                                [
+                                    144.346022,
+                                    -26.046571
+                                ],
+                                [
+                                    144.346118,
+                                    -26.046847
                                 ]
                             ]
                         ]
@@ -1557,15 +1573,80 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB4261",
+                "EVENT_ID": "25SW5286",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "CUSTOMERS_AFFECTED": "61",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
                 "STATUS": "Crews working on-site",
-                "START": "6:26AM 27 Mar 2025",
+                "START": "1:04PM 27 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "FORESTRY RD, WAREE RD, WATALGAN RD, WATERLOO-WATALGAN RD, WILLS RD",
-                "SUBURBS": "MOUNT WATALGAN, ROSEDALE, WATALGAN, YANDARAN"
+                "STREETS": "ADAVALE RIVER RD, ADAVALE-BLACKALL RD, ADAVALE-CHARLEVILLE RD, AMBATHALA RD, AMBETHELLA RD, AUGATHELLA-CHARLEVILLE RD, CHARLEVILLE-ADAVALE RD, CHEEPIE RD, CHEEPIE-ADAVALE RD, MAIN ST, MCKINLAY ST, MILO RD, NELSON ST, QUILPIE-ADAVALE RD, RED RD, SHEPHERD ST, WELLCLOSE RD",
+                "SUBURBS": "ADAVALE, CHARLEVILLE, CHEEPIE, QUILPIE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            143.03145,
+                            -24.818312
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.011232,
+                                    -24.812028
+                                ],
+                                [
+                                    143.051062,
+                                    -24.829381
+                                ],
+                                [
+                                    143.0517,
+                                    -24.829205
+                                ],
+                                [
+                                    143.051565,
+                                    -24.82861
+                                ],
+                                [
+                                    143.019356,
+                                    -24.80727
+                                ],
+                                [
+                                    143.01882,
+                                    -24.807243
+                                ],
+                                [
+                                    143.0112,
+                                    -24.81123
+                                ],
+                                [
+                                    143.011232,
+                                    -24.812028
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA5684",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Crews working on-site",
+                "START": "1:44PM 27 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "WINDORAH RD",
+                "SUBURBS": "JUNDAH"
             }
         },
         {
@@ -1697,5 +1778,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743044402.760326"
+    "extracted": "1743045303.771762"
 }
