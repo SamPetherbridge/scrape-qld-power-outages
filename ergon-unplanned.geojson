@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.659365,
-                            -19.249547
+                            145.137819,
+                            -26.90908
                         ]
                     },
                     {
@@ -19,40 +19,40 @@
                         "coordinates": [
                             [
                                 [
-                                    146.658737,
-                                    -19.249866
+                                    145.13375,
+                                    -26.892868
                                 ],
                                 [
-                                    146.65926,
-                                    -19.250318
+                                    145.135811,
+                                    -26.925332
                                 ],
                                 [
-                                    146.659999,
-                                    -19.250198
+                                    145.136266,
+                                    -26.925756
                                 ],
                                 [
-                                    146.660142,
-                                    -19.249945
+                                    145.136802,
+                                    -26.925417
                                 ],
                                 [
-                                    146.660091,
-                                    -19.249445
+                                    145.141889,
+                                    -26.9074
                                 ],
                                 [
-                                    146.659514,
-                                    -19.248775
+                                    145.141861,
+                                    -26.907106
                                 ],
                                 [
-                                    146.658678,
-                                    -19.248981
+                                    145.134712,
+                                    -26.892659
                                 ],
                                 [
-                                    146.658589,
-                                    -19.249452
+                                    145.134134,
+                                    -26.892404
                                 ],
                                 [
-                                    146.658737,
-                                    -19.249866
+                                    145.13375,
+                                    -26.892868
                                 ]
                             ]
                         ]
@@ -60,15 +60,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4811",
+                "EVENT_ID": "25SW5204",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "9:26PM 27 Mar 2025",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "12:06AM 26 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "GEANEY LANE",
-                "SUBURBS": "DEERAGUN"
+                "STREETS": "HUMEBURN RD",
+                "SUBURBS": "CHEEPIE"
             }
         },
         {
@@ -523,6 +523,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            146.659365,
+                            -19.249547
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.658737,
+                                    -19.249866
+                                ],
+                                [
+                                    146.65926,
+                                    -19.250318
+                                ],
+                                [
+                                    146.659999,
+                                    -19.250198
+                                ],
+                                [
+                                    146.660142,
+                                    -19.249945
+                                ],
+                                [
+                                    146.660091,
+                                    -19.249445
+                                ],
+                                [
+                                    146.659514,
+                                    -19.248775
+                                ],
+                                [
+                                    146.658678,
+                                    -19.248981
+                                ],
+                                [
+                                    146.658589,
+                                    -19.249452
+                                ],
+                                [
+                                    146.658737,
+                                    -19.249866
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4811",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "9:26PM 27 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "GEANEY LANE",
+                "SUBURBS": "DEERAGUN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             143.343035,
                             -22.707696
                         ]
@@ -578,75 +647,6 @@
                 "EST_FIX_TIME": "12:00PM 04 Apr 2025",
                 "STREETS": "MELROSE STATION, TUCSON STATION",
                 "SUBURBS": "LONGREACH, WINTON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            145.137819,
-                            -26.90908
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.13375,
-                                    -26.892868
-                                ],
-                                [
-                                    145.135811,
-                                    -26.925332
-                                ],
-                                [
-                                    145.136266,
-                                    -26.925756
-                                ],
-                                [
-                                    145.136802,
-                                    -26.925417
-                                ],
-                                [
-                                    145.141889,
-                                    -26.9074
-                                ],
-                                [
-                                    145.141861,
-                                    -26.907106
-                                ],
-                                [
-                                    145.134712,
-                                    -26.892659
-                                ],
-                                [
-                                    145.134134,
-                                    -26.892404
-                                ],
-                                [
-                                    145.13375,
-                                    -26.892868
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5204",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "12:06AM 26 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "HUMEBURN RD",
-                "SUBURBS": "CHEEPIE"
             }
         },
         {
@@ -973,6 +973,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            143.28145,
+                            -24.350305
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.285064,
+                                    -24.350544
+                                ],
+                                [
+                                    143.278039,
+                                    -24.349184
+                                ],
+                                [
+                                    143.277456,
+                                    -24.349532
+                                ],
+                                [
+                                    143.277835,
+                                    -24.350066
+                                ],
+                                [
+                                    143.28486,
+                                    -24.351426
+                                ],
+                                [
+                                    143.285443,
+                                    -24.351078
+                                ],
+                                [
+                                    143.285064,
+                                    -24.350544
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA5688",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Work delayed. Crew unable to continue.",
+                "START": "1:15PM 27 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "UNKNOWN ST",
+                "SUBURBS": "STONEHENGE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             143.058395,
                             -24.811139
                         ]
@@ -1127,67 +1188,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.28145,
-                            -24.350305
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.285064,
-                                    -24.350544
-                                ],
-                                [
-                                    143.278039,
-                                    -24.349184
-                                ],
-                                [
-                                    143.277456,
-                                    -24.349532
-                                ],
-                                [
-                                    143.277835,
-                                    -24.350066
-                                ],
-                                [
-                                    143.28486,
-                                    -24.351426
-                                ],
-                                [
-                                    143.285443,
-                                    -24.351078
-                                ],
-                                [
-                                    143.285064,
-                                    -24.350544
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA5688",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Work delayed. Crew unable to continue.",
-                "START": "1:15PM 27 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "UNKNOWN ST",
-                "SUBURBS": "STONEHENGE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -1248,5 +1248,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743085241.427037"
+    "extracted": "1743085846.063622"
 }
