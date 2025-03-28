@@ -49,27 +49,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.159288,
-                    -24.740952
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB2542",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "12:06PM 28 Mar 2025",
-                "EST_FIX_TIME": "5:00PM 28 Mar 2025",
-                "STREETS": "BLACKALL ST, BOWEN ST, KENNEDY ST, NORMANBY ST",
-                "SUBURBS": "AVONDALE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     152.004534,
                     -26.970756
                 ]
@@ -85,9 +64,30 @@
                 "STREETS": "CROWS NEST RD, KING RD, MOUNT BINGA RD, NUKKU RD",
                 "SUBURBS": "MOUNT BINGA"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.159288,
+                    -24.740952
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB2542",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "12:06PM 28 Mar 2025",
+                "EST_FIX_TIME": "5:00PM 28 Mar 2025",
+                "STREETS": "BLACKALL ST, BOWEN ST, KENNEDY ST, NORMANBY ST",
+                "SUBURBS": "AVONDALE"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743136802.054234"
+    "extracted": "1743137400.229502"
 }
