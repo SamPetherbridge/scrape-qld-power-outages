@@ -490,72 +490,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.848017,
-                            -27.640005
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.846212,
-                                    -27.640879
-                                ],
-                                [
-                                    152.849679,
-                                    -27.641088
-                                ],
-                                [
-                                    152.85022,
-                                    -27.64066
-                                ],
-                                [
-                                    152.85029,
-                                    -27.63937
-                                ],
-                                [
-                                    152.84962,
-                                    -27.638921
-                                ],
-                                [
-                                    152.846081,
-                                    -27.640002
-                                ],
-                                [
-                                    152.845743,
-                                    -27.640488
-                                ],
-                                [
-                                    152.846212,
-                                    -27.640879
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-851867-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
-                "START": "9:22PM 28 Mar 2025",
-                "EST_FIX_TIME": "5:00PM 29 Mar 2025",
-                "STREETS": "COLLINGWOOD DR, REDBANK PLAINS RD",
-                "SUBURBS": "COLLINGWOOD PARK, REDBANK PLAINS",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.954713,
                             -27.279562
                         ]
@@ -631,6 +565,72 @@
                 "EST_FIX_TIME": "10:00AM 29 Mar 2025",
                 "STREETS": "FRANCIS RD, SANDOWN CT, TODDS RD, WOMBAT CT",
                 "SUBURBS": "LAWNTON",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.848017,
+                            -27.640005
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.846212,
+                                    -27.640879
+                                ],
+                                [
+                                    152.849679,
+                                    -27.641088
+                                ],
+                                [
+                                    152.85022,
+                                    -27.64066
+                                ],
+                                [
+                                    152.85029,
+                                    -27.63937
+                                ],
+                                [
+                                    152.84962,
+                                    -27.638921
+                                ],
+                                [
+                                    152.846081,
+                                    -27.640002
+                                ],
+                                [
+                                    152.845743,
+                                    -27.640488
+                                ],
+                                [
+                                    152.846212,
+                                    -27.640879
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-851867-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "9:22PM 28 Mar 2025",
+                "EST_FIX_TIME": "5:00PM 29 Mar 2025",
+                "STREETS": "COLLINGWOOD DR, REDBANK PLAINS RD",
+                "SUBURBS": "COLLINGWOOD PARK, REDBANK PLAINS",
                 "ETR_FLAG": "N"
             }
         },
@@ -1152,84 +1152,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.781284,
-                            -27.130308
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.7697,
-                                    -27.128582
-                                ],
-                                [
-                                    152.771436,
-                                    -27.130588
-                                ],
-                                [
-                                    152.771508,
-                                    -27.130655
-                                ],
-                                [
-                                    152.774117,
-                                    -27.132648
-                                ],
-                                [
-                                    152.774463,
-                                    -27.132756
-                                ],
-                                [
-                                    152.792416,
-                                    -27.132169
-                                ],
-                                [
-                                    152.792901,
-                                    -27.131748
-                                ],
-                                [
-                                    152.792483,
-                                    -27.131273
-                                ],
-                                [
-                                    152.770184,
-                                    -27.127861
-                                ],
-                                [
-                                    152.769666,
-                                    -27.128073
-                                ],
-                                [
-                                    152.7697,
-                                    -27.128582
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-852116-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "6:25AM 29 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 29 Mar 2025",
-                "STREETS": "FREDS RD, MAY RD",
-                "SUBURBS": "MT PLEASANT, OCEAN VIEW",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.863546,
                             -26.687703
                         ]
@@ -1363,9 +1285,87 @@
                 "SUBURBS": "MONTVILLE, NORTH MALENY",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.781284,
+                            -27.130308
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.7697,
+                                    -27.128582
+                                ],
+                                [
+                                    152.771436,
+                                    -27.130588
+                                ],
+                                [
+                                    152.771508,
+                                    -27.130655
+                                ],
+                                [
+                                    152.774117,
+                                    -27.132648
+                                ],
+                                [
+                                    152.774463,
+                                    -27.132756
+                                ],
+                                [
+                                    152.792416,
+                                    -27.132169
+                                ],
+                                [
+                                    152.792901,
+                                    -27.131748
+                                ],
+                                [
+                                    152.792483,
+                                    -27.131273
+                                ],
+                                [
+                                    152.770184,
+                                    -27.127861
+                                ],
+                                [
+                                    152.769666,
+                                    -27.128073
+                                ],
+                                [
+                                    152.7697,
+                                    -27.128582
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-852116-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "6:25AM 29 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 29 Mar 2025",
+                "STREETS": "FREDS RD, MAY RD",
+                "SUBURBS": "MT PLEASANT, OCEAN VIEW",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1743203401.572382"
+    "extracted": "1743204003.470667"
 }
