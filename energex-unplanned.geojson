@@ -1160,84 +1160,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.781284,
-                            -27.130308
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.7697,
-                                    -27.128582
-                                ],
-                                [
-                                    152.771436,
-                                    -27.130588
-                                ],
-                                [
-                                    152.771508,
-                                    -27.130655
-                                ],
-                                [
-                                    152.774117,
-                                    -27.132648
-                                ],
-                                [
-                                    152.774463,
-                                    -27.132756
-                                ],
-                                [
-                                    152.792416,
-                                    -27.132169
-                                ],
-                                [
-                                    152.792901,
-                                    -27.131748
-                                ],
-                                [
-                                    152.792483,
-                                    -27.131273
-                                ],
-                                [
-                                    152.770184,
-                                    -27.127861
-                                ],
-                                [
-                                    152.769666,
-                                    -27.128073
-                                ],
-                                [
-                                    152.7697,
-                                    -27.128582
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-852116-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "6:25AM 29 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 29 Mar 2025",
-                "STREETS": "FREDS RD, MAY RD",
-                "SUBURBS": "MT PLEASANT, OCEAN VIEW",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.863546,
                             -26.687703
                         ]
@@ -1371,9 +1293,87 @@
                 "SUBURBS": "MONTVILLE, NORTH MALENY",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.781284,
+                            -27.130308
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.7697,
+                                    -27.128582
+                                ],
+                                [
+                                    152.771436,
+                                    -27.130588
+                                ],
+                                [
+                                    152.771508,
+                                    -27.130655
+                                ],
+                                [
+                                    152.774117,
+                                    -27.132648
+                                ],
+                                [
+                                    152.774463,
+                                    -27.132756
+                                ],
+                                [
+                                    152.792416,
+                                    -27.132169
+                                ],
+                                [
+                                    152.792901,
+                                    -27.131748
+                                ],
+                                [
+                                    152.792483,
+                                    -27.131273
+                                ],
+                                [
+                                    152.770184,
+                                    -27.127861
+                                ],
+                                [
+                                    152.769666,
+                                    -27.128073
+                                ],
+                                [
+                                    152.7697,
+                                    -27.128582
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-852116-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "6:25AM 29 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 29 Mar 2025",
+                "STREETS": "FREDS RD, MAY RD",
+                "SUBURBS": "MT PLEASANT, OCEAN VIEW",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1743205201.643335"
+    "extracted": "1743205801.217553"
 }
