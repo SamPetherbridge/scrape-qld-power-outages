@@ -10,6 +10,132 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.212729,
+                            -27.880153
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.180654,
+                                    -27.90118
+                                ],
+                                [
+                                    153.181887,
+                                    -27.903092
+                                ],
+                                [
+                                    153.182346,
+                                    -27.903319
+                                ],
+                                [
+                                    153.198928,
+                                    -27.902784
+                                ],
+                                [
+                                    153.199064,
+                                    -27.902763
+                                ],
+                                [
+                                    153.206241,
+                                    -27.900732
+                                ],
+                                [
+                                    153.206341,
+                                    -27.900692
+                                ],
+                                [
+                                    153.228464,
+                                    -27.889322
+                                ],
+                                [
+                                    153.228469,
+                                    -27.88932
+                                ],
+                                [
+                                    153.244462,
+                                    -27.880918
+                                ],
+                                [
+                                    153.244711,
+                                    -27.880539
+                                ],
+                                [
+                                    153.24487,
+                                    -27.873381
+                                ],
+                                [
+                                    153.24474,
+                                    -27.87307
+                                ],
+                                [
+                                    153.231231,
+                                    -27.859697
+                                ],
+                                [
+                                    153.230923,
+                                    -27.859551
+                                ],
+                                [
+                                    153.210188,
+                                    -27.856986
+                                ],
+                                [
+                                    153.209959,
+                                    -27.857004
+                                ],
+                                [
+                                    153.202482,
+                                    -27.859182
+                                ],
+                                [
+                                    153.202188,
+                                    -27.859405
+                                ],
+                                [
+                                    153.181127,
+                                    -27.895994
+                                ],
+                                [
+                                    153.181073,
+                                    -27.896159
+                                ],
+                                [
+                                    153.180589,
+                                    -27.900915
+                                ],
+                                [
+                                    153.180654,
+                                    -27.90118
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-851912-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "338",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "9:58PM 28 Mar 2025",
+                "EST_FIX_TIME": "1:00AM 28 Mar 2025",
+                "STREETS": "BOTTLEBRUSH LANE, CEDAR CREEK FALLS RD, CEDAR CREEK RD, CLEAR CREEK CT, COLIN MEAGHER RD, COONARDOO CT, CREST HILL DR, ELEVATION DR, HAYES RD, HOWARD CREEK PL, IRONBARK CT, JOURDANA DR, LANES RD, MACDONNELL RD, PARKSIDE PDE, PINNACLE DR, ROWE LANE, TAMBORINE MOUNTAIN RD, TAMBORINE OXENFORD RD, TAMBORINE-OXENFORD RD, TIMBERVIEW DR, TOLIMA DR, VALLEY VIEW VSTA, VIEW CRES, WATERFALL DR",
+                "SUBURBS": "CEDAR CREEK, TAMBORINE MOUNTAIN, WONGAWALLAN",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.750362,
                             -26.692806
                         ]
@@ -457,9 +583,87 @@
                 "SUBURBS": "COLLINGWOOD PARK, NEW CHUM, REDBANK PLAINS, SWANBANK",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.868257,
+                            -26.473555
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.865953,
+                                    -26.472658
+                                ],
+                                [
+                                    152.866394,
+                                    -26.47372
+                                ],
+                                [
+                                    152.866484,
+                                    -26.473857
+                                ],
+                                [
+                                    152.867427,
+                                    -26.474838
+                                ],
+                                [
+                                    152.867815,
+                                    -26.474995
+                                ],
+                                [
+                                    152.870086,
+                                    -26.474959
+                                ],
+                                [
+                                    152.870561,
+                                    -26.474626
+                                ],
+                                [
+                                    152.870339,
+                                    -26.474122
+                                ],
+                                [
+                                    152.866684,
+                                    -26.472114
+                                ],
+                                [
+                                    152.866103,
+                                    -26.472152
+                                ],
+                                [
+                                    152.865953,
+                                    -26.472658
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-851913-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "9:51PM 28 Mar 2025",
+                "EST_FIX_TIME": "11:30PM 28 Mar 2025",
+                "STREETS": "CEYLON RD, OLD CEYLON RD",
+                "SUBURBS": "BELLI PARK, COOROY",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1743162901.534267"
+    "extracted": "1743163801.797733"
 }
