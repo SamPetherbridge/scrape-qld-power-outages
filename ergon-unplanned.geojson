@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.137819,
-                            -26.90908
+                            152.504752,
+                            -25.937211
                         ]
                     },
                     {
@@ -19,40 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    145.13375,
-                                    -26.892868
+                                    152.505472,
+                                    -25.934025
                                 ],
                                 [
-                                    145.135811,
-                                    -26.925332
+                                    152.503094,
+                                    -25.940097
                                 ],
                                 [
-                                    145.136266,
-                                    -26.925756
+                                    152.503397,
+                                    -25.940671
                                 ],
                                 [
-                                    145.136802,
-                                    -26.925417
+                                    152.504032,
+                                    -25.940397
                                 ],
                                 [
-                                    145.141889,
-                                    -26.9074
+                                    152.50641,
+                                    -25.934325
                                 ],
                                 [
-                                    145.141861,
-                                    -26.907106
+                                    152.506107,
+                                    -25.933751
                                 ],
                                 [
-                                    145.134712,
-                                    -26.892659
-                                ],
-                                [
-                                    145.134134,
-                                    -26.892404
-                                ],
-                                [
-                                    145.13375,
-                                    -26.892868
+                                    152.505472,
+                                    -25.934025
                                 ]
                             ]
                         ]
@@ -60,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW5204",
+                "EVENT_ID": "25WB4359",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "12:06AM 26 Mar 2025",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to public safety concerns.",
+                "STATUS": "Crews working on-site",
+                "START": "1:56PM 29 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "HUMEBURN RD",
-                "SUBURBS": "CHEEPIE"
+                "STREETS": "MIVA RD",
+                "SUBURBS": "GUNALDA"
             }
         },
         {
@@ -521,6 +513,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            145.137819,
+                            -26.90908
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.13375,
+                                    -26.892868
+                                ],
+                                [
+                                    145.135811,
+                                    -26.925332
+                                ],
+                                [
+                                    145.136266,
+                                    -26.925756
+                                ],
+                                [
+                                    145.136802,
+                                    -26.925417
+                                ],
+                                [
+                                    145.141889,
+                                    -26.9074
+                                ],
+                                [
+                                    145.141861,
+                                    -26.907106
+                                ],
+                                [
+                                    145.134712,
+                                    -26.892659
+                                ],
+                                [
+                                    145.134134,
+                                    -26.892404
+                                ],
+                                [
+                                    145.13375,
+                                    -26.892868
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5204",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "12:06AM 26 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "HUMEBURN RD",
+                "SUBURBS": "CHEEPIE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -721,7 +782,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "10",
                 "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Crews working on-site",
+                "STATUS": "Work delayed - crews unable to continue",
                 "START": "5:09PM 29 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "WATSON RD",
@@ -1322,67 +1383,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.504752,
-                            -25.937211
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.505472,
-                                    -25.934025
-                                ],
-                                [
-                                    152.503094,
-                                    -25.940097
-                                ],
-                                [
-                                    152.503397,
-                                    -25.940671
-                                ],
-                                [
-                                    152.504032,
-                                    -25.940397
-                                ],
-                                [
-                                    152.50641,
-                                    -25.934325
-                                ],
-                                [
-                                    152.506107,
-                                    -25.933751
-                                ],
-                                [
-                                    152.505472,
-                                    -25.934025
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB4359",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to public safety concerns.",
-                "STATUS": "Crews working on-site",
-                "START": "1:56PM 29 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "MIVA RD",
-                "SUBURBS": "GUNALDA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             143.061051,
                             -24.829018
                         ]
@@ -1593,6 +1593,95 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            143.058395,
+                            -24.811139
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.011216,
+                                    -24.812021
+                                ],
+                                [
+                                    143.057774,
+                                    -24.834224
+                                ],
+                                [
+                                    143.057841,
+                                    -24.83425
+                                ],
+                                [
+                                    143.059987,
+                                    -24.834929
+                                ],
+                                [
+                                    143.060321,
+                                    -24.834926
+                                ],
+                                [
+                                    143.071475,
+                                    -24.83114
+                                ],
+                                [
+                                    143.071703,
+                                    -24.830981
+                                ],
+                                [
+                                    143.105583,
+                                    -24.788049
+                                ],
+                                [
+                                    143.10559,
+                                    -24.787533
+                                ],
+                                [
+                                    143.105061,
+                                    -24.787349
+                                ],
+                                [
+                                    143.018945,
+                                    -24.807197
+                                ],
+                                [
+                                    143.01882,
+                                    -24.807243
+                                ],
+                                [
+                                    143.0112,
+                                    -24.81123
+                                ],
+                                [
+                                    143.011216,
+                                    -24.812021
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA5684",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "97",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Work delayed. Crew unable to continue.",
+                "START": "1:14PM 27 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "DICKSON ST, GARRICK ST, GOLF CLUB RD, GRIFFITH ST, HOSPITAL RD, MACROSSAN ST, MILES ST, MOREHEAD ST, UNKNOWN ST, WINDORAH RD",
+                "SUBURBS": "JUNDAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.073627,
                             -24.997425
                         ]
@@ -1676,95 +1765,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BUNGADOO RD, DELAN RD, MAHES RD, RIVER RD, SHORT CUT RD, SHORTCUT RD, WALLAVILLE GOONDOON RD, WALLAVILLE RD, WARMINGTON RD",
                 "SUBURBS": "BUNGADOO, DELAN, DRINAN, GIN GIN, WALLAVILLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            143.058395,
-                            -24.811139
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.011216,
-                                    -24.812021
-                                ],
-                                [
-                                    143.057774,
-                                    -24.834224
-                                ],
-                                [
-                                    143.057841,
-                                    -24.83425
-                                ],
-                                [
-                                    143.059987,
-                                    -24.834929
-                                ],
-                                [
-                                    143.060321,
-                                    -24.834926
-                                ],
-                                [
-                                    143.071475,
-                                    -24.83114
-                                ],
-                                [
-                                    143.071703,
-                                    -24.830981
-                                ],
-                                [
-                                    143.105583,
-                                    -24.788049
-                                ],
-                                [
-                                    143.10559,
-                                    -24.787533
-                                ],
-                                [
-                                    143.105061,
-                                    -24.787349
-                                ],
-                                [
-                                    143.018945,
-                                    -24.807197
-                                ],
-                                [
-                                    143.01882,
-                                    -24.807243
-                                ],
-                                [
-                                    143.0112,
-                                    -24.81123
-                                ],
-                                [
-                                    143.011216,
-                                    -24.812021
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA5684",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "97",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Work delayed. Crew unable to continue.",
-                "START": "1:14PM 27 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "DICKSON ST, GARRICK ST, GOLF CLUB RD, GRIFFITH ST, HOSPITAL RD, MACROSSAN ST, MILES ST, MOREHEAD ST, UNKNOWN ST, WINDORAH RD",
-                "SUBURBS": "JUNDAH"
             }
         },
         {
@@ -1896,5 +1896,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743252601.772473"
+    "extracted": "1743253205.532209"
 }
