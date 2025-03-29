@@ -10,6 +10,88 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.970993,
+                            -27.442911
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.970997,
+                                    -27.443953
+                                ],
+                                [
+                                    152.971365,
+                                    -27.443624
+                                ],
+                                [
+                                    152.971489,
+                                    -27.443442
+                                ],
+                                [
+                                    152.971842,
+                                    -27.442453
+                                ],
+                                [
+                                    152.971461,
+                                    -27.441874
+                                ],
+                                [
+                                    152.971058,
+                                    -27.4418
+                                ],
+                                [
+                                    152.970978,
+                                    -27.441792
+                                ],
+                                [
+                                    152.970977,
+                                    -27.441792
+                                ],
+                                [
+                                    152.970461,
+                                    -27.442153
+                                ],
+                                [
+                                    152.970143,
+                                    -27.443544
+                                ],
+                                [
+                                    152.970399,
+                                    -27.444031
+                                ],
+                                [
+                                    152.970997,
+                                    -27.443953
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-852238-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "18",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "12:32PM 29 Mar 2025",
+                "EST_FIX_TIME": "6:30PM 29 Mar 2025",
+                "STREETS": "LONDON ST",
+                "SUBURBS": "ASHGROVE",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.387075,
                             -28.228806
                         ]
@@ -172,7 +254,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "Awaiting",
                 "START": "2:26PM 29 Mar 2025",
-                "EST_FIX_TIME": "5:30PM 29 Mar 2025",
+                "EST_FIX_TIME": "6:00PM 29 Mar 2025",
                 "STREETS": "BREAKFAST CREEK RD, COWLISHAW ST, DOWN ST, DUKINFIELD ST, REDDACLIFF ST, VICTORIA TCE",
                 "SUBURBS": "BOWEN HILLS, NEWSTEAD",
                 "ETR_FLAG": "N"
@@ -385,91 +467,9 @@
                 "SUBURBS": "MOUNT NEBO",
                 "ETR_FLAG": "N"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.970993,
-                            -27.442911
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.970997,
-                                    -27.443953
-                                ],
-                                [
-                                    152.971365,
-                                    -27.443624
-                                ],
-                                [
-                                    152.971489,
-                                    -27.443442
-                                ],
-                                [
-                                    152.971842,
-                                    -27.442453
-                                ],
-                                [
-                                    152.971461,
-                                    -27.441874
-                                ],
-                                [
-                                    152.971058,
-                                    -27.4418
-                                ],
-                                [
-                                    152.970978,
-                                    -27.441792
-                                ],
-                                [
-                                    152.970977,
-                                    -27.441792
-                                ],
-                                [
-                                    152.970461,
-                                    -27.442153
-                                ],
-                                [
-                                    152.970143,
-                                    -27.443544
-                                ],
-                                [
-                                    152.970399,
-                                    -27.444031
-                                ],
-                                [
-                                    152.970997,
-                                    -27.443953
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-852238-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "18",
-                "REASON": "Emergency Repairs",
-                "STATUS": "Awaiting",
-                "START": "12:32PM 29 Mar 2025",
-                "EST_FIX_TIME": "6:30PM 29 Mar 2025",
-                "STREETS": "LONDON ST",
-                "SUBURBS": "ASHGROVE",
-                "ETR_FLAG": "N"
-            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1743231301.073675"
+    "extracted": "1743231603.597216"
 }
