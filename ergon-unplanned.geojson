@@ -10,6 +10,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            145.137819,
+                            -26.90908
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.13375,
+                                    -26.892868
+                                ],
+                                [
+                                    145.135811,
+                                    -26.925332
+                                ],
+                                [
+                                    145.136266,
+                                    -26.925756
+                                ],
+                                [
+                                    145.136802,
+                                    -26.925417
+                                ],
+                                [
+                                    145.141889,
+                                    -26.9074
+                                ],
+                                [
+                                    145.141861,
+                                    -26.907106
+                                ],
+                                [
+                                    145.134712,
+                                    -26.892659
+                                ],
+                                [
+                                    145.134134,
+                                    -26.892404
+                                ],
+                                [
+                                    145.13375,
+                                    -26.892868
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5204",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "12:06AM 26 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "HUMEBURN RD",
+                "SUBURBS": "CHEEPIE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             144.412987,
                             -21.25767
                         ]
@@ -61,6 +130,67 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BARRAGUNDA STATION, STRATHROY STATION, ZARA STATION",
                 "SUBURBS": "HUGHENDEN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            144.598944,
+                            -27.628299
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    144.645347,
+                                    -27.647799
+                                ],
+                                [
+                                    144.552983,
+                                    -27.607988
+                                ],
+                                [
+                                    144.552306,
+                                    -27.608197
+                                ],
+                                [
+                                    144.552541,
+                                    -27.6088
+                                ],
+                                [
+                                    144.644906,
+                                    -27.648611
+                                ],
+                                [
+                                    144.645582,
+                                    -27.648401
+                                ],
+                                [
+                                    144.645347,
+                                    -27.647799
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5212",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "7:49AM 26 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "TOOMPINE RD",
+                "SUBURBS": "EULO"
             }
         },
         {
@@ -154,67 +284,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "APIS CREEK RD, CLIFTON RD, MARLBOROUGH RD, OFF APIS CREEK RD, OFF MARLB-SARINA RD, SMITH RD",
                 "SUBURBS": "DUARINGA, GOGANGO, MARLBOROUGH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            144.598944,
-                            -27.628299
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.645347,
-                                    -27.647799
-                                ],
-                                [
-                                    144.552983,
-                                    -27.607988
-                                ],
-                                [
-                                    144.552306,
-                                    -27.608197
-                                ],
-                                [
-                                    144.552541,
-                                    -27.6088
-                                ],
-                                [
-                                    144.644906,
-                                    -27.648611
-                                ],
-                                [
-                                    144.645582,
-                                    -27.648401
-                                ],
-                                [
-                                    144.645347,
-                                    -27.647799
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5212",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "7:49AM 26 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "TOOMPINE RD",
-                "SUBURBS": "EULO"
             }
         },
         {
@@ -418,75 +487,6 @@
                 "EST_FIX_TIME": "12:00PM 04 Apr 2025",
                 "STREETS": "MELROSE STATION, TUCSON STATION",
                 "SUBURBS": "LONGREACH, WINTON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            145.137819,
-                            -26.90908
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.13375,
-                                    -26.892868
-                                ],
-                                [
-                                    145.135811,
-                                    -26.925332
-                                ],
-                                [
-                                    145.136266,
-                                    -26.925756
-                                ],
-                                [
-                                    145.136802,
-                                    -26.925417
-                                ],
-                                [
-                                    145.141889,
-                                    -26.9074
-                                ],
-                                [
-                                    145.141861,
-                                    -26.907106
-                                ],
-                                [
-                                    145.134712,
-                                    -26.892659
-                                ],
-                                [
-                                    145.134134,
-                                    -26.892404
-                                ],
-                                [
-                                    145.13375,
-                                    -26.892868
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5204",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "12:06AM 26 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "HUMEBURN RD",
-                "SUBURBS": "CHEEPIE"
             }
         },
         {
@@ -1363,79 +1363,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.515411,
-                            -25.204305
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.51412,
-                                    -25.205979
-                                ],
-                                [
-                                    152.515587,
-                                    -25.205784
-                                ],
-                                [
-                                    152.515962,
-                                    -25.205532
-                                ],
-                                [
-                                    152.517195,
-                                    -25.203179
-                                ],
-                                [
-                                    152.517059,
-                                    -25.202634
-                                ],
-                                [
-                                    152.516445,
-                                    -25.202631
-                                ],
-                                [
-                                    152.514561,
-                                    -25.203968
-                                ],
-                                [
-                                    152.514444,
-                                    -25.204087
-                                ],
-                                [
-                                    152.513627,
-                                    -25.205299
-                                ],
-                                [
-                                    152.51412,
-                                    -25.205979
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB4405",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to damage caused by storm activity.",
-                "STATUS": "Crews working on-site",
-                "START": "1:10AM 30 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BUXTON RD, RIVER DR",
-                "SUBURBS": "BUXTON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.504752,
                             -25.937211
                         ]
@@ -1917,5 +1844,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743288003.70024"
+    "extracted": "1743288601.630203"
 }
