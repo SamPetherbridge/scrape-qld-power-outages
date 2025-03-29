@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            149.111619,
-                            -23.224956
+                            144.847459,
+                            -25.78465
                         ]
                     },
                     {
@@ -19,64 +19,72 @@
                         "coordinates": [
                             [
                                 [
-                                    148.926737,
-                                    -23.143604
+                                    144.346118,
+                                    -26.046847
                                 ],
                                 [
-                                    149.132408,
-                                    -23.348844
+                                    144.35161,
+                                    -26.053613
                                 ],
                                 [
-                                    149.132948,
-                                    -23.348957
+                                    144.351838,
+                                    -26.053769
                                 ],
                                 [
-                                    149.155547,
-                                    -23.340608
+                                    144.88251,
+                                    -26.231251
                                 ],
                                 [
-                                    149.155722,
-                                    -23.340497
+                                    144.882811,
+                                    -26.231264
                                 ],
                                 [
-                                    149.262372,
-                                    -23.235131
+                                    145.348526,
+                                    -26.119561
                                 ],
                                 [
-                                    149.262465,
-                                    -23.234999
+                                    145.348896,
+                                    -26.119099
                                 ],
                                 [
-                                    149.2965,
-                                    -23.16089
+                                    145.325501,
+                                    -25.7399
                                 ],
                                 [
-                                    149.296273,
-                                    -23.160311
+                                    145.325384,
+                                    -25.739633
                                 ],
                                 [
-                                    149.195891,
-                                    -23.112946
+                                    145.126759,
+                                    -25.526761
                                 ],
                                 [
-                                    149.195751,
-                                    -23.112903
+                                    145.126676,
+                                    -25.52669
                                 ],
                                 [
-                                    149.119967,
-                                    -23.100956
+                                    144.848566,
+                                    -25.338124
                                 ],
                                 [
-                                    149.119773,
-                                    -23.100962
+                                    144.848236,
+                                    -25.338035
                                 ],
                                 [
-                                    148.926985,
-                                    -23.142858
+                                    144.362494,
+                                    -25.366652
                                 ],
                                 [
-                                    148.926737,
-                                    -23.143604
+                                    144.362029,
+                                    -25.367092
+                                ],
+                                [
+                                    144.346022,
+                                    -26.046571
+                                ],
+                                [
+                                    144.346118,
+                                    -26.046847
                                 ]
                             ]
                         ]
@@ -84,15 +92,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA5799",
+                "EVENT_ID": "25SW5286",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "35",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "8:15PM 29 Mar 2025",
+                "CUSTOMERS_AFFECTED": "61",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Crews working on-site",
+                "START": "1:04PM 27 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ARIZONA RD, BINGEGANG RD, DINGO-MT FLORA RD, HILLS ACCESS RD, JELLINBAH RD, OFF MT FLORA BEEF RD, PALMALMAL RD, WILLIAMSON RD, WILLIES CREEK RD, WILPEENA RD, YARRABEE RD",
-                "SUBURBS": "BINGEGANG, BLUFF, DINGO, MACKENZIE RIVER"
+                "STREETS": "ADAVALE RIVER RD, ADAVALE-BLACKALL RD, ADAVALE-CHARLEVILLE RD, AMBATHALA RD, AMBETHELLA RD, AUGATHELLA-CHARLEVILLE RD, CHARLEVILLE-ADAVALE RD, CHEEPIE RD, CHEEPIE-ADAVALE RD, MAIN ST, MCKINLAY ST, MILO RD, NELSON ST, QUILPIE-ADAVALE RD, RED RD, SHEPHERD ST, WELLCLOSE RD",
+                "SUBURBS": "ADAVALE, CHARLEVILLE, CHEEPIE, QUILPIE"
             }
         },
         {
@@ -1116,6 +1124,99 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            149.111619,
+                            -23.224956
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.926737,
+                                    -23.143604
+                                ],
+                                [
+                                    149.132408,
+                                    -23.348844
+                                ],
+                                [
+                                    149.132948,
+                                    -23.348957
+                                ],
+                                [
+                                    149.155547,
+                                    -23.340608
+                                ],
+                                [
+                                    149.155722,
+                                    -23.340497
+                                ],
+                                [
+                                    149.262372,
+                                    -23.235131
+                                ],
+                                [
+                                    149.262465,
+                                    -23.234999
+                                ],
+                                [
+                                    149.2965,
+                                    -23.16089
+                                ],
+                                [
+                                    149.296273,
+                                    -23.160311
+                                ],
+                                [
+                                    149.195891,
+                                    -23.112946
+                                ],
+                                [
+                                    149.195751,
+                                    -23.112903
+                                ],
+                                [
+                                    149.119967,
+                                    -23.100956
+                                ],
+                                [
+                                    149.119773,
+                                    -23.100962
+                                ],
+                                [
+                                    148.926985,
+                                    -23.142858
+                                ],
+                                [
+                                    148.926737,
+                                    -23.143604
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA5799",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "35",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "8:15PM 29 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ARIZONA RD, BINGEGANG RD, DINGO-MT FLORA RD, HILLS ACCESS RD, JELLINBAH RD, OFF MT FLORA BEEF RD, PALMALMAL RD, WILLIAMSON RD, WILLIES CREEK RD, WILPEENA RD, YARRABEE RD",
+                "SUBURBS": "BINGEGANG, BLUFF, DINGO, MACKENZIE RIVER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.182856,
                             -26.49326
                         ]
@@ -1525,107 +1626,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            144.847459,
-                            -25.78465
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.346118,
-                                    -26.046847
-                                ],
-                                [
-                                    144.35161,
-                                    -26.053613
-                                ],
-                                [
-                                    144.351838,
-                                    -26.053769
-                                ],
-                                [
-                                    144.88251,
-                                    -26.231251
-                                ],
-                                [
-                                    144.882811,
-                                    -26.231264
-                                ],
-                                [
-                                    145.348526,
-                                    -26.119561
-                                ],
-                                [
-                                    145.348896,
-                                    -26.119099
-                                ],
-                                [
-                                    145.325501,
-                                    -25.7399
-                                ],
-                                [
-                                    145.325384,
-                                    -25.739633
-                                ],
-                                [
-                                    145.126759,
-                                    -25.526761
-                                ],
-                                [
-                                    145.126676,
-                                    -25.52669
-                                ],
-                                [
-                                    144.848566,
-                                    -25.338124
-                                ],
-                                [
-                                    144.848236,
-                                    -25.338035
-                                ],
-                                [
-                                    144.362494,
-                                    -25.366652
-                                ],
-                                [
-                                    144.362029,
-                                    -25.367092
-                                ],
-                                [
-                                    144.346022,
-                                    -26.046571
-                                ],
-                                [
-                                    144.346118,
-                                    -26.046847
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5286",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "61",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Crews working on-site",
-                "START": "1:04PM 27 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ADAVALE RIVER RD, ADAVALE-BLACKALL RD, ADAVALE-CHARLEVILLE RD, AMBATHALA RD, AMBETHELLA RD, AUGATHELLA-CHARLEVILLE RD, CHARLEVILLE-ADAVALE RD, CHEEPIE RD, CHEEPIE-ADAVALE RD, MAIN ST, MCKINLAY ST, MILO RD, NELSON ST, QUILPIE-ADAVALE RD, RED RD, SHEPHERD ST, WELLCLOSE RD",
-                "SUBURBS": "ADAVALE, CHARLEVILLE, CHEEPIE, QUILPIE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             143.061051,
                             -24.829018
                         ]
@@ -1856,5 +1856,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743285605.130937"
+    "extracted": "1743286203.713518"
 }
