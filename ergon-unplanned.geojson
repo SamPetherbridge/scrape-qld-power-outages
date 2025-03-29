@@ -10,99 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.182856,
-                            -26.49326
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.09818,
-                                    -26.49083
-                                ],
-                                [
-                                    146.148674,
-                                    -26.525766
-                                ],
-                                [
-                                    146.148911,
-                                    -26.525856
-                                ],
-                                [
-                                    146.242808,
-                                    -26.53751
-                                ],
-                                [
-                                    146.242814,
-                                    -26.537511
-                                ],
-                                [
-                                    146.267159,
-                                    -26.540252
-                                ],
-                                [
-                                    146.267703,
-                                    -26.539678
-                                ],
-                                [
-                                    146.238558,
-                                    -26.449049
-                                ],
-                                [
-                                    146.238106,
-                                    -26.448724
-                                ],
-                                [
-                                    146.191245,
-                                    -26.446269
-                                ],
-                                [
-                                    146.191113,
-                                    -26.446278
-                                ],
-                                [
-                                    146.108491,
-                                    -26.461797
-                                ],
-                                [
-                                    146.108115,
-                                    -26.4621
-                                ],
-                                [
-                                    146.098008,
-                                    -26.490334
-                                ],
-                                [
-                                    146.09818,
-                                    -26.49083
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5323",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "26",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Crews working on-site",
-                "START": "8:28AM 28 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BANNERMAN'S RD, CHARLEVILLE-WYANDRA RD, CROXDALE RD, MITCHELL HWY, QUILPIE RD",
-                "SUBURBS": "CHARLEVILLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             144.412987,
                             -21.25767
                         ]
@@ -154,67 +61,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BARRAGUNDA STATION, STRATHROY STATION, ZARA STATION",
                 "SUBURBS": "HUGHENDEN"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            144.598944,
-                            -27.628299
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.645347,
-                                    -27.647799
-                                ],
-                                [
-                                    144.552983,
-                                    -27.607988
-                                ],
-                                [
-                                    144.552306,
-                                    -27.608197
-                                ],
-                                [
-                                    144.552541,
-                                    -27.6088
-                                ],
-                                [
-                                    144.644906,
-                                    -27.648611
-                                ],
-                                [
-                                    144.645582,
-                                    -27.648401
-                                ],
-                                [
-                                    144.645347,
-                                    -27.647799
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5212",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "7:49AM 26 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "TOOMPINE RD",
-                "SUBURBS": "EULO"
             }
         },
         {
@@ -308,6 +154,67 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "APIS CREEK RD, CLIFTON RD, MARLBOROUGH RD, OFF APIS CREEK RD, OFF MARLB-SARINA RD, SMITH RD",
                 "SUBURBS": "DUARINGA, GOGANGO, MARLBOROUGH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            144.598944,
+                            -27.628299
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    144.645347,
+                                    -27.647799
+                                ],
+                                [
+                                    144.552983,
+                                    -27.607988
+                                ],
+                                [
+                                    144.552306,
+                                    -27.608197
+                                ],
+                                [
+                                    144.552541,
+                                    -27.6088
+                                ],
+                                [
+                                    144.644906,
+                                    -27.648611
+                                ],
+                                [
+                                    144.645582,
+                                    -27.648401
+                                ],
+                                [
+                                    144.645347,
+                                    -27.647799
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5212",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "7:49AM 26 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "TOOMPINE RD",
+                "SUBURBS": "EULO"
             }
         },
         {
@@ -744,6 +651,107 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.301025,
+                            -19.589249
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.279208,
+                                    -19.586346
+                                ],
+                                [
+                                    147.290813,
+                                    -19.596403
+                                ],
+                                [
+                                    147.290904,
+                                    -19.596465
+                                ],
+                                [
+                                    147.318187,
+                                    -19.610781
+                                ],
+                                [
+                                    147.318544,
+                                    -19.610822
+                                ],
+                                [
+                                    147.322595,
+                                    -19.609766
+                                ],
+                                [
+                                    147.322942,
+                                    -19.609277
+                                ],
+                                [
+                                    147.318894,
+                                    -19.576842
+                                ],
+                                [
+                                    147.318618,
+                                    -19.576484
+                                ],
+                                [
+                                    147.299513,
+                                    -19.568211
+                                ],
+                                [
+                                    147.29935,
+                                    -19.568171
+                                ],
+                                [
+                                    147.2922,
+                                    -19.567676
+                                ],
+                                [
+                                    147.291858,
+                                    -19.567781
+                                ],
+                                [
+                                    147.287068,
+                                    -19.571597
+                                ],
+                                [
+                                    147.286954,
+                                    -19.571732
+                                ],
+                                [
+                                    147.279108,
+                                    -19.585802
+                                ],
+                                [
+                                    147.279208,
+                                    -19.586346
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4891",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "64",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews on route",
+                "START": "5:38AM 30 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "CACCIOLA RD, GOOD RD, HOEY RD, LABATT RD, MILANESE RD, ROSE RD, SAYERS RD, TOMLINS RD, WATERVIEW RD",
+                "SUBURBS": "AIRVILLE, AYR, BRANDON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.099924,
                             -24.969078
                         ]
@@ -1098,6 +1106,99 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "ARIZONA RD, BINGEGANG RD, DINGO-MT FLORA RD, HILLS ACCESS RD, JELLINBAH RD, OFF MT FLORA BEEF RD, PALMALMAL RD, WILLIAMSON RD, WILLIES CREEK RD, WILPEENA RD, YARRABEE RD",
                 "SUBURBS": "BINGEGANG, BLUFF, DINGO, MACKENZIE RIVER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.182856,
+                            -26.49326
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.09818,
+                                    -26.49083
+                                ],
+                                [
+                                    146.148674,
+                                    -26.525766
+                                ],
+                                [
+                                    146.148911,
+                                    -26.525856
+                                ],
+                                [
+                                    146.242808,
+                                    -26.53751
+                                ],
+                                [
+                                    146.242814,
+                                    -26.537511
+                                ],
+                                [
+                                    146.267159,
+                                    -26.540252
+                                ],
+                                [
+                                    146.267703,
+                                    -26.539678
+                                ],
+                                [
+                                    146.238558,
+                                    -26.449049
+                                ],
+                                [
+                                    146.238106,
+                                    -26.448724
+                                ],
+                                [
+                                    146.191245,
+                                    -26.446269
+                                ],
+                                [
+                                    146.191113,
+                                    -26.446278
+                                ],
+                                [
+                                    146.108491,
+                                    -26.461797
+                                ],
+                                [
+                                    146.108115,
+                                    -26.4621
+                                ],
+                                [
+                                    146.098008,
+                                    -26.490334
+                                ],
+                                [
+                                    146.09818,
+                                    -26.49083
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5323",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "26",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Crews working on-site",
+                "START": "8:28AM 28 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BANNERMAN'S RD, CHARLEVILLE-WYANDRA RD, CROXDALE RD, MITCHELL HWY, QUILPIE RD",
+                "SUBURBS": "CHARLEVILLE"
             }
         },
         {
@@ -1755,5 +1856,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743282005.861975"
+    "extracted": "1743282301.449602"
 }

@@ -10,68 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.027719,
-                            -27.274475
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.028419,
-                                    -27.275286
-                                ],
-                                [
-                                    153.028008,
-                                    -27.273484
-                                ],
-                                [
-                                    153.027412,
-                                    -27.273132
-                                ],
-                                [
-                                    153.027018,
-                                    -27.273665
-                                ],
-                                [
-                                    153.027429,
-                                    -27.275466
-                                ],
-                                [
-                                    153.028025,
-                                    -27.275818
-                                ],
-                                [
-                                    153.028419,
-                                    -27.275286
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-852392-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "4:15AM 30 Mar 2025",
-                "EST_FIX_TIME": "9:30AM 30 Mar 2025",
-                "STREETS": "DOHLES ROCKS RD, GREENS RD",
-                "SUBURBS": "GRIFFIN",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.033263,
                             -27.437767
                         ]
@@ -148,9 +86,71 @@
                 "REASON": "Under Investigation",
                 "STATUS": "Awaiting",
                 "START": "6:53AM 30 Mar 2025",
-                "EST_FIX_TIME": "10:00AM 30 Mar 2025",
+                "EST_FIX_TIME": "8:30AM 30 Mar 2025",
                 "STREETS": "CARTWRIGHT ST",
                 "SUBURBS": "WINDSOR",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.027719,
+                            -27.274475
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.028419,
+                                    -27.275286
+                                ],
+                                [
+                                    153.028008,
+                                    -27.273484
+                                ],
+                                [
+                                    153.027412,
+                                    -27.273132
+                                ],
+                                [
+                                    153.027018,
+                                    -27.273665
+                                ],
+                                [
+                                    153.027429,
+                                    -27.275466
+                                ],
+                                [
+                                    153.028025,
+                                    -27.275818
+                                ],
+                                [
+                                    153.028419,
+                                    -27.275286
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-852392-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "4:15AM 30 Mar 2025",
+                "EST_FIX_TIME": "9:30AM 30 Mar 2025",
+                "STREETS": "DOHLES ROCKS RD, GREENS RD",
+                "SUBURBS": "GRIFFIN",
                 "ETR_FLAG": "N"
             }
         },
@@ -259,5 +259,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1743282006.060848"
+    "extracted": "1743282301.465229"
 }
