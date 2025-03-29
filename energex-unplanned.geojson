@@ -10,100 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.008986,
-                            -27.438916
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.00758,
-                                    -27.439889
-                                ],
-                                [
-                                    153.008243,
-                                    -27.440221
-                                ],
-                                [
-                                    153.008704,
-                                    -27.440236
-                                ],
-                                [
-                                    153.010358,
-                                    -27.439549
-                                ],
-                                [
-                                    153.010629,
-                                    -27.43901
-                                ],
-                                [
-                                    153.010551,
-                                    -27.438776
-                                ],
-                                [
-                                    153.010372,
-                                    -27.438546
-                                ],
-                                [
-                                    153.009104,
-                                    -27.437687
-                                ],
-                                [
-                                    153.008783,
-                                    -27.437595
-                                ],
-                                [
-                                    153.008441,
-                                    -27.437604
-                                ],
-                                [
-                                    153.008014,
-                                    -27.437836
-                                ],
-                                [
-                                    153.0077,
-                                    -27.43834
-                                ],
-                                [
-                                    153.007657,
-                                    -27.43843
-                                ],
-                                [
-                                    153.007343,
-                                    -27.439366
-                                ],
-                                [
-                                    153.00758,
-                                    -27.439889
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-852420-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "77",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "7:31AM 30 Mar 2025",
-                "EST_FIX_TIME": "11:30AM 30 Mar 2025",
-                "STREETS": "EDMONDSTONE ST, FOSTER ST, RUBY ST",
-                "SUBURBS": "NEWMARKET",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.973163,
                             -27.291428
                         ]
@@ -189,7 +95,7 @@
                 "EVENT_ID": "INCD-852397-g",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "71",
-                "REASON": "Under Investigation",
+                "REASON": "Emergency Repairs",
                 "STATUS": "In Progress",
                 "START": "6:49AM 30 Mar 2025",
                 "EST_FIX_TIME": "11:30AM 30 Mar 2025",
@@ -283,9 +189,103 @@
                 "SUBURBS": "SUMNER",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.008986,
+                            -27.438916
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.00758,
+                                    -27.439889
+                                ],
+                                [
+                                    153.008243,
+                                    -27.440221
+                                ],
+                                [
+                                    153.008704,
+                                    -27.440236
+                                ],
+                                [
+                                    153.010358,
+                                    -27.439549
+                                ],
+                                [
+                                    153.010629,
+                                    -27.43901
+                                ],
+                                [
+                                    153.010551,
+                                    -27.438776
+                                ],
+                                [
+                                    153.010372,
+                                    -27.438546
+                                ],
+                                [
+                                    153.009104,
+                                    -27.437687
+                                ],
+                                [
+                                    153.008783,
+                                    -27.437595
+                                ],
+                                [
+                                    153.008441,
+                                    -27.437604
+                                ],
+                                [
+                                    153.008014,
+                                    -27.437836
+                                ],
+                                [
+                                    153.0077,
+                                    -27.43834
+                                ],
+                                [
+                                    153.007657,
+                                    -27.43843
+                                ],
+                                [
+                                    153.007343,
+                                    -27.439366
+                                ],
+                                [
+                                    153.00758,
+                                    -27.439889
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-852420-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "77",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "7:31AM 30 Mar 2025",
+                "EST_FIX_TIME": "11:30AM 30 Mar 2025",
+                "STREETS": "EDMONDSTONE ST, FOSTER ST, RUBY ST",
+                "SUBURBS": "NEWMARKET",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1743290106.009359"
+    "extracted": "1743290701.958829"
 }
