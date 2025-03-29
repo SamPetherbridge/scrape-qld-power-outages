@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            142.704427,
-                            -25.29303
+                            144.847459,
+                            -25.78465
                         ]
                     },
                     {
@@ -19,44 +19,72 @@
                         "coordinates": [
                             [
                                 [
-                                    142.661706,
-                                    -25.404704
+                                    144.346118,
+                                    -26.046847
                                 ],
                                 [
-                                    142.747644,
-                                    -25.360811
+                                    144.35161,
+                                    -26.053613
                                 ],
                                 [
-                                    142.747885,
-                                    -25.360323
+                                    144.351838,
+                                    -26.053769
                                 ],
                                 [
-                                    142.740133,
-                                    -25.327716
+                                    144.88251,
+                                    -26.231251
                                 ],
                                 [
-                                    142.740114,
-                                    -25.327655
+                                    144.882811,
+                                    -26.231264
                                 ],
                                 [
-                                    142.680792,
-                                    -25.181646
+                                    145.348526,
+                                    -26.119561
                                 ],
                                 [
-                                    142.680259,
-                                    -25.181356
+                                    145.348896,
+                                    -26.119099
                                 ],
                                 [
-                                    142.679834,
-                                    -25.181767
+                                    145.325501,
+                                    -25.7399
                                 ],
                                 [
-                                    142.660968,
-                                    -25.404277
+                                    145.325384,
+                                    -25.739633
                                 ],
                                 [
-                                    142.661706,
-                                    -25.404704
+                                    145.126759,
+                                    -25.526761
+                                ],
+                                [
+                                    145.126676,
+                                    -25.52669
+                                ],
+                                [
+                                    144.848566,
+                                    -25.338124
+                                ],
+                                [
+                                    144.848236,
+                                    -25.338035
+                                ],
+                                [
+                                    144.362494,
+                                    -25.366652
+                                ],
+                                [
+                                    144.362029,
+                                    -25.367092
+                                ],
+                                [
+                                    144.346022,
+                                    -26.046571
+                                ],
+                                [
+                                    144.346118,
+                                    -26.046847
                                 ]
                             ]
                         ]
@@ -64,15 +92,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA5767",
+                "EVENT_ID": "25SW5286",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "6",
+                "CUSTOMERS_AFFECTED": "61",
                 "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
                 "STATUS": "Crews working on-site",
-                "START": "6:01PM 28 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 30 Mar 2025",
-                "STREETS": "UNKNOWN ST, WINDORAH JUNDAH RD, WINDORAH-QUILPIE RD",
-                "SUBURBS": "WINDORAH"
+                "START": "1:04PM 27 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ADAVALE RIVER RD, ADAVALE-BLACKALL RD, ADAVALE-CHARLEVILLE RD, AMBATHALA RD, AMBETHELLA RD, AUGATHELLA-CHARLEVILLE RD, CHARLEVILLE-ADAVALE RD, CHEEPIE RD, CHEEPIE-ADAVALE RD, MAIN ST, MCKINLAY ST, MILO RD, NELSON ST, QUILPIE-ADAVALE RD, RED RD, SHEPHERD ST, WELLCLOSE RD",
+                "SUBURBS": "ADAVALE, CHARLEVILLE, CHEEPIE, QUILPIE"
             }
         },
         {
@@ -282,6 +310,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.629595,
+                            -20.784504
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.616081,
+                                    -20.789829
+                                ],
+                                [
+                                    148.628378,
+                                    -20.797089
+                                ],
+                                [
+                                    148.628849,
+                                    -20.79711
+                                ],
+                                [
+                                    148.629062,
+                                    -20.797009
+                                ],
+                                [
+                                    148.629201,
+                                    -20.79691
+                                ],
+                                [
+                                    148.638322,
+                                    -20.787523
+                                ],
+                                [
+                                    148.638427,
+                                    -20.787347
+                                ],
+                                [
+                                    148.643129,
+                                    -20.772528
+                                ],
+                                [
+                                    148.642749,
+                                    -20.771954
+                                ],
+                                [
+                                    148.642402,
+                                    -20.771898
+                                ],
+                                [
+                                    148.642046,
+                                    -20.771974
+                                ],
+                                [
+                                    148.616061,
+                                    -20.789076
+                                ],
+                                [
+                                    148.616081,
+                                    -20.789829
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3156",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "11",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "4:33PM 29 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRUCE HWY, PORTERS RD, WALES RD",
+                "SUBURBS": "BLOOMSBURY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             149.662879,
                             -23.255285
                         ]
@@ -365,91 +478,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "APIS CREEK RD, CLIFTON RD, MARLBOROUGH RD, OFF APIS CREEK RD, OFF MARLB-SARINA RD, SMITH RD",
                 "SUBURBS": "DUARINGA, GOGANGO, MARLBOROUGH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.629595,
-                            -20.784504
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.616081,
-                                    -20.789829
-                                ],
-                                [
-                                    148.628378,
-                                    -20.797089
-                                ],
-                                [
-                                    148.628849,
-                                    -20.79711
-                                ],
-                                [
-                                    148.629062,
-                                    -20.797009
-                                ],
-                                [
-                                    148.629201,
-                                    -20.79691
-                                ],
-                                [
-                                    148.638322,
-                                    -20.787523
-                                ],
-                                [
-                                    148.638427,
-                                    -20.787347
-                                ],
-                                [
-                                    148.643129,
-                                    -20.772528
-                                ],
-                                [
-                                    148.642749,
-                                    -20.771954
-                                ],
-                                [
-                                    148.642402,
-                                    -20.771898
-                                ],
-                                [
-                                    148.642046,
-                                    -20.771974
-                                ],
-                                [
-                                    148.616061,
-                                    -20.789076
-                                ],
-                                [
-                                    148.616081,
-                                    -20.789829
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK3156",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "11",
-                "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
-                "STATUS": "Crews working on-site",
-                "START": "4:33PM 29 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BRUCE HWY, PORTERS RD, WALES RD",
-                "SUBURBS": "BLOOMSBURY"
             }
         },
         {
@@ -671,99 +699,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.263277,
-                            -19.99252
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.260942,
-                                    -19.990665
-                                ],
-                                [
-                                    148.261479,
-                                    -19.993714
-                                ],
-                                [
-                                    148.261791,
-                                    -19.994066
-                                ],
-                                [
-                                    148.262865,
-                                    -19.994425
-                                ],
-                                [
-                                    148.262877,
-                                    -19.994429
-                                ],
-                                [
-                                    148.264438,
-                                    -19.994905
-                                ],
-                                [
-                                    148.265009,
-                                    -19.994684
-                                ],
-                                [
-                                    148.265199,
-                                    -19.994337
-                                ],
-                                [
-                                    148.265251,
-                                    -19.994178
-                                ],
-                                [
-                                    148.265612,
-                                    -19.991092
-                                ],
-                                [
-                                    148.2652,
-                                    -19.990594
-                                ],
-                                [
-                                    148.261583,
-                                    -19.99014
-                                ],
-                                [
-                                    148.261505,
-                                    -19.990136
-                                ],
-                                [
-                                    148.261398,
-                                    -19.990139
-                                ],
-                                [
-                                    148.260942,
-                                    -19.990665
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ4886",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "113",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "5:08PM 29 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "AVICENNIA ST, BANYAN DR, BLUEWATER PDE, CASUARINA ST, LOTUS LANE, POINCIANA DR, ROSE BAY RD",
-                "SUBURBS": "BOWEN"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -880,6 +815,168 @@
                 "EST_FIX_TIME": "4:00PM 31 Mar 2025",
                 "STREETS": "KIRKNIE RD",
                 "SUBURBS": "HOME HILL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            145.661924,
+                            -17.512874
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.65053,
+                                    -17.511791
+                                ],
+                                [
+                                    145.673073,
+                                    -17.51754
+                                ],
+                                [
+                                    145.673663,
+                                    -17.517065
+                                ],
+                                [
+                                    145.673518,
+                                    -17.515422
+                                ],
+                                [
+                                    145.673363,
+                                    -17.515123
+                                ],
+                                [
+                                    145.667305,
+                                    -17.509918
+                                ],
+                                [
+                                    145.667109,
+                                    -17.509817
+                                ],
+                                [
+                                    145.660668,
+                                    -17.508213
+                                ],
+                                [
+                                    145.660457,
+                                    -17.508208
+                                ],
+                                [
+                                    145.652814,
+                                    -17.509692
+                                ],
+                                [
+                                    145.652676,
+                                    -17.509741
+                                ],
+                                [
+                                    145.65042,
+                                    -17.51096
+                                ],
+                                [
+                                    145.650184,
+                                    -17.511411
+                                ],
+                                [
+                                    145.65053,
+                                    -17.511791
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN4083",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Outage reported",
+                "START": "5:09PM 29 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "WATSON RD",
+                "SUBURBS": "MILLAA MILLAA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            142.704427,
+                            -25.29303
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    142.661706,
+                                    -25.404704
+                                ],
+                                [
+                                    142.747644,
+                                    -25.360811
+                                ],
+                                [
+                                    142.747885,
+                                    -25.360323
+                                ],
+                                [
+                                    142.740133,
+                                    -25.327716
+                                ],
+                                [
+                                    142.740114,
+                                    -25.327655
+                                ],
+                                [
+                                    142.680792,
+                                    -25.181646
+                                ],
+                                [
+                                    142.680259,
+                                    -25.181356
+                                ],
+                                [
+                                    142.679834,
+                                    -25.181767
+                                ],
+                                [
+                                    142.660968,
+                                    -25.404277
+                                ],
+                                [
+                                    142.661706,
+                                    -25.404704
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA5767",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "6",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Crews working on-site",
+                "START": "6:01PM 28 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 30 Mar 2025",
+                "STREETS": "UNKNOWN ST, WINDORAH JUNDAH RD, WINDORAH-QUILPIE RD",
+                "SUBURBS": "WINDORAH"
             }
         },
         {
@@ -1108,8 +1205,8 @@
                 "EVENT_ID": "25FN4080",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "1152",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Crews working on-site",
                 "START": "6:08PM 29 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "ANDRICKSON RD, ANGUS ST, ANN ST, ANTONIA CL, ATHERTON RD, ATHERTON-MALANDA RD, BAULD RD, BERNARD ST, BLUE HILLS CRES, BROWN RD, BROWN ST, CARSON RD, CARSONS RD, CATHERINE ST, CHARLES ST, CHAUVEL ST, CHURCHILL AVE, CLEMINSON CL, COLEMAN RD, COLLINS RD, COOK RD, CROTHERS CL, CROWN CL, DALIP RD, DALZIEL AVE, DOBSON RD, DOWLING ST, DOWNING ST, EACHAM PL, EAST BARRON RD, ELIZABETH ST, ENGLISH RD, ENGLISH ST, FORRESTER RD, FOXWELL RD, GALLO RD, GARDNER LANE, GARNER DR, GEORGE ST, GILLIES RANGE RD, GINN RD, GLEN ALLYN RD, GREENSTREET PARK DR, HAINES RD, HANRAHAN ST, HEALE ST, HILL RD, HILLCREST RD, JACKSON DR, JAMES ST, KEVIN ST, KIRRA KOPPA RD, KNOWLES RD, LAWRENCE RD, LINDSAY RD, LIONS ST, LYNCH ST, MALANDA ATHERTON RD, MALANDA RD, MALANDA-ATHERTON RD, MARKS LANE, MARY ST, MAUNDS RD, MCKEOWN RD, MEMORIAL AVE, MERRAGALLAN RD, MILLAA MILLAA RD, MILLAA MILLAA-MALANDA RD, MONASH AVE, MONTGOMERY CL, MOOMA RD, MOSELEY RD, MOSES CCT, PARK AVE, PATRICK ST, PAU ST, PEETERS CL, PELUCHETTI RD, PHOENIX ST, PICNIC CROSSING RD, POUND RD, PRIOR CL, ROCKLEY RD, STONEHOUSE RD, STORER ST, THOMAS ST, TOGNOLA RD, TRAINOR ST, TURNBULL RD, UPPER BARRON RD, VARLEY RD, WALDBY CL, WILLIAM ST, WINDHAUS RD",
@@ -1294,184 +1391,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            144.847459,
-                            -25.78465
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.346118,
-                                    -26.046847
-                                ],
-                                [
-                                    144.35161,
-                                    -26.053613
-                                ],
-                                [
-                                    144.351838,
-                                    -26.053769
-                                ],
-                                [
-                                    144.88251,
-                                    -26.231251
-                                ],
-                                [
-                                    144.882811,
-                                    -26.231264
-                                ],
-                                [
-                                    145.348526,
-                                    -26.119561
-                                ],
-                                [
-                                    145.348896,
-                                    -26.119099
-                                ],
-                                [
-                                    145.325501,
-                                    -25.7399
-                                ],
-                                [
-                                    145.325384,
-                                    -25.739633
-                                ],
-                                [
-                                    145.126759,
-                                    -25.526761
-                                ],
-                                [
-                                    145.126676,
-                                    -25.52669
-                                ],
-                                [
-                                    144.848566,
-                                    -25.338124
-                                ],
-                                [
-                                    144.848236,
-                                    -25.338035
-                                ],
-                                [
-                                    144.362494,
-                                    -25.366652
-                                ],
-                                [
-                                    144.362029,
-                                    -25.367092
-                                ],
-                                [
-                                    144.346022,
-                                    -26.046571
-                                ],
-                                [
-                                    144.346118,
-                                    -26.046847
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5286",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "61",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Crews working on-site",
-                "START": "1:04PM 27 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ADAVALE RIVER RD, ADAVALE-BLACKALL RD, ADAVALE-CHARLEVILLE RD, AMBATHALA RD, AMBETHELLA RD, AUGATHELLA-CHARLEVILLE RD, CHARLEVILLE-ADAVALE RD, CHEEPIE RD, CHEEPIE-ADAVALE RD, MAIN ST, MCKINLAY ST, MILO RD, NELSON ST, QUILPIE-ADAVALE RD, RED RD, SHEPHERD ST, WELLCLOSE RD",
-                "SUBURBS": "ADAVALE, CHARLEVILLE, CHEEPIE, QUILPIE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            150.616213,
-                            -23.161505
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    150.596829,
-                                    -23.161914
-                                ],
-                                [
-                                    150.621205,
-                                    -23.174039
-                                ],
-                                [
-                                    150.621757,
-                                    -23.173982
-                                ],
-                                [
-                                    150.633287,
-                                    -23.164678
-                                ],
-                                [
-                                    150.633449,
-                                    -23.164397
-                                ],
-                                [
-                                    150.635597,
-                                    -23.149465
-                                ],
-                                [
-                                    150.634984,
-                                    -23.14897
-                                ],
-                                [
-                                    150.608108,
-                                    -23.155831
-                                ],
-                                [
-                                    150.608017,
-                                    -23.155863
-                                ],
-                                [
-                                    150.596839,
-                                    -23.161115
-                                ],
-                                [
-                                    150.596829,
-                                    -23.161914
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA5770",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "11:30PM 28 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "COBRABALL RD, OLD BYFIELD RD",
-                "SUBURBS": "BONDOOLA, COBRABALL, MULARA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             143.058395,
                             -24.811139
                         ]
@@ -1551,6 +1470,83 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "DICKSON ST, GARRICK ST, GOLF CLUB RD, GRIFFITH ST, HOSPITAL RD, MACROSSAN ST, MILES ST, MOREHEAD ST, UNKNOWN ST, WINDORAH RD",
                 "SUBURBS": "JUNDAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            150.616213,
+                            -23.161505
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.596829,
+                                    -23.161914
+                                ],
+                                [
+                                    150.621205,
+                                    -23.174039
+                                ],
+                                [
+                                    150.621757,
+                                    -23.173982
+                                ],
+                                [
+                                    150.633287,
+                                    -23.164678
+                                ],
+                                [
+                                    150.633449,
+                                    -23.164397
+                                ],
+                                [
+                                    150.635597,
+                                    -23.149465
+                                ],
+                                [
+                                    150.634984,
+                                    -23.14897
+                                ],
+                                [
+                                    150.608108,
+                                    -23.155831
+                                ],
+                                [
+                                    150.608017,
+                                    -23.155863
+                                ],
+                                [
+                                    150.596839,
+                                    -23.161115
+                                ],
+                                [
+                                    150.596829,
+                                    -23.161914
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA5770",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "11:30PM 28 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "COBRABALL RD, OLD BYFIELD RD",
+                "SUBURBS": "BONDOOLA, COBRABALL, MULARA"
             }
         },
         {
@@ -1815,5 +1811,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743239101.703658"
+    "extracted": "1743239704.641389"
 }
