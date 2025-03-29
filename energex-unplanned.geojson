@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.954713,
-                            -27.279562
+                            153.140128,
+                            -27.901065
                         ]
                     },
                     {
@@ -19,56 +19,72 @@
                         "coordinates": [
                             [
                                 [
-                                    152.95297,
-                                    -27.278841
+                                    153.11088,
+                                    -27.899047
                                 ],
                                 [
-                                    152.953411,
-                                    -27.279922
+                                    153.112698,
+                                    -27.905093
                                 ],
                                 [
-                                    152.953657,
-                                    -27.28017
+                                    153.112974,
+                                    -27.905386
                                 ],
                                 [
-                                    152.955727,
-                                    -27.281105
+                                    153.132904,
+                                    -27.913616
                                 ],
                                 [
-                                    152.956456,
-                                    -27.280642
+                                    153.133208,
+                                    -27.913651
                                 ],
                                 [
-                                    152.956195,
-                                    -27.278918
+                                    153.16263,
+                                    -27.908967
                                 ],
                                 [
-                                    152.956134,
-                                    -27.278756
+                                    153.162736,
+                                    -27.908939
                                 ],
                                 [
-                                    152.956065,
-                                    -27.278648
+                                    153.162911,
+                                    -27.908874
                                 ],
                                 [
-                                    152.955739,
-                                    -27.278431
+                                    153.163133,
+                                    -27.908714
                                 ],
                                 [
-                                    152.953729,
-                                    -27.278018
+                                    153.168935,
+                                    -27.901267
                                 ],
                                 [
-                                    152.953196,
-                                    -27.278207
+                                    153.169024,
+                                    -27.901047
                                 ],
                                 [
-                                    152.953025,
-                                    -27.278435
+                                    153.169377,
+                                    -27.897151
                                 ],
                                 [
-                                    152.95297,
-                                    -27.278841
+                                    153.168995,
+                                    -27.896677
+                                ],
+                                [
+                                    153.132692,
+                                    -27.888479
+                                ],
+                                [
+                                    153.132328,
+                                    -27.888518
+                                ],
+                                [
+                                    153.111132,
+                                    -27.898532
+                                ],
+                                [
+                                    153.11088,
+                                    -27.899047
                                 ]
                             ]
                         ]
@@ -76,15 +92,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-852026-g",
+                "EVENT_ID": "INCD-852243-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "38",
+                "CUSTOMERS_AFFECTED": "280",
                 "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
-                "START": "3:54AM 29 Mar 2025",
+                "STATUS": "In Progress",
+                "START": "12:44PM 29 Mar 2025",
                 "EST_FIX_TIME": "3:00PM 29 Mar 2025",
-                "STREETS": "FRANCIS RD, SANDOWN CT, TODDS RD, WOMBAT CT",
-                "SUBURBS": "LAWNTON",
+                "STREETS": "BEAUDESERT-BEENLEIGH RD, BRAHMAN RD, CHIANINA CT, CURIO CT, DEVON DR, DONALD CT, HAZEL RD, J G CAMPBELL LANE, JERSEY RD, LEACH RD, MUNDOOLUN CONNECTION RD, MURRAY GREY DR, PALOMINO RD, PARKES CT, SHORTHORN CT, SIMMENTAL DR, STRINGYBARK RD, TAMBORINE MOUNTAIN RD, VINEYARD LANE, VONDA YOUNGMAN DR, WALNUT RD",
+                "SUBURBS": "BOYLAND, TAMBORINE",
                 "ETR_FLAG": "N"
             }
         },
@@ -492,6 +508,92 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.954713,
+                            -27.279562
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.95297,
+                                    -27.278841
+                                ],
+                                [
+                                    152.953411,
+                                    -27.279922
+                                ],
+                                [
+                                    152.953657,
+                                    -27.28017
+                                ],
+                                [
+                                    152.955727,
+                                    -27.281105
+                                ],
+                                [
+                                    152.956456,
+                                    -27.280642
+                                ],
+                                [
+                                    152.956195,
+                                    -27.278918
+                                ],
+                                [
+                                    152.956134,
+                                    -27.278756
+                                ],
+                                [
+                                    152.956065,
+                                    -27.278648
+                                ],
+                                [
+                                    152.955739,
+                                    -27.278431
+                                ],
+                                [
+                                    152.953729,
+                                    -27.278018
+                                ],
+                                [
+                                    152.953196,
+                                    -27.278207
+                                ],
+                                [
+                                    152.953025,
+                                    -27.278435
+                                ],
+                                [
+                                    152.95297,
+                                    -27.278841
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-852026-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "38",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "3:54AM 29 Mar 2025",
+                "EST_FIX_TIME": "3:00PM 29 Mar 2025",
+                "STREETS": "FRANCIS RD, SANDOWN CT, TODDS RD, WOMBAT CT",
+                "SUBURBS": "LAWNTON",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.194941,
                             -27.925579
                         ]
@@ -888,108 +990,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.140128,
-                            -27.901065
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.11088,
-                                    -27.899047
-                                ],
-                                [
-                                    153.112698,
-                                    -27.905093
-                                ],
-                                [
-                                    153.112974,
-                                    -27.905386
-                                ],
-                                [
-                                    153.132904,
-                                    -27.913616
-                                ],
-                                [
-                                    153.133208,
-                                    -27.913651
-                                ],
-                                [
-                                    153.16263,
-                                    -27.908967
-                                ],
-                                [
-                                    153.162736,
-                                    -27.908939
-                                ],
-                                [
-                                    153.162911,
-                                    -27.908874
-                                ],
-                                [
-                                    153.163133,
-                                    -27.908714
-                                ],
-                                [
-                                    153.168935,
-                                    -27.901267
-                                ],
-                                [
-                                    153.169024,
-                                    -27.901047
-                                ],
-                                [
-                                    153.169377,
-                                    -27.897151
-                                ],
-                                [
-                                    153.168995,
-                                    -27.896677
-                                ],
-                                [
-                                    153.132692,
-                                    -27.888479
-                                ],
-                                [
-                                    153.132328,
-                                    -27.888518
-                                ],
-                                [
-                                    153.111132,
-                                    -27.898532
-                                ],
-                                [
-                                    153.11088,
-                                    -27.899047
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-852243-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "280",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "12:44PM 29 Mar 2025",
-                "EST_FIX_TIME": "3:00PM 29 Mar 2025",
-                "STREETS": "BEAUDESERT-BEENLEIGH RD, BRAHMAN RD, CHIANINA CT, CURIO CT, DEVON DR, DONALD CT, HAZEL RD, J G CAMPBELL LANE, JERSEY RD, LEACH RD, MUNDOOLUN CONNECTION RD, MURRAY GREY DR, PALOMINO RD, PARKES CT, SHORTHORN CT, SIMMENTAL DR, STRINGYBARK RD, TAMBORINE MOUNTAIN RD, VINEYARD LANE, VONDA YOUNGMAN DR, WALNUT RD",
-                "SUBURBS": "BOYLAND, TAMBORINE",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.193377,
                             -27.926853
                         ]
@@ -1169,5 +1169,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1743221101.024962"
+    "extracted": "1743221703.006677"
 }
