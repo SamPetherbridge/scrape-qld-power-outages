@@ -10,6 +10,99 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            144.38499,
+                            -27.370007
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.685712,
+                                    -27.30285
+                                ],
+                                [
+                                    143.872219,
+                                    -27.772838
+                                ],
+                                [
+                                    143.872744,
+                                    -27.773136
+                                ],
+                                [
+                                    143.942069,
+                                    -27.767328
+                                ],
+                                [
+                                    143.942249,
+                                    -27.767282
+                                ],
+                                [
+                                    144.833509,
+                                    -27.365113
+                                ],
+                                [
+                                    144.833572,
+                                    -27.365078
+                                ],
+                                [
+                                    145.08406,
+                                    -27.204751
+                                ],
+                                [
+                                    145.084267,
+                                    -27.204333
+                                ],
+                                [
+                                    145.074669,
+                                    -27.129581
+                                ],
+                                [
+                                    145.074287,
+                                    -27.129194
+                                ],
+                                [
+                                    144.340504,
+                                    -26.966877
+                                ],
+                                [
+                                    144.34013,
+                                    -26.966924
+                                ],
+                                [
+                                    143.685938,
+                                    -27.302308
+                                ],
+                                [
+                                    143.685712,
+                                    -27.30285
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5362",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "49",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "2:14AM 30 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ARUWINI ST, AUTUMNVALE RD, BIG CREEK RD, EULO-TOOMPINE RD, GIBEROO RD, HUMEBURN RD, INGEBERRY RD, KIANDRA RD, MULIANA RD, OLD THARGOMINDAH RD, PINKENETTA RD, STANLEY ST, THARGOMINDAH RD, TOBERMORY RD, TOOMPINE RD, WAMBIN RD, WAREO RD",
+                "SUBURBS": "CHEEPIE, CUNNAMULLA, QUILPIE, THARGOMINDAH, TOOMPINE, WYANDRA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             144.412987,
                             -21.25767
                         ]
@@ -61,6 +154,67 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BARRAGUNDA STATION, STRATHROY STATION, ZARA STATION",
                 "SUBURBS": "HUGHENDEN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            144.598944,
+                            -27.628299
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    144.645347,
+                                    -27.647799
+                                ],
+                                [
+                                    144.552983,
+                                    -27.607988
+                                ],
+                                [
+                                    144.552306,
+                                    -27.608197
+                                ],
+                                [
+                                    144.552541,
+                                    -27.6088
+                                ],
+                                [
+                                    144.644906,
+                                    -27.648611
+                                ],
+                                [
+                                    144.645582,
+                                    -27.648401
+                                ],
+                                [
+                                    144.645347,
+                                    -27.647799
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5212",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "7:49AM 26 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "TOOMPINE RD",
+                "SUBURBS": "EULO"
             }
         },
         {
@@ -154,67 +308,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "APIS CREEK RD, CLIFTON RD, MARLBOROUGH RD, OFF APIS CREEK RD, OFF MARLB-SARINA RD, SMITH RD",
                 "SUBURBS": "DUARINGA, GOGANGO, MARLBOROUGH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            144.598944,
-                            -27.628299
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.645347,
-                                    -27.647799
-                                ],
-                                [
-                                    144.552983,
-                                    -27.607988
-                                ],
-                                [
-                                    144.552306,
-                                    -27.608197
-                                ],
-                                [
-                                    144.552541,
-                                    -27.6088
-                                ],
-                                [
-                                    144.644906,
-                                    -27.648611
-                                ],
-                                [
-                                    144.645582,
-                                    -27.648401
-                                ],
-                                [
-                                    144.645347,
-                                    -27.647799
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5212",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "7:49AM 26 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "TOOMPINE RD",
-                "SUBURBS": "EULO"
             }
         },
         {
@@ -1209,99 +1302,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            144.38499,
-                            -27.370007
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.685712,
-                                    -27.30285
-                                ],
-                                [
-                                    143.872219,
-                                    -27.772838
-                                ],
-                                [
-                                    143.872744,
-                                    -27.773136
-                                ],
-                                [
-                                    143.942069,
-                                    -27.767328
-                                ],
-                                [
-                                    143.942249,
-                                    -27.767282
-                                ],
-                                [
-                                    144.833509,
-                                    -27.365113
-                                ],
-                                [
-                                    144.833572,
-                                    -27.365078
-                                ],
-                                [
-                                    145.08406,
-                                    -27.204751
-                                ],
-                                [
-                                    145.084267,
-                                    -27.204333
-                                ],
-                                [
-                                    145.074669,
-                                    -27.129581
-                                ],
-                                [
-                                    145.074287,
-                                    -27.129194
-                                ],
-                                [
-                                    144.340504,
-                                    -26.966877
-                                ],
-                                [
-                                    144.34013,
-                                    -26.966924
-                                ],
-                                [
-                                    143.685938,
-                                    -27.302308
-                                ],
-                                [
-                                    143.685712,
-                                    -27.30285
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5362",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "49",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
-                "START": "2:14AM 30 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ARUWINI ST, AUTUMNVALE RD, BIG CREEK RD, EULO-TOOMPINE RD, GIBEROO RD, HUMEBURN RD, INGEBERRY RD, KIANDRA RD, MULIANA RD, OLD THARGOMINDAH RD, PINKENETTA RD, STANLEY ST, THARGOMINDAH RD, TOBERMORY RD, TOOMPINE RD, WAMBIN RD, WAREO RD",
-                "SUBURBS": "CHEEPIE, CUNNAMULLA, QUILPIE, THARGOMINDAH, TOOMPINE, WYANDRA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.515411,
                             -25.204305
                         ]
@@ -1360,7 +1360,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "4",
                 "REASON": "The loss of supply is due to damage caused by storm activity.",
-                "STATUS": "Outage reported",
+                "STATUS": "Crews on route",
                 "START": "1:10AM 30 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BUXTON RD, RIVER DR",
@@ -1856,5 +1856,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743282301.449602"
+    "extracted": "1743282904.395788"
 }
