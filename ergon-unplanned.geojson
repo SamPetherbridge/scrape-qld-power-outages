@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
+                            142.704427,
+                            -25.29303
                         ]
                     },
                     {
@@ -19,36 +19,44 @@
                         "coordinates": [
                             [
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    142.661706,
+                                    -25.404704
                                 ],
                                 [
-                                    148.700208,
-                                    -21.128945
+                                    142.747644,
+                                    -25.360811
                                 ],
                                 [
-                                    148.700826,
-                                    -21.128582
+                                    142.747885,
+                                    -25.360323
                                 ],
                                 [
-                                    148.701003,
-                                    -21.127495
+                                    142.740133,
+                                    -25.327716
                                 ],
                                 [
-                                    148.700469,
-                                    -21.126979
+                                    142.740114,
+                                    -25.327655
                                 ],
                                 [
-                                    148.697649,
-                                    -21.127299
+                                    142.680792,
+                                    -25.181646
                                 ],
                                 [
-                                    148.697227,
-                                    -21.127706
+                                    142.680259,
+                                    -25.181356
                                 ],
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    142.679834,
+                                    -25.181767
+                                ],
+                                [
+                                    142.660968,
+                                    -25.404277
+                                ],
+                                [
+                                    142.661706,
+                                    -25.404704
                                 ]
                             ]
                         ]
@@ -56,15 +64,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK1119",
+                "EVENT_ID": "25CA5767",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
+                "CUSTOMERS_AFFECTED": "6",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Crews working on-site",
+                "START": "6:01PM 28 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 30 Mar 2025",
+                "STREETS": "UNKNOWN ST, WINDORAH JUNDAH RD, WINDORAH-QUILPIE RD",
+                "SUBURBS": "WINDORAH"
             }
         },
         {
@@ -274,91 +282,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.629595,
-                            -20.784504
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.616081,
-                                    -20.789829
-                                ],
-                                [
-                                    148.628378,
-                                    -20.797089
-                                ],
-                                [
-                                    148.628849,
-                                    -20.79711
-                                ],
-                                [
-                                    148.629062,
-                                    -20.797009
-                                ],
-                                [
-                                    148.629201,
-                                    -20.79691
-                                ],
-                                [
-                                    148.638322,
-                                    -20.787523
-                                ],
-                                [
-                                    148.638427,
-                                    -20.787347
-                                ],
-                                [
-                                    148.643129,
-                                    -20.772528
-                                ],
-                                [
-                                    148.642749,
-                                    -20.771954
-                                ],
-                                [
-                                    148.642402,
-                                    -20.771898
-                                ],
-                                [
-                                    148.642046,
-                                    -20.771974
-                                ],
-                                [
-                                    148.616061,
-                                    -20.789076
-                                ],
-                                [
-                                    148.616081,
-                                    -20.789829
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK3156",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "11",
-                "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
-                "STATUS": "Crews working on-site",
-                "START": "4:33PM 29 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BRUCE HWY, PORTERS RD, WALES RD",
-                "SUBURBS": "BLOOMSBURY"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             149.662879,
                             -23.255285
                         ]
@@ -442,6 +365,91 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "APIS CREEK RD, CLIFTON RD, MARLBOROUGH RD, OFF APIS CREEK RD, OFF MARLB-SARINA RD, SMITH RD",
                 "SUBURBS": "DUARINGA, GOGANGO, MARLBOROUGH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.629595,
+                            -20.784504
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.616081,
+                                    -20.789829
+                                ],
+                                [
+                                    148.628378,
+                                    -20.797089
+                                ],
+                                [
+                                    148.628849,
+                                    -20.79711
+                                ],
+                                [
+                                    148.629062,
+                                    -20.797009
+                                ],
+                                [
+                                    148.629201,
+                                    -20.79691
+                                ],
+                                [
+                                    148.638322,
+                                    -20.787523
+                                ],
+                                [
+                                    148.638427,
+                                    -20.787347
+                                ],
+                                [
+                                    148.643129,
+                                    -20.772528
+                                ],
+                                [
+                                    148.642749,
+                                    -20.771954
+                                ],
+                                [
+                                    148.642402,
+                                    -20.771898
+                                ],
+                                [
+                                    148.642046,
+                                    -20.771974
+                                ],
+                                [
+                                    148.616061,
+                                    -20.789076
+                                ],
+                                [
+                                    148.616081,
+                                    -20.789829
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3156",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "11",
+                "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+                "STATUS": "Crews working on-site",
+                "START": "4:33PM 29 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRUCE HWY, PORTERS RD, WALES RD",
+                "SUBURBS": "BLOOMSBURY"
             }
         },
         {
@@ -756,6 +764,71 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 31 Mar 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             147.254695,
                             -19.765087
                         ]
@@ -807,79 +880,6 @@
                 "EST_FIX_TIME": "4:00PM 31 Mar 2025",
                 "STREETS": "KIRKNIE RD",
                 "SUBURBS": "HOME HILL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            142.704427,
-                            -25.29303
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    142.661706,
-                                    -25.404704
-                                ],
-                                [
-                                    142.747644,
-                                    -25.360811
-                                ],
-                                [
-                                    142.747885,
-                                    -25.360323
-                                ],
-                                [
-                                    142.740133,
-                                    -25.327716
-                                ],
-                                [
-                                    142.740114,
-                                    -25.327655
-                                ],
-                                [
-                                    142.680792,
-                                    -25.181646
-                                ],
-                                [
-                                    142.680259,
-                                    -25.181356
-                                ],
-                                [
-                                    142.679834,
-                                    -25.181767
-                                ],
-                                [
-                                    142.660968,
-                                    -25.404277
-                                ],
-                                [
-                                    142.661706,
-                                    -25.404704
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA5767",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "6",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Crews working on-site",
-                "START": "6:01PM 28 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 30 Mar 2025",
-                "STREETS": "UNKNOWN ST, WINDORAH JUNDAH RD, WINDORAH-QUILPIE RD",
-                "SUBURBS": "WINDORAH"
             }
         },
         {
@@ -1744,7 +1744,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "103",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
+                "STATUS": "Crews working on-site",
                 "START": "6:31PM 29 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "DUNN RD, GIBSON ST, LOVEJOY ST, REDMOND ST, SIMS RD",
@@ -1815,5 +1815,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743238501.651663"
+    "extracted": "1743239101.703658"
 }
