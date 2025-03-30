@@ -70,20 +70,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    146.606681,
-                    -22.849587
+                    151.946963,
+                    -27.565101
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA3761",
+                "EVENT_ID": "25SW4799",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "34",
-                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+                "CUSTOMERS_AFFECTED": "53",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
                 "STATUS": "Crews working on-site",
                 "START": "8:00AM 30 Mar 2025",
-                "EST_FIX_TIME": "3:00PM 30 Mar 2025",
-                "STREETS": "ALBRO RD, ALPHA-CLERMONT RD, DEGULLA RD, FORRESTER-HOBARTVL RD, OFF ALBRO RD, OFF ALPHA-CLERMONT RD, OFF FORRESTER RD",
-                "SUBURBS": "ALPHA, CLERMONT"
+                "EST_FIX_TIME": "2:30PM 30 Mar 2025",
+                "STREETS": "CLIFFORD ST, GOGGS ST, HERRIES ST, LANGTON ST, TOINTON ST",
+                "SUBURBS": "TOOWOOMBA, TOOWOOMBA CITY"
             }
         },
         {
@@ -112,6 +112,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    146.606681,
+                    -22.849587
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA3761",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "34",
+                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+                "STATUS": "Crews working on-site",
+                "START": "8:00AM 30 Mar 2025",
+                "EST_FIX_TIME": "3:00PM 30 Mar 2025",
+                "STREETS": "ALBRO RD, ALPHA-CLERMONT RD, DEGULLA RD, FORRESTER-HOBARTVL RD, OFF ALBRO RD, OFF ALPHA-CLERMONT RD, OFF FORRESTER RD",
+                "SUBURBS": "ALPHA, CLERMONT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     152.410915,
                     -24.875793
                 ]
@@ -127,30 +148,9 @@
                 "STREETS": "ASHFIELD RD, ELLIOTT HEADS RD, KLEINS RD, LOVERS WALK, ST JOHNS RD",
                 "SUBURBS": "ASHFIELD, BUNDABERG, WINDERMERE, WOONGARRA"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.946963,
-                    -27.565101
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW4799",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "53",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:00AM 30 Mar 2025",
-                "EST_FIX_TIME": "2:30PM 30 Mar 2025",
-                "STREETS": "CLIFFORD ST, GOGGS ST, HERRIES ST, LANGTON ST, TOINTON ST",
-                "SUBURBS": "TOOWOOMBA, TOOWOOMBA CITY"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743308401.742202"
+    "extracted": "1743309004.285299"
 }
