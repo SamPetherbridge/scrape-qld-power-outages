@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.504752,
-                            -25.937211
+                            145.729048,
+                            -16.911981
                         ]
                     },
                     {
@@ -19,32 +19,80 @@
                         "coordinates": [
                             [
                                 [
-                                    152.505472,
-                                    -25.934025
+                                    145.72641,
+                                    -16.914162
                                 ],
                                 [
-                                    152.503094,
-                                    -25.940097
+                                    145.726555,
+                                    -16.914267
                                 ],
                                 [
-                                    152.503397,
-                                    -25.940671
+                                    145.726734,
+                                    -16.914347
                                 ],
                                 [
-                                    152.504032,
-                                    -25.940397
+                                    145.727479,
+                                    -16.914509
                                 ],
                                 [
-                                    152.50641,
-                                    -25.934325
+                                    145.727773,
+                                    -16.914481
                                 ],
                                 [
-                                    152.506107,
-                                    -25.933751
+                                    145.729622,
+                                    -16.913688
                                 ],
                                 [
-                                    152.505472,
-                                    -25.934025
+                                    145.72968,
+                                    -16.913659
+                                ],
+                                [
+                                    145.729846,
+                                    -16.913559
+                                ],
+                                [
+                                    145.729998,
+                                    -16.913412
+                                ],
+                                [
+                                    145.73187,
+                                    -16.910476
+                                ],
+                                [
+                                    145.731517,
+                                    -16.90979
+                                ],
+                                [
+                                    145.728029,
+                                    -16.909452
+                                ],
+                                [
+                                    145.727548,
+                                    -16.909731
+                                ],
+                                [
+                                    145.726553,
+                                    -16.912071
+                                ],
+                                [
+                                    145.726541,
+                                    -16.9121
+                                ],
+                                [
+                                    145.726387,
+                                    -16.912547
+                                ],
+                                [
+                                    145.726367,
+                                    -16.912635
+                                ],
+                                [
+                                    145.726227,
+                                    -16.913747
+                                ],
+                                [
+                                    145.72641,
+                                    -16.914162
                                 ]
                             ]
                         ]
@@ -52,15 +100,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB4359",
+                "EVENT_ID": "25FN4104",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to public safety concerns.",
-                "STATUS": "Work delayed. Crew unable to continue.",
-                "START": "1:56PM 29 Mar 2025",
+                "CUSTOMERS_AFFECTED": "75",
+                "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+                "STATUS": "Crews on route",
+                "START": "5:55PM 30 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "MIVA RD",
-                "SUBURBS": "GUNALDA"
+                "STREETS": "BOTT ST, DESHON ST, DI SAVIA CL, KEITH ST, MARINO ST, MCMANUS ST, PRESCOTT ST",
+                "SUBURBS": "WHITFIELD"
             }
         },
         {
@@ -1081,115 +1129,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.729048,
-                            -16.911981
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.72641,
-                                    -16.914162
-                                ],
-                                [
-                                    145.726555,
-                                    -16.914267
-                                ],
-                                [
-                                    145.726734,
-                                    -16.914347
-                                ],
-                                [
-                                    145.727479,
-                                    -16.914509
-                                ],
-                                [
-                                    145.727773,
-                                    -16.914481
-                                ],
-                                [
-                                    145.729622,
-                                    -16.913688
-                                ],
-                                [
-                                    145.72968,
-                                    -16.913659
-                                ],
-                                [
-                                    145.729846,
-                                    -16.913559
-                                ],
-                                [
-                                    145.729998,
-                                    -16.913412
-                                ],
-                                [
-                                    145.73187,
-                                    -16.910476
-                                ],
-                                [
-                                    145.731517,
-                                    -16.90979
-                                ],
-                                [
-                                    145.728029,
-                                    -16.909452
-                                ],
-                                [
-                                    145.727548,
-                                    -16.909731
-                                ],
-                                [
-                                    145.726553,
-                                    -16.912071
-                                ],
-                                [
-                                    145.726541,
-                                    -16.9121
-                                ],
-                                [
-                                    145.726387,
-                                    -16.912547
-                                ],
-                                [
-                                    145.726367,
-                                    -16.912635
-                                ],
-                                [
-                                    145.726227,
-                                    -16.913747
-                                ],
-                                [
-                                    145.72641,
-                                    -16.914162
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN4104",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "75",
-                "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
-                "STATUS": "Crews on route",
-                "START": "5:55PM 30 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BOTT ST, DESHON ST, DI SAVIA CL, KEITH ST, MARINO ST, MCMANUS ST, PRESCOTT ST",
-                "SUBURBS": "WHITFIELD"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             144.38499,
                             -27.370007
                         ]
@@ -1273,6 +1212,67 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "ARUWINI ST, AUTUMNVALE RD, BIG CREEK RD, EULO-TOOMPINE RD, GIBEROO RD, HUMEBURN RD, INGEBERRY RD, KIANDRA RD, MULIANA RD, OLD THARGOMINDAH RD, PINKENETTA RD, STANLEY ST, THARGOMINDAH RD, TOBERMORY RD, TOOMPINE RD, WAMBIN RD, WAREO RD",
                 "SUBURBS": "CHEEPIE, CUNNAMULLA, QUILPIE, THARGOMINDAH, TOOMPINE, WYANDRA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.504752,
+                            -25.937211
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.505472,
+                                    -25.934025
+                                ],
+                                [
+                                    152.503094,
+                                    -25.940097
+                                ],
+                                [
+                                    152.503397,
+                                    -25.940671
+                                ],
+                                [
+                                    152.504032,
+                                    -25.940397
+                                ],
+                                [
+                                    152.50641,
+                                    -25.934325
+                                ],
+                                [
+                                    152.506107,
+                                    -25.933751
+                                ],
+                                [
+                                    152.505472,
+                                    -25.934025
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB4359",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to public safety concerns.",
+                "STATUS": "Work delayed. Crew unable to continue.",
+                "START": "1:56PM 29 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "MIVA RD",
+                "SUBURBS": "GUNALDA"
             }
         },
         {
@@ -1687,5 +1687,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743330307.857207"
+    "extracted": "1743330900.245135"
 }
