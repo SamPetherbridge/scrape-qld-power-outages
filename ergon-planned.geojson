@@ -7,6 +7,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    147.840169,
+                    -20.548991
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ3689",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "359",
+                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+                "STATUS": "Crews working on-site",
+                "START": "8:30AM 30 Mar 2025",
+                "EST_FIX_TIME": "3:30PM 30 Mar 2025",
+                "STREETS": "ABERDEEN ST, BELMORE ST, BRADFIELD ST, BULLOCH CT, CONWAY ST, DEVLIN ST, DRAKE ST, FLINDERS ST, GARRICK ST, HAMILTON ST, JENKINS PL, LEICHHARDT ST, LOGAN ST, MCLENNAN ST, MILLER ST, PARKINSON ST, PETERSEN ST, PROHASKA CT, RUFF CT, SCARTWATER ST, SHRUBSOLE ST, SONOMA ST, SPEIRS ST, STANLEY ST, STRATHMORE ST, WALKER ST",
+                "SUBURBS": "COLLINSVILLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     148.312481,
                     -22.986651
                 ]
@@ -28,27 +49,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    148.068541,
-                    -22.006617
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK2169",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "6",
-                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "7:00AM 30 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 30 Mar 2025",
-                "STREETS": "CUTHBERT ST, GOULD ST, KELLERMAN DR",
-                "SUBURBS": "MORANBAH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.240899,
                     -23.870264
                 ]
@@ -63,48 +63,6 @@
                 "EST_FIX_TIME": "1:30AM 31 Mar 2025",
                 "STREETS": "DAWSON HWY",
                 "SUBURBS": "GLADSTONE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.946963,
-                    -27.565101
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW4799",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "53",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:00AM 30 Mar 2025",
-                "EST_FIX_TIME": "2:30PM 30 Mar 2025",
-                "STREETS": "CLIFFORD ST, GOGGS ST, HERRIES ST, LANGTON ST, TOINTON ST",
-                "SUBURBS": "TOOWOOMBA, TOOWOOMBA CITY"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    147.840169,
-                    -20.548991
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ3689",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "359",
-                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-                "STATUS": "Crews working on-site",
-                "START": "8:30AM 30 Mar 2025",
-                "EST_FIX_TIME": "3:30PM 30 Mar 2025",
-                "STREETS": "ABERDEEN ST, BELMORE ST, BRADFIELD ST, BULLOCH CT, CONWAY ST, DEVLIN ST, DRAKE ST, FLINDERS ST, GARRICK ST, HAMILTON ST, JENKINS PL, LEICHHARDT ST, LOGAN ST, MCLENNAN ST, MILLER ST, PARKINSON ST, PETERSEN ST, PROHASKA CT, RUFF CT, SCARTWATER ST, SHRUBSOLE ST, SONOMA ST, SPEIRS ST, STANLEY ST, STRATHMORE ST, WALKER ST",
-                "SUBURBS": "COLLINSVILLE"
             }
         },
         {
@@ -148,9 +106,51 @@
                 "STREETS": "ASHFIELD RD, ELLIOTT HEADS RD, KLEINS RD, LOVERS WALK, ST JOHNS RD",
                 "SUBURBS": "ASHFIELD, BUNDABERG, WINDERMERE, WOONGARRA"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.068541,
+                    -22.006617
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK2169",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "6",
+                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "7:00AM 30 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 30 Mar 2025",
+                "STREETS": "CUTHBERT ST, GOULD ST, KELLERMAN DR",
+                "SUBURBS": "MORANBAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.946963,
+                    -27.565101
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW4799",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "53",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "8:00AM 30 Mar 2025",
+                "EST_FIX_TIME": "2:30PM 30 Mar 2025",
+                "STREETS": "CLIFFORD ST, GOGGS ST, HERRIES ST, LANGTON ST, TOINTON ST",
+                "SUBURBS": "TOOWOOMBA, TOOWOOMBA CITY"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743309004.285299"
+    "extracted": "1743309604.33012"
 }
