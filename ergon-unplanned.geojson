@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
+                            143.827034,
+                            -27.992889
                         ]
                     },
                     {
@@ -19,36 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    143.827554,
+                                    -27.992744
                                 ],
                                 [
-                                    148.700208,
-                                    -21.128945
+                                    143.827305,
+                                    -27.992469
                                 ],
                                 [
-                                    148.700826,
-                                    -21.128582
+                                    143.826591,
+                                    -27.9924
                                 ],
                                 [
-                                    148.701003,
-                                    -21.127495
+                                    143.826513,
+                                    -27.993034
                                 ],
                                 [
-                                    148.700469,
-                                    -21.126979
+                                    143.826762,
+                                    -27.993309
                                 ],
                                 [
-                                    148.697649,
-                                    -21.127299
+                                    143.827476,
+                                    -27.993378
                                 ],
                                 [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
+                                    143.827554,
+                                    -27.992744
                                 ]
                             ]
                         ]
@@ -56,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK1119",
+                "EVENT_ID": "25SW5388",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 29 Apr 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to public safety concerns.",
+                "STATUS": "Crews working on-site",
+                "START": "4:40AM 31 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ECCLES ST, FREW ST",
+                "SUBURBS": "THARGOMINDAH"
             }
         },
         {
@@ -485,6 +481,71 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 29 Apr 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             147.254695,
                             -19.765087
                         ]
@@ -645,67 +706,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "AMBROSE BRACEWELL RD, AMBROSE-HUT CREEK RD, DUNNETTS RD, ENGSTROM RD, HUMPY CREEK RD, HUT CREEK RD, MT LARCOM-BRACEWELL RD, SANDERS RD, STRANO RD, ZIMPEL RD",
                 "SUBURBS": "AMBROSE, MACHINE CREEK, MOUNT LARCOM"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            143.827034,
-                            -27.992889
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.827554,
-                                    -27.992744
-                                ],
-                                [
-                                    143.827305,
-                                    -27.992469
-                                ],
-                                [
-                                    143.826591,
-                                    -27.9924
-                                ],
-                                [
-                                    143.826513,
-                                    -27.993034
-                                ],
-                                [
-                                    143.826762,
-                                    -27.993309
-                                ],
-                                [
-                                    143.827476,
-                                    -27.993378
-                                ],
-                                [
-                                    143.827554,
-                                    -27.992744
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5388",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to public safety concerns.",
-                "STATUS": "Crews working on-site",
-                "START": "4:40AM 31 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ECCLES ST, FREW ST",
-                "SUBURBS": "THARGOMINDAH"
             }
         },
         {
@@ -1517,5 +1517,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743437101.436905"
+    "extracted": "1743437706.387253"
 }
