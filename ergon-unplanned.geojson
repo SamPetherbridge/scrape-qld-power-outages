@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.504752,
-                            -25.937211
+                            143.393473,
+                            -28.13881
                         ]
                     },
                     {
@@ -19,32 +19,52 @@
                         "coordinates": [
                             [
                                 [
-                                    152.505472,
-                                    -25.934025
+                                    142.960928,
+                                    -28.527686
                                 ],
                                 [
-                                    152.503094,
-                                    -25.940097
+                                    143.822495,
+                                    -27.998192
                                 ],
                                 [
-                                    152.503397,
-                                    -25.940671
+                                    143.822545,
+                                    -27.998156
                                 ],
                                 [
-                                    152.504032,
-                                    -25.940397
+                                    143.826633,
+                                    -27.994869
                                 ],
                                 [
-                                    152.50641,
-                                    -25.934325
+                                    143.826736,
+                                    -27.994316
                                 ],
                                 [
-                                    152.506107,
-                                    -25.933751
+                                    143.787941,
+                                    -27.932263
                                 ],
                                 [
-                                    152.505472,
-                                    -25.934025
+                                    143.787807,
+                                    -27.932125
+                                ],
+                                [
+                                    143.522855,
+                                    -27.749935
+                                ],
+                                [
+                                    143.522118,
+                                    -27.750049
+                                ],
+                                [
+                                    142.96021,
+                                    -28.527071
+                                ],
+                                [
+                                    142.960284,
+                                    -28.527638
+                                ],
+                                [
+                                    142.960928,
+                                    -28.527686
                                 ]
                             ]
                         ]
@@ -52,15 +72,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB4359",
+                "EVENT_ID": "25SW5385",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to public safety concerns.",
-                "STATUS": "Work delayed. Crew unable to continue.",
-                "START": "1:56PM 29 Mar 2025",
+                "CUSTOMERS_AFFECTED": "65",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Crews working on-site",
+                "START": "4:19AM 01 Apr 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "MIVA RD",
-                "SUBURBS": "GUNALDA"
+                "STREETS": "BULLAWARRA STATION RD, BULLOO RIVER RD, DOWLING ST, FREW ST, GILMOUR ST, JACKSON RD, LOWER CEMETERY RD, MOORE ST, POWELL ST, SAMS ST, STAFFORD ST",
+                "SUBURBS": "THARGOMINDAH"
             }
         },
         {
@@ -416,71 +436,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.343035,
-                            -22.707696
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.337003,
-                                    -22.739214
-                                ],
-                                [
-                                    143.350025,
-                                    -22.678883
-                                ],
-                                [
-                                    143.349833,
-                                    -22.678429
-                                ],
-                                [
-                                    143.345942,
-                                    -22.675822
-                                ],
-                                [
-                                    143.345176,
-                                    -22.676127
-                                ],
-                                [
-                                    143.336044,
-                                    -22.739066
-                                ],
-                                [
-                                    143.336446,
-                                    -22.73957
-                                ],
-                                [
-                                    143.337003,
-                                    -22.739214
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ4684",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to a pole fire.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "11:30AM 25 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 04 Apr 2025",
-                "STREETS": "MELROSE STATION, TUCSON STATION",
-                "SUBURBS": "LONGREACH, WINTON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -536,6 +491,71 @@
                 "EST_FIX_TIME": "9:30AM 29 Apr 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            143.343035,
+                            -22.707696
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.337003,
+                                    -22.739214
+                                ],
+                                [
+                                    143.350025,
+                                    -22.678883
+                                ],
+                                [
+                                    143.349833,
+                                    -22.678429
+                                ],
+                                [
+                                    143.345942,
+                                    -22.675822
+                                ],
+                                [
+                                    143.345176,
+                                    -22.676127
+                                ],
+                                [
+                                    143.336044,
+                                    -22.739066
+                                ],
+                                [
+                                    143.336446,
+                                    -22.73957
+                                ],
+                                [
+                                    143.337003,
+                                    -22.739214
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4684",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to a pole fire.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "11:30AM 25 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 04 Apr 2025",
+                "STREETS": "MELROSE STATION, TUCSON STATION",
+                "SUBURBS": "LONGREACH, WINTON"
             }
         },
         {
@@ -840,87 +860,6 @@
                 "EST_FIX_TIME": "4:00PM 06 Apr 2025",
                 "STREETS": "UNKNOWN ST, WINDORAH JUNDAH RD, WINDORAH-QUILPIE RD",
                 "SUBURBS": "WINDORAH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            143.393473,
-                            -28.13881
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    142.960928,
-                                    -28.527686
-                                ],
-                                [
-                                    143.822495,
-                                    -27.998192
-                                ],
-                                [
-                                    143.822545,
-                                    -27.998156
-                                ],
-                                [
-                                    143.826633,
-                                    -27.994869
-                                ],
-                                [
-                                    143.826736,
-                                    -27.994316
-                                ],
-                                [
-                                    143.787941,
-                                    -27.932263
-                                ],
-                                [
-                                    143.787807,
-                                    -27.932125
-                                ],
-                                [
-                                    143.522855,
-                                    -27.749935
-                                ],
-                                [
-                                    143.522118,
-                                    -27.750049
-                                ],
-                                [
-                                    142.96021,
-                                    -28.527071
-                                ],
-                                [
-                                    142.960284,
-                                    -28.527638
-                                ],
-                                [
-                                    142.960928,
-                                    -28.527686
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5385",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "65",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Crews working on-site",
-                "START": "4:19AM 01 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BULLAWARRA STATION RD, BULLOO RIVER RD, DOWLING ST, FREW ST, GILMOUR ST, JACKSON RD, LOWER CEMETERY RD, MOORE ST, POWELL ST, SAMS ST, STAFFORD ST",
-                "SUBURBS": "THARGOMINDAH"
             }
         },
         {
@@ -1477,6 +1416,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.504752,
+                            -25.937211
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.505472,
+                                    -25.934025
+                                ],
+                                [
+                                    152.503094,
+                                    -25.940097
+                                ],
+                                [
+                                    152.503397,
+                                    -25.940671
+                                ],
+                                [
+                                    152.504032,
+                                    -25.940397
+                                ],
+                                [
+                                    152.50641,
+                                    -25.934325
+                                ],
+                                [
+                                    152.506107,
+                                    -25.933751
+                                ],
+                                [
+                                    152.505472,
+                                    -25.934025
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB4359",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to public safety concerns.",
+                "STATUS": "Work delayed. Crew unable to continue.",
+                "START": "1:56PM 29 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "MIVA RD",
+                "SUBURBS": "GUNALDA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             145.108194,
                             -21.188216
                         ]
@@ -1598,5 +1598,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743450901.58511"
+    "extracted": "1743451500.222013"
 }
