@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.899297,
-                            -21.144287
+                            145.734393,
+                            -16.911769
                         ]
                     },
                     {
@@ -19,32 +19,104 @@
                         "coordinates": [
                             [
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    145.73277,
+                                    -16.913521
                                 ],
                                 [
-                                    148.898377,
-                                    -21.142205
+                                    145.732974,
+                                    -16.913616
                                 ],
                                 [
-                                    148.897709,
-                                    -21.142084
+                                    145.733189,
+                                    -16.913661
                                 ],
                                 [
-                                    148.89758,
-                                    -21.142711
+                                    145.734722,
+                                    -16.913629
                                 ],
                                 [
-                                    148.900217,
-                                    -21.146369
+                                    145.735022,
+                                    -16.913517
                                 ],
                                 [
-                                    148.900886,
-                                    -21.14649
+                                    145.736163,
+                                    -16.912552
                                 ],
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    145.736279,
+                                    -16.912022
+                                ],
+                                [
+                                    145.735976,
+                                    -16.911398
+                                ],
+                                [
+                                    145.735936,
+                                    -16.91133
+                                ],
+                                [
+                                    145.735126,
+                                    -16.910213
+                                ],
+                                [
+                                    145.734906,
+                                    -16.910049
+                                ],
+                                [
+                                    145.734769,
+                                    -16.909999
+                                ],
+                                [
+                                    145.734668,
+                                    -16.909975
+                                ],
+                                [
+                                    145.733928,
+                                    -16.909877
+                                ],
+                                [
+                                    145.733773,
+                                    -16.909882
+                                ],
+                                [
+                                    145.733276,
+                                    -16.909977
+                                ],
+                                [
+                                    145.732905,
+                                    -16.910347
+                                ],
+                                [
+                                    145.732659,
+                                    -16.911782
+                                ],
+                                [
+                                    145.732658,
+                                    -16.911788
+                                ],
+                                [
+                                    145.732614,
+                                    -16.912071
+                                ],
+                                [
+                                    145.732611,
+                                    -16.91209
+                                ],
+                                [
+                                    145.732535,
+                                    -16.912781
+                                ],
+                                [
+                                    145.732534,
+                                    -16.912787
+                                ],
+                                [
+                                    145.732507,
+                                    -16.913072
+                                ],
+                                [
+                                    145.73277,
+                                    -16.913521
                                 ]
                             ]
                         ]
@@ -52,15 +124,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK3215",
+                "EVENT_ID": "25FN4302",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
+                "CUSTOMERS_AFFECTED": "76",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "12:00PM 04 Apr 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
+                "START": "2:47AM 03 Apr 2025",
+                "EST_FIX_TIME": "12:00PM 03 Apr 2025",
+                "STREETS": "BEECH CL, CONLAN CL, JENSEN ST, OREGON ST, PATULA CL",
+                "SUBURBS": "MANOORA"
             }
         },
         {
@@ -272,6 +344,67 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "JAKELWAR GOODOOGA RD, JAKELWAR-GOODOOGA RD",
                 "SUBURBS": "DIRRANBANDI, HEBEL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.899297,
+                            -21.144287
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ],
+                                [
+                                    148.898377,
+                                    -21.142205
+                                ],
+                                [
+                                    148.897709,
+                                    -21.142084
+                                ],
+                                [
+                                    148.89758,
+                                    -21.142711
+                                ],
+                                [
+                                    148.900217,
+                                    -21.146369
+                                ],
+                                [
+                                    148.900886,
+                                    -21.14649
+                                ],
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3215",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "12:00PM 04 Apr 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
             }
         },
         {
@@ -799,139 +932,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "MILES ST",
                 "SUBURBS": "JUNDAH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            145.734393,
-                            -16.911769
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.73277,
-                                    -16.913521
-                                ],
-                                [
-                                    145.732974,
-                                    -16.913616
-                                ],
-                                [
-                                    145.733189,
-                                    -16.913661
-                                ],
-                                [
-                                    145.734722,
-                                    -16.913629
-                                ],
-                                [
-                                    145.735022,
-                                    -16.913517
-                                ],
-                                [
-                                    145.736163,
-                                    -16.912552
-                                ],
-                                [
-                                    145.736279,
-                                    -16.912022
-                                ],
-                                [
-                                    145.735976,
-                                    -16.911398
-                                ],
-                                [
-                                    145.735936,
-                                    -16.91133
-                                ],
-                                [
-                                    145.735126,
-                                    -16.910213
-                                ],
-                                [
-                                    145.734906,
-                                    -16.910049
-                                ],
-                                [
-                                    145.734769,
-                                    -16.909999
-                                ],
-                                [
-                                    145.734668,
-                                    -16.909975
-                                ],
-                                [
-                                    145.733928,
-                                    -16.909877
-                                ],
-                                [
-                                    145.733773,
-                                    -16.909882
-                                ],
-                                [
-                                    145.733276,
-                                    -16.909977
-                                ],
-                                [
-                                    145.732905,
-                                    -16.910347
-                                ],
-                                [
-                                    145.732659,
-                                    -16.911782
-                                ],
-                                [
-                                    145.732658,
-                                    -16.911788
-                                ],
-                                [
-                                    145.732614,
-                                    -16.912071
-                                ],
-                                [
-                                    145.732611,
-                                    -16.91209
-                                ],
-                                [
-                                    145.732535,
-                                    -16.912781
-                                ],
-                                [
-                                    145.732534,
-                                    -16.912787
-                                ],
-                                [
-                                    145.732507,
-                                    -16.913072
-                                ],
-                                [
-                                    145.73277,
-                                    -16.913521
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN4302",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "76",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "2:47AM 03 Apr 2025",
-                "EST_FIX_TIME": "12:00PM 03 Apr 2025",
-                "STREETS": "BEECH CL, CONLAN CL, JENSEN ST, OREGON ST, PATULA CL",
-                "SUBURBS": "MANOORA"
             }
         },
         {
@@ -1885,5 +1885,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743622801.118903"
+    "extracted": "1743623403.273303"
 }
