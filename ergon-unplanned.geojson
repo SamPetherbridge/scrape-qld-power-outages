@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.137819,
-                            -26.90908
+                            143.8251,
+                            -27.994725
                         ]
                     },
                     {
@@ -19,40 +19,64 @@
                         "coordinates": [
                             [
                                 [
-                                    145.13375,
-                                    -26.892868
+                                    143.822698,
+                                    -27.996182
                                 ],
                                 [
-                                    145.135811,
-                                    -26.925332
+                                    143.826439,
+                                    -27.996668
                                 ],
                                 [
-                                    145.136266,
-                                    -26.925756
+                                    143.826984,
+                                    -27.99639
                                 ],
                                 [
-                                    145.136802,
-                                    -26.925417
+                                    143.827742,
+                                    -27.994718
                                 ],
                                 [
-                                    145.141889,
-                                    -26.9074
+                                    143.827778,
+                                    -27.994527
                                 ],
                                 [
-                                    145.141861,
-                                    -26.907106
+                                    143.827704,
+                                    -27.993205
                                 ],
                                 [
-                                    145.134712,
-                                    -26.892659
+                                    143.827112,
+                                    -27.992783
                                 ],
                                 [
-                                    145.134134,
-                                    -26.892404
+                                    143.825777,
+                                    -27.992983
                                 ],
                                 [
-                                    145.13375,
-                                    -26.892868
+                                    143.825562,
+                                    -27.993064
+                                ],
+                                [
+                                    143.824485,
+                                    -27.993763
+                                ],
+                                [
+                                    143.82447,
+                                    -27.993773
+                                ],
+                                [
+                                    143.823863,
+                                    -27.994198
+                                ],
+                                [
+                                    143.823829,
+                                    -27.994225
+                                ],
+                                [
+                                    143.822422,
+                                    -27.995409
+                                ],
+                                [
+                                    143.822698,
+                                    -27.996182
                                 ]
                             ]
                         ]
@@ -60,15 +84,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW5204",
+                "EVENT_ID": "25SW5387",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "12:06AM 26 Mar 2025",
+                "CUSTOMERS_AFFECTED": "26",
+                "REASON": "The loss of supply is due to public safety concerns.",
+                "STATUS": "Crews working on-site",
+                "START": "4:40AM 31 Mar 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "HUMEBURN RD",
-                "SUBURBS": "CHEEPIE"
+                "STREETS": "DOWLING ST, ECCLES ST, FITZWALTER ST, POWELL ST, SAMS ST",
+                "SUBURBS": "THARGOMINDAH"
             }
         },
         {
@@ -616,6 +640,75 @@
                 "EST_FIX_TIME": "12:00PM 09 Apr 2025",
                 "STREETS": "MELROSE STATION, TUCSON STATION",
                 "SUBURBS": "LONGREACH, WINTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            145.137819,
+                            -26.90908
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.13375,
+                                    -26.892868
+                                ],
+                                [
+                                    145.135811,
+                                    -26.925332
+                                ],
+                                [
+                                    145.136266,
+                                    -26.925756
+                                ],
+                                [
+                                    145.136802,
+                                    -26.925417
+                                ],
+                                [
+                                    145.141889,
+                                    -26.9074
+                                ],
+                                [
+                                    145.141861,
+                                    -26.907106
+                                ],
+                                [
+                                    145.134712,
+                                    -26.892659
+                                ],
+                                [
+                                    145.134134,
+                                    -26.892404
+                                ],
+                                [
+                                    145.13375,
+                                    -26.892868
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5204",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "12:06AM 26 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "HUMEBURN RD",
+                "SUBURBS": "CHEEPIE"
             }
         },
         {
@@ -1437,99 +1530,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.8251,
-                            -27.994725
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.822698,
-                                    -27.996182
-                                ],
-                                [
-                                    143.826439,
-                                    -27.996668
-                                ],
-                                [
-                                    143.826984,
-                                    -27.99639
-                                ],
-                                [
-                                    143.827742,
-                                    -27.994718
-                                ],
-                                [
-                                    143.827778,
-                                    -27.994527
-                                ],
-                                [
-                                    143.827704,
-                                    -27.993205
-                                ],
-                                [
-                                    143.827112,
-                                    -27.992783
-                                ],
-                                [
-                                    143.825777,
-                                    -27.992983
-                                ],
-                                [
-                                    143.825562,
-                                    -27.993064
-                                ],
-                                [
-                                    143.824485,
-                                    -27.993763
-                                ],
-                                [
-                                    143.82447,
-                                    -27.993773
-                                ],
-                                [
-                                    143.823863,
-                                    -27.994198
-                                ],
-                                [
-                                    143.823829,
-                                    -27.994225
-                                ],
-                                [
-                                    143.822422,
-                                    -27.995409
-                                ],
-                                [
-                                    143.822698,
-                                    -27.996182
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5387",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "26",
-                "REASON": "The loss of supply is due to public safety concerns.",
-                "STATUS": "Crews working on-site",
-                "START": "4:40AM 31 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "DOWLING ST, ECCLES ST, FITZWALTER ST, POWELL ST, SAMS ST",
-                "SUBURBS": "THARGOMINDAH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             144.528389,
                             -25.709351
                         ]
@@ -1736,5 +1736,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743606904.362423"
+    "extracted": "1743607501.326958"
 }
