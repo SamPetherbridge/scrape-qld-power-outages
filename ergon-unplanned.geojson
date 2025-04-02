@@ -10,67 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            144.598944,
-                            -27.628299
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.645347,
-                                    -27.647799
-                                ],
-                                [
-                                    144.552983,
-                                    -27.607988
-                                ],
-                                [
-                                    144.552306,
-                                    -27.608197
-                                ],
-                                [
-                                    144.552541,
-                                    -27.6088
-                                ],
-                                [
-                                    144.644906,
-                                    -27.648611
-                                ],
-                                [
-                                    144.645582,
-                                    -27.648401
-                                ],
-                                [
-                                    144.645347,
-                                    -27.647799
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5212",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "7:49AM 26 Mar 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "TOOMPINE RD",
-                "SUBURBS": "EULO"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.604201,
                             -19.324158
                         ]
@@ -175,9 +114,70 @@
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
                 "STATUS": "Crews working on-site",
                 "START": "10:43PM 02 Apr 2025",
-                "EST_FIX_TIME": "1:00AM 03 Apr 2025",
+                "EST_FIX_TIME": "3:00AM 03 Apr 2025",
                 "STREETS": "DOMAIN CT, RIDGE DR, RING RD",
                 "SUBURBS": "ALICE RIVER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            144.598944,
+                            -27.628299
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    144.645347,
+                                    -27.647799
+                                ],
+                                [
+                                    144.552983,
+                                    -27.607988
+                                ],
+                                [
+                                    144.552306,
+                                    -27.608197
+                                ],
+                                [
+                                    144.552541,
+                                    -27.6088
+                                ],
+                                [
+                                    144.644906,
+                                    -27.648611
+                                ],
+                                [
+                                    144.645582,
+                                    -27.648401
+                                ],
+                                [
+                                    144.645347,
+                                    -27.647799
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5212",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "7:49AM 26 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "TOOMPINE RD",
+                "SUBURBS": "EULO"
             }
         },
         {
@@ -1736,5 +1736,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743603601.468765"
+    "extracted": "1743604208.626429"
 }
