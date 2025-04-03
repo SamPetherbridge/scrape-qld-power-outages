@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.068113,
-                            -27.522367
+                            152.902637,
+                            -28.275824
                         ]
                     },
                     {
@@ -19,40 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    153.066666,
-                                    -27.522371
+                                    152.903201,
+                                    -28.276889
                                 ],
                                 [
-                                    153.067655,
-                                    -27.523768
+                                    152.903091,
+                                    -28.274718
                                 ],
                                 [
-                                    153.068543,
-                                    -27.523715
+                                    152.902559,
+                                    -28.274287
                                 ],
                                 [
-                                    153.069561,
-                                    -27.521734
+                                    152.902073,
+                                    -28.274759
                                 ],
                                 [
-                                    153.06956,
-                                    -27.521356
+                                    152.902183,
+                                    -28.276929
                                 ],
                                 [
-                                    153.069473,
-                                    -27.521189
+                                    152.902715,
+                                    -28.27736
                                 ],
                                 [
-                                    153.06881,
-                                    -27.520966
-                                ],
-                                [
-                                    153.066891,
-                                    -27.521716
-                                ],
-                                [
-                                    153.066666,
-                                    -27.522371
+                                    152.903201,
+                                    -28.276889
                                 ]
                             ]
                         ]
@@ -60,16 +52,16 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-853608-g",
+                "EVENT_ID": "INCD-853624-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "30",
-                "REASON": "Emergency repairs in-progress",
-                "STATUS": "Awaiting",
-                "START": "9:50AM 03 Apr 2025",
-                "EST_FIX_TIME": "12:30PM 03 Apr 2025",
-                "STREETS": "GORBAN ST, LAWN ST",
-                "SUBURBS": "HOLLAND PARK",
-                "ETR_FLAG": "Y"
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "10:29AM 03 Apr 2025",
+                "EST_FIX_TIME": "12:00PM 03 Apr 2025",
+                "STREETS": "CAMP CREEK RD",
+                "SUBURBS": "RUNNING CREEK",
+                "ETR_FLAG": "N"
             }
         },
         {
@@ -170,6 +162,76 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.068113,
+                            -27.522367
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.066666,
+                                    -27.522371
+                                ],
+                                [
+                                    153.067655,
+                                    -27.523768
+                                ],
+                                [
+                                    153.068543,
+                                    -27.523715
+                                ],
+                                [
+                                    153.069561,
+                                    -27.521734
+                                ],
+                                [
+                                    153.06956,
+                                    -27.521356
+                                ],
+                                [
+                                    153.069473,
+                                    -27.521189
+                                ],
+                                [
+                                    153.06881,
+                                    -27.520966
+                                ],
+                                [
+                                    153.066891,
+                                    -27.521716
+                                ],
+                                [
+                                    153.066666,
+                                    -27.522371
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-853608-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "30",
+                "REASON": "Emergency repairs in-progress",
+                "STATUS": "Awaiting",
+                "START": "9:50AM 03 Apr 2025",
+                "EST_FIX_TIME": "12:30PM 03 Apr 2025",
+                "STREETS": "GORBAN ST, LAWN ST",
+                "SUBURBS": "HOLLAND PARK",
+                "ETR_FLAG": "Y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.309172,
                             -28.120923
                         ]
@@ -247,5 +309,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1743639301.45438"
+    "extracted": "1743640500.289364"
 }
