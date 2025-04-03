@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
+                            146.207433,
+                            -18.981624
                         ]
                     },
                     {
@@ -19,36 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    146.217416,
+                                    -18.982893
                                 ],
                                 [
-                                    148.700208,
-                                    -21.128945
+                                    146.197621,
+                                    -18.979466
                                 ],
                                 [
-                                    148.700826,
-                                    -21.128582
+                                    146.197069,
+                                    -18.97983
                                 ],
                                 [
-                                    148.701003,
-                                    -21.127495
+                                    146.197451,
+                                    -18.980355
                                 ],
                                 [
-                                    148.700469,
-                                    -21.126979
+                                    146.217246,
+                                    -18.983782
                                 ],
                                 [
-                                    148.697649,
-                                    -21.127299
+                                    146.217798,
+                                    -18.983418
                                 ],
                                 [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
+                                    146.217416,
+                                    -18.982893
                                 ]
                             ]
                         ]
@@ -56,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK1119",
+                "EVENT_ID": "25NQ1993",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
                 "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 29 Apr 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 30 Apr 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
             }
         },
         {
@@ -126,6 +122,107 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "TOOMPINE RD",
                 "SUBURBS": "EULO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            139.487521,
+                            -20.715155
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    139.485581,
+                                    -20.717009
+                                ],
+                                [
+                                    139.487038,
+                                    -20.717237
+                                ],
+                                [
+                                    139.487256,
+                                    -20.717224
+                                ],
+                                [
+                                    139.488026,
+                                    -20.717003
+                                ],
+                                [
+                                    139.488294,
+                                    -20.716808
+                                ],
+                                [
+                                    139.489402,
+                                    -20.715107
+                                ],
+                                [
+                                    139.48945,
+                                    -20.715008
+                                ],
+                                [
+                                    139.489848,
+                                    -20.713824
+                                ],
+                                [
+                                    139.489741,
+                                    -20.713381
+                                ],
+                                [
+                                    139.489676,
+                                    -20.713316
+                                ],
+                                [
+                                    139.489357,
+                                    -20.713176
+                                ],
+                                [
+                                    139.487523,
+                                    -20.713073
+                                ],
+                                [
+                                    139.487363,
+                                    -20.713089
+                                ],
+                                [
+                                    139.486168,
+                                    -20.713411
+                                ],
+                                [
+                                    139.485833,
+                                    -20.713745
+                                ],
+                                [
+                                    139.485194,
+                                    -20.71647
+                                ],
+                                [
+                                    139.485581,
+                                    -20.717009
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ5163",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "68",
+                "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+                "STATUS": "Outage reported",
+                "START": "8:52AM 04 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BARKLY HWY, CARBONATE ST, DAVIDSON ST, MARIGOLD ST, O'DOHERTY ST, OXIDE ST, ROSEMARY AVE, SULPHIDE ST",
+                "SUBURBS": "MILES END, SOLDIERS HILL"
             }
         },
         {
@@ -275,7 +372,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "22",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
+                "STATUS": "Crews working on-site",
                 "START": "4:17PM 03 Apr 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BANDANA RD, CARNARVON DEVELOP RD, CARNARVON DEVELOPMENT RD, CARNARVON GORGE RD",
@@ -560,6 +657,71 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BUNYA MOUNTAINS RD, DORMAN'S GULLY RD, HUMPHRY'S RD, SCHWERINS RD, SPIES RD, YAMSION HILL RD",
                 "SUBURBS": "BELL, KAIMKILLENBUN, MOOLA, YAMSION"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 29 Apr 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -1570,70 +1732,9 @@
                 "STREETS": "ELBA STATION, HOPEWELL PARK STATION, TIMARU STATION",
                 "SUBURBS": "PRAIRIE, TORRENS CREEK"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.207433,
-                            -18.981624
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ],
-                                [
-                                    146.197621,
-                                    -18.979466
-                                ],
-                                [
-                                    146.197069,
-                                    -18.97983
-                                ],
-                                [
-                                    146.197451,
-                                    -18.980355
-                                ],
-                                [
-                                    146.217246,
-                                    -18.983782
-                                ],
-                                [
-                                    146.217798,
-                                    -18.983418
-                                ],
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ1993",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 30 Apr 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743721201.821566"
+    "extracted": "1743722101.509745"
 }
