@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            139.487521,
-                            -20.715155
+                            148.265264,
+                            -25.069632
                         ]
                     },
                     {
@@ -19,72 +19,56 @@
                         "coordinates": [
                             [
                                 [
-                                    139.485581,
-                                    -20.717009
+                                    148.256017,
+                                    -25.071785
                                 ],
                                 [
-                                    139.487038,
-                                    -20.717237
+                                    148.259353,
+                                    -25.072087
                                 ],
                                 [
-                                    139.487256,
-                                    -20.717224
+                                    148.259408,
+                                    -25.072089
                                 ],
                                 [
-                                    139.488026,
-                                    -20.717003
+                                    148.270584,
+                                    -25.07198
                                 ],
                                 [
-                                    139.488294,
-                                    -20.716808
+                                    148.270601,
+                                    -25.07198
                                 ],
                                 [
-                                    139.489402,
-                                    -20.715107
+                                    148.274508,
+                                    -25.071824
                                 ],
                                 [
-                                    139.48945,
-                                    -20.715008
+                                    148.274955,
+                                    -25.071519
                                 ],
                                 [
-                                    139.489848,
-                                    -20.713824
+                                    148.274808,
+                                    -25.071029
                                 ],
                                 [
-                                    139.489741,
-                                    -20.713381
+                                    148.26996,
+                                    -25.067264
                                 ],
                                 [
-                                    139.489676,
-                                    -20.713316
+                                    148.269495,
+                                    -25.067175
                                 ],
                                 [
-                                    139.489357,
-                                    -20.713176
+                                    148.255923,
+                                    -25.070903
                                 ],
                                 [
-                                    139.487523,
-                                    -20.713073
+                                    148.255572,
+                                    -25.071379
                                 ],
                                 [
-                                    139.487363,
-                                    -20.713089
-                                ],
-                                [
-                                    139.486168,
-                                    -20.713411
-                                ],
-                                [
-                                    139.485833,
-                                    -20.713745
-                                ],
-                                [
-                                    139.485194,
-                                    -20.71647
-                                ],
-                                [
-                                    139.485581,
-                                    -20.717009
+                                    148.256017,
+                                    -25.071785
                                 ]
                             ]
                         ]
@@ -92,15 +76,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ5163",
+                "EVENT_ID": "25CA6057",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "68",
-                "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Crews working on-site",
-                "START": "8:52AM 04 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BARKLY HWY, CARBONATE ST, DAVIDSON ST, MARIGOLD ST, O'DOHERTY ST, OXIDE ST, ROSEMARY AVE, SULPHIDE ST",
-                "SUBURBS": "MILES END, SOLDIERS HILL"
+                "START": "4:17PM 03 Apr 2025",
+                "EST_FIX_TIME": "6:00PM 04 Apr 2025",
+                "STREETS": "BANDANA RD, CARNARVON GORGE RD",
+                "SUBURBS": "ROLLESTON"
             }
         },
         {
@@ -235,91 +219,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "GILBERTON RD, OLD KIDSTON RD, PARALLEL ST, UNKNOWN ST",
                 "SUBURBS": "EINASLEIGH, KIDSTON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.265264,
-                            -25.069632
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.256017,
-                                    -25.071785
-                                ],
-                                [
-                                    148.259353,
-                                    -25.072087
-                                ],
-                                [
-                                    148.259408,
-                                    -25.072089
-                                ],
-                                [
-                                    148.270584,
-                                    -25.07198
-                                ],
-                                [
-                                    148.270601,
-                                    -25.07198
-                                ],
-                                [
-                                    148.274508,
-                                    -25.071824
-                                ],
-                                [
-                                    148.274955,
-                                    -25.071519
-                                ],
-                                [
-                                    148.274808,
-                                    -25.071029
-                                ],
-                                [
-                                    148.26996,
-                                    -25.067264
-                                ],
-                                [
-                                    148.269495,
-                                    -25.067175
-                                ],
-                                [
-                                    148.255923,
-                                    -25.070903
-                                ],
-                                [
-                                    148.255572,
-                                    -25.071379
-                                ],
-                                [
-                                    148.256017,
-                                    -25.071785
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA6057",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "4:17PM 03 Apr 2025",
-                "EST_FIX_TIME": "6:00PM 04 Apr 2025",
-                "STREETS": "BANDANA RD, CARNARVON GORGE RD",
-                "SUBURBS": "ROLLESTON"
             }
         },
         {
@@ -1301,7 +1200,7 @@
                 "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
                 "STATUS": "Crews working on-site",
                 "START": "4:19AM 01 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
+                "EST_FIX_TIME": "2:38PM 04 Apr 2025",
                 "STREETS": "BULLAWARRA STATION RD, BULLOO RIVER RD, DOWLING ST, FREW ST, GILMOUR ST, JACKSON RD, LOWER CEMETERY RD, MOORE ST, POWELL ST, SAMS ST, STAFFORD ST",
                 "SUBURBS": "THARGOMINDAH"
             }
@@ -1912,5 +1811,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743742201.495858"
+    "extracted": "1743742804.456251"
 }
