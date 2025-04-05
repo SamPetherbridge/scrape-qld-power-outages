@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.473005,
-                            -20.542184
+                            143.822478,
+                            -27.996139
                         ]
                     },
                     {
@@ -19,32 +19,56 @@
                         "coordinates": [
                             [
                                 [
-                                    146.480418,
-                                    -20.556249
+                                    143.820988,
+                                    -27.996398
                                 ],
                                 [
-                                    146.466463,
-                                    -20.527741
+                                    143.821327,
+                                    -27.998067
                                 ],
                                 [
-                                    146.465826,
-                                    -20.52752
+                                    143.822174,
+                                    -27.998316
                                 ],
                                 [
-                                    146.465591,
-                                    -20.528119
+                                    143.823843,
+                                    -27.996924
                                 ],
                                 [
-                                    146.479546,
-                                    -20.556627
+                                    143.823977,
+                                    -27.996451
                                 ],
                                 [
-                                    146.480183,
-                                    -20.556848
+                                    143.823128,
+                                    -27.99423
                                 ],
                                 [
-                                    146.480418,
-                                    -20.556249
+                                    143.822441,
+                                    -27.993962
+                                ],
+                                [
+                                    143.821893,
+                                    -27.994178
+                                ],
+                                [
+                                    143.821692,
+                                    -27.994321
+                                ],
+                                [
+                                    143.821133,
+                                    -27.994988
+                                ],
+                                [
+                                    143.821033,
+                                    -27.995237
+                                ],
+                                [
+                                    143.82098,
+                                    -27.996298
+                                ],
+                                [
+                                    143.820988,
+                                    -27.996398
                                 ]
                             ]
                         ]
@@ -52,15 +76,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ5193",
+                "EVENT_ID": "25SW5621",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:05PM 04 Apr 2025",
-                "EST_FIX_TIME": "4:00PM 06 Apr 2025",
-                "STREETS": "DOONGARA STATION",
-                "SUBURBS": "SEVENTY MILE RANGE"
+                "CUSTOMERS_AFFECTED": "18",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Crews working on-site",
+                "START": "4:19AM 01 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "DOWLING ST, FREW ST, GILMOUR ST, POWELL ST",
+                "SUBURBS": "THARGOMINDAH"
             }
         },
         {
@@ -404,71 +428,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.343035,
-                            -22.707696
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.337003,
-                                    -22.739214
-                                ],
-                                [
-                                    143.350025,
-                                    -22.678883
-                                ],
-                                [
-                                    143.349833,
-                                    -22.678429
-                                ],
-                                [
-                                    143.345942,
-                                    -22.675822
-                                ],
-                                [
-                                    143.345176,
-                                    -22.676127
-                                ],
-                                [
-                                    143.336044,
-                                    -22.739066
-                                ],
-                                [
-                                    143.336446,
-                                    -22.73957
-                                ],
-                                [
-                                    143.337003,
-                                    -22.739214
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ4684",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to a pole fire.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "11:30AM 25 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 09 Apr 2025",
-                "STREETS": "MELROSE STATION, TUCSON STATION",
-                "SUBURBS": "LONGREACH, WINTON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             139.448168,
                             -17.746204
                         ]
@@ -524,6 +483,71 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "ESCOTT RD, ESCOTT STATION",
                 "SUBURBS": "BURKETOWN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            143.343035,
+                            -22.707696
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.337003,
+                                    -22.739214
+                                ],
+                                [
+                                    143.350025,
+                                    -22.678883
+                                ],
+                                [
+                                    143.349833,
+                                    -22.678429
+                                ],
+                                [
+                                    143.345942,
+                                    -22.675822
+                                ],
+                                [
+                                    143.345176,
+                                    -22.676127
+                                ],
+                                [
+                                    143.336044,
+                                    -22.739066
+                                ],
+                                [
+                                    143.336446,
+                                    -22.73957
+                                ],
+                                [
+                                    143.337003,
+                                    -22.739214
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4684",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to a pole fire.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "11:30AM 25 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 09 Apr 2025",
+                "STREETS": "MELROSE STATION, TUCSON STATION",
+                "SUBURBS": "LONGREACH, WINTON"
             }
         },
         {
@@ -786,91 +810,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.822478,
-                            -27.996139
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.820988,
-                                    -27.996398
-                                ],
-                                [
-                                    143.821327,
-                                    -27.998067
-                                ],
-                                [
-                                    143.822174,
-                                    -27.998316
-                                ],
-                                [
-                                    143.823843,
-                                    -27.996924
-                                ],
-                                [
-                                    143.823977,
-                                    -27.996451
-                                ],
-                                [
-                                    143.823128,
-                                    -27.99423
-                                ],
-                                [
-                                    143.822441,
-                                    -27.993962
-                                ],
-                                [
-                                    143.821893,
-                                    -27.994178
-                                ],
-                                [
-                                    143.821692,
-                                    -27.994321
-                                ],
-                                [
-                                    143.821133,
-                                    -27.994988
-                                ],
-                                [
-                                    143.821033,
-                                    -27.995237
-                                ],
-                                [
-                                    143.82098,
-                                    -27.996298
-                                ],
-                                [
-                                    143.820988,
-                                    -27.996398
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5621",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "18",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Crews working on-site",
-                "START": "4:19AM 01 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "DOWLING ST, FREW ST, GILMOUR ST, POWELL ST",
-                "SUBURBS": "THARGOMINDAH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             143.823903,
                             -27.993024
                         ]
@@ -1118,6 +1057,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            146.473005,
+                            -20.542184
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.480418,
+                                    -20.556249
+                                ],
+                                [
+                                    146.466463,
+                                    -20.527741
+                                ],
+                                [
+                                    146.465826,
+                                    -20.52752
+                                ],
+                                [
+                                    146.465591,
+                                    -20.528119
+                                ],
+                                [
+                                    146.479546,
+                                    -20.556627
+                                ],
+                                [
+                                    146.480183,
+                                    -20.556848
+                                ],
+                                [
+                                    146.480418,
+                                    -20.556249
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ5193",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:05PM 04 Apr 2025",
+                "EST_FIX_TIME": "4:00PM 06 Apr 2025",
+                "STREETS": "DOONGARA STATION",
+                "SUBURBS": "SEVENTY MILE RANGE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             143.970048,
                             -27.639933
                         ]
@@ -1173,71 +1173,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "AUTUMNVALE RD, KIANDRA RD, OLD THARGOMINDAH RD",
                 "SUBURBS": "QUILPIE, THARGOMINDAH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            143.820848,
-                            -27.988785
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.81936,
-                                    -27.986348
-                                ],
-                                [
-                                    143.821358,
-                                    -27.991881
-                                ],
-                                [
-                                    143.821976,
-                                    -27.992178
-                                ],
-                                [
-                                    143.822337,
-                                    -27.991643
-                                ],
-                                [
-                                    143.820759,
-                                    -27.985537
-                                ],
-                                [
-                                    143.819838,
-                                    -27.985392
-                                ],
-                                [
-                                    143.819418,
-                                    -27.985964
-                                ],
-                                [
-                                    143.81936,
-                                    -27.986348
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5630",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Crews working on-site",
-                "START": "4:19AM 01 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "GILMOUR ST, STAFFORD ST, WATTS ST",
-                "SUBURBS": "THARGOMINDAH"
             }
         },
         {
@@ -1321,6 +1256,176 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            143.8251,
+                            -27.994725
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.822698,
+                                    -27.996182
+                                ],
+                                [
+                                    143.826439,
+                                    -27.996668
+                                ],
+                                [
+                                    143.826984,
+                                    -27.99639
+                                ],
+                                [
+                                    143.827742,
+                                    -27.994718
+                                ],
+                                [
+                                    143.827778,
+                                    -27.994527
+                                ],
+                                [
+                                    143.827704,
+                                    -27.993205
+                                ],
+                                [
+                                    143.827112,
+                                    -27.992783
+                                ],
+                                [
+                                    143.825777,
+                                    -27.992983
+                                ],
+                                [
+                                    143.825562,
+                                    -27.993064
+                                ],
+                                [
+                                    143.824485,
+                                    -27.993763
+                                ],
+                                [
+                                    143.82447,
+                                    -27.993773
+                                ],
+                                [
+                                    143.823863,
+                                    -27.994198
+                                ],
+                                [
+                                    143.823829,
+                                    -27.994225
+                                ],
+                                [
+                                    143.822422,
+                                    -27.995409
+                                ],
+                                [
+                                    143.822698,
+                                    -27.996182
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5387",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "26",
+                "REASON": "The loss of supply is due to public safety concerns.",
+                "STATUS": "Crews working on-site",
+                "START": "4:40AM 31 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "DOWLING ST, ECCLES ST, FITZWALTER ST, POWELL ST, SAMS ST",
+                "SUBURBS": "THARGOMINDAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            143.825034,
+                            -27.996793
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.823971,
+                                    -27.997655
+                                ],
+                                [
+                                    143.824808,
+                                    -27.99767
+                                ],
+                                [
+                                    143.825123,
+                                    -27.99758
+                                ],
+                                [
+                                    143.826435,
+                                    -27.996708
+                                ],
+                                [
+                                    143.826582,
+                                    -27.996141
+                                ],
+                                [
+                                    143.825979,
+                                    -27.995917
+                                ],
+                                [
+                                    143.825446,
+                                    -27.996064
+                                ],
+                                [
+                                    143.825373,
+                                    -27.996091
+                                ],
+                                [
+                                    143.823756,
+                                    -27.9968
+                                ],
+                                [
+                                    143.823485,
+                                    -27.997303
+                                ],
+                                [
+                                    143.823971,
+                                    -27.997655
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5386",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to public safety concerns.",
+                "STATUS": "Crews working on-site",
+                "START": "2:25AM 31 Mar 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "POWELL ST",
+                "SUBURBS": "THARGOMINDAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             143.821115,
                             -27.997179
                         ]
@@ -1375,79 +1480,6 @@
                 "START": "4:19AM 01 Apr 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "DOWLING ST, GILMOUR ST",
-                "SUBURBS": "THARGOMINDAH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            143.816614,
-                            -27.99784
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.815546,
-                                    -27.998638
-                                ],
-                                [
-                                    143.816308,
-                                    -27.998849
-                                ],
-                                [
-                                    143.816873,
-                                    -27.99868
-                                ],
-                                [
-                                    143.817432,
-                                    -27.997983
-                                ],
-                                [
-                                    143.817448,
-                                    -27.997962
-                                ],
-                                [
-                                    143.817813,
-                                    -27.997447
-                                ],
-                                [
-                                    143.817738,
-                                    -27.996884
-                                ],
-                                [
-                                    143.817102,
-                                    -27.996832
-                                ],
-                                [
-                                    143.815415,
-                                    -27.997833
-                                ],
-                                [
-                                    143.815546,
-                                    -27.998638
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5623",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "7",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Crews working on-site",
-                "START": "4:19AM 01 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "MOORE ST, SAMS ST",
                 "SUBURBS": "THARGOMINDAH"
             }
         },
@@ -1604,8 +1636,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.825034,
-                            -27.996793
+                            143.816614,
+                            -27.99784
                         ]
                     },
                     {
@@ -1613,48 +1645,44 @@
                         "coordinates": [
                             [
                                 [
-                                    143.823971,
-                                    -27.997655
+                                    143.815546,
+                                    -27.998638
                                 ],
                                 [
-                                    143.824808,
-                                    -27.99767
+                                    143.816308,
+                                    -27.998849
                                 ],
                                 [
-                                    143.825123,
-                                    -27.99758
+                                    143.816873,
+                                    -27.99868
                                 ],
                                 [
-                                    143.826435,
-                                    -27.996708
+                                    143.817432,
+                                    -27.997983
                                 ],
                                 [
-                                    143.826582,
-                                    -27.996141
+                                    143.817448,
+                                    -27.997962
                                 ],
                                 [
-                                    143.825979,
-                                    -27.995917
+                                    143.817813,
+                                    -27.997447
                                 ],
                                 [
-                                    143.825446,
-                                    -27.996064
+                                    143.817738,
+                                    -27.996884
                                 ],
                                 [
-                                    143.825373,
-                                    -27.996091
+                                    143.817102,
+                                    -27.996832
                                 ],
                                 [
-                                    143.823756,
-                                    -27.9968
+                                    143.815415,
+                                    -27.997833
                                 ],
                                 [
-                                    143.823485,
-                                    -27.997303
-                                ],
-                                [
-                                    143.823971,
-                                    -27.997655
+                                    143.815546,
+                                    -27.998638
                                 ]
                             ]
                         ]
@@ -1662,14 +1690,14 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW5386",
+                "EVENT_ID": "25SW5623",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to public safety concerns.",
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
                 "STATUS": "Crews working on-site",
-                "START": "2:25AM 31 Mar 2025",
+                "START": "4:19AM 01 Apr 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "POWELL ST",
+                "STREETS": "MOORE ST, SAMS ST",
                 "SUBURBS": "THARGOMINDAH"
             }
         },
@@ -1887,8 +1915,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.8251,
-                            -27.994725
+                            143.820848,
+                            -27.988785
                         ]
                     },
                     {
@@ -1896,64 +1924,36 @@
                         "coordinates": [
                             [
                                 [
-                                    143.822698,
-                                    -27.996182
+                                    143.81936,
+                                    -27.986348
                                 ],
                                 [
-                                    143.826439,
-                                    -27.996668
+                                    143.821358,
+                                    -27.991881
                                 ],
                                 [
-                                    143.826984,
-                                    -27.99639
+                                    143.821976,
+                                    -27.992178
                                 ],
                                 [
-                                    143.827742,
-                                    -27.994718
+                                    143.822337,
+                                    -27.991643
                                 ],
                                 [
-                                    143.827778,
-                                    -27.994527
+                                    143.820759,
+                                    -27.985537
                                 ],
                                 [
-                                    143.827704,
-                                    -27.993205
+                                    143.819838,
+                                    -27.985392
                                 ],
                                 [
-                                    143.827112,
-                                    -27.992783
+                                    143.819418,
+                                    -27.985964
                                 ],
                                 [
-                                    143.825777,
-                                    -27.992983
-                                ],
-                                [
-                                    143.825562,
-                                    -27.993064
-                                ],
-                                [
-                                    143.824485,
-                                    -27.993763
-                                ],
-                                [
-                                    143.82447,
-                                    -27.993773
-                                ],
-                                [
-                                    143.823863,
-                                    -27.994198
-                                ],
-                                [
-                                    143.823829,
-                                    -27.994225
-                                ],
-                                [
-                                    143.822422,
-                                    -27.995409
-                                ],
-                                [
-                                    143.822698,
-                                    -27.996182
+                                    143.81936,
+                                    -27.986348
                                 ]
                             ]
                         ]
@@ -1961,14 +1961,14 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW5387",
+                "EVENT_ID": "25SW5630",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "26",
-                "REASON": "The loss of supply is due to public safety concerns.",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
                 "STATUS": "Crews working on-site",
-                "START": "4:40AM 31 Mar 2025",
+                "START": "4:19AM 01 Apr 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "DOWLING ST, ECCLES ST, FITZWALTER ST, POWELL ST, SAMS ST",
+                "STREETS": "GILMOUR ST, STAFFORD ST, WATTS ST",
                 "SUBURBS": "THARGOMINDAH"
             }
         },
@@ -2036,5 +2036,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743850201.49039"
+    "extracted": "1743850501.024431"
 }
