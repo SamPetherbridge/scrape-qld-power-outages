@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
+                            146.473005,
+                            -20.542184
                         ]
                     },
                     {
@@ -19,36 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    146.480418,
+                                    -20.556249
                                 ],
                                 [
-                                    148.700208,
-                                    -21.128945
+                                    146.466463,
+                                    -20.527741
                                 ],
                                 [
-                                    148.700826,
-                                    -21.128582
+                                    146.465826,
+                                    -20.52752
                                 ],
                                 [
-                                    148.701003,
-                                    -21.127495
+                                    146.465591,
+                                    -20.528119
                                 ],
                                 [
-                                    148.700469,
-                                    -21.126979
+                                    146.479546,
+                                    -20.556627
                                 ],
                                 [
-                                    148.697649,
-                                    -21.127299
+                                    146.480183,
+                                    -20.556848
                                 ],
                                 [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
+                                    146.480418,
+                                    -20.556249
                                 ]
                             ]
                         ]
@@ -56,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK1119",
+                "EVENT_ID": "25NQ5193",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 29 Apr 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
+                "START": "2:05PM 04 Apr 2025",
+                "EST_FIX_TIME": "4:00PM 06 Apr 2025",
+                "STREETS": "DOONGARA STATION",
+                "SUBURBS": "SEVENTY MILE RANGE"
             }
         },
         {
@@ -447,6 +443,71 @@
                 "EST_FIX_TIME": "12:00PM 09 Apr 2025",
                 "STREETS": "MELROSE STATION, TUCSON STATION",
                 "SUBURBS": "LONGREACH, WINTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 29 Apr 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -976,67 +1037,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.473005,
-                            -20.542184
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.480418,
-                                    -20.556249
-                                ],
-                                [
-                                    146.466463,
-                                    -20.527741
-                                ],
-                                [
-                                    146.465826,
-                                    -20.52752
-                                ],
-                                [
-                                    146.465591,
-                                    -20.528119
-                                ],
-                                [
-                                    146.479546,
-                                    -20.556627
-                                ],
-                                [
-                                    146.480183,
-                                    -20.556848
-                                ],
-                                [
-                                    146.480418,
-                                    -20.556249
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ5193",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:05PM 04 Apr 2025",
-                "EST_FIX_TIME": "4:00PM 06 Apr 2025",
-                "STREETS": "DOONGARA STATION",
-                "SUBURBS": "SEVENTY MILE RANGE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             143.970048,
                             -27.639933
                         ]
@@ -1260,8 +1260,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.821115,
-                            -27.997179
+                            144.999434,
+                            -24.997039
                         ]
                     },
                     {
@@ -1269,36 +1269,44 @@
                         "coordinates": [
                             [
                                 [
-                                    143.820419,
-                                    -27.99751
+                                    144.93463,
+                                    -25.012766
                                 ],
                                 [
-                                    143.821129,
-                                    -27.997823
+                                    144.934642,
+                                    -25.013048
                                 ],
                                 [
-                                    143.821713,
-                                    -27.997738
+                                    144.935225,
+                                    -25.013474
                                 ],
                                 [
-                                    143.821811,
-                                    -27.997221
+                                    145.034761,
+                                    -24.99705
                                 ],
                                 [
-                                    143.821558,
-                                    -27.996762
+                                    145.034923,
+                                    -24.996995
                                 ],
                                 [
-                                    143.820931,
-                                    -27.996536
+                                    145.064032,
+                                    -24.981428
                                 ],
                                 [
-                                    143.820473,
-                                    -27.996681
+                                    145.064238,
+                                    -24.980864
                                 ],
                                 [
-                                    143.820419,
-                                    -27.99751
+                                    145.063652,
+                                    -24.980603
+                                ],
+                                [
+                                    144.934996,
+                                    -25.012313
+                                ],
+                                [
+                                    144.93463,
+                                    -25.012766
                                 ]
                             ]
                         ]
@@ -1306,15 +1314,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW5622",
+                "EVENT_ID": "25CA6047",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "7",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Crews working on-site",
-                "START": "4:19AM 01 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "DOWLING ST, GILMOUR ST",
-                "SUBURBS": "THARGOMINDAH"
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "8:51AM 02 Apr 2025",
+                "EST_FIX_TIME": "4:00PM 07 Apr 2025",
+                "STREETS": "ADAVALE RD, OFF ISISFORD-B'ALL RD",
+                "SUBURBS": "BLACKALL"
             }
         },
         {
@@ -1402,8 +1410,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            144.999434,
-                            -24.997039
+                            143.821115,
+                            -27.997179
                         ]
                     },
                     {
@@ -1411,44 +1419,36 @@
                         "coordinates": [
                             [
                                 [
-                                    144.93463,
-                                    -25.012766
+                                    143.820419,
+                                    -27.99751
                                 ],
                                 [
-                                    144.934642,
-                                    -25.013048
+                                    143.821129,
+                                    -27.997823
                                 ],
                                 [
-                                    144.935225,
-                                    -25.013474
+                                    143.821713,
+                                    -27.997738
                                 ],
                                 [
-                                    145.034761,
-                                    -24.99705
+                                    143.821811,
+                                    -27.997221
                                 ],
                                 [
-                                    145.034923,
-                                    -24.996995
+                                    143.821558,
+                                    -27.996762
                                 ],
                                 [
-                                    145.064032,
-                                    -24.981428
+                                    143.820931,
+                                    -27.996536
                                 ],
                                 [
-                                    145.064238,
-                                    -24.980864
+                                    143.820473,
+                                    -27.996681
                                 ],
                                 [
-                                    145.063652,
-                                    -24.980603
-                                ],
-                                [
-                                    144.934996,
-                                    -25.012313
-                                ],
-                                [
-                                    144.93463,
-                                    -25.012766
+                                    143.820419,
+                                    -27.99751
                                 ]
                             ]
                         ]
@@ -1456,15 +1456,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA6047",
+                "EVENT_ID": "25SW5622",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "8:51AM 02 Apr 2025",
-                "EST_FIX_TIME": "4:00PM 07 Apr 2025",
-                "STREETS": "ADAVALE RD, OFF ISISFORD-B'ALL RD",
-                "SUBURBS": "BLACKALL"
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Crews working on-site",
+                "START": "4:19AM 01 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "DOWLING ST, GILMOUR ST",
+                "SUBURBS": "THARGOMINDAH"
             }
         },
         {
@@ -1673,5 +1673,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743836404.139931"
+    "extracted": "1743837001.663553"
 }
