@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.803604,
-                            -27.987301
+                            147.254695,
+                            -19.765087
                         ]
                     },
                     {
@@ -19,24 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    143.804111,
-                                    -27.987313
+                                    147.255837,
+                                    -19.764913
                                 ],
                                 [
-                                    143.803617,
-                                    -27.98685
+                                    147.253804,
+                                    -19.764389
                                 ],
                                 [
-                                    143.803096,
-                                    -27.987289
+                                    147.253218,
+                                    -19.764706
                                 ],
                                 [
-                                    143.80359,
-                                    -27.987752
+                                    147.253553,
+                                    -19.765261
                                 ],
                                 [
-                                    143.804111,
-                                    -27.987313
+                                    147.255586,
+                                    -19.765785
+                                ],
+                                [
+                                    147.256172,
+                                    -19.765468
+                                ],
+                                [
+                                    147.255837,
+                                    -19.764913
                                 ]
                             ]
                         ]
@@ -44,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW5618",
+                "EVENT_ID": "25NQ4471",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Crews working on-site",
-                "START": "4:19AM 01 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "LOWER CEMETERY RD",
-                "SUBURBS": "THARGOMINDAH"
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "9:24AM 19 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 17 Apr 2025",
+                "STREETS": "KIRKNIE RD",
+                "SUBURBS": "HOME HILL"
             }
         },
         {
@@ -627,71 +635,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 29 Apr 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             150.658219,
                             -23.684384
                         ]
@@ -785,6 +728,71 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 29 Apr 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             143.826566,
                             -27.990904
                         ]
@@ -858,8 +866,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.254695,
-                            -19.765087
+                            143.803604,
+                            -27.987301
                         ]
                     },
                     {
@@ -867,32 +875,24 @@
                         "coordinates": [
                             [
                                 [
-                                    147.255837,
-                                    -19.764913
+                                    143.804111,
+                                    -27.987313
                                 ],
                                 [
-                                    147.253804,
-                                    -19.764389
+                                    143.803617,
+                                    -27.98685
                                 ],
                                 [
-                                    147.253218,
-                                    -19.764706
+                                    143.803096,
+                                    -27.987289
                                 ],
                                 [
-                                    147.253553,
-                                    -19.765261
+                                    143.80359,
+                                    -27.987752
                                 ],
                                 [
-                                    147.255586,
-                                    -19.765785
-                                ],
-                                [
-                                    147.256172,
-                                    -19.765468
-                                ],
-                                [
-                                    147.255837,
-                                    -19.764913
+                                    143.804111,
+                                    -27.987313
                                 ]
                             ]
                         ]
@@ -900,15 +900,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4471",
+                "EVENT_ID": "25SW5618",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "9:24AM 19 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 17 Apr 2025",
-                "STREETS": "KIRKNIE RD",
-                "SUBURBS": "HOME HILL"
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Crews working on-site",
+                "START": "4:19AM 01 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "LOWER CEMETERY RD",
+                "SUBURBS": "THARGOMINDAH"
             }
         },
         {
@@ -998,83 +998,6 @@
                 "EST_FIX_TIME": "4:00PM 05 Apr 2025",
                 "STREETS": "ILFRACOMBE-ISISFOR RD, WELLSHOT-LOONGANA RD",
                 "SUBURBS": "ILFRACOMBE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            150.764134,
-                            -25.60382
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    150.715814,
-                                    -25.609034
-                                ],
-                                [
-                                    150.812334,
-                                    -25.623773
-                                ],
-                                [
-                                    150.812863,
-                                    -25.623527
-                                ],
-                                [
-                                    150.812754,
-                                    -25.622998
-                                ],
-                                [
-                                    150.766228,
-                                    -25.583978
-                                ],
-                                [
-                                    150.765789,
-                                    -25.583868
-                                ],
-                                [
-                                    150.764319,
-                                    -25.584146
-                                ],
-                                [
-                                    150.764183,
-                                    -25.584192
-                                ],
-                                [
-                                    150.715659,
-                                    -25.608193
-                                ],
-                                [
-                                    150.715406,
-                                    -25.608664
-                                ],
-                                [
-                                    150.715814,
-                                    -25.609034
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB4722",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "6",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "4:32PM 04 Apr 2025",
-                "EST_FIX_TIME": "12:00PM 05 Apr 2025",
-                "STREETS": "BACK EIDSVOLD RD, HAWKWOOD RD, YERILLA RD",
-                "SUBURBS": "EIDSVOLD, MUNDUBBERA"
             }
         },
         {
@@ -1409,6 +1332,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            143.820811,
+                            -27.988969
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.819256,
+                                    -27.987964
+                                ],
+                                [
+                                    143.82153,
+                                    -27.99058
+                                ],
+                                [
+                                    143.822185,
+                                    -27.990696
+                                ],
+                                [
+                                    143.822402,
+                                    -27.990135
+                                ],
+                                [
+                                    143.821268,
+                                    -27.987666
+                                ],
+                                [
+                                    143.820871,
+                                    -27.98739
+                                ],
+                                [
+                                    143.819732,
+                                    -27.987242
+                                ],
+                                [
+                                    143.81922,
+                                    -27.987461
+                                ],
+                                [
+                                    143.819256,
+                                    -27.987964
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5629",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "8",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Crews working on-site",
+                "START": "4:19AM 01 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "STAFFORD ST",
+                "SUBURBS": "THARGOMINDAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.273133,
                             -20.783365
                         ]
@@ -1532,75 +1524,6 @@
                 "EST_FIX_TIME": "4:00PM 05 Apr 2025",
                 "STREETS": "BLETCHINGTON STATION, BLUFF RD, BLUFF STATION, BRITTANIA RD, BROADLEIGH DNS STATION, BRUSLEE STATION, CAERPHILLY STATION, CAMERON STATION, CLERMONT HWY, COREA PLAINS STATION, DAWSONVALE STATION, DOONGARA STATION, EGERA STATION, ELSTON HILLS STATION, GREGORY DEVELOPMENTAL RD, HARVEST HOME STATION, JUMBA STATION, LASCELLES STATION, LEYSHON VIEW STATION, LIONTOWN STATION, LONGTON STATION, MERRICOURT STATION, MERRYLAND STATION, MIRTNA RD, MIRTNA STATION, NATAL DOWNS STATION, NOSNILLOR STATION, OLD VICTORIA STATION, PAJINGO STATION, PALLAMANA STATION, SAYAH PARK STATION, SLOGAN DOWNS STATION, TAEMAS STATION, TEEWARRINA STATION, TRAFALGAR STATION, VACQUERA STATION, VICTORIA DOWNS STATION, WAMBIANA STATION",
                 "SUBURBS": "BELYANDO CROSSING, BROUGHTON, CHARTERS TOWERS, PENTLAND, SEVENTY MILE, SEVENTY MILE RANGE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            143.820811,
-                            -27.988969
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.819256,
-                                    -27.987964
-                                ],
-                                [
-                                    143.82153,
-                                    -27.99058
-                                ],
-                                [
-                                    143.822185,
-                                    -27.990696
-                                ],
-                                [
-                                    143.822402,
-                                    -27.990135
-                                ],
-                                [
-                                    143.821268,
-                                    -27.987666
-                                ],
-                                [
-                                    143.820871,
-                                    -27.98739
-                                ],
-                                [
-                                    143.819732,
-                                    -27.987242
-                                ],
-                                [
-                                    143.81922,
-                                    -27.987461
-                                ],
-                                [
-                                    143.819256,
-                                    -27.987964
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5629",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "8",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Crews working on-site",
-                "START": "4:19AM 01 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "STAFFORD ST",
-                "SUBURBS": "THARGOMINDAH"
             }
         },
         {
@@ -2364,5 +2287,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1743814201.060006"
+    "extracted": "1743816001.545683"
 }
