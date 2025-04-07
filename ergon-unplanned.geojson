@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
+                            151.309278,
+                            -27.628942
                         ]
                     },
                     {
@@ -19,36 +19,44 @@
                         "coordinates": [
                             [
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    151.297457,
+                                    -27.637368
                                 ],
                                 [
-                                    148.700208,
-                                    -21.128945
+                                    151.306232,
+                                    -27.642919
                                 ],
                                 [
-                                    148.700826,
-                                    -21.128582
+                                    151.306983,
+                                    -27.642742
                                 ],
                                 [
-                                    148.701003,
-                                    -21.127495
+                                    151.321228,
+                                    -27.615555
                                 ],
                                 [
-                                    148.700469,
-                                    -21.126979
+                                    151.32112,
+                                    -27.615039
                                 ],
                                 [
-                                    148.697649,
-                                    -21.127299
+                                    151.320537,
+                                    -27.614964
                                 ],
                                 [
-                                    148.697227,
-                                    -21.127706
+                                    151.309981,
+                                    -27.619829
                                 ],
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    151.309792,
+                                    -27.61998
+                                ],
+                                [
+                                    151.297329,
+                                    -27.636752
+                                ],
+                                [
+                                    151.297457,
+                                    -27.637368
                                 ]
                             ]
                         ]
@@ -56,15 +64,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK1119",
+                "EVENT_ID": "25SW5712",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 29 Apr 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "6:00PM 07 Apr 2025",
+                "EST_FIX_TIME": "9:00PM 07 Apr 2025",
+                "STREETS": "BRANCH VIEW RD, LADNER RD, MCKEEVER RD",
+                "SUBURBS": "CECIL PLAINS"
             }
         },
         {
@@ -142,79 +150,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "HAWKINS CREEK RD, PIPE GULLY RD",
                 "SUBURBS": "HAWKINS CREEK, INGHAM"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.309278,
-                            -27.628942
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.297457,
-                                    -27.637368
-                                ],
-                                [
-                                    151.306232,
-                                    -27.642919
-                                ],
-                                [
-                                    151.306983,
-                                    -27.642742
-                                ],
-                                [
-                                    151.321228,
-                                    -27.615555
-                                ],
-                                [
-                                    151.32112,
-                                    -27.615039
-                                ],
-                                [
-                                    151.320537,
-                                    -27.614964
-                                ],
-                                [
-                                    151.309981,
-                                    -27.619829
-                                ],
-                                [
-                                    151.309792,
-                                    -27.61998
-                                ],
-                                [
-                                    151.297329,
-                                    -27.636752
-                                ],
-                                [
-                                    151.297457,
-                                    -27.637368
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5712",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "6:00PM 07 Apr 2025",
-                "EST_FIX_TIME": "9:00PM 07 Apr 2025",
-                "STREETS": "BRANCH VIEW RD, LADNER RD, MCKEEVER RD",
-                "SUBURBS": "CECIL PLAINS"
             }
         },
         {
@@ -475,6 +410,71 @@
                 "EST_FIX_TIME": "12:00PM 09 Apr 2025",
                 "STREETS": "MELROSE STATION, TUCSON STATION",
                 "SUBURBS": "LONGREACH, WINTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 29 Apr 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -1384,5 +1384,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744017901.073433"
+    "extracted": "1744018205.161699"
 }
