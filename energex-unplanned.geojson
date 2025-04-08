@@ -10,68 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.826584,
-                            -27.216435
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.827374,
-                                    -27.21624
-                                ],
-                                [
-                                    152.826182,
-                                    -27.215797
-                                ],
-                                [
-                                    152.825522,
-                                    -27.21604
-                                ],
-                                [
-                                    152.825794,
-                                    -27.21663
-                                ],
-                                [
-                                    152.826986,
-                                    -27.217073
-                                ],
-                                [
-                                    152.827646,
-                                    -27.21683
-                                ],
-                                [
-                                    152.827374,
-                                    -27.21624
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-9540-h",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
-                "START": "10:20AM 08 Apr 2025",
-                "EST_FIX_TIME": "1:30PM 08 Apr 2025",
-                "STREETS": "JUFFS RD",
-                "SUBURBS": "DAYBORO",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.044177,
                             -27.435316
                         ]
@@ -152,14 +90,76 @@
                 "REASON": "A vehicle damaging our equipment",
                 "STATUS": "Awaiting",
                 "START": "8:37AM 08 Apr 2025",
-                "EST_FIX_TIME": "11:30AM 08 Apr 2025",
+                "EST_FIX_TIME": "12:00PM 08 Apr 2025",
                 "STREETS": "ELLIOT ST, GREG CHAPPELL ST, IMMARNA ST, PEDDER ST, SANDGATE RD",
                 "SUBURBS": "ALBION",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.826584,
+                            -27.216435
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.827374,
+                                    -27.21624
+                                ],
+                                [
+                                    152.826182,
+                                    -27.215797
+                                ],
+                                [
+                                    152.825522,
+                                    -27.21604
+                                ],
+                                [
+                                    152.825794,
+                                    -27.21663
+                                ],
+                                [
+                                    152.826986,
+                                    -27.217073
+                                ],
+                                [
+                                    152.827646,
+                                    -27.21683
+                                ],
+                                [
+                                    152.827374,
+                                    -27.21624
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-9540-h",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "10:20AM 08 Apr 2025",
+                "EST_FIX_TIME": "1:30PM 08 Apr 2025",
+                "STREETS": "JUFFS RD",
+                "SUBURBS": "DAYBORO",
                 "ETR_FLAG": "N"
             }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1744071900.323205"
+    "extracted": "1744073400.453051"
 }
