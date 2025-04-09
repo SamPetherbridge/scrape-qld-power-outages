@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.803604,
-                            -27.987301
+                            142.621735,
+                            -9.384292
                         ]
                     },
                     {
@@ -19,24 +19,56 @@
                         "coordinates": [
                             [
                                 [
-                                    143.804111,
-                                    -27.987313
+                                    142.610174,
+                                    -9.381012
                                 ],
                                 [
-                                    143.803617,
-                                    -27.98685
+                                    142.633035,
+                                    -9.390294
                                 ],
                                 [
-                                    143.803096,
-                                    -27.987289
+                                    142.633576,
+                                    -9.390139
                                 ],
                                 [
-                                    143.80359,
-                                    -27.987752
+                                    142.63355,
+                                    -9.389581
                                 ],
                                 [
-                                    143.804111,
-                                    -27.987313
+                                    142.625309,
+                                    -9.380142
+                                ],
+                                [
+                                    142.625135,
+                                    -9.38002
+                                ],
+                                [
+                                    142.62089,
+                                    -9.37832
+                                ],
+                                [
+                                    142.620666,
+                                    -9.378291
+                                ],
+                                [
+                                    142.620414,
+                                    -9.378321
+                                ],
+                                [
+                                    142.620388,
+                                    -9.378325
+                                ],
+                                [
+                                    142.610265,
+                                    -9.380151
+                                ],
+                                [
+                                    142.609894,
+                                    -9.380548
+                                ],
+                                [
+                                    142.610174,
+                                    -9.381012
                                 ]
                             ]
                         ]
@@ -44,15 +76,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW5618",
+                "EVENT_ID": "25FN4454",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Crews working on-site",
-                "START": "4:19AM 01 Apr 2025",
+                "CUSTOMERS_AFFECTED": "14",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "4:58AM 08 Apr 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "LOWER CEMETERY RD",
-                "SUBURBS": "THARGOMINDAH"
+                "STREETS": "ESPLANADE, MAIN RD, SCHOOL RD, UNKNOWN ST",
+                "SUBURBS": "SAIBAI ISLAND"
             }
         },
         {
@@ -233,67 +265,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.899297,
-                            -21.144287
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ],
-                                [
-                                    148.898377,
-                                    -21.142205
-                                ],
-                                [
-                                    148.897709,
-                                    -21.142084
-                                ],
-                                [
-                                    148.89758,
-                                    -21.142711
-                                ],
-                                [
-                                    148.900217,
-                                    -21.146369
-                                ],
-                                [
-                                    148.900886,
-                                    -21.14649
-                                ],
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK3215",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "12:00PM 11 Apr 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.331437,
                             -24.947164
                         ]
@@ -393,6 +364,67 @@
                 "EST_FIX_TIME": "6:30PM 09 Apr 2025",
                 "STREETS": "CALLAGHANS RD, CHAPMANS RD, CLAYTON RD, CLAYTON SIDING RD, FIELDINGS RD, GILLENS CREEK RD, GILLENS SIDING RD, GOODWOOD RD, GORDONS RD, HONORS RD, NATZKES RD, NEW VALLEY RD, PAYNES RD, PRICE ST, THOMASENS RD, WISES RD, WOODS EAST RD, WOODS WEST RD, WOODWARD RD",
                 "SUBURBS": "ALLOWAY, BUNDABERG, ELLIOTT, KENSINGTON, THABEBAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.899297,
+                            -21.144287
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ],
+                                [
+                                    148.898377,
+                                    -21.142205
+                                ],
+                                [
+                                    148.897709,
+                                    -21.142084
+                                ],
+                                [
+                                    148.89758,
+                                    -21.142711
+                                ],
+                                [
+                                    148.900217,
+                                    -21.146369
+                                ],
+                                [
+                                    148.900886,
+                                    -21.14649
+                                ],
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3215",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "12:00PM 11 Apr 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
             }
         },
         {
@@ -687,8 +719,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            142.621735,
-                            -9.384292
+                            143.803604,
+                            -27.987301
                         ]
                     },
                     {
@@ -696,56 +728,24 @@
                         "coordinates": [
                             [
                                 [
-                                    142.610174,
-                                    -9.381012
+                                    143.804111,
+                                    -27.987313
                                 ],
                                 [
-                                    142.633035,
-                                    -9.390294
+                                    143.803617,
+                                    -27.98685
                                 ],
                                 [
-                                    142.633576,
-                                    -9.390139
+                                    143.803096,
+                                    -27.987289
                                 ],
                                 [
-                                    142.63355,
-                                    -9.389581
+                                    143.80359,
+                                    -27.987752
                                 ],
                                 [
-                                    142.625309,
-                                    -9.380142
-                                ],
-                                [
-                                    142.625135,
-                                    -9.38002
-                                ],
-                                [
-                                    142.62089,
-                                    -9.37832
-                                ],
-                                [
-                                    142.620666,
-                                    -9.378291
-                                ],
-                                [
-                                    142.620414,
-                                    -9.378321
-                                ],
-                                [
-                                    142.620388,
-                                    -9.378325
-                                ],
-                                [
-                                    142.610265,
-                                    -9.380151
-                                ],
-                                [
-                                    142.609894,
-                                    -9.380548
-                                ],
-                                [
-                                    142.610174,
-                                    -9.381012
+                                    143.804111,
+                                    -27.987313
                                 ]
                             ]
                         ]
@@ -753,15 +753,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN4454",
+                "EVENT_ID": "25SW5618",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "14",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "4:58AM 08 Apr 2025",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Crews working on-site",
+                "START": "4:19AM 01 Apr 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ESPLANADE, MAIN RD, SCHOOL RD, UNKNOWN ST",
-                "SUBURBS": "SAIBAI ISLAND"
+                "STREETS": "LOWER CEMETERY RD",
+                "SUBURBS": "THARGOMINDAH"
             }
         },
         {
@@ -1188,5 +1188,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744185608.255406"
+    "extracted": "1744186504.781197"
 }
