@@ -7,6 +7,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    149.15805,
+                    -21.120678
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK2234",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
+                "STATUS": "On hold until further notice",
+                "START": "10:00PM 09 Apr 2025",
+                "EST_FIX_TIME": "5:30AM 10 Apr 2025",
+                "STREETS": "MALCOMSON ST, PHILLIP ST",
+                "SUBURBS": "MOUNT PLEASANT, NORTH MACKAY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     151.954401,
                     -24.987786
                 ]
@@ -49,27 +70,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    149.15805,
-                    -21.120678
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK2462",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "Work scheduled",
-                "START": "10:00PM 09 Apr 2025",
-                "EST_FIX_TIME": "5:00AM 10 Apr 2025",
-                "STREETS": "MALCOMSON ST, PHILLIP ST",
-                "SUBURBS": "MOUNT PLEASANT, NORTH MACKAY"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.177179,
                     -27.123759
                 ]
@@ -96,13 +96,13 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK2234",
+                "EVENT_ID": "25MK2462",
                 "TYPE": "PLANNED",
                 "CUSTOMERS_AFFECTED": "3",
                 "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "On hold until further notice",
+                "STATUS": "Work scheduled",
                 "START": "10:00PM 09 Apr 2025",
-                "EST_FIX_TIME": "5:30AM 10 Apr 2025",
+                "EST_FIX_TIME": "5:00AM 10 Apr 2025",
                 "STREETS": "MALCOMSON ST, PHILLIP ST",
                 "SUBURBS": "MOUNT PLEASANT, NORTH MACKAY"
             }
@@ -110,5 +110,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744180801.480347"
+    "extracted": "1744181108.064429"
 }
