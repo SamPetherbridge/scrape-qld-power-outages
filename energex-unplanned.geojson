@@ -10,112 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.898052,
-                            -27.661305
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.895211,
-                                    -27.658381
-                                ],
-                                [
-                                    152.895539,
-                                    -27.659234
-                                ],
-                                [
-                                    152.895562,
-                                    -27.659286
-                                ],
-                                [
-                                    152.895689,
-                                    -27.659518
-                                ],
-                                [
-                                    152.895694,
-                                    -27.659527
-                                ],
-                                [
-                                    152.897792,
-                                    -27.663159
-                                ],
-                                [
-                                    152.897919,
-                                    -27.6633
-                                ],
-                                [
-                                    152.900066,
-                                    -27.66489
-                                ],
-                                [
-                                    152.900633,
-                                    -27.664939
-                                ],
-                                [
-                                    152.900894,
-                                    -27.664489
-                                ],
-                                [
-                                    152.900786,
-                                    -27.663683
-                                ],
-                                [
-                                    152.900739,
-                                    -27.66354
-                                ],
-                                [
-                                    152.898425,
-                                    -27.659288
-                                ],
-                                [
-                                    152.898336,
-                                    -27.659173
-                                ],
-                                [
-                                    152.896869,
-                                    -27.657804
-                                ],
-                                [
-                                    152.896419,
-                                    -27.65767
-                                ],
-                                [
-                                    152.895608,
-                                    -27.65779
-                                ],
-                                [
-                                    152.895211,
-                                    -27.658381
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-855108-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "33",
-                "REASON": "Emergency Repairs",
-                "STATUS": "Awaiting",
-                "START": "11:00PM 09 Apr 2025",
-                "EST_FIX_TIME": "1:30AM 10 Apr 2025",
-                "STREETS": "AUGUSTA PKWY, BROOKWATER DR, CHAMPIONS CRES, MYRTLE CRES, SCOPARIA DR, SILKY OAK DR",
-                "SUBURBS": "BROOKWATER",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.988473,
                             -27.169603
                         ]
@@ -229,9 +123,99 @@
                 "SUBURBS": "BURPENGARY EAST",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.898939,
+                            -27.662098
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.896984,
+                                    -27.660726
+                                ],
+                                [
+                                    152.897756,
+                                    -27.66308
+                                ],
+                                [
+                                    152.897919,
+                                    -27.6633
+                                ],
+                                [
+                                    152.900066,
+                                    -27.66489
+                                ],
+                                [
+                                    152.900633,
+                                    -27.664939
+                                ],
+                                [
+                                    152.900894,
+                                    -27.664489
+                                ],
+                                [
+                                    152.900786,
+                                    -27.663683
+                                ],
+                                [
+                                    152.900739,
+                                    -27.66354
+                                ],
+                                [
+                                    152.898425,
+                                    -27.659288
+                                ],
+                                [
+                                    152.897531,
+                                    -27.659257
+                                ],
+                                [
+                                    152.897424,
+                                    -27.659421
+                                ],
+                                [
+                                    152.897386,
+                                    -27.659493
+                                ],
+                                [
+                                    152.896994,
+                                    -27.660444
+                                ],
+                                [
+                                    152.896984,
+                                    -27.660726
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-855108-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "11",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "11:00PM 09 Apr 2025",
+                "EST_FIX_TIME": "1:30AM 10 Apr 2025",
+                "STREETS": "AUGUSTA PKWY, BROOKWATER DR, CHAMPIONS CRES, SCOPARIA DR",
+                "SUBURBS": "BROOKWATER",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1744203900.978332"
+    "extracted": "1744204805.65454"
 }
