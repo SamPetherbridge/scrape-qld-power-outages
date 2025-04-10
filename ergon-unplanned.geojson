@@ -683,6 +683,87 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            139.509249,
+                            -20.722327
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    139.508378,
+                                    -20.721005
+                                ],
+                                [
+                                    139.508395,
+                                    -20.723662
+                                ],
+                                [
+                                    139.508985,
+                                    -20.724095
+                                ],
+                                [
+                                    139.509774,
+                                    -20.723913
+                                ],
+                                [
+                                    139.510119,
+                                    -20.723356
+                                ],
+                                [
+                                    139.509862,
+                                    -20.722498
+                                ],
+                                [
+                                    139.509858,
+                                    -20.722487
+                                ],
+                                [
+                                    139.5098,
+                                    -20.72231
+                                ],
+                                [
+                                    139.509799,
+                                    -20.722307
+                                ],
+                                [
+                                    139.509308,
+                                    -20.720866
+                                ],
+                                [
+                                    139.508779,
+                                    -20.72056
+                                ],
+                                [
+                                    139.508378,
+                                    -20.721005
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ5426",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "17",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "6:02AM 10 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ABEL SMITH PDE, DELACOUR DR",
+                "SUBURBS": "PIONEER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             143.803604,
                             -27.987301
                         ]
@@ -1035,5 +1116,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744242600.681085"
+    "extracted": "1744244101.374794"
 }
