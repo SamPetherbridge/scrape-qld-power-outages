@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.899297,
-                            -21.144287
+                            148.592688,
+                            -20.409526
                         ]
                     },
                     {
@@ -19,32 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    148.592415,
+                                    -20.409153
                                 ],
                                 [
-                                    148.898377,
-                                    -21.142205
+                                    148.592362,
+                                    -20.409193
                                 ],
                                 [
-                                    148.897709,
-                                    -21.142084
+                                    148.592288,
+                                    -20.409828
                                 ],
                                 [
-                                    148.89758,
-                                    -21.142711
+                                    148.592961,
+                                    -20.409899
                                 ],
                                 [
-                                    148.900217,
-                                    -21.146369
+                                    148.593014,
+                                    -20.409859
                                 ],
                                 [
-                                    148.900886,
-                                    -21.14649
+                                    148.593089,
+                                    -20.409224
                                 ],
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    148.592415,
+                                    -20.409153
                                 ]
                             ]
                         ]
@@ -52,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK3215",
+                "EVENT_ID": "25MK3429",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "CUSTOMERS_AFFECTED": "6",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
                 "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "12:00PM 18 Apr 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
+                "START": "12:42AM 11 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "GARDENIA ST",
+                "SUBURBS": "PROSERPINE"
             }
         },
         {
@@ -142,6 +142,67 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "DOWLING ST, FREW ST, GILMOUR ST, MOORE ST, POWELL ST",
                 "SUBURBS": "THARGOMINDAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.899297,
+                            -21.144287
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ],
+                                [
+                                    148.898377,
+                                    -21.142205
+                                ],
+                                [
+                                    148.897709,
+                                    -21.142084
+                                ],
+                                [
+                                    148.89758,
+                                    -21.142711
+                                ],
+                                [
+                                    148.900217,
+                                    -21.146369
+                                ],
+                                [
+                                    148.900886,
+                                    -21.14649
+                                ],
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3215",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "12:00PM 18 Apr 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
             }
         },
         {
@@ -434,67 +495,6 @@
                 "EST_FIX_TIME": "12:00PM 17 Apr 2025",
                 "STREETS": "KIRKNIE RD",
                 "SUBURBS": "HOME HILL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.592688,
-                            -20.409526
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.592415,
-                                    -20.409153
-                                ],
-                                [
-                                    148.592362,
-                                    -20.409193
-                                ],
-                                [
-                                    148.592288,
-                                    -20.409828
-                                ],
-                                [
-                                    148.592961,
-                                    -20.409899
-                                ],
-                                [
-                                    148.593014,
-                                    -20.409859
-                                ],
-                                [
-                                    148.593089,
-                                    -20.409224
-                                ],
-                                [
-                                    148.592415,
-                                    -20.409153
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK3429",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "6",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "12:42AM 11 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "GARDENIA ST",
-                "SUBURBS": "PROSERPINE"
             }
         },
         {
@@ -971,5 +971,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744346100.271472"
+    "extracted": "1744346704.386072"
 }
