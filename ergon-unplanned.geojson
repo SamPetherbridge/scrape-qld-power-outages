@@ -204,8 +204,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            150.505227,
-                            -23.354228
+                            151.980042,
+                            -27.731474
                         ]
                     },
                     {
@@ -213,36 +213,48 @@
                         "coordinates": [
                             [
                                 [
-                                    150.504624,
-                                    -23.354335
+                                    151.957153,
+                                    -27.731854
                                 ],
                                 [
-                                    150.505006,
-                                    -23.354773
+                                    151.978804,
+                                    -27.747343
                                 ],
                                 [
-                                    150.505643,
-                                    -23.354874
+                                    151.979438,
+                                    -27.747342
                                 ],
                                 [
-                                    150.505831,
-                                    -23.354303
+                                    152.001052,
+                                    -27.73183
                                 ],
                                 [
-                                    150.505588,
-                                    -23.35381
+                                    152.001229,
+                                    -27.731574
                                 ],
                                 [
-                                    150.504951,
-                                    -23.353583
+                                    152.002932,
+                                    -27.724552
                                 ],
                                 [
-                                    150.504813,
-                                    -23.353637
+                                    152.002808,
+                                    -27.724151
                                 ],
                                 [
-                                    150.504624,
-                                    -23.354335
+                                    151.994004,
+                                    -27.715705
+                                ],
+                                [
+                                    151.993414,
+                                    -27.715606
+                                ],
+                                [
+                                    151.957251,
+                                    -27.731098
+                                ],
+                                [
+                                    151.957153,
+                                    -27.731854
                                 ]
                             ]
                         ]
@@ -250,15 +262,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA6332",
+                "EVENT_ID": "25SW5923",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
+                "CUSTOMERS_AFFECTED": "26",
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
-                "START": "3:33PM 11 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BEAN ST",
-                "SUBURBS": "PARK AVENUE"
+                "START": "4:06PM 11 Apr 2025",
+                "EST_FIX_TIME": "8:00PM 11 Apr 2025",
+                "STREETS": "ALLEN RD, BEBBINGTON RD, MOUNT PROSPER RD, O'KEEFES RD, WILSON RD, WOODS RD",
+                "SUBURBS": "PRESTON, RAMSAY"
             }
         },
         {
@@ -340,83 +352,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "DOWLING ST, FREW ST, GILMOUR ST, MOORE ST, POWELL ST",
                 "SUBURBS": "THARGOMINDAH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.980042,
-                            -27.731474
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.957153,
-                                    -27.731854
-                                ],
-                                [
-                                    151.978804,
-                                    -27.747343
-                                ],
-                                [
-                                    151.979438,
-                                    -27.747342
-                                ],
-                                [
-                                    152.001052,
-                                    -27.73183
-                                ],
-                                [
-                                    152.001229,
-                                    -27.731574
-                                ],
-                                [
-                                    152.002932,
-                                    -27.724552
-                                ],
-                                [
-                                    152.002808,
-                                    -27.724151
-                                ],
-                                [
-                                    151.994004,
-                                    -27.715705
-                                ],
-                                [
-                                    151.993414,
-                                    -27.715606
-                                ],
-                                [
-                                    151.957251,
-                                    -27.731098
-                                ],
-                                [
-                                    151.957153,
-                                    -27.731854
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5923",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "26",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "4:06PM 11 Apr 2025",
-                "EST_FIX_TIME": "8:00PM 11 Apr 2025",
-                "STREETS": "ALLEN RD, BEBBINGTON RD, MOUNT PROSPER RD, O'KEEFES RD, WILSON RD, WOODS RD",
-                "SUBURBS": "PRESTON, RAMSAY"
             }
         },
         {
@@ -1080,5 +1015,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744359901.498143"
+    "extracted": "1744360503.422423"
 }
