@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.04489,
-                            -28.079398
+                            153.278304,
+                            -27.52095
                         ]
                     },
                     {
@@ -19,40 +19,64 @@
                         "coordinates": [
                             [
                                 [
-                                    153.038612,
-                                    -28.075349
+                                    153.277625,
+                                    -27.52134
                                 ],
                                 [
-                                    153.039735,
-                                    -28.082164
+                                    153.277702,
+                                    -27.521442
                                 ],
                                 [
-                                    153.040165,
-                                    -28.082545
+                                    153.278096,
+                                    -27.52164
                                 ],
                                 [
-                                    153.050626,
-                                    -28.083903
+                                    153.278237,
+                                    -27.521647
                                 ],
                                 [
-                                    153.051167,
-                                    -28.083636
+                                    153.278699,
+                                    -27.521426
                                 ],
                                 [
-                                    153.051017,
-                                    -28.083103
+                                    153.278792,
+                                    -27.521286
                                 ],
                                 [
-                                    153.039433,
-                                    -28.074931
+                                    153.278808,
+                                    -27.521259
                                 ],
                                 [
-                                    153.038862,
-                                    -28.074893
+                                    153.279014,
+                                    -27.520894
                                 ],
                                 [
-                                    153.038612,
-                                    -28.075349
+                                    153.278952,
+                                    -27.520404
+                                ],
+                                [
+                                    153.278812,
+                                    -27.520253
+                                ],
+                                [
+                                    153.277996,
+                                    -27.520296
+                                ],
+                                [
+                                    153.277699,
+                                    -27.520707
+                                ],
+                                [
+                                    153.277674,
+                                    -27.520745
+                                ],
+                                [
+                                    153.277595,
+                                    -27.520881
+                                ],
+                                [
+                                    153.277625,
+                                    -27.52134
                                 ]
                             ]
                         ]
@@ -60,15 +84,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-855574-g",
+                "EVENT_ID": "INCD-855552-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "Powerlines down",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "Under Investigation",
                 "STATUS": "In Progress",
-                "START": "10:43AM 12 Apr 2025",
-                "EST_FIX_TIME": "4:00PM 12 Apr 2025",
-                "STREETS": "KERRY RD, NINDOOINBAH ESTATE RD",
-                "SUBURBS": "KERRY, NINDOOINBAH",
+                "START": "7:59AM 12 Apr 2025",
+                "EST_FIX_TIME": "3:30PM 12 Apr 2025",
+                "STREETS": "BONAVENTURE CT",
+                "SUBURBS": "CLEVELAND",
                 "ETR_FLAG": "N"
             }
         },
@@ -195,6 +219,76 @@
                 "EST_FIX_TIME": "5:00PM 12 Apr 2025",
                 "STREETS": "ALBERT RD, ALLEN RD, ASHLEIGH CT, BALMORAL RD, BARTON CT, BARWING CT, BEND CT, BIRDSONG PL, BIRMINGHAM ST, BLUE HILLS DR, BREEN DR, BRIAN MORRISON DR, BUNYA CROSSING RD, BUNYA PINE CT, BUNYA RD, CABARITA CRES, CARTER CT, CASSINIA CT, CHURCH RD, CLAPHAM CT, CONFLUENCE CT, COOLUM CT, COROWA CT, CORYMBIA LANE, CROSSING DR, DELTA ST, DRAPERS RD, DUDLEY CT, DUNN CT, EATONS CROSSING RD, EDDY CT, EDENDERRY CT, EXPLORER DR, FAHEYS RD E, FAHEYS RD W, FARM RD, FINCH CT, FLETCHERS RD, FLINDERS WAY, GARWOOD CL, GLEN EATON ST, GREER CT, HARLEY CT, HEATHER ANNE DR, HIDDEN VALLEY DR, HILL GROVE CL, HOARE CT, HODGE RD, KINGFISHER ST, LAMBERT CT, LARK CT, LAWSON RD, LEE CL, LERGESSNER RD, LOWAI CT, MAILMANS TRK, MANCHESTER CT, MASKELL CT, MITCHELSON CL, MONTEGO CT, MORGAN RD, OAK RIVER RD, OSPREY CT, PEACOCK ST, PLOVER CT, POWERFUL OWL CT, PRASADA CT, RAINBIRD CL, REACH PL, REDDIEX CL, RETREAT CT, RINN AVE, RIVER OAKS DR, RIVERGUM DR, ROCHEADON DR, SANCTUARY CT, SCENIC CL, SHALLOWS CT, SHEARWATER CL, SKYLINE CT, STANSELL CT, TAMMY CT, TELFORD CT, TRIBUTARY CT, VADA RD, WEBB CT, WILGA DR, WILLEM DR, WINDSONG ST",
                 "SUBURBS": "ALBANY CREEK, BUNYA, DRAPER, EATONS HILL",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.04489,
+                            -28.079398
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.038612,
+                                    -28.075349
+                                ],
+                                [
+                                    153.039735,
+                                    -28.082164
+                                ],
+                                [
+                                    153.040165,
+                                    -28.082545
+                                ],
+                                [
+                                    153.050626,
+                                    -28.083903
+                                ],
+                                [
+                                    153.051167,
+                                    -28.083636
+                                ],
+                                [
+                                    153.051017,
+                                    -28.083103
+                                ],
+                                [
+                                    153.039433,
+                                    -28.074931
+                                ],
+                                [
+                                    153.038862,
+                                    -28.074893
+                                ],
+                                [
+                                    153.038612,
+                                    -28.075349
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-855574-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "Powerlines down",
+                "STATUS": "In Progress",
+                "START": "10:43AM 12 Apr 2025",
+                "EST_FIX_TIME": "4:00PM 12 Apr 2025",
+                "STREETS": "KERRY RD, NINDOOINBAH ESTATE RD",
+                "SUBURBS": "KERRY, NINDOOINBAH",
                 "ETR_FLAG": "N"
             }
         },
@@ -410,6 +504,100 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.361097,
+                            -27.602888
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.35662,
+                                    -27.602723
+                                ],
+                                [
+                                    152.3654,
+                                    -27.604491
+                                ],
+                                [
+                                    152.365969,
+                                    -27.604246
+                                ],
+                                [
+                                    152.365827,
+                                    -27.603698
+                                ],
+                                [
+                                    152.365348,
+                                    -27.603358
+                                ],
+                                [
+                                    152.364391,
+                                    -27.602678
+                                ],
+                                [
+                                    152.363912,
+                                    -27.602338
+                                ],
+                                [
+                                    152.363911,
+                                    -27.602337
+                                ],
+                                [
+                                    152.363433,
+                                    -27.602
+                                ],
+                                [
+                                    152.363207,
+                                    -27.601909
+                                ],
+                                [
+                                    152.359283,
+                                    -27.601285
+                                ],
+                                [
+                                    152.35907,
+                                    -27.601292
+                                ],
+                                [
+                                    152.356608,
+                                    -27.601845
+                                ],
+                                [
+                                    152.356225,
+                                    -27.602288
+                                ],
+                                [
+                                    152.35662,
+                                    -27.602723
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-855637-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "2:51PM 12 Apr 2025",
+                "EST_FIX_TIME": "5:30PM 12 Apr 2025",
+                "STREETS": "GATTON-LAIDLEY RD",
+                "SUBURBS": "FOREST HILL",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.883376,
                             -26.735889
                         ]
@@ -491,103 +679,9 @@
                 "SUBURBS": "NORTH MALENY",
                 "ETR_FLAG": "N"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.278304,
-                            -27.52095
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.277625,
-                                    -27.52134
-                                ],
-                                [
-                                    153.277702,
-                                    -27.521442
-                                ],
-                                [
-                                    153.278096,
-                                    -27.52164
-                                ],
-                                [
-                                    153.278237,
-                                    -27.521647
-                                ],
-                                [
-                                    153.278699,
-                                    -27.521426
-                                ],
-                                [
-                                    153.278792,
-                                    -27.521286
-                                ],
-                                [
-                                    153.278808,
-                                    -27.521259
-                                ],
-                                [
-                                    153.279014,
-                                    -27.520894
-                                ],
-                                [
-                                    153.278952,
-                                    -27.520404
-                                ],
-                                [
-                                    153.278812,
-                                    -27.520253
-                                ],
-                                [
-                                    153.277996,
-                                    -27.520296
-                                ],
-                                [
-                                    153.277699,
-                                    -27.520707
-                                ],
-                                [
-                                    153.277674,
-                                    -27.520745
-                                ],
-                                [
-                                    153.277595,
-                                    -27.520881
-                                ],
-                                [
-                                    153.277625,
-                                    -27.52134
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-855552-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "7:59AM 12 Apr 2025",
-                "EST_FIX_TIME": "3:30PM 12 Apr 2025",
-                "STREETS": "BONAVENTURE CT",
-                "SUBURBS": "CLEVELAND",
-                "ETR_FLAG": "N"
-            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1744433401.042846"
+    "extracted": "1744434004.018219"
 }
