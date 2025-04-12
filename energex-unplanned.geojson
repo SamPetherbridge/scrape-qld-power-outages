@@ -72,6 +72,92 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.784659,
+                            -26.547816
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.783481,
+                                    -26.548498
+                                ],
+                                [
+                                    152.784341,
+                                    -26.548501
+                                ],
+                                [
+                                    152.784486,
+                                    -26.548483
+                                ],
+                                [
+                                    152.785254,
+                                    -26.548277
+                                ],
+                                [
+                                    152.785303,
+                                    -26.548262
+                                ],
+                                [
+                                    152.78601,
+                                    -26.547999
+                                ],
+                                [
+                                    152.786309,
+                                    -26.547484
+                                ],
+                                [
+                                    152.785795,
+                                    -26.547131
+                                ],
+                                [
+                                    152.784011,
+                                    -26.547206
+                                ],
+                                [
+                                    152.783724,
+                                    -26.547302
+                                ],
+                                [
+                                    152.783173,
+                                    -26.547691
+                                ],
+                                [
+                                    152.783008,
+                                    -26.548193
+                                ],
+                                [
+                                    152.783481,
+                                    -26.548498
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-855657-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "6",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "3:54PM 12 Apr 2025",
+                "EST_FIX_TIME": "9:30AM 13 Apr 2025",
+                "STREETS": "OAKEY CREEK RD",
+                "SUBURBS": "GHEERULLA",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.810486,
                             -26.332793
                         ]
@@ -161,5 +247,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1744497003.720371"
+    "extracted": "1744497601.636049"
 }
