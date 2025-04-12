@@ -10,76 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.04489,
-                            -28.079398
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.038612,
-                                    -28.075349
-                                ],
-                                [
-                                    153.039735,
-                                    -28.082164
-                                ],
-                                [
-                                    153.040165,
-                                    -28.082545
-                                ],
-                                [
-                                    153.050626,
-                                    -28.083903
-                                ],
-                                [
-                                    153.051167,
-                                    -28.083636
-                                ],
-                                [
-                                    153.051017,
-                                    -28.083103
-                                ],
-                                [
-                                    153.039433,
-                                    -28.074931
-                                ],
-                                [
-                                    153.038862,
-                                    -28.074893
-                                ],
-                                [
-                                    153.038612,
-                                    -28.075349
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-855574-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "Powerlines down",
-                "STATUS": "In Progress",
-                "START": "10:43AM 12 Apr 2025",
-                "EST_FIX_TIME": "4:00PM 12 Apr 2025",
-                "STREETS": "KERRY RD, NINDOOINBAH ESTATE RD",
-                "SUBURBS": "KERRY, NINDOOINBAH",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.883376,
                             -26.735889
                         ]
@@ -156,9 +86,79 @@
                 "REASON": "Under Investigation",
                 "STATUS": "Awaiting",
                 "START": "11:38AM 12 Apr 2025",
-                "EST_FIX_TIME": "2:00PM 12 Apr 2025",
+                "EST_FIX_TIME": "2:30PM 12 Apr 2025",
                 "STREETS": "BURGUM RD",
                 "SUBURBS": "NORTH MALENY",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.04489,
+                            -28.079398
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.038612,
+                                    -28.075349
+                                ],
+                                [
+                                    153.039735,
+                                    -28.082164
+                                ],
+                                [
+                                    153.040165,
+                                    -28.082545
+                                ],
+                                [
+                                    153.050626,
+                                    -28.083903
+                                ],
+                                [
+                                    153.051167,
+                                    -28.083636
+                                ],
+                                [
+                                    153.051017,
+                                    -28.083103
+                                ],
+                                [
+                                    153.039433,
+                                    -28.074931
+                                ],
+                                [
+                                    153.038862,
+                                    -28.074893
+                                ],
+                                [
+                                    153.038612,
+                                    -28.075349
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-855574-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "Powerlines down",
+                "STATUS": "In Progress",
+                "START": "10:43AM 12 Apr 2025",
+                "EST_FIX_TIME": "4:00PM 12 Apr 2025",
+                "STREETS": "KERRY RD, NINDOOINBAH ESTATE RD",
+                "SUBURBS": "KERRY, NINDOOINBAH",
                 "ETR_FLAG": "N"
             }
         },
@@ -321,5 +321,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1744430101.474376"
+    "extracted": "1744430701.156015"
 }
