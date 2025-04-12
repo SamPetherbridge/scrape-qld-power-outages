@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.132785,
-                            -16.530224
+                            147.316865,
+                            -28.846256
                         ]
                     },
                     {
@@ -19,40 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    145.129625,
-                                    -16.528002
+                                    147.329421,
+                                    -28.872491
                                 ],
                                 [
-                                    145.131762,
-                                    -16.532949
+                                    147.30526,
+                                    -28.819685
                                 ],
                                 [
-                                    145.132548,
-                                    -16.533071
+                                    147.304593,
+                                    -28.819435
                                 ],
                                 [
-                                    145.135946,
-                                    -16.529281
+                                    147.304309,
+                                    -28.820022
                                 ],
                                 [
-                                    145.135809,
-                                    -16.528585
+                                    147.32847,
+                                    -28.872828
                                 ],
                                 [
-                                    145.133933,
-                                    -16.527639
+                                    147.329137,
+                                    -28.873078
                                 ],
                                 [
-                                    145.133744,
-                                    -16.527588
-                                ],
-                                [
-                                    145.130085,
-                                    -16.527377
-                                ],
-                                [
-                                    145.129625,
-                                    -16.528002
+                                    147.329421,
+                                    -28.872491
                                 ]
                             ]
                         ]
@@ -60,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN4665",
+                "EVENT_ID": "25SW5356",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "15",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "2:17PM 12 Apr 2025",
-                "EST_FIX_TIME": "10:00PM 12 Apr 2025",
-                "STREETS": "BAIRD ST, MULLIGAN HWY, PENINSULA DEVELOPMENT RD, PUMP RD",
-                "SUBURBS": "MOUNT CARBINE"
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "4:37PM 29 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 24 Apr 2025",
+                "STREETS": "JAKELWAR GOODOOGA RD, JAKELWAR-GOODOOGA RD",
+                "SUBURBS": "DIRRANBANDI, HEBEL"
             }
         },
         {
@@ -562,6 +554,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            145.132785,
+                            -16.530224
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.129625,
+                                    -16.528002
+                                ],
+                                [
+                                    145.131762,
+                                    -16.532949
+                                ],
+                                [
+                                    145.132548,
+                                    -16.533071
+                                ],
+                                [
+                                    145.135946,
+                                    -16.529281
+                                ],
+                                [
+                                    145.135809,
+                                    -16.528585
+                                ],
+                                [
+                                    145.133933,
+                                    -16.527639
+                                ],
+                                [
+                                    145.133744,
+                                    -16.527588
+                                ],
+                                [
+                                    145.130085,
+                                    -16.527377
+                                ],
+                                [
+                                    145.129625,
+                                    -16.528002
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN4665",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "15",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "2:17PM 12 Apr 2025",
+                "EST_FIX_TIME": "10:00PM 12 Apr 2025",
+                "STREETS": "BAIRD ST, MULLIGAN HWY, PENINSULA DEVELOPMENT RD, PUMP RD",
+                "SUBURBS": "MOUNT CARBINE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -692,67 +753,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.316865,
-                            -28.846256
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.329421,
-                                    -28.872491
-                                ],
-                                [
-                                    147.30526,
-                                    -28.819685
-                                ],
-                                [
-                                    147.304593,
-                                    -28.819435
-                                ],
-                                [
-                                    147.304309,
-                                    -28.820022
-                                ],
-                                [
-                                    147.32847,
-                                    -28.872828
-                                ],
-                                [
-                                    147.329137,
-                                    -28.873078
-                                ],
-                                [
-                                    147.329421,
-                                    -28.872491
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5356",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "4:37PM 29 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 24 Apr 2025",
-                "STREETS": "JAKELWAR GOODOOGA RD, JAKELWAR-GOODOOGA RD",
-                "SUBURBS": "DIRRANBANDI, HEBEL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -813,5 +813,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744453501.598141"
+    "extracted": "1744454100.319619"
 }
