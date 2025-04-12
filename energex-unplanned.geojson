@@ -10,6 +10,68 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.990268,
+                            -27.393697
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.990241,
+                                    -27.393007
+                                ],
+                                [
+                                    152.989507,
+                                    -27.39382
+                                ],
+                                [
+                                    152.989584,
+                                    -27.394455
+                                ],
+                                [
+                                    152.990295,
+                                    -27.394387
+                                ],
+                                [
+                                    152.991029,
+                                    -27.393574
+                                ],
+                                [
+                                    152.990952,
+                                    -27.392939
+                                ],
+                                [
+                                    152.990241,
+                                    -27.393007
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-855642-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Emergency repairs in-progress",
+                "STATUS": "In Progress",
+                "START": "3:10PM 12 Apr 2025",
+                "EST_FIX_TIME": "8:30PM 12 Apr 2025",
+                "STREETS": "FLOCKTON ST",
+                "SUBURBS": "EVERTON PARK",
+                "ETR_FLAG": "Y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.67778,
                             -26.248657
                         ]
@@ -128,100 +190,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.867245,
-                            -26.805116
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.855896,
-                                    -26.811309
-                                ],
-                                [
-                                    152.860462,
-                                    -26.815778
-                                ],
-                                [
-                                    152.8608,
-                                    -26.815923
-                                ],
-                                [
-                                    152.876725,
-                                    -26.816835
-                                ],
-                                [
-                                    152.877093,
-                                    -26.81672
-                                ],
-                                [
-                                    152.878523,
-                                    -26.815568
-                                ],
-                                [
-                                    152.878676,
-                                    -26.815126
-                                ],
-                                [
-                                    152.874837,
-                                    -26.800803
-                                ],
-                                [
-                                    152.874707,
-                                    -26.800592
-                                ],
-                                [
-                                    152.866811,
-                                    -26.793398
-                                ],
-                                [
-                                    152.86602,
-                                    -26.793484
-                                ],
-                                [
-                                    152.861445,
-                                    -26.800419
-                                ],
-                                [
-                                    152.861425,
-                                    -26.800451
-                                ],
-                                [
-                                    152.855814,
-                                    -26.810807
-                                ],
-                                [
-                                    152.855896,
-                                    -26.811309
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-855696-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "26",
-                "REASON": "Emergency repairs in-progress",
-                "STATUS": "Awaiting",
-                "START": "5:15PM 12 Apr 2025",
-                "EST_FIX_TIME": "8:00PM 12 Apr 2025",
-                "STREETS": "BRETONS RD, CANDLE MOUNTAIN DR, CEMETERY RD, CROHAMHURST RD, GIBLIN RD, WILD RD",
-                "SUBURBS": "CROHAMHURST",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.380858,
                             -27.661159
                         ]
@@ -324,8 +292,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.990268,
-                            -27.393697
+                            152.867245,
+                            -26.805116
                         ]
                     },
                     {
@@ -333,32 +301,64 @@
                         "coordinates": [
                             [
                                 [
-                                    152.990241,
-                                    -27.393007
+                                    152.855896,
+                                    -26.811309
                                 ],
                                 [
-                                    152.989507,
-                                    -27.39382
+                                    152.860462,
+                                    -26.815778
                                 ],
                                 [
-                                    152.989584,
-                                    -27.394455
+                                    152.8608,
+                                    -26.815923
                                 ],
                                 [
-                                    152.990295,
-                                    -27.394387
+                                    152.876725,
+                                    -26.816835
                                 ],
                                 [
-                                    152.991029,
-                                    -27.393574
+                                    152.877093,
+                                    -26.81672
                                 ],
                                 [
-                                    152.990952,
-                                    -27.392939
+                                    152.878523,
+                                    -26.815568
                                 ],
                                 [
-                                    152.990241,
-                                    -27.393007
+                                    152.878676,
+                                    -26.815126
+                                ],
+                                [
+                                    152.874837,
+                                    -26.800803
+                                ],
+                                [
+                                    152.874707,
+                                    -26.800592
+                                ],
+                                [
+                                    152.866811,
+                                    -26.793398
+                                ],
+                                [
+                                    152.86602,
+                                    -26.793484
+                                ],
+                                [
+                                    152.861445,
+                                    -26.800419
+                                ],
+                                [
+                                    152.861425,
+                                    -26.800451
+                                ],
+                                [
+                                    152.855814,
+                                    -26.810807
+                                ],
+                                [
+                                    152.855896,
+                                    -26.811309
                                 ]
                             ]
                         ]
@@ -366,20 +366,20 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-855642-g",
+                "EVENT_ID": "INCD-855696-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
+                "CUSTOMERS_AFFECTED": "26",
                 "REASON": "Emergency repairs in-progress",
-                "STATUS": "In Progress",
-                "START": "3:10PM 12 Apr 2025",
-                "EST_FIX_TIME": "8:30PM 12 Apr 2025",
-                "STREETS": "FLOCKTON ST",
-                "SUBURBS": "EVERTON PARK",
+                "STATUS": "Awaiting",
+                "START": "5:15PM 12 Apr 2025",
+                "EST_FIX_TIME": "8:00PM 12 Apr 2025",
+                "STREETS": "BRETONS RD, CANDLE MOUNTAIN DR, CEMETERY RD, CROHAMHURST RD, GIBLIN RD, WILD RD",
+                "SUBURBS": "CROHAMHURST",
                 "ETR_FLAG": "Y"
             }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1744446900.332124"
+    "extracted": "1744447506.048162"
 }
