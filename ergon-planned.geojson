@@ -7,69 +7,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.999295,
-                    -17.520456
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN4001",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "363",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:30AM 12 Apr 2025",
-                "EST_FIX_TIME": "2:30PM 12 Apr 2025",
-                "STREETS": "ACACIA ST, ASH ST, BEL AIR AVE, BELLA VISTA AVE, BELLE VIEW ST, BELLENDEN ST, BELLO DR, BELVEDERE AVE, BEVAN CL, BLACKWOOD ST, BON VILLA AVE, BONA AVE, BORONIA ST, BOULTER CL, BRUCE HWY, HICKORY ST, HIGHVIEW PL, HODGSON RD, LYONS RD, MARKET PL, PALMERSTON DR, PALMERSTON HWY, PINE ST, RIVER AVE",
-                "SUBURBS": "BELVEDERE, GOONDI, GOONDI HILL, HUDSON, INNISFAIL, MIGHELL, O'BRIENS HILL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.584103,
-                    -27.67824
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5053",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "73",
-                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:30AM 12 Apr 2025",
-                "EST_FIX_TIME": "3:00PM 12 Apr 2025",
-                "STREETS": "BRISKEY RD, DALLMAN RD, ELSDEN LANE, GALLIGAN RD, GLEN DEVON RD, IRONGATE RD, KAHLER RD, LOCHABER RD, MASTERS RD, MURLAGGAN RD, OAKEY PITTSWORTH RD, PITTSWORTH-DALLMAN RD, QUIBET RD, ROCHE RD, SOLOMON LANE, ST HELENS RD, TEWS RD, WALLINGFORD RD, WILKES RD, WYANGAPINNI RD",
-                "SUBURBS": "IRONGATE, PITTSWORTH, SCRUBBY MOUNTAIN, SPRINGSIDE, ST HELENS, STONELEIGH, WALLINGFORD, YARRANLEA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.741258,
-                    -23.13347
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA5641",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "113",
-                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:30AM 12 Apr 2025",
-                "EST_FIX_TIME": "2:30PM 12 Apr 2025",
-                "STREETS": "APPLETON DR, ATHERTON ST, CHARLES ST, JOHN ST, RAWLINGS ST, SELVEY ST, TANBY RD, VAUGHAN ST, WHITMAN ST",
-                "SUBURBS": "YEPPOON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     152.357137,
                     -24.839885
                 ]
@@ -84,27 +21,6 @@
                 "EST_FIX_TIME": "2:30PM 12 Apr 2025",
                 "STREETS": "ALLAMBIE CL, DANIEL DR, FAIRYMEAD RD, GIOVANNI CT, MCKENZIES RD, WATERVIEW RD",
                 "SUBURBS": "BUNDABERG NORTH, TANTITHA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    148.044279,
-                    -21.998342
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1615",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "6",
-                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "7:08AM 12 Apr 2025",
-                "EST_FIX_TIME": "4:00PM 12 Apr 2025",
-                "STREETS": "BELYANDO AVE, CASEY CT, MACARTHUR ST",
-                "SUBURBS": "MORANBAH"
             }
         },
         {
@@ -148,9 +64,51 @@
                 "STREETS": "BELLUNA CRES, GOOBURRUM RD, TANTITHA RD, TREVISO ST, ZORZAN DR",
                 "SUBURBS": "GOOBURRUM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.044279,
+                    -21.998342
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1615",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "6",
+                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "7:08AM 12 Apr 2025",
+                "EST_FIX_TIME": "4:00PM 12 Apr 2025",
+                "STREETS": "BELYANDO AVE, CASEY CT, MACARTHUR ST",
+                "SUBURBS": "MORANBAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.584103,
+                    -27.67824
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5053",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "73",
+                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "8:30AM 12 Apr 2025",
+                "EST_FIX_TIME": "3:00PM 12 Apr 2025",
+                "STREETS": "BRISKEY RD, DALLMAN RD, ELSDEN LANE, GALLIGAN RD, GLEN DEVON RD, IRONGATE RD, KAHLER RD, LOCHABER RD, MASTERS RD, MURLAGGAN RD, OAKEY PITTSWORTH RD, PITTSWORTH-DALLMAN RD, QUIBET RD, ROCHE RD, SOLOMON LANE, ST HELENS RD, TEWS RD, WALLINGFORD RD, WILKES RD, WYANGAPINNI RD",
+                "SUBURBS": "IRONGATE, PITTSWORTH, SCRUBBY MOUNTAIN, SPRINGSIDE, ST HELENS, STONELEIGH, WALLINGFORD, YARRANLEA"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744431304.009331"
+    "extracted": "1744432204.328627"
 }
