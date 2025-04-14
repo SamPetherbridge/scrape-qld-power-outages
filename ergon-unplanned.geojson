@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.945898,
-                            -21.221166
+                            143.803604,
+                            -27.987301
                         ]
                     },
                     {
@@ -19,44 +19,24 @@
                         "coordinates": [
                             [
                                 [
-                                    148.935473,
-                                    -21.214505
+                                    143.804111,
+                                    -27.987313
                                 ],
                                 [
-                                    148.94972,
-                                    -21.228515
+                                    143.803617,
+                                    -27.98685
                                 ],
                                 [
-                                    148.95038,
-                                    -21.228548
+                                    143.803096,
+                                    -27.987289
                                 ],
                                 [
-                                    148.956366,
-                                    -21.22379
+                                    143.80359,
+                                    -27.987752
                                 ],
                                 [
-                                    148.95627,
-                                    -21.223042
-                                ],
-                                [
-                                    148.941926,
-                                    -21.216337
-                                ],
-                                [
-                                    148.941913,
-                                    -21.216332
-                                ],
-                                [
-                                    148.936023,
-                                    -21.213783
-                                ],
-                                [
-                                    148.93543,
-                                    -21.213931
-                                ],
-                                [
-                                    148.935473,
-                                    -21.214505
+                                    143.804111,
+                                    -27.987313
                                 ]
                             ]
                         ]
@@ -64,15 +44,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK3461",
+                "EVENT_ID": "25SW5618",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "7",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
                 "STATUS": "Crews working on-site",
-                "START": "10:53PM 12 Apr 2025",
-                "EST_FIX_TIME": "4:00PM 15 Apr 2025",
-                "STREETS": "KINCHANT DAM RD, N LAMBS RD",
-                "SUBURBS": "NORTH ETON"
+                "START": "4:19AM 01 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "LOWER CEMETERY RD",
+                "SUBURBS": "THARGOMINDAH"
             }
         },
         {
@@ -199,7 +179,7 @@
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
                 "START": "2:58PM 14 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
+                "EST_FIX_TIME": "4:00PM 14 Apr 2025",
                 "STREETS": "BEASLEYS RD, BRYANT ST, BURNETT HWY, DEE RIVER RD, DEE ST, DULULU BUNERBA RD, GREENDALE RD, LAWS RD, LEICHHARDT HWY, MAIN ST, MANDALAY RD, OFF BURNETT HWY",
                 "SUBURBS": "DULULU, WOWAN"
             }
@@ -642,59 +622,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.803604,
-                            -27.987301
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.804111,
-                                    -27.987313
-                                ],
-                                [
-                                    143.803617,
-                                    -27.98685
-                                ],
-                                [
-                                    143.803096,
-                                    -27.987289
-                                ],
-                                [
-                                    143.80359,
-                                    -27.987752
-                                ],
-                                [
-                                    143.804111,
-                                    -27.987313
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5618",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Crews working on-site",
-                "START": "4:19AM 01 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "LOWER CEMETERY RD",
-                "SUBURBS": "THARGOMINDAH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -886,6 +813,79 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.945898,
+                            -21.221166
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.935473,
+                                    -21.214505
+                                ],
+                                [
+                                    148.94972,
+                                    -21.228515
+                                ],
+                                [
+                                    148.95038,
+                                    -21.228548
+                                ],
+                                [
+                                    148.956366,
+                                    -21.22379
+                                ],
+                                [
+                                    148.95627,
+                                    -21.223042
+                                ],
+                                [
+                                    148.941926,
+                                    -21.216337
+                                ],
+                                [
+                                    148.941913,
+                                    -21.216332
+                                ],
+                                [
+                                    148.936023,
+                                    -21.213783
+                                ],
+                                [
+                                    148.93543,
+                                    -21.213931
+                                ],
+                                [
+                                    148.935473,
+                                    -21.214505
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3461",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Crews working on-site",
+                "START": "10:53PM 12 Apr 2025",
+                "EST_FIX_TIME": "4:00PM 15 Apr 2025",
+                "STREETS": "KINCHANT DAM RD, N LAMBS RD",
+                "SUBURBS": "NORTH ETON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -946,5 +946,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744607400.425868"
+    "extracted": "1744608000.338861"
 }
