@@ -7,48 +7,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.343419,
-                    -25.1906
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB4102",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "21",
-                "REASON": "The loss of supply is to connect new customers to the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "9:00AM 14 Apr 2025",
-                "EST_FIX_TIME": "4:00PM 14 Apr 2025",
-                "STREETS": "ABINGTON RD, HORTON RD, MULLERS RD, REDRIDGE CRES",
-                "SUBURBS": "HORTON, REDRIDGE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    148.775855,
-                    -21.214372
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK2965",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "12",
-                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:30AM 14 Apr 2025",
-                "EST_FIX_TIME": "3:30PM 14 Apr 2025",
-                "STREETS": "HEAD MENKINS RD, SEPTIMUS RD",
-                "SUBURBS": "GARGETT, SEPTIMUS"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     152.696459,
                     -25.539769
                 ]
@@ -62,6 +20,27 @@
                 "START": "9:00PM 14 Apr 2025",
                 "EST_FIX_TIME": "3:00AM 15 Apr 2025",
                 "STREETS": "ALBERT ST, ALICE ST, JOHN LANE, JOHN ST, LENNOX ST",
+                "SUBURBS": "MARYBOROUGH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.696059,
+                    -25.540781
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB4099",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+                "STATUS": "Work scheduled",
+                "START": "9:00PM 14 Apr 2025",
+                "EST_FIX_TIME": "3:00AM 15 Apr 2025",
+                "STREETS": "ALBERT ST, JOHN ST",
                 "SUBURBS": "MARYBOROUGH"
             }
         },
@@ -91,20 +70,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.696059,
-                    -25.540781
+                    148.775855,
+                    -21.214372
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB4099",
+                "EVENT_ID": "25MK2965",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "3",
+                "CUSTOMERS_AFFECTED": "12",
                 "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-                "STATUS": "Work scheduled",
-                "START": "9:00PM 14 Apr 2025",
-                "EST_FIX_TIME": "3:00AM 15 Apr 2025",
-                "STREETS": "ALBERT ST, JOHN ST",
-                "SUBURBS": "MARYBOROUGH"
+                "STATUS": "Crews working on-site",
+                "START": "8:30AM 14 Apr 2025",
+                "EST_FIX_TIME": "3:30PM 14 Apr 2025",
+                "STREETS": "HEAD MENKINS RD, SEPTIMUS RD",
+                "SUBURBS": "GARGETT, SEPTIMUS"
             }
         },
         {
@@ -131,5 +110,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744608000.338861"
+    "extracted": "1744608601.408775"
 }
