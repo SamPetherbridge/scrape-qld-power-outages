@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.444215,
-                            -21.726884
+                            148.945898,
+                            -21.221166
                         ]
                     },
                     {
@@ -19,40 +19,44 @@
                         "coordinates": [
                             [
                                 [
-                                    143.424521,
-                                    -21.704979
+                                    148.935473,
+                                    -21.214505
                                 ],
                                 [
-                                    143.463096,
-                                    -21.749388
+                                    148.94972,
+                                    -21.228515
                                 ],
                                 [
-                                    143.463675,
-                                    -21.749512
+                                    148.95038,
+                                    -21.228548
                                 ],
                                 [
-                                    143.463944,
-                                    -21.749017
+                                    148.956366,
+                                    -21.22379
                                 ],
                                 [
-                                    143.45604,
-                                    -21.711185
+                                    148.95627,
+                                    -21.223042
                                 ],
                                 [
-                                    143.455674,
-                                    -21.710832
+                                    148.941926,
+                                    -21.216337
                                 ],
                                 [
-                                    143.425004,
-                                    -21.704255
+                                    148.941913,
+                                    -21.216332
                                 ],
                                 [
-                                    143.424487,
-                                    -21.704456
+                                    148.936023,
+                                    -21.213783
                                 ],
                                 [
-                                    143.424521,
-                                    -21.704979
+                                    148.93543,
+                                    -21.213931
+                                ],
+                                [
+                                    148.935473,
+                                    -21.214505
                                 ]
                             ]
                         ]
@@ -60,15 +64,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ5435",
+                "EVENT_ID": "25MK3461",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "12:56PM 08 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ESCOMBE STATION, MANUKA ST, MANUKA STATION",
-                "SUBURBS": "CORFIELD, WINTON"
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "10:53PM 12 Apr 2025",
+                "EST_FIX_TIME": "4:00PM 15 Apr 2025",
+                "STREETS": "KINCHANT DAM RD, N LAMBS RD",
+                "SUBURBS": "NORTH ETON"
             }
         },
         {
@@ -638,6 +642,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.616258,
+                            -20.327914
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.617019,
+                                    -20.32762
+                                ],
+                                [
+                                    148.615717,
+                                    -20.327329
+                                ],
+                                [
+                                    148.615141,
+                                    -20.327664
+                                ],
+                                [
+                                    148.615497,
+                                    -20.328207
+                                ],
+                                [
+                                    148.616799,
+                                    -20.328498
+                                ],
+                                [
+                                    148.617375,
+                                    -20.328163
+                                ],
+                                [
+                                    148.617019,
+                                    -20.32762
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3550",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "8:30AM 15 Apr 2025",
+                "EST_FIX_TIME": "12:30PM 15 Apr 2025",
+                "STREETS": "GREGORY CANNON VALLEY RD, TELFORD RD",
+                "SUBURBS": "GREGORY RIVER, STRATHDICKIE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -689,6 +754,136 @@
                 "EST_FIX_TIME": "6:00PM 30 Apr 2025",
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            143.444215,
+                            -21.726884
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.424521,
+                                    -21.704979
+                                ],
+                                [
+                                    143.463096,
+                                    -21.749388
+                                ],
+                                [
+                                    143.463675,
+                                    -21.749512
+                                ],
+                                [
+                                    143.463944,
+                                    -21.749017
+                                ],
+                                [
+                                    143.45604,
+                                    -21.711185
+                                ],
+                                [
+                                    143.455674,
+                                    -21.710832
+                                ],
+                                [
+                                    143.425004,
+                                    -21.704255
+                                ],
+                                [
+                                    143.424487,
+                                    -21.704456
+                                ],
+                                [
+                                    143.424521,
+                                    -21.704979
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ5435",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "12:56PM 08 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ESCOMBE STATION, MANUKA ST, MANUKA STATION",
+                "SUBURBS": "CORFIELD, WINTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            147.316865,
+                            -28.846256
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.329421,
+                                    -28.872491
+                                ],
+                                [
+                                    147.30526,
+                                    -28.819685
+                                ],
+                                [
+                                    147.304593,
+                                    -28.819435
+                                ],
+                                [
+                                    147.304309,
+                                    -28.820022
+                                ],
+                                [
+                                    147.32847,
+                                    -28.872828
+                                ],
+                                [
+                                    147.329137,
+                                    -28.873078
+                                ],
+                                [
+                                    147.329421,
+                                    -28.872491
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5356",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "4:37PM 29 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 24 Apr 2025",
+                "STREETS": "JAKELWAR GOODOOGA RD, JAKELWAR-GOODOOGA RD",
+                "SUBURBS": "DIRRANBANDI, HEBEL"
             }
         },
         {
@@ -808,140 +1003,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.945898,
-                            -21.221166
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.935473,
-                                    -21.214505
-                                ],
-                                [
-                                    148.94972,
-                                    -21.228515
-                                ],
-                                [
-                                    148.95038,
-                                    -21.228548
-                                ],
-                                [
-                                    148.956366,
-                                    -21.22379
-                                ],
-                                [
-                                    148.95627,
-                                    -21.223042
-                                ],
-                                [
-                                    148.941926,
-                                    -21.216337
-                                ],
-                                [
-                                    148.941913,
-                                    -21.216332
-                                ],
-                                [
-                                    148.936023,
-                                    -21.213783
-                                ],
-                                [
-                                    148.93543,
-                                    -21.213931
-                                ],
-                                [
-                                    148.935473,
-                                    -21.214505
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK3461",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "7",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "10:53PM 12 Apr 2025",
-                "EST_FIX_TIME": "4:00PM 15 Apr 2025",
-                "STREETS": "KINCHANT DAM RD, N LAMBS RD",
-                "SUBURBS": "NORTH ETON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.316865,
-                            -28.846256
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.329421,
-                                    -28.872491
-                                ],
-                                [
-                                    147.30526,
-                                    -28.819685
-                                ],
-                                [
-                                    147.304593,
-                                    -28.819435
-                                ],
-                                [
-                                    147.304309,
-                                    -28.820022
-                                ],
-                                [
-                                    147.32847,
-                                    -28.872828
-                                ],
-                                [
-                                    147.329137,
-                                    -28.873078
-                                ],
-                                [
-                                    147.329421,
-                                    -28.872491
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5356",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "4:37PM 29 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 24 Apr 2025",
-                "STREETS": "JAKELWAR GOODOOGA RD, JAKELWAR-GOODOOGA RD",
-                "SUBURBS": "DIRRANBANDI, HEBEL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -1002,5 +1063,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744669200.292852"
+    "extracted": "1744669854.829483"
 }
