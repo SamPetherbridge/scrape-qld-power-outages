@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.316865,
-                            -28.846256
+                            144.006332,
+                            -20.633101
                         ]
                     },
                     {
@@ -19,32 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    147.329421,
-                                    -28.872491
+                                    144.016415,
+                                    -20.634408
                                 ],
                                 [
-                                    147.30526,
-                                    -28.819685
+                                    143.996426,
+                                    -20.630908
                                 ],
                                 [
-                                    147.304593,
-                                    -28.819435
+                                    143.995867,
+                                    -20.631269
                                 ],
                                 [
-                                    147.304309,
-                                    -28.820022
+                                    143.99625,
+                                    -20.631795
                                 ],
                                 [
-                                    147.32847,
-                                    -28.872828
+                                    144.016239,
+                                    -20.635295
                                 ],
                                 [
-                                    147.329137,
-                                    -28.873078
+                                    144.016798,
+                                    -20.634934
                                 ],
                                 [
-                                    147.329421,
-                                    -28.872491
+                                    144.016415,
+                                    -20.634408
                                 ]
                             ]
                         ]
@@ -52,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW5356",
+                "EVENT_ID": "25NQ5591",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "4:37PM 29 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 24 Apr 2025",
-                "STREETS": "JAKELWAR GOODOOGA RD, JAKELWAR-GOODOOGA RD",
-                "SUBURBS": "DIRRANBANDI, HEBEL"
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "10:44AM 14 Apr 2025",
+                "EST_FIX_TIME": "4:00PM 14 Apr 2025",
+                "STREETS": "SODA VALLEY STATION",
+                "SUBURBS": "HUGHENDEN"
             }
         },
         {
@@ -223,6 +223,67 @@
                 "EST_FIX_TIME": "3:00PM 14 Apr 2025",
                 "STREETS": "AVOCET RD, BOUNDARY RD, BUFFLEHEAD RD, DAWSON HWY, OYSTERCATCHER RD, PETREL ST, SEAGULL BVD, SHEATHBILL CCT",
                 "SUBURBS": "BEECHER, KIRKWOOD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            147.316865,
+                            -28.846256
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.329421,
+                                    -28.872491
+                                ],
+                                [
+                                    147.30526,
+                                    -28.819685
+                                ],
+                                [
+                                    147.304593,
+                                    -28.819435
+                                ],
+                                [
+                                    147.304309,
+                                    -28.820022
+                                ],
+                                [
+                                    147.32847,
+                                    -28.872828
+                                ],
+                                [
+                                    147.329137,
+                                    -28.873078
+                                ],
+                                [
+                                    147.329421,
+                                    -28.872491
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5356",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "4:37PM 29 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 24 Apr 2025",
+                "STREETS": "JAKELWAR GOODOOGA RD, JAKELWAR-GOODOOGA RD",
+                "SUBURBS": "DIRRANBANDI, HEBEL"
             }
         },
         {
@@ -894,67 +955,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            144.006332,
-                            -20.633101
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.016415,
-                                    -20.634408
-                                ],
-                                [
-                                    143.996426,
-                                    -20.630908
-                                ],
-                                [
-                                    143.995867,
-                                    -20.631269
-                                ],
-                                [
-                                    143.99625,
-                                    -20.631795
-                                ],
-                                [
-                                    144.016239,
-                                    -20.635295
-                                ],
-                                [
-                                    144.016798,
-                                    -20.634934
-                                ],
-                                [
-                                    144.016415,
-                                    -20.634408
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ5591",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "10:44AM 14 Apr 2025",
-                "EST_FIX_TIME": "4:00PM 14 Apr 2025",
-                "STREETS": "SODA VALLEY STATION",
-                "SUBURBS": "HUGHENDEN"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             149.170224,
                             -21.15042
                         ]
@@ -1121,6 +1121,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.735838,
+                            -20.881915
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.736416,
+                                    -20.88249
+                                ],
+                                [
+                                    148.736212,
+                                    -20.881206
+                                ],
+                                [
+                                    148.735665,
+                                    -20.880826
+                                ],
+                                [
+                                    148.735261,
+                                    -20.88134
+                                ],
+                                [
+                                    148.735465,
+                                    -20.882623
+                                ],
+                                [
+                                    148.736011,
+                                    -20.883003
+                                ],
+                                [
+                                    148.736416,
+                                    -20.88249
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3538",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "9:18AM 14 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "COALMINE RD",
+                "SUBURBS": "CALEN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             143.823971,
                             -27.9954
                         ]
@@ -1196,6 +1257,115 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "DOWLING ST, POWELL ST, SAMS ST, STAFFORD ST",
                 "SUBURBS": "THARGOMINDAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.245468,
+                            -23.86531
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.243597,
+                                    -23.866219
+                                ],
+                                [
+                                    151.243987,
+                                    -23.866276
+                                ],
+                                [
+                                    151.243994,
+                                    -23.866277
+                                ],
+                                [
+                                    151.246313,
+                                    -23.866587
+                                ],
+                                [
+                                    151.24637,
+                                    -23.866592
+                                ],
+                                [
+                                    151.246753,
+                                    -23.866601
+                                ],
+                                [
+                                    151.247172,
+                                    -23.866403
+                                ],
+                                [
+                                    151.247476,
+                                    -23.865989
+                                ],
+                                [
+                                    151.247547,
+                                    -23.86584
+                                ],
+                                [
+                                    151.247746,
+                                    -23.865059
+                                ],
+                                [
+                                    151.247464,
+                                    -23.864544
+                                ],
+                                [
+                                    151.247021,
+                                    -23.864367
+                                ],
+                                [
+                                    151.246886,
+                                    -23.864333
+                                ],
+                                [
+                                    151.244139,
+                                    -23.864019
+                                ],
+                                [
+                                    151.243619,
+                                    -23.864311
+                                ],
+                                [
+                                    151.243296,
+                                    -23.86512
+                                ],
+                                [
+                                    151.243271,
+                                    -23.865209
+                                ],
+                                [
+                                    151.24319,
+                                    -23.865708
+                                ],
+                                [
+                                    151.243597,
+                                    -23.866219
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA6511",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "67",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews on route",
+                "START": "12:58PM 14 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BUSTEED ST, BYRNE ST, SMITH ST",
+                "SUBURBS": "WEST GLADSTONE"
             }
         },
         {
@@ -1420,5 +1590,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744599000.403659"
+    "extracted": "1744600200.286177"
 }
