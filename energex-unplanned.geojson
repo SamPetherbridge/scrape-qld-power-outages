@@ -1,8 +1,103 @@
 {
     "type": "FeatureCollection",
     "name": "UNPLANNED",
-    "features": [],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.926126,
+                            -27.485699
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.92418,
+                                    -27.489616
+                                ],
+                                [
+                                    152.924417,
+                                    -27.490812
+                                ],
+                                [
+                                    152.925269,
+                                    -27.491057
+                                ],
+                                [
+                                    152.927695,
+                                    -27.488948
+                                ],
+                                [
+                                    152.927847,
+                                    -27.488643
+                                ],
+                                [
+                                    152.928078,
+                                    -27.483637
+                                ],
+                                [
+                                    152.928077,
+                                    -27.483576
+                                ],
+                                [
+                                    152.927773,
+                                    -27.480701
+                                ],
+                                [
+                                    152.927041,
+                                    -27.48034
+                                ],
+                                [
+                                    152.924873,
+                                    -27.481315
+                                ],
+                                [
+                                    152.924596,
+                                    -27.48168
+                                ],
+                                [
+                                    152.924408,
+                                    -27.483659
+                                ],
+                                [
+                                    152.924407,
+                                    -27.483681
+                                ],
+                                [
+                                    152.924173,
+                                    -27.489522
+                                ],
+                                [
+                                    152.92418,
+                                    -27.489616
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-856295-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "24",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "11:02AM 15 Apr 2025",
+                "EST_FIX_TIME": "12:30PM 15 Apr 2025",
+                "STREETS": "GAP CREEK RD",
+                "SUBURBS": "KENMORE HILLS",
+                "ETR_FLAG": "N"
+            }
+        }
+    ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1744678500.719422"
+    "extracted": "1744680602.508987"
 }
