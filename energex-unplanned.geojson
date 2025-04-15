@@ -10,6 +10,68 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.005747,
+                            -27.711099
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.005609,
+                                    -27.707478
+                                ],
+                                [
+                                    153.004875,
+                                    -27.714639
+                                ],
+                                [
+                                    153.005334,
+                                    -27.715129
+                                ],
+                                [
+                                    153.005885,
+                                    -27.714721
+                                ],
+                                [
+                                    153.006619,
+                                    -27.70756
+                                ],
+                                [
+                                    153.00616,
+                                    -27.707069
+                                ],
+                                [
+                                    153.005609,
+                                    -27.707478
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-856385-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "2:46PM 15 Apr 2025",
+                "EST_FIX_TIME": "7:30PM 15 Apr 2025",
+                "STREETS": "ANDREW RD",
+                "SUBURBS": "GREENBANK",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.336081,
                             -27.758734
                         ]
@@ -133,68 +195,6 @@
                 "EST_FIX_TIME": "8:30PM 15 Apr 2025",
                 "STREETS": "BANGALOW DR, BEHMS RD, CABBAGE TREE POINT RD, CORAL ST, GIBSONS RD, GROSS RD, HIBISCUS ST, HOLMSTEAD RD, KLEINSCHMIDT RD, KOALA ST, MADAGASCAR PL, MILL RD, PANDANUS PL, PIMPAMA JACOBS WELL RD, PIMPAMA-JACOBS WELL RD, ROYAL PALM DR, SCHOOL RD, SEABRAE ST, SHEOAK ST, SHORT CUT RD, SKOPPS RD, SMITH LANE, STAPYLTON JACOBS WELL RD, STEIGLITZ RD, WARANA AVE",
                 "SUBURBS": "JACOBS WELL, NORWELL, STAPYLTON, STEIGLITZ, WOONGOOLBA",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.005747,
-                            -27.711099
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.005609,
-                                    -27.707478
-                                ],
-                                [
-                                    153.004875,
-                                    -27.714639
-                                ],
-                                [
-                                    153.005334,
-                                    -27.715129
-                                ],
-                                [
-                                    153.005885,
-                                    -27.714721
-                                ],
-                                [
-                                    153.006619,
-                                    -27.70756
-                                ],
-                                [
-                                    153.00616,
-                                    -27.707069
-                                ],
-                                [
-                                    153.005609,
-                                    -27.707478
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-856385-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "Emergency Repairs",
-                "STATUS": "Awaiting",
-                "START": "2:46PM 15 Apr 2025",
-                "EST_FIX_TIME": "7:30PM 15 Apr 2025",
-                "STREETS": "ANDREW RD",
-                "SUBURBS": "GREENBANK",
                 "ETR_FLAG": "N"
             }
         },
@@ -405,5 +405,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1744706401.017956"
+    "extracted": "1744706706.489828"
 }
