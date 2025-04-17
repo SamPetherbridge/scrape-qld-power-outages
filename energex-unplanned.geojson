@@ -10,68 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.930279,
-                            -26.993849
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.931313,
-                                    -26.996125
-                                ],
-                                [
-                                    152.930231,
-                                    -26.991391
-                                ],
-                                [
-                                    152.929637,
-                                    -26.991039
-                                ],
-                                [
-                                    152.929244,
-                                    -26.991572
-                                ],
-                                [
-                                    152.930326,
-                                    -26.996306
-                                ],
-                                [
-                                    152.93092,
-                                    -26.996658
-                                ],
-                                [
-                                    152.931313,
-                                    -26.996125
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-856871-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "3:30PM 17 Apr 2025",
-                "EST_FIX_TIME": "8:00PM 17 Apr 2025",
-                "STREETS": "BEERBURRUM RD, MCDOUGALL RD",
-                "SUBURBS": "ELIMBAH",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.21028,
                             -27.662175
                         ]
@@ -125,9 +63,71 @@
                 "SUBURBS": "CORNUBIA",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.930279,
+                            -26.993849
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.931313,
+                                    -26.996125
+                                ],
+                                [
+                                    152.930231,
+                                    -26.991391
+                                ],
+                                [
+                                    152.929637,
+                                    -26.991039
+                                ],
+                                [
+                                    152.929244,
+                                    -26.991572
+                                ],
+                                [
+                                    152.930326,
+                                    -26.996306
+                                ],
+                                [
+                                    152.93092,
+                                    -26.996658
+                                ],
+                                [
+                                    152.931313,
+                                    -26.996125
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-856871-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "3:30PM 17 Apr 2025",
+                "EST_FIX_TIME": "8:30PM 17 Apr 2025",
+                "STREETS": "BEERBURRUM RD, MCDOUGALL RD",
+                "SUBURBS": "ELIMBAH",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1744882205.81596"
+    "extracted": "1744882500.377904"
 }
