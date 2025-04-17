@@ -127,6 +127,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.254695,
+                            -19.765087
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ],
+                                [
+                                    147.253804,
+                                    -19.764389
+                                ],
+                                [
+                                    147.253218,
+                                    -19.764706
+                                ],
+                                [
+                                    147.253553,
+                                    -19.765261
+                                ],
+                                [
+                                    147.255586,
+                                    -19.765785
+                                ],
+                                [
+                                    147.256172,
+                                    -19.765468
+                                ],
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4471",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "9:24AM 19 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 30 Apr 2025",
+                "STREETS": "KIRKNIE RD",
+                "SUBURBS": "HOME HILL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -182,67 +243,6 @@
                 "EST_FIX_TIME": "9:30AM 29 Apr 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.254695,
-                            -19.765087
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.255837,
-                                    -19.764913
-                                ],
-                                [
-                                    147.253804,
-                                    -19.764389
-                                ],
-                                [
-                                    147.253218,
-                                    -19.764706
-                                ],
-                                [
-                                    147.253553,
-                                    -19.765261
-                                ],
-                                [
-                                    147.255586,
-                                    -19.765785
-                                ],
-                                [
-                                    147.256172,
-                                    -19.765468
-                                ],
-                                [
-                                    147.255837,
-                                    -19.764913
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ4471",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "9:24AM 19 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 30 Apr 2025",
-                "STREETS": "KIRKNIE RD",
-                "SUBURBS": "HOME HILL"
             }
         },
         {
@@ -363,72 +363,11 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "1161",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
+                "STATUS": "Crews on route",
                 "START": "12:53AM 18 Apr 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "ACACIA GR, AGNES CT, ANTIOCH CT, BARRACUDA ST, BAYVIEW DR, BEACH HOUSE DR, BEACHLEY PL, BEAUFORT AVE, BELLS CT, BETHLEHEM TCE, BOTTLEBRUSH DR, BRIGALOW PL, BUCCANEER AVE, BURLINGTON ST, CANA PL, CARMEL CT, CLAYTON RD, CONSTELLATION DR, COVE CT, DISCOVERY CRES, DRIFTWOOD DR, DUNE CIR, ENDEAVOUR CT, EUCALYPTUS AVE, EVELYN ST, FLINDERS CT, FRANGIPANI DR, GARDNER ST, JORDAN AVE, JOYCE AVE, KIRRA ST, LEXINGTON DR, LINDSAY LANE, LYNDALL DR, MAHOGANY WAY, MALLEE CL, MALROSE PL, MAXUS CT, MERRILL CRES, MULAMBIN RD, NEDWELL PL, NEPTUNE AVE, OCEANA CRES, OSBOURNE RD, PARKVIEW DR, PEGASUS CT, PENINSULA PL, PROSPECT ST, RED EMPEROR WAY, RIDGE AVE, ROSSLYN CL, ROSSLYN ST, SALEM CT, SANDALWOOD DR, SCARBOROUGH ST, SCENIC HWY, SEA SALT DR, SEASHELL CT, SHANNONS DR, SHOALWATER CCT, STARFISH DR, SUNSET CT, TABOR DR, TIDEWATER DR, TORELLIANA ST, WATERVIEW DR, YARROW DR, ZINGARA CT",
                 "SUBURBS": "LAMMERMOOR, ROSSLYN, STATUE BAY, TARANGANBA, TAROOMBALL, YEPPOON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.899297,
-                            -21.144287
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ],
-                                [
-                                    148.898377,
-                                    -21.142205
-                                ],
-                                [
-                                    148.897709,
-                                    -21.142084
-                                ],
-                                [
-                                    148.89758,
-                                    -21.142711
-                                ],
-                                [
-                                    148.900217,
-                                    -21.146369
-                                ],
-                                [
-                                    148.900886,
-                                    -21.14649
-                                ],
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK3215",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "12:00PM 18 Apr 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
             }
         },
         {
@@ -666,6 +605,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.899297,
+                            -21.144287
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ],
+                                [
+                                    148.898377,
+                                    -21.142205
+                                ],
+                                [
+                                    148.897709,
+                                    -21.142084
+                                ],
+                                [
+                                    148.89758,
+                                    -21.142711
+                                ],
+                                [
+                                    148.900217,
+                                    -21.146369
+                                ],
+                                [
+                                    148.900886,
+                                    -21.14649
+                                ],
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3215",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "12:00PM 18 Apr 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             147.316865,
                             -28.846256
                         ]
@@ -722,5 +722,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744903201.636738"
+    "extracted": "1744903803.695711"
 }
