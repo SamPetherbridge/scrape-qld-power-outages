@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.852252,
-                            -24.986621
+                            147.466384,
+                            -19.592146
                         ]
                     },
                     {
@@ -19,44 +19,24 @@
                         "coordinates": [
                             [
                                 [
-                                    147.752978,
-                                    -24.809358
+                                    147.46686,
+                                    -19.592145
                                 ],
                                 [
-                                    147.81649,
-                                    -25.164135
+                                    147.466382,
+                                    -19.591694
                                 ],
                                 [
-                                    147.817358,
-                                    -25.164355
+                                    147.465907,
+                                    -19.592148
                                 ],
                                 [
-                                    147.95148,
-                                    -25.020721
+                                    147.466385,
+                                    -19.592598
                                 ],
                                 [
-                                    147.951526,
-                                    -25.020195
-                                ],
-                                [
-                                    147.882354,
-                                    -24.916118
-                                ],
-                                [
-                                    147.882264,
-                                    -24.916019
-                                ],
-                                [
-                                    147.7538,
-                                    -24.808952
-                                ],
-                                [
-                                    147.753231,
-                                    -24.808888
-                                ],
-                                [
-                                    147.752978,
-                                    -24.809358
+                                    147.46686,
+                                    -19.592145
                                 ]
                             ]
                         ]
@@ -64,15 +44,76 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW6123",
+                "EVENT_ID": "25NQ5881",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "6",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
                 "STATUS": "Crews working on-site",
-                "START": "9:06AM 17 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "MT MOFFATT RD, MT TABOR RD, UNNAMED RD",
-                "SUBURBS": "AUGATHELLA, MITCHELL"
+                "START": "8:39AM 18 Apr 2025",
+                "EST_FIX_TIME": "12:00PM 18 Apr 2025",
+                "STREETS": "RUDDYS RD",
+                "SUBURBS": "AYR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            147.254695,
+                            -19.765087
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ],
+                                [
+                                    147.253804,
+                                    -19.764389
+                                ],
+                                [
+                                    147.253218,
+                                    -19.764706
+                                ],
+                                [
+                                    147.253553,
+                                    -19.765261
+                                ],
+                                [
+                                    147.255586,
+                                    -19.765785
+                                ],
+                                [
+                                    147.256172,
+                                    -19.765468
+                                ],
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4471",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "9:24AM 19 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 30 Apr 2025",
+                "STREETS": "KIRKNIE RD",
+                "SUBURBS": "HOME HILL"
             }
         },
         {
@@ -148,8 +189,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.254695,
-                            -19.765087
+                            141.886026,
+                            -12.678596
                         ]
                     },
                     {
@@ -157,32 +198,32 @@
                         "coordinates": [
                             [
                                 [
-                                    147.255837,
-                                    -19.764913
+                                    141.885971,
+                                    -12.677761
                                 ],
                                 [
-                                    147.253804,
-                                    -19.764389
+                                    141.885277,
+                                    -12.678995
                                 ],
                                 [
-                                    147.253218,
-                                    -19.764706
+                                    141.885457,
+                                    -12.679607
                                 ],
                                 [
-                                    147.253553,
-                                    -19.765261
+                                    141.886081,
+                                    -12.67943
                                 ],
                                 [
-                                    147.255586,
-                                    -19.765785
+                                    141.886774,
+                                    -12.678196
                                 ],
                                 [
-                                    147.256172,
-                                    -19.765468
+                                    141.886594,
+                                    -12.677584
                                 ],
                                 [
-                                    147.255837,
-                                    -19.764913
+                                    141.885971,
+                                    -12.677761
                                 ]
                             ]
                         ]
@@ -190,68 +231,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ4471",
+                "EVENT_ID": "25FN4911",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "9:24AM 19 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 30 Apr 2025",
-                "STREETS": "KIRKNIE RD",
-                "SUBURBS": "HOME HILL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.466384,
-                            -19.592146
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.46686,
-                                    -19.592145
-                                ],
-                                [
-                                    147.466382,
-                                    -19.591694
-                                ],
-                                [
-                                    147.465907,
-                                    -19.592148
-                                ],
-                                [
-                                    147.466385,
-                                    -19.592598
-                                ],
-                                [
-                                    147.46686,
-                                    -19.592145
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ5881",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
+                "CUSTOMERS_AFFECTED": "3",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "8:39AM 18 Apr 2025",
-                "EST_FIX_TIME": "12:00PM 18 Apr 2025",
-                "STREETS": "RUDDYS RD",
-                "SUBURBS": "AYR"
+                "STATUS": "Crews on route",
+                "START": "6:38AM 18 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "GONBUNG RD, NANUN ST",
+                "SUBURBS": "NAPRANUM"
             }
         },
         {
@@ -313,6 +301,79 @@
                 "EST_FIX_TIME": "6:00PM 30 Apr 2025",
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            147.852252,
+                            -24.986621
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.752978,
+                                    -24.809358
+                                ],
+                                [
+                                    147.81649,
+                                    -25.164135
+                                ],
+                                [
+                                    147.817358,
+                                    -25.164355
+                                ],
+                                [
+                                    147.95148,
+                                    -25.020721
+                                ],
+                                [
+                                    147.951526,
+                                    -25.020195
+                                ],
+                                [
+                                    147.882354,
+                                    -24.916118
+                                ],
+                                [
+                                    147.882264,
+                                    -24.916019
+                                ],
+                                [
+                                    147.7538,
+                                    -24.808952
+                                ],
+                                [
+                                    147.753231,
+                                    -24.808888
+                                ],
+                                [
+                                    147.752978,
+                                    -24.809358
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW6123",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "6",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Crews working on-site",
+                "START": "9:06AM 17 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "MT MOFFATT RD, MT TABOR RD, UNNAMED RD",
+                "SUBURBS": "AUGATHELLA, MITCHELL"
             }
         },
         {
@@ -440,5 +501,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1744933801.4247"
+    "extracted": "1744935901.085403"
 }
