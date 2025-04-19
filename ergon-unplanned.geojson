@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.316865,
-                            -28.846256
+                            152.513343,
+                            -25.555102
                         ]
                     },
                     {
@@ -19,32 +19,96 @@
                         "coordinates": [
                             [
                                 [
-                                    147.329421,
-                                    -28.872491
+                                    152.466493,
+                                    -25.520263
                                 ],
                                 [
-                                    147.30526,
-                                    -28.819685
+                                    152.482883,
+                                    -25.571328
                                 ],
                                 [
-                                    147.304593,
-                                    -28.819435
+                                    152.482923,
+                                    -25.571416
                                 ],
                                 [
-                                    147.304309,
-                                    -28.820022
+                                    152.48851,
+                                    -25.580798
                                 ],
                                 [
-                                    147.32847,
-                                    -28.872828
+                                    152.488798,
+                                    -25.581014
                                 ],
                                 [
-                                    147.329137,
-                                    -28.873078
+                                    152.540945,
+                                    -25.595752
                                 ],
                                 [
-                                    147.329421,
-                                    -28.872491
+                                    152.540963,
+                                    -25.595757
+                                ],
+                                [
+                                    152.541859,
+                                    -25.595978
+                                ],
+                                [
+                                    152.54219,
+                                    -25.595956
+                                ],
+                                [
+                                    152.548649,
+                                    -25.593364
+                                ],
+                                [
+                                    152.548711,
+                                    -25.593334
+                                ],
+                                [
+                                    152.559961,
+                                    -25.586954
+                                ],
+                                [
+                                    152.560193,
+                                    -25.586551
+                                ],
+                                [
+                                    152.55792,
+                                    -25.545072
+                                ],
+                                [
+                                    152.557699,
+                                    -25.544719
+                                ],
+                                [
+                                    152.537473,
+                                    -25.532523
+                                ],
+                                [
+                                    152.537466,
+                                    -25.532519
+                                ],
+                                [
+                                    152.507593,
+                                    -25.515209
+                                ],
+                                [
+                                    152.5074,
+                                    -25.515143
+                                ],
+                                [
+                                    152.500737,
+                                    -25.514226
+                                ],
+                                [
+                                    152.500576,
+                                    -25.514228
+                                ],
+                                [
+                                    152.466882,
+                                    -25.519694
+                                ],
+                                [
+                                    152.466493,
+                                    -25.520263
                                 ]
                             ]
                         ]
@@ -52,76 +116,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW5356",
+                "EVENT_ID": "25WB5105",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "4:37PM 29 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 24 Apr 2025",
-                "STREETS": "JAKELWAR GOODOOGA RD, JAKELWAR-GOODOOGA RD",
-                "SUBURBS": "DIRRANBANDI, HEBEL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.254695,
-                            -19.765087
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.255837,
-                                    -19.764913
-                                ],
-                                [
-                                    147.253804,
-                                    -19.764389
-                                ],
-                                [
-                                    147.253218,
-                                    -19.764706
-                                ],
-                                [
-                                    147.253553,
-                                    -19.765261
-                                ],
-                                [
-                                    147.255586,
-                                    -19.765785
-                                ],
-                                [
-                                    147.256172,
-                                    -19.765468
-                                ],
-                                [
-                                    147.255837,
-                                    -19.764913
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ4471",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "9:24AM 19 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 30 Apr 2025",
-                "STREETS": "KIRKNIE RD",
-                "SUBURBS": "HOME HILL"
+                "CUSTOMERS_AFFECTED": "50",
+                "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
+                "STATUS": "Outage reported",
+                "START": "9:13PM 19 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BERTHELSEN RD, BIGGENDEN RD, CLIFFORD LANE, GROHN RD, MARYBOROUGH BIGGENDEN RD, NILON RD, OLD GAYNDAH RD, PHILLIPS RD, YERRA RD",
+                "SUBURBS": "ARAMARA, DUNMORA, GUNGALOON, THINOOMBA, YENGARIE, YERRA"
             }
         },
         {
@@ -187,6 +190,67 @@
                 "EST_FIX_TIME": "9:30AM 29 Apr 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            147.254695,
+                            -19.765087
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ],
+                                [
+                                    147.253804,
+                                    -19.764389
+                                ],
+                                [
+                                    147.253218,
+                                    -19.764706
+                                ],
+                                [
+                                    147.253553,
+                                    -19.765261
+                                ],
+                                [
+                                    147.255586,
+                                    -19.765785
+                                ],
+                                [
+                                    147.256172,
+                                    -19.765468
+                                ],
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4471",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "9:24AM 19 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 30 Apr 2025",
+                "STREETS": "KIRKNIE RD",
+                "SUBURBS": "HOME HILL"
             }
         },
         {
@@ -319,8 +383,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.513343,
-                            -25.555102
+                            147.316865,
+                            -28.846256
                         ]
                     },
                     {
@@ -328,96 +392,32 @@
                         "coordinates": [
                             [
                                 [
-                                    152.466493,
-                                    -25.520263
+                                    147.329421,
+                                    -28.872491
                                 ],
                                 [
-                                    152.482883,
-                                    -25.571328
+                                    147.30526,
+                                    -28.819685
                                 ],
                                 [
-                                    152.482923,
-                                    -25.571416
+                                    147.304593,
+                                    -28.819435
                                 ],
                                 [
-                                    152.48851,
-                                    -25.580798
+                                    147.304309,
+                                    -28.820022
                                 ],
                                 [
-                                    152.488798,
-                                    -25.581014
+                                    147.32847,
+                                    -28.872828
                                 ],
                                 [
-                                    152.540945,
-                                    -25.595752
+                                    147.329137,
+                                    -28.873078
                                 ],
                                 [
-                                    152.540963,
-                                    -25.595757
-                                ],
-                                [
-                                    152.541859,
-                                    -25.595978
-                                ],
-                                [
-                                    152.54219,
-                                    -25.595956
-                                ],
-                                [
-                                    152.548649,
-                                    -25.593364
-                                ],
-                                [
-                                    152.548711,
-                                    -25.593334
-                                ],
-                                [
-                                    152.559961,
-                                    -25.586954
-                                ],
-                                [
-                                    152.560193,
-                                    -25.586551
-                                ],
-                                [
-                                    152.55792,
-                                    -25.545072
-                                ],
-                                [
-                                    152.557699,
-                                    -25.544719
-                                ],
-                                [
-                                    152.537473,
-                                    -25.532523
-                                ],
-                                [
-                                    152.537466,
-                                    -25.532519
-                                ],
-                                [
-                                    152.507593,
-                                    -25.515209
-                                ],
-                                [
-                                    152.5074,
-                                    -25.515143
-                                ],
-                                [
-                                    152.500737,
-                                    -25.514226
-                                ],
-                                [
-                                    152.500576,
-                                    -25.514228
-                                ],
-                                [
-                                    152.466882,
-                                    -25.519694
-                                ],
-                                [
-                                    152.466493,
-                                    -25.520263
+                                    147.329421,
+                                    -28.872491
                                 ]
                             ]
                         ]
@@ -425,19 +425,19 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB5105",
+                "EVENT_ID": "25SW5356",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "50",
-                "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
-                "STATUS": "Outage reported",
-                "START": "9:13PM 19 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BERTHELSEN RD, BIGGENDEN RD, CLIFFORD LANE, GROHN RD, MARYBOROUGH BIGGENDEN RD, NILON RD, OLD GAYNDAH RD, PHILLIPS RD, YERRA RD",
-                "SUBURBS": "ARAMARA, DUNMORA, GUNGALOON, THINOOMBA, YENGARIE, YERRA"
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "4:37PM 29 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 24 Apr 2025",
+                "STREETS": "JAKELWAR GOODOOGA RD, JAKELWAR-GOODOOGA RD",
+                "SUBURBS": "DIRRANBANDI, HEBEL"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1745071501.810084"
+    "extracted": "1745072111.093491"
 }
