@@ -10,6 +10,92 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.26692,
+                            -27.865628
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.263059,
+                                    -27.87224
+                                ],
+                                [
+                                    153.269688,
+                                    -27.870145
+                                ],
+                                [
+                                    153.270001,
+                                    -27.869859
+                                ],
+                                [
+                                    153.271201,
+                                    -27.866572
+                                ],
+                                [
+                                    153.271219,
+                                    -27.866507
+                                ],
+                                [
+                                    153.271456,
+                                    -27.865249
+                                ],
+                                [
+                                    153.271455,
+                                    -27.865096
+                                ],
+                                [
+                                    153.270296,
+                                    -27.859232
+                                ],
+                                [
+                                    153.26941,
+                                    -27.859017
+                                ],
+                                [
+                                    153.263344,
+                                    -27.865331
+                                ],
+                                [
+                                    153.263226,
+                                    -27.86557
+                                ],
+                                [
+                                    153.262385,
+                                    -27.87176
+                                ],
+                                [
+                                    153.263059,
+                                    -27.87224
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-857132-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "31",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "6:58AM 19 Apr 2025",
+                "EST_FIX_TIME": "3:30PM 19 Apr 2025",
+                "STREETS": "RUFFLES RD",
+                "SUBURBS": "WILLOW VALE",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.782858,
                             -26.995084
                         ]
@@ -174,92 +260,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.271708,
-                            -27.86345
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.263059,
-                                    -27.87224
-                                ],
-                                [
-                                    153.269688,
-                                    -27.870145
-                                ],
-                                [
-                                    153.269874,
-                                    -27.870041
-                                ],
-                                [
-                                    153.281024,
-                                    -27.860262
-                                ],
-                                [
-                                    153.281032,
-                                    -27.859627
-                                ],
-                                [
-                                    153.275725,
-                                    -27.854749
-                                ],
-                                [
-                                    153.275132,
-                                    -27.85466
-                                ],
-                                [
-                                    153.267167,
-                                    -27.858216
-                                ],
-                                [
-                                    153.266934,
-                                    -27.858429
-                                ],
-                                [
-                                    153.263269,
-                                    -27.865434
-                                ],
-                                [
-                                    153.263226,
-                                    -27.86557
-                                ],
-                                [
-                                    153.262385,
-                                    -27.87176
-                                ],
-                                [
-                                    153.263059,
-                                    -27.87224
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-857132-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "52",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "6:58AM 19 Apr 2025",
-                "EST_FIX_TIME": "3:30PM 19 Apr 2025",
-                "STREETS": "BAILEYS MOUNTAIN RD, BARDWELL DR, RUFFLES RD",
-                "SUBURBS": "UPPER COOMERA, WILLOW VALE",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.270404,
                             -27.858193
                         ]
@@ -324,7 +324,7 @@
                 "REASON": "Emergency Repairs",
                 "STATUS": "In Progress",
                 "START": "12:34AM 19 Apr 2025",
-                "EST_FIX_TIME": "2:00PM 19 Apr 2025",
+                "EST_FIX_TIME": "3:30PM 19 Apr 2025",
                 "STREETS": "BAILEYS MOUNTAIN RD, BARDWELL DR, GALT RD, LUCA CT, RUFFLES RD",
                 "SUBURBS": "WILLOW VALE",
                 "ETR_FLAG": "N"
@@ -333,5 +333,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1745034304.228549"
+    "extracted": "1745034901.323237"
 }
