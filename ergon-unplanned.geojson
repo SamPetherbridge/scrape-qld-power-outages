@@ -10,6 +10,99 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            145.821306,
+                            -17.61533
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.797757,
+                                    -17.613212
+                                ],
+                                [
+                                    145.805093,
+                                    -17.622784
+                                ],
+                                [
+                                    145.805292,
+                                    -17.622933
+                                ],
+                                [
+                                    145.812798,
+                                    -17.625926
+                                ],
+                                [
+                                    145.812873,
+                                    -17.625949
+                                ],
+                                [
+                                    145.818067,
+                                    -17.627099
+                                ],
+                                [
+                                    145.818242,
+                                    -17.627106
+                                ],
+                                [
+                                    145.8334,
+                                    -17.624977
+                                ],
+                                [
+                                    145.833721,
+                                    -17.624784
+                                ],
+                                [
+                                    145.844854,
+                                    -17.609084
+                                ],
+                                [
+                                    145.844717,
+                                    -17.608449
+                                ],
+                                [
+                                    145.836786,
+                                    -17.603612
+                                ],
+                                [
+                                    145.836422,
+                                    -17.603554
+                                ],
+                                [
+                                    145.798026,
+                                    -17.612505
+                                ],
+                                [
+                                    145.797757,
+                                    -17.613212
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN4932",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "17",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "8:52AM 20 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BAULD RD, PALMERSTON HWY",
+                "SUBURBS": "EAST PALMERSTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -126,99 +219,6 @@
                 "EST_FIX_TIME": "12:00PM 30 Apr 2025",
                 "STREETS": "KIRKNIE RD",
                 "SUBURBS": "HOME HILL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            145.821306,
-                            -17.61533
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.797757,
-                                    -17.613212
-                                ],
-                                [
-                                    145.805093,
-                                    -17.622784
-                                ],
-                                [
-                                    145.805292,
-                                    -17.622933
-                                ],
-                                [
-                                    145.812798,
-                                    -17.625926
-                                ],
-                                [
-                                    145.812873,
-                                    -17.625949
-                                ],
-                                [
-                                    145.818067,
-                                    -17.627099
-                                ],
-                                [
-                                    145.818242,
-                                    -17.627106
-                                ],
-                                [
-                                    145.8334,
-                                    -17.624977
-                                ],
-                                [
-                                    145.833721,
-                                    -17.624784
-                                ],
-                                [
-                                    145.844854,
-                                    -17.609084
-                                ],
-                                [
-                                    145.844717,
-                                    -17.608449
-                                ],
-                                [
-                                    145.836786,
-                                    -17.603612
-                                ],
-                                [
-                                    145.836422,
-                                    -17.603554
-                                ],
-                                [
-                                    145.798026,
-                                    -17.612505
-                                ],
-                                [
-                                    145.797757,
-                                    -17.613212
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN4932",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "17",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "8:52AM 20 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BAULD RD, PALMERSTON HWY",
-                "SUBURBS": "EAST PALMERSTON"
             }
         },
         {
@@ -492,5 +492,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1745124903.686186"
+    "extracted": "1745125501.125025"
 }
