@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.382411,
-                            -19.642794
+                            148.899297,
+                            -21.144287
                         ]
                     },
                     {
@@ -19,56 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    147.38142,
-                                    -19.648907
+                                    148.901015,
+                                    -21.145863
                                 ],
                                 [
-                                    147.383981,
-                                    -19.647057
+                                    148.898377,
+                                    -21.142205
                                 ],
                                 [
-                                    147.384167,
-                                    -19.646657
+                                    148.897709,
+                                    -21.142084
                                 ],
                                 [
-                                    147.383808,
-                                    -19.642928
+                                    148.89758,
+                                    -21.142711
                                 ],
                                 [
-                                    147.383799,
-                                    -19.642875
+                                    148.900217,
+                                    -21.146369
                                 ],
                                 [
-                                    147.382512,
-                                    -19.637152
+                                    148.900886,
+                                    -21.14649
                                 ],
                                 [
-                                    147.382192,
-                                    -19.636816
-                                ],
-                                [
-                                    147.381748,
-                                    -19.636681
-                                ],
-                                [
-                                    147.381264,
-                                    -19.636793
-                                ],
-                                [
-                                    147.381152,
-                                    -19.636899
-                                ],
-                                [
-                                    147.381013,
-                                    -19.637205
-                                ],
-                                [
-                                    147.380654,
-                                    -19.648534
-                                ],
-                                [
-                                    147.38142,
-                                    -19.648907
+                                    148.901015,
+                                    -21.145863
                                 ]
                             ]
                         ]
@@ -76,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ5958",
+                "EVENT_ID": "25MK3215",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "7",
+                "CUSTOMERS_AFFECTED": "2",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Crews working on-site",
-                "START": "4:46PM 22 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "CLARE RD, GILLIGAN RD",
-                "SUBURBS": "AYR"
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "12:00PM 23 Apr 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
             }
         },
         {
@@ -277,67 +253,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.899297,
-                            -21.144287
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ],
-                                [
-                                    148.898377,
-                                    -21.142205
-                                ],
-                                [
-                                    148.897709,
-                                    -21.142084
-                                ],
-                                [
-                                    148.89758,
-                                    -21.142711
-                                ],
-                                [
-                                    148.900217,
-                                    -21.146369
-                                ],
-                                [
-                                    148.900886,
-                                    -21.14649
-                                ],
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK3215",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "12:00PM 23 Apr 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             145.405273,
                             -16.449264
                         ]
@@ -431,6 +346,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.254695,
+                            -19.765087
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ],
+                                [
+                                    147.253804,
+                                    -19.764389
+                                ],
+                                [
+                                    147.253218,
+                                    -19.764706
+                                ],
+                                [
+                                    147.253553,
+                                    -19.765261
+                                ],
+                                [
+                                    147.255586,
+                                    -19.765785
+                                ],
+                                [
+                                    147.256172,
+                                    -19.765468
+                                ],
+                                [
+                                    147.255837,
+                                    -19.764913
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4471",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "9:24AM 19 Mar 2025",
+                "EST_FIX_TIME": "12:00PM 30 Apr 2025",
+                "STREETS": "KIRKNIE RD",
+                "SUBURBS": "HOME HILL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.963368,
                             -24.992843
                         ]
@@ -509,72 +485,11 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "9",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
+                "STATUS": "Crews working on-site",
                 "START": "4:23PM 22 Apr 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BALLANTYNE BVD, ELLIOTT ST",
                 "SUBURBS": "GIN GIN"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.254695,
-                            -19.765087
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.255837,
-                                    -19.764913
-                                ],
-                                [
-                                    147.253804,
-                                    -19.764389
-                                ],
-                                [
-                                    147.253218,
-                                    -19.764706
-                                ],
-                                [
-                                    147.253553,
-                                    -19.765261
-                                ],
-                                [
-                                    147.255586,
-                                    -19.765785
-                                ],
-                                [
-                                    147.256172,
-                                    -19.765468
-                                ],
-                                [
-                                    147.255837,
-                                    -19.764913
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ4471",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "9:24AM 19 Mar 2025",
-                "EST_FIX_TIME": "12:00PM 30 Apr 2025",
-                "STREETS": "KIRKNIE RD",
-                "SUBURBS": "HOME HILL"
             }
         },
         {
@@ -872,5 +787,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1745306402.016964"
+    "extracted": "1745307004.931816"
 }
