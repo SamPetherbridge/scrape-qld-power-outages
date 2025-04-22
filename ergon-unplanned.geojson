@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.121157,
-                            -23.445358
+                            147.316865,
+                            -28.846256
                         ]
                     },
                     {
@@ -19,32 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    148.123469,
-                                    -23.435095
+                                    147.329421,
+                                    -28.872491
                                 ],
                                 [
-                                    148.117897,
-                                    -23.4554
+                                    147.30526,
+                                    -28.819685
                                 ],
                                 [
-                                    148.118251,
-                                    -23.455948
+                                    147.304593,
+                                    -28.819435
                                 ],
                                 [
-                                    148.118846,
-                                    -23.455621
+                                    147.304309,
+                                    -28.820022
                                 ],
                                 [
-                                    148.124418,
-                                    -23.435317
+                                    147.32847,
+                                    -28.872828
                                 ],
                                 [
-                                    148.124064,
-                                    -23.434768
+                                    147.329137,
+                                    -28.873078
                                 ],
                                 [
-                                    148.123469,
-                                    -23.435095
+                                    147.329421,
+                                    -28.872491
                                 ]
                             ]
                         ]
@@ -52,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA6777",
+                "EVENT_ID": "25SW5356",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "6:17PM 22 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "WILLS RD",
-                "SUBURBS": "EMERALD"
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "4:37PM 29 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 24 Apr 2025",
+                "STREETS": "JAKELWAR GOODOOGA RD, JAKELWAR-GOODOOGA RD",
+                "SUBURBS": "DIRRANBANDI, HEBEL"
             }
         },
         {
@@ -391,6 +391,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.121157,
+                            -23.445358
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.123469,
+                                    -23.435095
+                                ],
+                                [
+                                    148.117897,
+                                    -23.4554
+                                ],
+                                [
+                                    148.118251,
+                                    -23.455948
+                                ],
+                                [
+                                    148.118846,
+                                    -23.455621
+                                ],
+                                [
+                                    148.124418,
+                                    -23.435317
+                                ],
+                                [
+                                    148.124064,
+                                    -23.434768
+                                ],
+                                [
+                                    148.123469,
+                                    -23.435095
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA6777",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "6:17PM 22 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "WILLS RD",
+                "SUBURBS": "EMERALD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             145.405273,
                             -16.449264
                         ]
@@ -623,7 +684,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "45",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
+                "STATUS": "Crews working on-site",
                 "START": "5:05PM 22 Apr 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "COQUETTE POINT RD, JOHNSTON RD, MYNARD RD",
@@ -689,67 +750,6 @@
                 "EST_FIX_TIME": "6:00PM 30 Apr 2025",
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.316865,
-                            -28.846256
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.329421,
-                                    -28.872491
-                                ],
-                                [
-                                    147.30526,
-                                    -28.819685
-                                ],
-                                [
-                                    147.304593,
-                                    -28.819435
-                                ],
-                                [
-                                    147.304309,
-                                    -28.820022
-                                ],
-                                [
-                                    147.32847,
-                                    -28.872828
-                                ],
-                                [
-                                    147.329137,
-                                    -28.873078
-                                ],
-                                [
-                                    147.329421,
-                                    -28.872491
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5356",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "4:37PM 29 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 24 Apr 2025",
-                "STREETS": "JAKELWAR GOODOOGA RD, JAKELWAR-GOODOOGA RD",
-                "SUBURBS": "DIRRANBANDI, HEBEL"
             }
         },
         {
@@ -828,5 +828,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1745310604.170772"
+    "extracted": "1745311204.128362"
 }
