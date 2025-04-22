@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.899297,
-                            -21.144287
+                            148.121157,
+                            -23.445358
                         ]
                     },
                     {
@@ -19,32 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    148.123469,
+                                    -23.435095
                                 ],
                                 [
-                                    148.898377,
-                                    -21.142205
+                                    148.117897,
+                                    -23.4554
                                 ],
                                 [
-                                    148.897709,
-                                    -21.142084
+                                    148.118251,
+                                    -23.455948
                                 ],
                                 [
-                                    148.89758,
-                                    -21.142711
+                                    148.118846,
+                                    -23.455621
                                 ],
                                 [
-                                    148.900217,
-                                    -21.146369
+                                    148.124418,
+                                    -23.435317
                                 ],
                                 [
-                                    148.900886,
-                                    -21.14649
+                                    148.124064,
+                                    -23.434768
                                 ],
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    148.123469,
+                                    -23.435095
                                 ]
                             ]
                         ]
@@ -52,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK3215",
+                "EVENT_ID": "25CA6777",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "12:00PM 23 Apr 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "6:17PM 22 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "WILLS RD",
+                "SUBURBS": "EMERALD"
             }
         },
         {
@@ -320,6 +320,67 @@
                 "EST_FIX_TIME": "4:00PM 23 Apr 2025",
                 "STREETS": "BLAIR RD, BONNIE SPRINGS RD, BRUCE HWY, DOUGHERTY RD, DOUGHERTYS RD, MORANINO RD, OSSIE DR, PARKINSON RD",
                 "SUBURBS": "BLOOMSBURY, CRYSTAL BROOK, FOXDALE, GREGORY, GREGORY RIVER, MYRTLEVALE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.899297,
+                            -21.144287
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ],
+                                [
+                                    148.898377,
+                                    -21.142205
+                                ],
+                                [
+                                    148.897709,
+                                    -21.142084
+                                ],
+                                [
+                                    148.89758,
+                                    -21.142711
+                                ],
+                                [
+                                    148.900217,
+                                    -21.146369
+                                ],
+                                [
+                                    148.900886,
+                                    -21.14649
+                                ],
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3215",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "12:00PM 23 Apr 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
             }
         },
         {
@@ -767,5 +828,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1745310004.732213"
+    "extracted": "1745310604.170772"
 }
