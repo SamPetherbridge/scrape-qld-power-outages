@@ -7,20 +7,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.935539,
-                    -17.930975
+                    147.426648,
+                    -19.731325
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN4329",
+                "EVENT_ID": "25NQ5055",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "15",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-                "STATUS": "Work scheduled",
-                "START": "11:00PM 23 Apr 2025",
-                "EST_FIX_TIME": "5:00AM 24 Apr 2025",
-                "STREETS": "AERODROME RD, ANDERSEN ST, BRUCE HWY",
-                "SUBURBS": "TULLY"
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+                "STATUS": "Crews working on-site",
+                "START": "10:40AM 23 Apr 2025",
+                "EST_FIX_TIME": "4:00PM 23 Apr 2025",
+                "STREETS": "FREDERICKSFIELD RD",
+                "SUBURBS": "HOME HILL"
             }
         },
         {
@@ -49,6 +49,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    145.935539,
+                    -17.930975
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN4329",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "15",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+                "STATUS": "Work scheduled",
+                "START": "11:00PM 23 Apr 2025",
+                "EST_FIX_TIME": "5:00AM 24 Apr 2025",
+                "STREETS": "AERODROME RD, ANDERSEN ST, BRUCE HWY",
+                "SUBURBS": "TULLY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     142.594695,
                     -22.784511
                 ]
@@ -64,30 +85,9 @@
                 "STREETS": "ATHELSTANE STATION, CARISBROOKE STATION, COLSTON STATION, CORK STATION, CORY SDNG, COTSWOLD HILL STATION, GLEN KYREE STATION, JARVISFIELD STATION, LARK QUARRY RD, NAMARVA STATION, NAREEN STATION, RED HILL STATION, SUVLA STATION, TRANBY STATION, TULMUR STATION, WANTALANYA STATION, WARNAMBOOL DNS STATION, WEONA STATION, WHYRALLAH STATION, WYRALLAH STATION",
                 "SUBURBS": "WINTON"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    147.426648,
-                    -19.731325
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ5055",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-                "STATUS": "Crews working on-site",
-                "START": "10:40AM 23 Apr 2025",
-                "EST_FIX_TIME": "4:00PM 23 Apr 2025",
-                "STREETS": "FREDERICKSFIELD RD",
-                "SUBURBS": "HOME HILL"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1745387101.271364"
+    "extracted": "1745387700.405172"
 }
