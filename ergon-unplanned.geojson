@@ -10,6 +10,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            150.481311,
+                            -23.312633
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.479395,
+                                    -23.312942
+                                ],
+                                [
+                                    150.483042,
+                                    -23.31384
+                                ],
+                                [
+                                    150.483589,
+                                    -23.313633
+                                ],
+                                [
+                                    150.483519,
+                                    -23.313091
+                                ],
+                                [
+                                    150.481896,
+                                    -23.311539
+                                ],
+                                [
+                                    150.481383,
+                                    -23.311426
+                                ],
+                                [
+                                    150.479359,
+                                    -23.31208
+                                ],
+                                [
+                                    150.479033,
+                                    -23.312523
+                                ],
+                                [
+                                    150.479395,
+                                    -23.312942
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA6801",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "1:54PM 23 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BELMONT RD, BEVERLEY BVD, BRADFORD DR",
+                "SUBURBS": "PARKHURST"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.155403,
                             -23.476916
                         ]
@@ -408,75 +477,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            150.481311,
-                            -23.312633
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    150.479395,
-                                    -23.312942
-                                ],
-                                [
-                                    150.483042,
-                                    -23.31384
-                                ],
-                                [
-                                    150.483589,
-                                    -23.313633
-                                ],
-                                [
-                                    150.483519,
-                                    -23.313091
-                                ],
-                                [
-                                    150.481896,
-                                    -23.311539
-                                ],
-                                [
-                                    150.481383,
-                                    -23.311426
-                                ],
-                                [
-                                    150.479359,
-                                    -23.31208
-                                ],
-                                [
-                                    150.479033,
-                                    -23.312523
-                                ],
-                                [
-                                    150.479395,
-                                    -23.312942
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA6801",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "1:54PM 23 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BELMONT RD, BEVERLEY BVD, BRADFORD DR",
-                "SUBURBS": "PARKHURST"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -659,5 +659,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1745396107.119245"
+    "extracted": "1745397004.856069"
 }
