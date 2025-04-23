@@ -10,67 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.164885,
-                            -27.275969
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.186766,
-                                    -27.262403
-                                ],
-                                [
-                                    152.142446,
-                                    -27.288786
-                                ],
-                                [
-                                    152.142306,
-                                    -27.28941
-                                ],
-                                [
-                                    152.143004,
-                                    -27.289535
-                                ],
-                                [
-                                    152.187324,
-                                    -27.263151
-                                ],
-                                [
-                                    152.187464,
-                                    -27.262527
-                                ],
-                                [
-                                    152.186766,
-                                    -27.262403
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW6262",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "1:50PM 23 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "MT JOCKEY RD, PERSEVERANCE DAM RD",
-                "SUBURBS": "PERSEVERANCE, RAVENSBOURNE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.155403,
                             -23.476916
                         ]
@@ -122,6 +61,75 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "CARINGAL RD",
                 "SUBURBS": "EMERALD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.302162,
+                            -24.247128
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.26734,
+                                    -24.248602
+                                ],
+                                [
+                                    148.300752,
+                                    -24.254841
+                                ],
+                                [
+                                    148.301048,
+                                    -24.254812
+                                ],
+                                [
+                                    148.337102,
+                                    -24.240276
+                                ],
+                                [
+                                    148.337378,
+                                    -24.239742
+                                ],
+                                [
+                                    148.33684,
+                                    -24.239415
+                                ],
+                                [
+                                    148.267375,
+                                    -24.247712
+                                ],
+                                [
+                                    148.266946,
+                                    -24.248143
+                                ],
+                                [
+                                    148.26734,
+                                    -24.248602
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA6798",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
+                "STATUS": "Crews working on-site",
+                "START": "1:14PM 23 Apr 2025",
+                "EST_FIX_TIME": "6:30PM 23 Apr 2025",
+                "STREETS": "DAWSON HWY, ORION CREEK RD",
+                "SUBURBS": "SPRINGSURE"
             }
         },
         {
@@ -207,75 +215,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "AIRPORT RD, DOUGLAS ST, UNKNOWN ST",
                 "SUBURBS": "MURRAY ISLAND"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.302162,
-                            -24.247128
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.26734,
-                                    -24.248602
-                                ],
-                                [
-                                    148.300752,
-                                    -24.254841
-                                ],
-                                [
-                                    148.301048,
-                                    -24.254812
-                                ],
-                                [
-                                    148.337102,
-                                    -24.240276
-                                ],
-                                [
-                                    148.337378,
-                                    -24.239742
-                                ],
-                                [
-                                    148.33684,
-                                    -24.239415
-                                ],
-                                [
-                                    148.267375,
-                                    -24.247712
-                                ],
-                                [
-                                    148.266946,
-                                    -24.248143
-                                ],
-                                [
-                                    148.26734,
-                                    -24.248602
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA6798",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
-                "STATUS": "Crews working on-site",
-                "START": "1:14PM 23 Apr 2025",
-                "EST_FIX_TIME": "6:00PM 23 Apr 2025",
-                "STREETS": "DAWSON HWY, ORION CREEK RD",
-                "SUBURBS": "SPRINGSURE"
             }
         },
         {
@@ -398,6 +337,67 @@
                 "EST_FIX_TIME": "12:00PM 30 Apr 2025",
                 "STREETS": "KIRKNIE RD",
                 "SUBURBS": "HOME HILL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.164885,
+                            -27.275969
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.186766,
+                                    -27.262403
+                                ],
+                                [
+                                    152.142446,
+                                    -27.288786
+                                ],
+                                [
+                                    152.142306,
+                                    -27.28941
+                                ],
+                                [
+                                    152.143004,
+                                    -27.289535
+                                ],
+                                [
+                                    152.187324,
+                                    -27.263151
+                                ],
+                                [
+                                    152.187464,
+                                    -27.262527
+                                ],
+                                [
+                                    152.186766,
+                                    -27.262403
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW6262",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "1:50PM 23 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "MT JOCKEY RD, PERSEVERANCE DAM RD",
+                "SUBURBS": "PERSEVERANCE, RAVENSBOURNE"
             }
         },
         {
@@ -659,5 +659,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1745395501.480216"
+    "extracted": "1745396107.119245"
 }
