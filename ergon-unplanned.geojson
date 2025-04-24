@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.106251,
-                            -28.457961
+                            144.047583,
+                            -9.912081
                         ]
                     },
                     {
@@ -19,80 +19,56 @@
                         "coordinates": [
                             [
                                 [
-                                    146.747536,
-                                    -28.384118
+                                    144.040739,
+                                    -9.91488
                                 ],
                                 [
-                                    147.119473,
-                                    -28.80585
+                                    144.047025,
+                                    -9.916938
                                 ],
                                 [
-                                    147.120155,
-                                    -28.805951
+                                    144.047506,
+                                    -9.916812
                                 ],
                                 [
-                                    147.267365,
-                                    -28.721938
+                                    144.054421,
+                                    -9.909222
                                 ],
                                 [
-                                    147.267492,
-                                    -28.721835
+                                    144.054527,
+                                    -9.908818
                                 ],
                                 [
-                                    147.341002,
-                                    -28.637739
+                                    144.054234,
+                                    -9.907558
                                 ],
                                 [
-                                    147.341017,
-                                    -28.637721
+                                    144.053667,
+                                    -9.907224
                                 ],
                                 [
-                                    147.418404,
-                                    -28.539354
+                                    144.051345,
+                                    -9.907869
                                 ],
                                 [
-                                    147.418469,
-                                    -28.539239
+                                    144.051295,
+                                    -9.907886
                                 ],
                                 [
-                                    147.465038,
-                                    -28.415427
+                                    144.049297,
+                                    -9.908696
                                 ],
                                 [
-                                    147.465043,
-                                    -28.415157
+                                    144.049227,
+                                    -9.908731
                                 ],
                                 [
-                                    147.442586,
-                                    -28.348011
+                                    144.04064,
+                                    -9.914069
                                 ],
                                 [
-                                    147.442527,
-                                    -28.347897
-                                ],
-                                [
-                                    147.272524,
-                                    -28.110153
-                                ],
-                                [
-                                    147.271916,
-                                    -28.109972
-                                ],
-                                [
-                                    146.794725,
-                                    -28.267044
-                                ],
-                                [
-                                    146.794421,
-                                    -28.267316
-                                ],
-                                [
-                                    146.747459,
-                                    -28.38369
-                                ],
-                                [
-                                    146.747536,
-                                    -28.384118
+                                    144.040739,
+                                    -9.91488
                                 ]
                             ]
                         ]
@@ -100,84 +76,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW6267",
+                "EVENT_ID": "25FN5005",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "37",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "9:10AM 24 Apr 2025",
-                "EST_FIX_TIME": "4:30PM 24 Apr 2025",
-                "STREETS": "CASHEL VALE RD, FERNLEE RD, KULKI RD, MULGA DOWNS RD, MUNDA MUNDA RD, MURRA MURRA RD, RUNNYMEDE RD, TAMBINGEY RD, UNKNOWN RD, WOOLERINA RD",
-                "SUBURBS": "BOLLON, CUNNAMULLA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.774337,
-                            -19.222366
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.772036,
-                                    -19.223158
-                                ],
-                                [
-                                    146.775352,
-                                    -19.228699
-                                ],
-                                [
-                                    146.77588,
-                                    -19.228914
-                                ],
-                                [
-                                    146.776241,
-                                    -19.22849
-                                ],
-                                [
-                                    146.776644,
-                                    -19.216269
-                                ],
-                                [
-                                    146.776291,
-                                    -19.215818
-                                ],
-                                [
-                                    146.775748,
-                                    -19.216044
-                                ],
-                                [
-                                    146.772029,
-                                    -19.222723
-                                ],
-                                [
-                                    146.772036,
-                                    -19.223158
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ6026",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "10:41AM 24 Apr 2025",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "9:00AM 23 Apr 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "CAPE PALLARENDA RD, EMERSON RD, THE ESPLANADE",
-                "SUBURBS": "PALLARENDA, ROWES BAY"
+                "STREETS": "AIRPORT RD, DOUGLAS ST, UNKNOWN ST",
+                "SUBURBS": "MURRAY ISLAND"
             }
         },
         {
@@ -263,6 +170,75 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "CLARE RD, GILLIGAN RD",
                 "SUBURBS": "AYR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.774337,
+                            -19.222366
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.772036,
+                                    -19.223158
+                                ],
+                                [
+                                    146.775352,
+                                    -19.228699
+                                ],
+                                [
+                                    146.77588,
+                                    -19.228914
+                                ],
+                                [
+                                    146.776241,
+                                    -19.22849
+                                ],
+                                [
+                                    146.776644,
+                                    -19.216269
+                                ],
+                                [
+                                    146.776291,
+                                    -19.215818
+                                ],
+                                [
+                                    146.775748,
+                                    -19.216044
+                                ],
+                                [
+                                    146.772029,
+                                    -19.222723
+                                ],
+                                [
+                                    146.772036,
+                                    -19.223158
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ6026",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "10:41AM 24 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "CAPE PALLARENDA RD, EMERSON RD, THE ESPLANADE",
+                "SUBURBS": "PALLARENDA, ROWES BAY"
             }
         },
         {
@@ -446,7 +422,7 @@
                 "REASON": "The loss of supply is due to fallen power lines.  ",
                 "STATUS": "Crews working on-site",
                 "START": "3:27AM 24 Apr 2025",
-                "EST_FIX_TIME": "1:00PM 24 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 24 Apr 2025",
                 "STREETS": "BORSTAL RD, CAMPBELLS RD, CONE CREEK RD, COTTERS RD, DENNYS RD, HARRIS RD, SCHIRMERS RD, STORY RD, SWAN RD, SWANS RD",
                 "SUBURBS": "ILBILBIE, KOUMALA, MOUNT CHRISTIAN"
             }
@@ -572,91 +548,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            144.047583,
-                            -9.912081
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.040739,
-                                    -9.91488
-                                ],
-                                [
-                                    144.047025,
-                                    -9.916938
-                                ],
-                                [
-                                    144.047506,
-                                    -9.916812
-                                ],
-                                [
-                                    144.054421,
-                                    -9.909222
-                                ],
-                                [
-                                    144.054527,
-                                    -9.908818
-                                ],
-                                [
-                                    144.054234,
-                                    -9.907558
-                                ],
-                                [
-                                    144.053667,
-                                    -9.907224
-                                ],
-                                [
-                                    144.051345,
-                                    -9.907869
-                                ],
-                                [
-                                    144.051295,
-                                    -9.907886
-                                ],
-                                [
-                                    144.049297,
-                                    -9.908696
-                                ],
-                                [
-                                    144.049227,
-                                    -9.908731
-                                ],
-                                [
-                                    144.04064,
-                                    -9.914069
-                                ],
-                                [
-                                    144.040739,
-                                    -9.91488
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN5005",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "9:00AM 23 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "AIRPORT RD, DOUGLAS ST, UNKNOWN ST",
-                "SUBURBS": "MURRAY ISLAND"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             147.254695,
                             -19.765087
                         ]
@@ -708,6 +599,115 @@
                 "EST_FIX_TIME": "12:00PM 30 Apr 2025",
                 "STREETS": "KIRKNIE RD",
                 "SUBURBS": "HOME HILL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            147.106251,
+                            -28.457961
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.747536,
+                                    -28.384118
+                                ],
+                                [
+                                    147.119473,
+                                    -28.80585
+                                ],
+                                [
+                                    147.120155,
+                                    -28.805951
+                                ],
+                                [
+                                    147.267365,
+                                    -28.721938
+                                ],
+                                [
+                                    147.267492,
+                                    -28.721835
+                                ],
+                                [
+                                    147.341002,
+                                    -28.637739
+                                ],
+                                [
+                                    147.341017,
+                                    -28.637721
+                                ],
+                                [
+                                    147.418404,
+                                    -28.539354
+                                ],
+                                [
+                                    147.418469,
+                                    -28.539239
+                                ],
+                                [
+                                    147.465038,
+                                    -28.415427
+                                ],
+                                [
+                                    147.465043,
+                                    -28.415157
+                                ],
+                                [
+                                    147.442586,
+                                    -28.348011
+                                ],
+                                [
+                                    147.442527,
+                                    -28.347897
+                                ],
+                                [
+                                    147.272524,
+                                    -28.110153
+                                ],
+                                [
+                                    147.271916,
+                                    -28.109972
+                                ],
+                                [
+                                    146.794725,
+                                    -28.267044
+                                ],
+                                [
+                                    146.794421,
+                                    -28.267316
+                                ],
+                                [
+                                    146.747459,
+                                    -28.38369
+                                ],
+                                [
+                                    146.747536,
+                                    -28.384118
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW6267",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "37",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "9:10AM 24 Apr 2025",
+                "EST_FIX_TIME": "4:30PM 24 Apr 2025",
+                "STREETS": "CASHEL VALE RD, FERNLEE RD, KULKI RD, MULGA DOWNS RD, MUNDA MUNDA RD, MURRA MURRA RD, RUNNYMEDE RD, TAMBINGEY RD, UNKNOWN RD, WOOLERINA RD",
+                "SUBURBS": "BOLLON, CUNNAMULLA"
             }
         },
         {
@@ -1054,5 +1054,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1745462703.878762"
+    "extracted": "1745464200.269782"
 }
