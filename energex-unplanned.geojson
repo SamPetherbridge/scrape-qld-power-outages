@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.883741,
-                            -26.571342
+                            152.910259,
+                            -26.715045
                         ]
                     },
                     {
@@ -19,40 +19,52 @@
                         "coordinates": [
                             [
                                 [
-                                    152.883432,
-                                    -26.57199
+                                    152.908314,
+                                    -26.717883
                                 ],
                                 [
-                                    152.884015,
-                                    -26.571886
+                                    152.912866,
+                                    -26.714628
                                 ],
                                 [
-                                    152.884319,
-                                    -26.571713
+                                    152.913012,
+                                    -26.714092
                                 ],
                                 [
-                                    152.884617,
-                                    -26.571354
+                                    152.912179,
+                                    -26.712403
                                 ],
                                 [
-                                    152.884589,
-                                    -26.570783
+                                    152.911523,
+                                    -26.71217
                                 ],
                                 [
-                                    152.883961,
-                                    -26.570694
+                                    152.908661,
+                                    -26.713261
                                 ],
                                 [
-                                    152.883081,
-                                    -26.571157
+                                    152.908364,
+                                    -26.713588
                                 ],
                                 [
-                                    152.882865,
-                                    -26.571707
+                                    152.907532,
+                                    -26.717312
                                 ],
                                 [
-                                    152.883432,
-                                    -26.57199
+                                    152.907529,
+                                    -26.717327
+                                ],
+                                [
+                                    152.907505,
+                                    -26.717455
+                                ],
+                                [
+                                    152.907746,
+                                    -26.717919
+                                ],
+                                [
+                                    152.908314,
+                                    -26.717883
                                 ]
                             ]
                         ]
@@ -60,16 +72,102 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-858240-g",
+                "EVENT_ID": "INCD-858230-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Emergency Repairs",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "Under Investigation",
                 "STATUS": "Awaiting",
-                "START": "7:09AM 25 Apr 2025",
+                "START": "6:37AM 25 Apr 2025",
                 "EST_FIX_TIME": "9:30AM 25 Apr 2025",
-                "STREETS": "BARONGA RD",
-                "SUBURBS": "KIAMBA",
+                "STREETS": "KIRBYS RD, MCKILLOP RD, SKORPIL LANE",
+                "SUBURBS": "LANDERS SHOOT, MONTVILLE",
                 "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.829694,
+                            -27.469662
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.825937,
+                                    -27.466653
+                                ],
+                                [
+                                    152.826864,
+                                    -27.469109
+                                ],
+                                [
+                                    152.826928,
+                                    -27.469223
+                                ],
+                                [
+                                    152.829932,
+                                    -27.473065
+                                ],
+                                [
+                                    152.830439,
+                                    -27.47325
+                                ],
+                                [
+                                    152.831686,
+                                    -27.473045
+                                ],
+                                [
+                                    152.831945,
+                                    -27.472928
+                                ],
+                                [
+                                    152.833387,
+                                    -27.471696
+                                ],
+                                [
+                                    152.83345,
+                                    -27.47111
+                                ],
+                                [
+                                    152.830283,
+                                    -27.467106
+                                ],
+                                [
+                                    152.830005,
+                                    -27.466931
+                                ],
+                                [
+                                    152.826553,
+                                    -27.466074
+                                ],
+                                [
+                                    152.825937,
+                                    -27.466653
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-858171-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "12",
+                "REASON": "Emergency repairs in-progress",
+                "STATUS": "Awaiting",
+                "START": "7:11PM 24 Apr 2025",
+                "EST_FIX_TIME": "6:00PM 25 Apr 2025",
+                "STREETS": "GILLIES RD, UPPER BROOKFIELD RD",
+                "SUBURBS": "UPPER BROOKFIELD",
+                "ETR_FLAG": "Y"
             }
         },
         {
@@ -314,92 +412,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.829694,
-                            -27.469662
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.825937,
-                                    -27.466653
-                                ],
-                                [
-                                    152.826864,
-                                    -27.469109
-                                ],
-                                [
-                                    152.826928,
-                                    -27.469223
-                                ],
-                                [
-                                    152.829932,
-                                    -27.473065
-                                ],
-                                [
-                                    152.830439,
-                                    -27.47325
-                                ],
-                                [
-                                    152.831686,
-                                    -27.473045
-                                ],
-                                [
-                                    152.831945,
-                                    -27.472928
-                                ],
-                                [
-                                    152.833387,
-                                    -27.471696
-                                ],
-                                [
-                                    152.83345,
-                                    -27.47111
-                                ],
-                                [
-                                    152.830283,
-                                    -27.467106
-                                ],
-                                [
-                                    152.830005,
-                                    -27.466931
-                                ],
-                                [
-                                    152.826553,
-                                    -27.466074
-                                ],
-                                [
-                                    152.825937,
-                                    -27.466653
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-858171-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "12",
-                "REASON": "Emergency repairs in-progress",
-                "STATUS": "Awaiting",
-                "START": "7:11PM 24 Apr 2025",
-                "EST_FIX_TIME": "6:00PM 25 Apr 2025",
-                "STREETS": "GILLIES RD, UPPER BROOKFIELD RD",
-                "SUBURBS": "UPPER BROOKFIELD",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.069856,
                             -26.678942
                         ]
@@ -526,6 +538,76 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.883741,
+                            -26.571342
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.883432,
+                                    -26.57199
+                                ],
+                                [
+                                    152.884015,
+                                    -26.571886
+                                ],
+                                [
+                                    152.884319,
+                                    -26.571713
+                                ],
+                                [
+                                    152.884617,
+                                    -26.571354
+                                ],
+                                [
+                                    152.884589,
+                                    -26.570783
+                                ],
+                                [
+                                    152.883961,
+                                    -26.570694
+                                ],
+                                [
+                                    152.883081,
+                                    -26.571157
+                                ],
+                                [
+                                    152.882865,
+                                    -26.571707
+                                ],
+                                [
+                                    152.883432,
+                                    -26.57199
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-858240-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "7:09AM 25 Apr 2025",
+                "EST_FIX_TIME": "9:30AM 25 Apr 2025",
+                "STREETS": "BARONGA RD",
+                "SUBURBS": "KIAMBA",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.041551,
                             -27.448761
                         ]
@@ -595,5 +677,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1745530204.026212"
+    "extracted": "1745530801.700223"
 }
