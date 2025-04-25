@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.947324,
-                            -26.684748
+                            153.030294,
+                            -26.688666
                         ]
                     },
                     {
@@ -19,52 +19,44 @@
                         "coordinates": [
                             [
                                 [
-                                    152.946646,
-                                    -26.686628
+                                    153.028047,
+                                    -26.690437
                                 ],
                                 [
-                                    152.947564,
-                                    -26.685759
+                                    153.031142,
+                                    -26.689596
                                 ],
                                 [
-                                    152.947629,
-                                    -26.685684
+                                    153.031381,
+                                    -26.689455
                                 ],
                                 [
-                                    152.948759,
-                                    -26.684026
+                                    153.033112,
+                                    -26.687609
                                 ],
                                 [
-                                    152.948822,
-                                    -26.683882
+                                    153.033139,
+                                    -26.687058
                                 ],
                                 [
-                                    152.948865,
-                                    -26.683695
+                                    153.032553,
+                                    -26.686894
                                 ],
                                 [
-                                    152.948505,
-                                    -26.683168
+                                    153.028443,
+                                    -26.688259
                                 ],
                                 [
-                                    152.946883,
-                                    -26.682773
+                                    153.028165,
+                                    -26.688485
                                 ],
                                 [
-                                    152.946254,
-                                    -26.683148
+                                    153.027449,
+                                    -26.689807
                                 ],
                                 [
-                                    152.945783,
-                                    -26.686256
-                                ],
-                                [
-                                    152.946064,
-                                    -26.686724
-                                ],
-                                [
-                                    152.946646,
-                                    -26.686628
+                                    153.028047,
+                                    -26.690437
                                 ]
                             ]
                         ]
@@ -72,15 +64,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-858200-g",
+                "EVENT_ID": "INCD-858220-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
+                "CUSTOMERS_AFFECTED": "11",
                 "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "11:10PM 24 Apr 2025",
-                "EST_FIX_TIME": "12:00PM 25 Apr 2025",
-                "STREETS": "CORNELIUS RD, MCKEES RD",
-                "SUBURBS": "PALMWOODS",
+                "STATUS": "Awaiting",
+                "START": "5:30AM 25 Apr 2025",
+                "EST_FIX_TIME": "11:00AM 25 Apr 2025",
+                "STREETS": "TWIN RIDGES RD",
+                "SUBURBS": "MONS",
                 "ETR_FLAG": "N"
             }
         },
@@ -176,7 +168,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "Awaiting",
                 "START": "7:42AM 25 Apr 2025",
-                "EST_FIX_TIME": "10:00AM 25 Apr 2025",
+                "EST_FIX_TIME": "11:00AM 25 Apr 2025",
                 "STREETS": "COULSON RD, FLEMING ST, PIONEER RD, SCHOOL RD, YANDINA-COOLUM RD",
                 "SUBURBS": "YANDINA",
                 "ETR_FLAG": "N"
@@ -332,9 +324,91 @@
                 "REASON": "Under Investigation",
                 "STATUS": "Awaiting",
                 "START": "6:47AM 25 Apr 2025",
-                "EST_FIX_TIME": "10:00AM 25 Apr 2025",
+                "EST_FIX_TIME": "10:30AM 25 Apr 2025",
                 "STREETS": "BARONGA RD",
                 "SUBURBS": "COOLOOLABIN",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.947324,
+                            -26.684748
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.946646,
+                                    -26.686628
+                                ],
+                                [
+                                    152.947564,
+                                    -26.685759
+                                ],
+                                [
+                                    152.947629,
+                                    -26.685684
+                                ],
+                                [
+                                    152.948759,
+                                    -26.684026
+                                ],
+                                [
+                                    152.948822,
+                                    -26.683882
+                                ],
+                                [
+                                    152.948865,
+                                    -26.683695
+                                ],
+                                [
+                                    152.948505,
+                                    -26.683168
+                                ],
+                                [
+                                    152.946883,
+                                    -26.682773
+                                ],
+                                [
+                                    152.946254,
+                                    -26.683148
+                                ],
+                                [
+                                    152.945783,
+                                    -26.686256
+                                ],
+                                [
+                                    152.946064,
+                                    -26.686724
+                                ],
+                                [
+                                    152.946646,
+                                    -26.686628
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-858200-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "11:10PM 24 Apr 2025",
+                "EST_FIX_TIME": "12:00PM 25 Apr 2025",
+                "STREETS": "CORNELIUS RD, MCKEES RD",
+                "SUBURBS": "PALMWOODS",
                 "ETR_FLAG": "N"
             }
         },
@@ -405,80 +479,6 @@
                 "EST_FIX_TIME": "11:30AM 25 Apr 2025",
                 "STREETS": "BARONGA RD",
                 "SUBURBS": "KIAMBA",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.030294,
-                            -26.688666
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.028047,
-                                    -26.690437
-                                ],
-                                [
-                                    153.031142,
-                                    -26.689596
-                                ],
-                                [
-                                    153.031381,
-                                    -26.689455
-                                ],
-                                [
-                                    153.033112,
-                                    -26.687609
-                                ],
-                                [
-                                    153.033139,
-                                    -26.687058
-                                ],
-                                [
-                                    153.032553,
-                                    -26.686894
-                                ],
-                                [
-                                    153.028443,
-                                    -26.688259
-                                ],
-                                [
-                                    153.028165,
-                                    -26.688485
-                                ],
-                                [
-                                    153.027449,
-                                    -26.689807
-                                ],
-                                [
-                                    153.028047,
-                                    -26.690437
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-858220-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "11",
-                "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
-                "START": "5:30AM 25 Apr 2025",
-                "EST_FIX_TIME": "10:30AM 25 Apr 2025",
-                "STREETS": "TWIN RIDGES RD",
-                "SUBURBS": "MONS",
                 "ETR_FLAG": "N"
             }
         },
@@ -728,6 +728,84 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.868257,
+                            -26.473555
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.865953,
+                                    -26.472658
+                                ],
+                                [
+                                    152.866394,
+                                    -26.47372
+                                ],
+                                [
+                                    152.866484,
+                                    -26.473857
+                                ],
+                                [
+                                    152.867427,
+                                    -26.474838
+                                ],
+                                [
+                                    152.867815,
+                                    -26.474995
+                                ],
+                                [
+                                    152.870086,
+                                    -26.474959
+                                ],
+                                [
+                                    152.870561,
+                                    -26.474626
+                                ],
+                                [
+                                    152.870339,
+                                    -26.474122
+                                ],
+                                [
+                                    152.866684,
+                                    -26.472114
+                                ],
+                                [
+                                    152.866103,
+                                    -26.472152
+                                ],
+                                [
+                                    152.865953,
+                                    -26.472658
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-858286-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "9:49AM 25 Apr 2025",
+                "EST_FIX_TIME": "11:30AM 25 Apr 2025",
+                "STREETS": "CEYLON RD, OLD CEYLON RD",
+                "SUBURBS": "BELLI PARK, COOROY",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.069856,
                             -26.678942
                         ]
@@ -840,7 +918,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "Awaiting",
                 "START": "7:17AM 25 Apr 2025",
-                "EST_FIX_TIME": "10:30AM 25 Apr 2025",
+                "EST_FIX_TIME": "11:00AM 25 Apr 2025",
                 "STREETS": "COOLUM VIEW TCE, ONKARA ST, PACIFIC VIEW PDE, PARKVIEW TCE",
                 "SUBURBS": "BUDERIM",
                 "ETR_FLAG": "N"
@@ -849,5 +927,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1745538601.234574"
+    "extracted": "1745539801.129197"
 }
