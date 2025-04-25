@@ -1,7 +1,31 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>openresty</center>
-</body>
-</html>
+{
+    "type": "FeatureCollection",
+    "name": "PLANNED",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.074384,
+                    -27.441397
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-853382-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Planned Maintenance",
+                "STATUS": "In Progress",
+                "START": "7:30AM 24 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 16 May 2025",
+                "STREETS": "MACARTHUR AVE",
+                "SUBURBS": "HAMILTON",
+                "ETR_FLAG": "N"
+            }
+        }
+    ],
+    "company": "Energex",
+    "state": "Current",
+    "extracted": "1745566510.235883"
+}
