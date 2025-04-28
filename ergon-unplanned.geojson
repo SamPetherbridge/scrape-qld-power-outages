@@ -197,59 +197,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.341518,
-                            -12.781192
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.341978,
-                                    -12.781199
-                                ],
-                                [
-                                    143.341524,
-                                    -12.780741
-                                ],
-                                [
-                                    143.341058,
-                                    -12.781186
-                                ],
-                                [
-                                    143.341511,
-                                    -12.781643
-                                ],
-                                [
-                                    143.341978,
-                                    -12.781199
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN5174",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "3:41PM 28 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "TINTA ST",
-                "SUBURBS": "LOCKHART RIVER"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -457,6 +404,59 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            143.341518,
+                            -12.781192
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.341978,
+                                    -12.781199
+                                ],
+                                [
+                                    143.341524,
+                                    -12.780741
+                                ],
+                                [
+                                    143.341058,
+                                    -12.781186
+                                ],
+                                [
+                                    143.341511,
+                                    -12.781643
+                                ],
+                                [
+                                    143.341978,
+                                    -12.781199
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN5174",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "3:41PM 28 Apr 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "TINTA ST",
+                "SUBURBS": "LOCKHART RIVER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             149.170215,
                             -21.41685
                         ]
@@ -577,5 +577,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1745872500.252112"
+    "extracted": "1745872800.320222"
 }
