@@ -71,8 +71,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.843551,
-                            -28.29581
+                            148.699115,
+                            -21.127962
                         ]
                     },
                     {
@@ -80,48 +80,36 @@
                         "coordinates": [
                             [
                                 [
-                                    148.721909,
-                                    -28.352712
+                                    148.697564,
+                                    -21.128178
                                 ],
                                 [
-                                    148.87454,
-                                    -28.380958
+                                    148.700208,
+                                    -21.128945
                                 ],
                                 [
-                                    148.875105,
-                                    -28.380709
+                                    148.700826,
+                                    -21.128582
                                 ],
                                 [
-                                    148.965544,
-                                    -28.211305
+                                    148.701003,
+                                    -21.127495
                                 ],
                                 [
-                                    148.965036,
-                                    -28.210663
+                                    148.700469,
+                                    -21.126979
                                 ],
                                 [
-                                    148.905708,
-                                    -28.215577
+                                    148.697649,
+                                    -21.127299
                                 ],
                                 [
-                                    148.905433,
-                                    -28.215677
+                                    148.697227,
+                                    -21.127706
                                 ],
                                 [
-                                    148.724681,
-                                    -28.346587
-                                ],
-                                [
-                                    148.724547,
-                                    -28.346736
-                                ],
-                                [
-                                    148.721557,
-                                    -28.35207
-                                ],
-                                [
-                                    148.721909,
-                                    -28.352712
+                                    148.697564,
+                                    -21.128178
                                 ]
                             ]
                         ]
@@ -129,15 +117,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW6431",
+                "EVENT_ID": "25MK1119",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "30",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "9:58AM 29 Apr 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BARWON HWY, BIMBLE RD, CANARVON HWY, CARNARVON HWY, CHELMER RD, HOCKING ST, MAYES ST, STERNS ST, UNKNOWN RD, WEST HARAN RD",
-                "SUBURBS": "NINDIGULLY, ST GEORGE, THALLON"
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 30 Apr 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -207,71 +195,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "GEEBERGA BUTHURRA RD",
                 "SUBURBS": "KUTTABUL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 30 Apr 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -508,5 +431,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1745917206.491622"
+    "extracted": "1745918109.659541"
 }
