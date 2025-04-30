@@ -10,6 +10,136 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.405191,
+                            -23.425444
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.405171,
+                                    -23.42464
+                                ],
+                                [
+                                    148.404389,
+                                    -23.425758
+                                ],
+                                [
+                                    148.404535,
+                                    -23.426382
+                                ],
+                                [
+                                    148.405211,
+                                    -23.426247
+                                ],
+                                [
+                                    148.405993,
+                                    -23.42513
+                                ],
+                                [
+                                    148.405848,
+                                    -23.424506
+                                ],
+                                [
+                                    148.405171,
+                                    -23.42464
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA6955",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "8:00AM 30 Apr 2025",
+                "EST_FIX_TIME": "12:30PM 30 Apr 2025",
+                "STREETS": "FRANCIS ACCESS RD, WYUNA RD",
+                "SUBURBS": "EMERALD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.301309,
+                            -25.225194
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.298815,
+                                    -25.225347
+                                ],
+                                [
+                                    152.301118,
+                                    -25.225632
+                                ],
+                                [
+                                    152.301122,
+                                    -25.225632
+                                ],
+                                [
+                                    152.303672,
+                                    -25.225932
+                                ],
+                                [
+                                    152.304225,
+                                    -25.225544
+                                ],
+                                [
+                                    152.3038,
+                                    -25.22504
+                                ],
+                                [
+                                    152.298947,
+                                    -25.224455
+                                ],
+                                [
+                                    152.298392,
+                                    -25.224841
+                                ],
+                                [
+                                    152.298815,
+                                    -25.225347
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB5339",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "10:45AM 30 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 30 Apr 2025",
+                "STREETS": "GOODWOOD RD, MORRISONS RD",
+                "SUBURBS": "DOOLBI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -65,67 +195,6 @@
                 "EST_FIX_TIME": "9:30AM 30 May 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.405191,
-                            -23.425444
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.405171,
-                                    -23.42464
-                                ],
-                                [
-                                    148.404389,
-                                    -23.425758
-                                ],
-                                [
-                                    148.404535,
-                                    -23.426382
-                                ],
-                                [
-                                    148.405211,
-                                    -23.426247
-                                ],
-                                [
-                                    148.405993,
-                                    -23.42513
-                                ],
-                                [
-                                    148.405848,
-                                    -23.424506
-                                ],
-                                [
-                                    148.405171,
-                                    -23.42464
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA6955",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "8:00AM 30 Apr 2025",
-                "EST_FIX_TIME": "12:30PM 30 Apr 2025",
-                "STREETS": "FRANCIS ACCESS RD, WYUNA RD",
-                "SUBURBS": "EMERALD"
             }
         },
         {
@@ -279,7 +348,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "5",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
+                "STATUS": "Crews on route",
                 "START": "9:38AM 30 Apr 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "WOODHOUSE RD",
@@ -597,5 +666,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1745973001.672856"
+    "extracted": "1745974806.080802"
 }
