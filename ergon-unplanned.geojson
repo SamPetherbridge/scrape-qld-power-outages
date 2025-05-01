@@ -136,8 +136,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.688363,
-                            -27.556272
+                            145.736899,
+                            -17.154615
                         ]
                     },
                     {
@@ -145,60 +145,44 @@
                         "coordinates": [
                             [
                                 [
-                                    148.492509,
-                                    -27.443389
+                                    145.73583,
+                                    -17.153944
                                 ],
                                 [
-                                    148.569459,
-                                    -27.571402
+                                    145.737101,
+                                    -17.155948
                                 ],
                                 [
-                                    148.56955,
-                                    -27.57151
+                                    145.73766,
+                                    -17.156138
                                 ],
                                 [
-                                    148.681612,
-                                    -27.669571
+                                    145.737968,
+                                    -17.15565
                                 ],
                                 [
-                                    148.681966,
-                                    -27.6697
+                                    145.737798,
+                                    -17.154482
                                 ],
                                 [
-                                    148.740579,
-                                    -27.669777
+                                    145.737738,
+                                    -17.154315
                                 ],
                                 [
-                                    148.74061,
-                                    -27.669776
+                                    145.737102,
+                                    -17.153272
                                 ],
                                 [
-                                    148.876532,
-                                    -27.662476
+                                    145.736498,
+                                    -17.153091
                                 ],
                                 [
-                                    148.877005,
-                                    -27.662074
+                                    145.736034,
+                                    -17.153299
                                 ],
                                 [
-                                    148.884216,
-                                    -27.602851
-                                ],
-                                [
-                                    148.883923,
-                                    -27.602392
-                                ],
-                                [
-                                    148.493167,
-                                    -27.442766
-                                ],
-                                [
-                                    148.492587,
-                                    -27.442867
-                                ],
-                                [
-                                    148.492509,
-                                    -27.443389
+                                    145.73583,
+                                    -17.153944
                                 ]
                             ]
                         ]
@@ -206,15 +190,84 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW6538",
+                "EVENT_ID": "25FN5282",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "20",
+                "CUSTOMERS_AFFECTED": "8",
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
-                "START": "12:22PM 01 May 2025",
+                "START": "11:46AM 01 May 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "CARNARVON HWY, DILQUI RD, INGABY RD, ROMA-SOUTHERN RD, SOUTHERN RD, THUNGABY RD, UNKNOWN RD, WANGANUI RD, WOODBURN RD",
-                "SUBURBS": "ROMA, ST GEORGE, SURAT, WYCOMBE"
+                "STREETS": "CATALANO ACCESS RD, GOLDSBOROUGH RD",
+                "SUBURBS": "GOLDSBOROUGH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            145.633795,
+                            -16.813789
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.632518,
+                                    -16.813543
+                                ],
+                                [
+                                    145.634591,
+                                    -16.814816
+                                ],
+                                [
+                                    145.635183,
+                                    -16.814747
+                                ],
+                                [
+                                    145.635226,
+                                    -16.814174
+                                ],
+                                [
+                                    145.634965,
+                                    -16.81382
+                                ],
+                                [
+                                    145.634801,
+                                    -16.813681
+                                ],
+                                [
+                                    145.632988,
+                                    -16.812763
+                                ],
+                                [
+                                    145.632364,
+                                    -16.812936
+                                ],
+                                [
+                                    145.632518,
+                                    -16.813543
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN5279",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "12:59PM 01 May 2025",
+                "EST_FIX_TIME": "6:00PM 01 May 2025",
+                "STREETS": "KENNEDY HWY, SPEAR RD",
+                "SUBURBS": "KURANDA"
             }
         },
         {
@@ -286,59 +339,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.796542,
-                            -25.313266
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.797036,
-                                    -25.313247
-                                ],
-                                [
-                                    152.796521,
-                                    -25.312817
-                                ],
-                                [
-                                    152.796048,
-                                    -25.313286
-                                ],
-                                [
-                                    152.796563,
-                                    -25.313716
-                                ],
-                                [
-                                    152.797036,
-                                    -25.313247
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB5378",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "10:37AM 01 May 2025",
-                "EST_FIX_TIME": "3:00PM 01 May 2025",
-                "STREETS": "DUNDOWRAN RD",
-                "SUBURBS": "NIKENBAH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.899297,
                             -21.144287
                         ]
@@ -390,6 +390,87 @@
                 "EST_FIX_TIME": "12:00PM 02 May 2025",
                 "STREETS": "MIRANI BOLDON RD",
                 "SUBURBS": "MIRANI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.404367,
+                            -19.062511
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.397104,
+                                    -19.052933
+                                ],
+                                [
+                                    146.404471,
+                                    -19.072016
+                                ],
+                                [
+                                    146.404604,
+                                    -19.072199
+                                ],
+                                [
+                                    146.405123,
+                                    -19.072634
+                                ],
+                                [
+                                    146.405808,
+                                    -19.072577
+                                ],
+                                [
+                                    146.411547,
+                                    -19.06575
+                                ],
+                                [
+                                    146.41163,
+                                    -19.065333
+                                ],
+                                [
+                                    146.40961,
+                                    -19.059182
+                                ],
+                                [
+                                    146.409398,
+                                    -19.058928
+                                ],
+                                [
+                                    146.397792,
+                                    -19.052388
+                                ],
+                                [
+                                    146.397246,
+                                    -19.05243
+                                ],
+                                [
+                                    146.397104,
+                                    -19.052933
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ6278",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "1:02AM 01 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BALGAL BEACH RD, BRUCE HWY",
+                "SUBURBS": "BALGAL BEACH, ROLLINGSTONE"
             }
         },
         {
@@ -501,8 +582,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.404367,
-                            -19.062511
+                            152.796542,
+                            -25.313266
                         ]
                     },
                     {
@@ -510,52 +591,24 @@
                         "coordinates": [
                             [
                                 [
-                                    146.397104,
-                                    -19.052933
+                                    152.797036,
+                                    -25.313247
                                 ],
                                 [
-                                    146.404471,
-                                    -19.072016
+                                    152.796521,
+                                    -25.312817
                                 ],
                                 [
-                                    146.404604,
-                                    -19.072199
+                                    152.796048,
+                                    -25.313286
                                 ],
                                 [
-                                    146.405123,
-                                    -19.072634
+                                    152.796563,
+                                    -25.313716
                                 ],
                                 [
-                                    146.405808,
-                                    -19.072577
-                                ],
-                                [
-                                    146.411547,
-                                    -19.06575
-                                ],
-                                [
-                                    146.41163,
-                                    -19.065333
-                                ],
-                                [
-                                    146.40961,
-                                    -19.059182
-                                ],
-                                [
-                                    146.409398,
-                                    -19.058928
-                                ],
-                                [
-                                    146.397792,
-                                    -19.052388
-                                ],
-                                [
-                                    146.397246,
-                                    -19.05243
-                                ],
-                                [
-                                    146.397104,
-                                    -19.052933
+                                    152.797036,
+                                    -25.313247
                                 ]
                             ]
                         ]
@@ -563,19 +616,19 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ6278",
+                "EVENT_ID": "25WB5378",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
+                "CUSTOMERS_AFFECTED": "2",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
                 "STATUS": "Crews working on-site",
-                "START": "1:02AM 01 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BALGAL BEACH RD, BRUCE HWY",
-                "SUBURBS": "BALGAL BEACH, ROLLINGSTONE"
+                "START": "10:37AM 01 May 2025",
+                "EST_FIX_TIME": "3:00PM 01 May 2025",
+                "STREETS": "DUNDOWRAN RD",
+                "SUBURBS": "NIKENBAH"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746068101.605511"
+    "extracted": "1746069900.339158"
 }
