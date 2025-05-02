@@ -10,6 +10,108 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.231155,
+                            -27.558814
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.208024,
+                                    -27.567857
+                                ],
+                                [
+                                    152.208066,
+                                    -27.57178
+                                ],
+                                [
+                                    152.208283,
+                                    -27.572146
+                                ],
+                                [
+                                    152.210171,
+                                    -27.57332
+                                ],
+                                [
+                                    152.210236,
+                                    -27.573354
+                                ],
+                                [
+                                    152.23219,
+                                    -27.583043
+                                ],
+                                [
+                                    152.232379,
+                                    -27.583089
+                                ],
+                                [
+                                    152.247787,
+                                    -27.58404
+                                ],
+                                [
+                                    152.248213,
+                                    -27.583877
+                                ],
+                                [
+                                    152.25422,
+                                    -27.577396
+                                ],
+                                [
+                                    152.254285,
+                                    -27.576912
+                                ],
+                                [
+                                    152.230928,
+                                    -27.53381
+                                ],
+                                [
+                                    152.23028,
+                                    -27.533589
+                                ],
+                                [
+                                    152.218206,
+                                    -27.537999
+                                ],
+                                [
+                                    152.217913,
+                                    -27.538287
+                                ],
+                                [
+                                    152.208045,
+                                    -27.567723
+                                ],
+                                [
+                                    152.208024,
+                                    -27.567857
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-859683-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "120",
+                "REASON": "Powerlines down",
+                "STATUS": "Awaiting",
+                "START": "11:30AM 02 May 2025",
+                "EST_FIX_TIME": "2:00PM 02 May 2025",
+                "STREETS": "ARMSTRONGS RD, BRIGALOW ST, BROOKS RD, CLARKES RD, DWYERS RD, FORDS RD, GATTON-CLIFTON RD, GATTON-HELIDON RD, KARINA ST, LOWES RD, MORGANS RD, OLD TOOWOOMBA RD, OSBORNES RD, PHILPS RD, RINGWOOD RD, TENTHILL CREEK RD, WARREGO HWY, WELLS RD",
+                "SUBURBS": "GATTON, GRANTHAM, LOWER TENTHILL, PLACID HILLS, RINGWOOD",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.056378,
                             -26.465292
                         ]
@@ -79,17 +181,17 @@
                 "EVENT_ID": "INCD-9551-h",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "33",
-                "REASON": "Under Investigation",
+                "REASON": "Emergency repairs in-progress",
                 "STATUS": "Awaiting",
                 "START": "9:56AM 02 May 2025",
                 "EST_FIX_TIME": "12:30PM 02 May 2025",
                 "STREETS": "LAKEWOOD DR, MONAK RD, MURDERING CREEK RD",
                 "SUBURBS": "PEREGIAN BEACH",
-                "ETR_FLAG": "N"
+                "ETR_FLAG": "Y"
             }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1746148200.343636"
+    "extracted": "1746150600.26164"
 }
