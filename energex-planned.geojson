@@ -7,6 +7,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.074384,
+                    -27.441397
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-853382-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Planned Maintenance",
+                "STATUS": "In Progress",
+                "START": "7:30AM 24 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 16 May 2025",
+                "STREETS": "MACARTHUR AVE",
+                "SUBURBS": "HAMILTON",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.266983,
                     -27.686938
                 ]
@@ -60,38 +82,16 @@
                 "TYPE": "PLANNED",
                 "CUSTOMERS_AFFECTED": "25",
                 "REASON": "Planned Maintenance",
-                "STATUS": "In Progress",
+                "STATUS": "Completed",
                 "START": "8:00AM 03 May 2025",
                 "EST_FIX_TIME": "3:00PM 03 May 2025",
                 "STREETS": "ASHMOLE RD",
                 "SUBURBS": "REDCLIFFE",
                 "ETR_FLAG": "N"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.074384,
-                    -27.441397
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-853382-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "Planned Maintenance",
-                "STATUS": "In Progress",
-                "START": "7:30AM 24 Apr 2025",
-                "EST_FIX_TIME": "2:00PM 16 May 2025",
-                "STREETS": "MACARTHUR AVE",
-                "SUBURBS": "HAMILTON",
-                "ETR_FLAG": "N"
-            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1746238201.354713"
+    "extracted": "1746240305.01641"
 }
