@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.687843,
-                            -22.810102
+                            147.316865,
+                            -28.846256
                         ]
                     },
                     {
@@ -19,36 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    147.683261,
-                                    -22.808543
+                                    147.329421,
+                                    -28.872491
                                 ],
                                 [
-                                    147.691629,
-                                    -22.81251
+                                    147.30526,
+                                    -28.819685
                                 ],
                                 [
-                                    147.692335,
-                                    -22.812159
+                                    147.304593,
+                                    -28.819435
                                 ],
                                 [
-                                    147.692666,
-                                    -22.809442
+                                    147.304309,
+                                    -28.820022
                                 ],
                                 [
-                                    147.692257,
-                                    -22.808945
+                                    147.32847,
+                                    -28.872828
                                 ],
                                 [
-                                    147.683558,
-                                    -22.807694
+                                    147.329137,
+                                    -28.873078
                                 ],
                                 [
-                                    147.68302,
-                                    -22.808001
-                                ],
-                                [
-                                    147.683261,
-                                    -22.808543
+                                    147.329421,
+                                    -28.872491
                                 ]
                             ]
                         ]
@@ -56,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA7106",
+                "EVENT_ID": "25SW5356",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
-                "START": "12:38PM 03 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "GREGORY HWY",
-                "SUBURBS": "CLERMONT"
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "4:37PM 29 Mar 2025",
+                "EST_FIX_TIME": "4:00PM 05 May 2025",
+                "STREETS": "JAKELWAR GOODOOGA RD, JAKELWAR-GOODOOGA RD",
+                "SUBURBS": "DIRRANBANDI, HEBEL"
             }
         },
         {
@@ -358,6 +354,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.687184,
+                            -25.531274
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.685421,
+                                    -25.530952
+                                ],
+                                [
+                                    152.686324,
+                                    -25.532571
+                                ],
+                                [
+                                    152.68673,
+                                    -25.532817
+                                ],
+                                [
+                                    152.687989,
+                                    -25.5329
+                                ],
+                                [
+                                    152.688512,
+                                    -25.532533
+                                ],
+                                [
+                                    152.688959,
+                                    -25.530357
+                                ],
+                                [
+                                    152.688548,
+                                    -25.52983
+                                ],
+                                [
+                                    152.687259,
+                                    -25.529648
+                                ],
+                                [
+                                    152.687031,
+                                    -25.529665
+                                ],
+                                [
+                                    152.685867,
+                                    -25.530003
+                                ],
+                                [
+                                    152.685565,
+                                    -25.530249
+                                ],
+                                [
+                                    152.68541,
+                                    -25.530567
+                                ],
+                                [
+                                    152.685421,
+                                    -25.530952
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB5451",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "19",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Crews working on-site",
+                "START": "2:24PM 03 May 2025",
+                "EST_FIX_TIME": "8:00PM 03 May 2025",
+                "STREETS": "ALICE ST, HARWOOD ST",
+                "SUBURBS": "MARYBOROUGH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -480,6 +561,71 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.687843,
+                            -22.810102
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.683261,
+                                    -22.808543
+                                ],
+                                [
+                                    147.691629,
+                                    -22.81251
+                                ],
+                                [
+                                    147.692335,
+                                    -22.812159
+                                ],
+                                [
+                                    147.692666,
+                                    -22.809442
+                                ],
+                                [
+                                    147.692257,
+                                    -22.808945
+                                ],
+                                [
+                                    147.683558,
+                                    -22.807694
+                                ],
+                                [
+                                    147.68302,
+                                    -22.808001
+                                ],
+                                [
+                                    147.683261,
+                                    -22.808543
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA7106",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews on route",
+                "START": "12:38PM 03 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "GREGORY HWY",
+                "SUBURBS": "CLERMONT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.403353,
                             -19.056047
                         ]
@@ -532,155 +678,9 @@
                 "STREETS": "BALGAL BEACH RD",
                 "SUBURBS": "BALGAL BEACH"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.687184,
-                            -25.531274
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.685421,
-                                    -25.530952
-                                ],
-                                [
-                                    152.686324,
-                                    -25.532571
-                                ],
-                                [
-                                    152.68673,
-                                    -25.532817
-                                ],
-                                [
-                                    152.687989,
-                                    -25.5329
-                                ],
-                                [
-                                    152.688512,
-                                    -25.532533
-                                ],
-                                [
-                                    152.688959,
-                                    -25.530357
-                                ],
-                                [
-                                    152.688548,
-                                    -25.52983
-                                ],
-                                [
-                                    152.687259,
-                                    -25.529648
-                                ],
-                                [
-                                    152.687031,
-                                    -25.529665
-                                ],
-                                [
-                                    152.685867,
-                                    -25.530003
-                                ],
-                                [
-                                    152.685565,
-                                    -25.530249
-                                ],
-                                [
-                                    152.68541,
-                                    -25.530567
-                                ],
-                                [
-                                    152.685421,
-                                    -25.530952
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB5451",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "19",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Crews working on-site",
-                "START": "2:24PM 03 May 2025",
-                "EST_FIX_TIME": "8:00PM 03 May 2025",
-                "STREETS": "ALICE ST, HARWOOD ST",
-                "SUBURBS": "MARYBOROUGH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.316865,
-                            -28.846256
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.329421,
-                                    -28.872491
-                                ],
-                                [
-                                    147.30526,
-                                    -28.819685
-                                ],
-                                [
-                                    147.304593,
-                                    -28.819435
-                                ],
-                                [
-                                    147.304309,
-                                    -28.820022
-                                ],
-                                [
-                                    147.32847,
-                                    -28.872828
-                                ],
-                                [
-                                    147.329137,
-                                    -28.873078
-                                ],
-                                [
-                                    147.329421,
-                                    -28.872491
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5356",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "4:37PM 29 Mar 2025",
-                "EST_FIX_TIME": "4:00PM 05 May 2025",
-                "STREETS": "JAKELWAR GOODOOGA RD, JAKELWAR-GOODOOGA RD",
-                "SUBURBS": "DIRRANBANDI, HEBEL"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746247503.445099"
+    "extracted": "1746247802.947592"
 }
