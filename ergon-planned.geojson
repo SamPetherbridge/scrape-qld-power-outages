@@ -28,6 +28,48 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    146.753646,
+                    -19.307885
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ4173",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "226",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
+                "STATUS": "Work scheduled",
+                "START": "8:30AM 04 May 2025",
+                "EST_FIX_TIME": "2:30PM 04 May 2025",
+                "STREETS": "ALBERT ST, ALICE ST, ALLEENA ST, ALOOMBA CRES, BARELLAN ST, BERGIN RD, CABARITA ST, ISABELLA CT, JANDERA ST, KILLARA ST, KILROY CT, LARA ST, MARLYNDA AVE, PARNELL CT, ROSS RIVER RD, ROSSITER ST",
+                "SUBURBS": "CRANBROOK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.293139,
+                    -27.171719
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW5852",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "35",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
+                "STATUS": "Work scheduled",
+                "START": "8:00AM 04 May 2025",
+                "EST_FIX_TIME": "2:00PM 04 May 2025",
+                "STREETS": "COLES ST, DALBY COOYAR RD, IRVINGDALE RD, MARY ST, OAKWOOD ST, WILSON ST, WYLEY ST",
+                "SUBURBS": "DALBY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.513652,
                     -23.300277
                 ]
@@ -91,48 +133,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.293139,
-                    -27.171719
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW5852",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "35",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "Work scheduled",
-                "START": "8:00AM 04 May 2025",
-                "EST_FIX_TIME": "2:00PM 04 May 2025",
-                "STREETS": "COLES ST, DALBY COOYAR RD, IRVINGDALE RD, MARY ST, OAKWOOD ST, WILSON ST, WYLEY ST",
-                "SUBURBS": "DALBY"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    146.753646,
-                    -19.307885
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ4173",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "226",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "Work scheduled",
-                "START": "8:30AM 04 May 2025",
-                "EST_FIX_TIME": "2:30PM 04 May 2025",
-                "STREETS": "ALBERT ST, ALICE ST, ALLEENA ST, ALOOMBA CRES, BARELLAN ST, BERGIN RD, CABARITA ST, ISABELLA CT, JANDERA ST, KILLARA ST, KILROY CT, LARA ST, MARLYNDA AVE, PARNELL CT, ROSS RIVER RD, ROSSITER ST",
-                "SUBURBS": "CRANBROOK"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     149.336063,
                     -21.915777
                 ]
@@ -152,5 +152,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746296401.031006"
+    "extracted": "1746297300.30225"
 }
