@@ -51,28 +51,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.750649,
-                    -27.657065
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-853337-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Scheduled",
-                "START": "8:00AM 04 May 2025",
-                "EST_FIX_TIME": "3:30PM 04 May 2025",
-                "STREETS": "DEEBING CREEK RD",
-                "SUBURBS": "YAMANTO",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     153.12079,
                     -27.624538
                 ]
@@ -86,6 +64,28 @@
                 "START": "9:00AM 04 May 2025",
                 "EST_FIX_TIME": "2:00PM 04 May 2025",
                 "STREETS": "MILLER ST, MOSS ST, RANDALL ST",
+                "SUBURBS": "SLACKS CREEK",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.118073,
+                    -27.623681
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-858651-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "47",
+                "REASON": "Planned Maintenance",
+                "STATUS": "In Progress",
+                "START": "5:30AM 04 May 2025",
+                "EST_FIX_TIME": "8:30AM 04 May 2025",
+                "STREETS": "KINGSTON RD, MONTE ST, MOSS ST",
                 "SUBURBS": "SLACKS CREEK",
                 "ETR_FLAG": "N"
             }
@@ -139,6 +139,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    152.750649,
+                    -27.657065
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-853337-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Scheduled",
+                "START": "8:00AM 04 May 2025",
+                "EST_FIX_TIME": "3:30PM 04 May 2025",
+                "STREETS": "DEEBING CREEK RD",
+                "SUBURBS": "YAMANTO",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.062429,
                     -27.219422
                 ]
@@ -155,31 +177,9 @@
                 "SUBURBS": "ROTHWELL",
                 "ETR_FLAG": "N"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.118073,
-                    -27.623681
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-858651-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "47",
-                "REASON": "Planned Maintenance",
-                "STATUS": "In Progress",
-                "START": "5:30AM 04 May 2025",
-                "EST_FIX_TIME": "8:30AM 04 May 2025",
-                "STREETS": "KINGSTON RD, MONTE ST, MOSS ST",
-                "SUBURBS": "SLACKS CREEK",
-                "ETR_FLAG": "N"
-            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1746302405.61218"
+    "extracted": "1746303317.796521"
 }
