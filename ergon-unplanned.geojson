@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.3396,
-                            -15.946014
+                            147.600025,
+                            -19.963077
                         ]
                     },
                     {
@@ -19,40 +19,64 @@
                         "coordinates": [
                             [
                                 [
-                                    145.338154,
-                                    -15.945855
+                                    147.425101,
+                                    -20.181717
                                 ],
                                 [
-                                    145.340317,
-                                    -15.948782
+                                    147.601297,
+                                    -20.195199
                                 ],
                                 [
-                                    145.340921,
-                                    -15.948915
+                                    147.601659,
+                                    -20.195082
                                 ],
                                 [
-                                    145.341131,
-                                    -15.948352
+                                    147.636889,
+                                    -20.164617
                                 ],
                                 [
-                                    145.339094,
-                                    -15.943392
+                                    147.63699,
+                                    -20.164494
                                 ],
                                 [
-                                    145.338586,
-                                    -15.943113
+                                    147.761639,
+                                    -19.940221
                                 ],
                                 [
-                                    145.338193,
-                                    -15.943532
+                                    147.761673,
+                                    -19.94014
                                 ],
                                 [
-                                    145.338068,
-                                    -15.945565
+                                    147.775362,
+                                    -19.896705
                                 ],
                                 [
-                                    145.338154,
-                                    -15.945855
+                                    147.775234,
+                                    -19.896249
+                                ],
+                                [
+                                    147.593278,
+                                    -19.731658
+                                ],
+                                [
+                                    147.593149,
+                                    -19.731575
+                                ],
+                                [
+                                    147.591746,
+                                    -19.730956
+                                ],
+                                [
+                                    147.591094,
+                                    -19.731216
+                                ],
+                                [
+                                    147.424689,
+                                    -20.181117
+                                ],
+                                [
+                                    147.425101,
+                                    -20.181717
                                 ]
                             ]
                         ]
@@ -60,15 +84,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN5401",
+                "EVENT_ID": "25NQ6479",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "8",
-                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
-                "STATUS": "Crews on route",
-                "START": "2:28AM 05 May 2025",
+                "CUSTOMERS_AFFECTED": "233",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Outage reported",
+                "START": "5:39AM 05 May 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BANABILLA RD, BLOOMFIELD RVR, EVERGREEN RD",
-                "SUBURBS": "BLOOMFIELD, COOKTOWN, DEGARRA"
+                "STREETS": "AIVU AVE, BEACH RD, BOWEN RD, BRUCE HWY, CAPE CREEK RD, CASTLEVIEW STATION, DAYS RD, DESALIS ST, DESALIS STATION, GLEN ROCK STATION, KESTREL LANE, KOOKABURRA TCE, LANDS RD, MCCANE ST, MOLONGLE BEACH RD, MOLONGLE CK RD, NOBILE RD, NORTHWOODS RD, PERKS RD, PINK LILLY STATION, ROCKY PONDS RD, SEAGULL LANE, STRATHALBYN RD, THE ESPLANADE, TONDARA RD, WAKALA RD, WANGARATTA ST, WUNTUN ST",
+                "SUBURBS": "GUMLU, GUTHALUNGRA, HOME HILL, WUNJUNGA"
             }
         },
         {
@@ -205,6 +229,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            145.3396,
+                            -15.946014
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.338154,
+                                    -15.945855
+                                ],
+                                [
+                                    145.340317,
+                                    -15.948782
+                                ],
+                                [
+                                    145.340921,
+                                    -15.948915
+                                ],
+                                [
+                                    145.341131,
+                                    -15.948352
+                                ],
+                                [
+                                    145.339094,
+                                    -15.943392
+                                ],
+                                [
+                                    145.338586,
+                                    -15.943113
+                                ],
+                                [
+                                    145.338193,
+                                    -15.943532
+                                ],
+                                [
+                                    145.338068,
+                                    -15.945565
+                                ],
+                                [
+                                    145.338154,
+                                    -15.945855
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN5401",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "8",
+                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+                "STATUS": "Crews on route",
+                "START": "2:28AM 05 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BANABILLA RD, BLOOMFIELD RVR, EVERGREEN RD",
+                "SUBURBS": "BLOOMFIELD, COOKTOWN, DEGARRA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -322,5 +415,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746387904.44866"
+    "extracted": "1746388201.150603"
 }
