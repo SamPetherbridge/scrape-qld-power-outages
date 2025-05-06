@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.207433,
-                            -18.981624
+                            148.899297,
+                            -21.144287
                         ]
                     },
                     {
@@ -19,32 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    148.901015,
+                                    -21.145863
                                 ],
                                 [
-                                    146.197621,
-                                    -18.979466
+                                    148.898377,
+                                    -21.142205
                                 ],
                                 [
-                                    146.197069,
-                                    -18.97983
+                                    148.897709,
+                                    -21.142084
                                 ],
                                 [
-                                    146.197451,
-                                    -18.980355
+                                    148.89758,
+                                    -21.142711
                                 ],
                                 [
-                                    146.217246,
-                                    -18.983782
+                                    148.900217,
+                                    -21.146369
                                 ],
                                 [
-                                    146.217798,
-                                    -18.983418
+                                    148.900886,
+                                    -21.14649
                                 ],
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    148.901015,
+                                    -21.145863
                                 ]
                             ]
                         ]
@@ -52,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ1993",
+                "EVENT_ID": "25MK3215",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 31 May 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 09 May 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
             }
         },
         {
@@ -136,8 +136,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.899297,
-                            -21.144287
+                            142.331122,
+                            -10.187856
                         ]
                     },
                     {
@@ -145,32 +145,52 @@
                         "coordinates": [
                             [
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    142.327276,
+                                    -10.183585
                                 ],
                                 [
-                                    148.898377,
-                                    -21.142205
+                                    142.330971,
+                                    -10.194744
                                 ],
                                 [
-                                    148.897709,
-                                    -21.142084
+                                    142.331391,
+                                    -10.195055
                                 ],
                                 [
-                                    148.89758,
-                                    -21.142711
+                                    142.331827,
+                                    -10.194768
                                 ],
                                 [
-                                    148.900217,
-                                    -21.146369
+                                    142.334553,
+                                    -10.187878
                                 ],
                                 [
-                                    148.900886,
-                                    -21.14649
+                                    142.334583,
+                                    -10.187748
                                 ],
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    142.334968,
+                                    -10.182726
+                                ],
+                                [
+                                    142.334679,
+                                    -10.182272
+                                ],
+                                [
+                                    142.330457,
+                                    -10.180657
+                                ],
+                                [
+                                    142.329984,
+                                    -10.180746
+                                ],
+                                [
+                                    142.3274,
+                                    -10.183114
+                                ],
+                                [
+                                    142.327276,
+                                    -10.183585
                                 ]
                             ]
                         ]
@@ -178,15 +198,76 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK3215",
+                "EVENT_ID": "25FN5459",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "21",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "12:01AM 07 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ANUNAMAI RD, KAWANE ST, LEVI-YABU ST, MAIN ST, SEWERAGE LAGOON RD, THE ESPLANADE, UNKNOWN ST",
+                "SUBURBS": "ST PAULS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "2:00PM 09 May 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 31 May 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
             }
         },
         {
@@ -253,5 +334,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746540301.436824"
+    "extracted": "1746540915.747242"
 }
