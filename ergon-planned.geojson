@@ -7,27 +7,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    146.937072,
-                    -19.349274
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ3245",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "382",
-                "REASON": "The loss of supply is to connect new customers to the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:30AM 06 May 2025",
-                "EST_FIX_TIME": "2:30PM 06 May 2025",
-                "STREETS": "BARNHAM RD, BENTLEY DR, COLE PL, JONES CRES, KOPPE PL, LENNIG PL, LYONS CRES, MOLLOY CRES, PAUL JAMES DR, PAVIA DR, RAE CRES, WHARTON RD, WILLING DR, ZIMMERLIE PL",
-                "SUBURBS": "NOME"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     152.048958,
                     -27.270259
                 ]
@@ -43,9 +22,30 @@
                 "STREETS": "RAILWAY TCE",
                 "SUBURBS": "CROWS NEST"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.937072,
+                    -19.349274
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ3245",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "382",
+                "REASON": "The loss of supply is to connect new customers to the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "8:30AM 06 May 2025",
+                "EST_FIX_TIME": "2:30PM 06 May 2025",
+                "STREETS": "BARNHAM RD, BENTLEY DR, COLE PL, JONES CRES, KOPPE PL, LENNIG PL, LYONS CRES, MOLLOY CRES, PAUL JAMES DR, PAVIA DR, RAE CRES, WHARTON RD, WILLING DR, ZIMMERLIE PL",
+                "SUBURBS": "NOME"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746505500.253065"
+    "extracted": "1746506101.899717"
 }
