@@ -10,116 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.095743,
-                            -26.472486
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.093923,
-                                    -26.472512
-                                ],
-                                [
-                                    153.093932,
-                                    -26.472647
-                                ],
-                                [
-                                    153.093935,
-                                    -26.472673
-                                ],
-                                [
-                                    153.094283,
-                                    -26.475295
-                                ],
-                                [
-                                    153.094975,
-                                    -26.475657
-                                ],
-                                [
-                                    153.09726,
-                                    -26.474796
-                                ],
-                                [
-                                    153.097564,
-                                    -26.474324
-                                ],
-                                [
-                                    153.09692,
-                                    -26.469682
-                                ],
-                                [
-                                    153.096249,
-                                    -26.469314
-                                ],
-                                [
-                                    153.095637,
-                                    -26.469517
-                                ],
-                                [
-                                    153.095368,
-                                    -26.469726
-                                ],
-                                [
-                                    153.094346,
-                                    -26.47144
-                                ],
-                                [
-                                    153.09433,
-                                    -26.471469
-                                ],
-                                [
-                                    153.094063,
-                                    -26.472005
-                                ],
-                                [
-                                    153.09406,
-                                    -26.47201
-                                ],
-                                [
-                                    153.093991,
-                                    -26.472153
-                                ],
-                                [
-                                    153.093957,
-                                    -26.472258
-                                ],
-                                [
-                                    153.093929,
-                                    -26.47241
-                                ],
-                                [
-                                    153.093923,
-                                    -26.472512
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-860304-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "106",
-                "REASON": "Emergency repairs in-progress",
-                "STATUS": "Awaiting",
-                "START": "6:52PM 06 May 2025",
-                "EST_FIX_TIME": "11:30PM 06 May 2025",
-                "STREETS": "CURRAWONG CRES, DAVID LOW WAY, PEREGIAN ESP",
-                "SUBURBS": "PEREGIAN BEACH",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.957351,
                             -27.508063
                         ]
@@ -204,14 +94,84 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "6:36PM 06 May 2025",
-                "EST_FIX_TIME": "9:30PM 06 May 2025",
+                "EST_FIX_TIME": "10:00PM 06 May 2025",
                 "STREETS": "ASHBURTON ST, BOUNDARY RD, MOGGILL RD, STONEHENGE ST",
                 "SUBURBS": "CHAPEL HILL, INDOOROOPILLY",
                 "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.096156,
+                            -26.474229
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.09561,
+                                    -26.47427
+                                ],
+                                [
+                                    153.095612,
+                                    -26.474382
+                                ],
+                                [
+                                    153.096353,
+                                    -26.47477
+                                ],
+                                [
+                                    153.096642,
+                                    -26.474629
+                                ],
+                                [
+                                    153.096702,
+                                    -26.47387
+                                ],
+                                [
+                                    153.09643,
+                                    -26.473688
+                                ],
+                                [
+                                    153.095631,
+                                    -26.474014
+                                ],
+                                [
+                                    153.095612,
+                                    -26.474225
+                                ],
+                                [
+                                    153.09561,
+                                    -26.47427
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-860304-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "Emergency repairs in-progress",
+                "STATUS": "Awaiting",
+                "START": "6:52PM 06 May 2025",
+                "EST_FIX_TIME": "11:30PM 06 May 2025",
+                "STREETS": "PEREGIAN ESP",
+                "SUBURBS": "PEREGIAN BEACH",
+                "ETR_FLAG": "Y"
             }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1746530701.652854"
+    "extracted": "1746531301.356499"
 }
