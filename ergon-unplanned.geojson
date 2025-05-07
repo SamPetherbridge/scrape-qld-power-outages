@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.138203,
-                            -23.565856
+                            146.207433,
+                            -18.981624
                         ]
                     },
                     {
@@ -19,72 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    148.11073,
-                                    -23.578193
+                                    146.217416,
+                                    -18.982893
                                 ],
                                 [
-                                    148.114645,
-                                    -23.580681
+                                    146.197621,
+                                    -18.979466
                                 ],
                                 [
-                                    148.114682,
-                                    -23.580702
+                                    146.197069,
+                                    -18.97983
                                 ],
                                 [
-                                    148.115229,
-                                    -23.580988
+                                    146.197451,
+                                    -18.980355
                                 ],
                                 [
-                                    148.115244,
-                                    -23.580995
+                                    146.217246,
+                                    -18.983782
                                 ],
                                 [
-                                    148.117397,
-                                    -23.582033
+                                    146.217798,
+                                    -18.983418
                                 ],
                                 [
-                                    148.117623,
-                                    -23.582085
-                                ],
-                                [
-                                    148.149799,
-                                    -23.582129
-                                ],
-                                [
-                                    148.150142,
-                                    -23.582001
-                                ],
-                                [
-                                    148.16564,
-                                    -23.568095
-                                ],
-                                [
-                                    148.165736,
-                                    -23.567567
-                                ],
-                                [
-                                    148.156011,
-                                    -23.549829
-                                ],
-                                [
-                                    148.155519,
-                                    -23.549584
-                                ],
-                                [
-                                    148.140712,
-                                    -23.551101
-                                ],
-                                [
-                                    148.140427,
-                                    -23.551223
-                                ],
-                                [
-                                    148.110669,
-                                    -23.577495
-                                ],
-                                [
-                                    148.11073,
-                                    -23.578193
+                                    146.217416,
+                                    -18.982893
                                 ]
                             ]
                         ]
@@ -92,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA7206",
+                "EVENT_ID": "25NQ1993",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "285",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "10:18PM 07 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ASCOT CT, BANYULA CL, BELMONT PL, CANTERBURY RD, CAULFIELD PL, CHUDLEIGH DR, DEVONPORT RD, DONCASTER ST, DOOMBEN PL, ELWICK CT, EPSOM PL, FLEMINGTON RD, GREGORY NORTH HWY, LONGFORD ST, MARANDA ST, MORIARTY FARM RD, NIMALA CT, OFF GREGORY HWY, PATANGA PL, PILOT FARM RD, RANDWICK RD, RIFLE RANGE RD, ROSEHILL RD, SANDOWN ST, TANDARA CT",
-                "SUBURBS": "EMERALD"
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 31 May 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
             }
         },
         {
@@ -166,67 +126,6 @@
                 "EST_FIX_TIME": "9:30AM 30 May 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.207433,
-                            -18.981624
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ],
-                                [
-                                    146.197621,
-                                    -18.979466
-                                ],
-                                [
-                                    146.197069,
-                                    -18.97983
-                                ],
-                                [
-                                    146.197451,
-                                    -18.980355
-                                ],
-                                [
-                                    146.217246,
-                                    -18.983782
-                                ],
-                                [
-                                    146.217798,
-                                    -18.983418
-                                ],
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ1993",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 31 May 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
             }
         },
         {
@@ -519,5 +418,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746624001.632344"
+    "extracted": "1746624901.317305"
 }
