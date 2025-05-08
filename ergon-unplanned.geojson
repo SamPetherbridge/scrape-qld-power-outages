@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.207433,
-                            -18.981624
+                            146.930086,
+                            -23.882075
                         ]
                     },
                     {
@@ -19,32 +19,56 @@
                         "coordinates": [
                             [
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    146.701864,
+                                    -23.643381
                                 ],
                                 [
-                                    146.197621,
-                                    -18.979466
+                                    147.01046,
+                                    -24.062714
                                 ],
                                 [
-                                    146.197069,
-                                    -18.97983
+                                    147.010637,
+                                    -24.062859
                                 ],
                                 [
-                                    146.197451,
-                                    -18.980355
+                                    147.143206,
+                                    -24.127285
                                 ],
                                 [
-                                    146.217246,
-                                    -18.983782
+                                    147.143928,
+                                    -24.126913
                                 ],
                                 [
-                                    146.217798,
-                                    -18.983418
+                                    147.158307,
+                                    -23.910529
                                 ],
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    147.158308,
+                                    -23.910492
+                                ],
+                                [
+                                    147.156407,
+                                    -23.826267
+                                ],
+                                [
+                                    147.156397,
+                                    -23.826182
+                                ],
+                                [
+                                    147.112995,
+                                    -23.637223
+                                ],
+                                [
+                                    147.112507,
+                                    -23.636865
+                                ],
+                                [
+                                    146.702264,
+                                    -23.642677
+                                ],
+                                [
+                                    146.701864,
+                                    -23.643381
                                 ]
                             ]
                         ]
@@ -52,15 +76,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ1993",
+                "EVENT_ID": "25CA7253",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 31 May 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
+                "CUSTOMERS_AFFECTED": "25",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "7:00AM 09 May 2025",
+                "EST_FIX_TIME": "12:00PM 09 May 2025",
+                "STREETS": "CAPRICORN HWY, KILCOOL RD, NAROUNYAH RD, OFF CAPRICORN HWY, OFF TAMBO RD, PORT WINE RD, PORTWINE RD, UNKNOWN ST",
+                "SUBURBS": "ALPHA"
             }
         },
         {
@@ -294,6 +318,128 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            145.699507,
+                            -17.133096
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.699362,
+                                    -17.131828
+                                ],
+                                [
+                                    145.698741,
+                                    -17.134138
+                                ],
+                                [
+                                    145.699078,
+                                    -17.134688
+                                ],
+                                [
+                                    145.699651,
+                                    -17.134364
+                                ],
+                                [
+                                    145.700272,
+                                    -17.132054
+                                ],
+                                [
+                                    145.699935,
+                                    -17.131503
+                                ],
+                                [
+                                    145.699362,
+                                    -17.131828
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN5558",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to public safety concerns.",
+                "STATUS": "Crews working on-site",
+                "START": "9:33AM 09 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "LITTLE MULGRAVE RD",
+                "SUBURBS": "LITTLE MULGRAVE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 31 May 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.899297,
                             -21.144287
                         ]
@@ -355,8 +501,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.930086,
-                            -23.882075
+                            151.095865,
+                            -27.319347
                         ]
                     },
                     {
@@ -364,56 +510,88 @@
                         "coordinates": [
                             [
                                 [
-                                    146.701864,
-                                    -23.643381
+                                    151.065962,
+                                    -27.319953
                                 ],
                                 [
-                                    147.01046,
-                                    -24.062714
+                                    151.072021,
+                                    -27.365703
                                 ],
                                 [
-                                    147.010637,
-                                    -24.062859
+                                    151.072086,
+                                    -27.365877
                                 ],
                                 [
-                                    147.143206,
-                                    -24.127285
+                                    151.082316,
+                                    -27.381527
                                 ],
                                 [
-                                    147.143928,
-                                    -24.126913
+                                    151.083092,
+                                    -27.381632
                                 ],
                                 [
-                                    147.158307,
-                                    -23.910529
+                                    151.088781,
+                                    -27.376984
                                 ],
                                 [
-                                    147.158308,
-                                    -23.910492
+                                    151.088909,
+                                    -27.376818
                                 ],
                                 [
-                                    147.156407,
-                                    -23.826267
+                                    151.098047,
+                                    -27.356268
                                 ],
                                 [
-                                    147.156397,
-                                    -23.826182
+                                    151.098055,
+                                    -27.356248
                                 ],
                                 [
-                                    147.112995,
-                                    -23.637223
+                                    151.125745,
+                                    -27.284023
                                 ],
                                 [
-                                    147.112507,
-                                    -23.636865
+                                    151.125768,
+                                    -27.283813
                                 ],
                                 [
-                                    146.702264,
-                                    -23.642677
+                                    151.122188,
+                                    -27.261395
                                 ],
                                 [
-                                    146.701864,
-                                    -23.643381
+                                    151.12184,
+                                    -27.261029
+                                ],
+                                [
+                                    151.107647,
+                                    -27.257062
+                                ],
+                                [
+                                    151.107275,
+                                    -27.257087
+                                ],
+                                [
+                                    151.104063,
+                                    -27.258494
+                                ],
+                                [
+                                    151.103921,
+                                    -27.258587
+                                ],
+                                [
+                                    151.095337,
+                                    -27.266584
+                                ],
+                                [
+                                    151.095249,
+                                    -27.266697
+                                ],
+                                [
+                                    151.066011,
+                                    -27.319701
+                                ],
+                                [
+                                    151.065962,
+                                    -27.319953
                                 ]
                             ]
                         ]
@@ -421,19 +599,19 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA7253",
+                "EVENT_ID": "25SW6705",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "25",
+                "CUSTOMERS_AFFECTED": "34",
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
-                "START": "7:00AM 09 May 2025",
-                "EST_FIX_TIME": "12:00PM 09 May 2025",
-                "STREETS": "CAPRICORN HWY, KILCOOL RD, NAROUNYAH RD, OFF CAPRICORN HWY, OFF TAMBO RD, PORT WINE RD, PORTWINE RD, UNKNOWN ST",
-                "SUBURBS": "ALPHA"
+                "START": "9:00AM 09 May 2025",
+                "EST_FIX_TIME": "4:00PM 09 May 2025",
+                "STREETS": "BROADWATER RD, MOONIE HWY, SCHULTZ RD",
+                "SUBURBS": "DAANDINE, DALBY, DUCKLO, KUPUNN, NANDI"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746747001.14648"
+    "extracted": "1746747601.446685"
 }
