@@ -233,8 +233,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.207433,
-                            -18.981624
+                            146.930086,
+                            -23.882075
                         ]
                     },
                     {
@@ -242,32 +242,56 @@
                         "coordinates": [
                             [
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    146.701864,
+                                    -23.643381
                                 ],
                                 [
-                                    146.197621,
-                                    -18.979466
+                                    147.01046,
+                                    -24.062714
                                 ],
                                 [
-                                    146.197069,
-                                    -18.97983
+                                    147.010637,
+                                    -24.062859
                                 ],
                                 [
-                                    146.197451,
-                                    -18.980355
+                                    147.143206,
+                                    -24.127285
                                 ],
                                 [
-                                    146.217246,
-                                    -18.983782
+                                    147.143928,
+                                    -24.126913
                                 ],
                                 [
-                                    146.217798,
-                                    -18.983418
+                                    147.158307,
+                                    -23.910529
                                 ],
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    147.158308,
+                                    -23.910492
+                                ],
+                                [
+                                    147.156407,
+                                    -23.826267
+                                ],
+                                [
+                                    147.156397,
+                                    -23.826182
+                                ],
+                                [
+                                    147.112995,
+                                    -23.637223
+                                ],
+                                [
+                                    147.112507,
+                                    -23.636865
+                                ],
+                                [
+                                    146.702264,
+                                    -23.642677
+                                ],
+                                [
+                                    146.701864,
+                                    -23.643381
                                 ]
                             ]
                         ]
@@ -275,15 +299,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ1993",
+                "EVENT_ID": "25CA7253",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 31 May 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
+                "CUSTOMERS_AFFECTED": "25",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "7:00AM 09 May 2025",
+                "EST_FIX_TIME": "12:00PM 09 May 2025",
+                "STREETS": "CAPRICORN HWY, KILCOOL RD, NAROUNYAH RD, OFF CAPRICORN HWY, OFF TAMBO RD, PORT WINE RD, PORTWINE RD, UNKNOWN ST",
+                "SUBURBS": "ALPHA"
             }
         },
         {
@@ -346,9 +370,70 @@
                 "STREETS": "MIRANI BOLDON RD",
                 "SUBURBS": "MIRANI"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 31 May 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746742801.405057"
+    "extracted": "1746743402.162897"
 }
