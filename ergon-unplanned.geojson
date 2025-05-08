@@ -136,6 +136,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.867528,
+                            -24.237544
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.866285,
+                                    -24.238019
+                                ],
+                                [
+                                    151.868684,
+                                    -24.238338
+                                ],
+                                [
+                                    151.869191,
+                                    -24.238097
+                                ],
+                                [
+                                    151.869107,
+                                    -24.237579
+                                ],
+                                [
+                                    151.868365,
+                                    -24.236874
+                                ],
+                                [
+                                    151.86789,
+                                    -24.23675
+                                ],
+                                [
+                                    151.866234,
+                                    -24.237138
+                                ],
+                                [
+                                    151.865865,
+                                    -24.237598
+                                ],
+                                [
+                                    151.866285,
+                                    -24.238019
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA7270",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "9:27AM 09 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ROUND HILL RD",
+                "SUBURBS": "AGNES WATER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             150.813644,
                             -27.636914
                         ]
@@ -225,6 +294,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.899297,
+                            -21.144287
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ],
+                                [
+                                    148.898377,
+                                    -21.142205
+                                ],
+                                [
+                                    148.897709,
+                                    -21.142084
+                                ],
+                                [
+                                    148.89758,
+                                    -21.142711
+                                ],
+                                [
+                                    148.900217,
+                                    -21.146369
+                                ],
+                                [
+                                    148.900886,
+                                    -21.14649
+                                ],
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3215",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 09 May 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.930086,
                             -23.882075
                         ]
@@ -301,70 +431,9 @@
                 "STREETS": "CAPRICORN HWY, KILCOOL RD, NAROUNYAH RD, OFF CAPRICORN HWY, OFF TAMBO RD, PORT WINE RD, PORTWINE RD, UNKNOWN ST",
                 "SUBURBS": "ALPHA"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.899297,
-                            -21.144287
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ],
-                                [
-                                    148.898377,
-                                    -21.142205
-                                ],
-                                [
-                                    148.897709,
-                                    -21.142084
-                                ],
-                                [
-                                    148.89758,
-                                    -21.142711
-                                ],
-                                [
-                                    148.900217,
-                                    -21.146369
-                                ],
-                                [
-                                    148.900886,
-                                    -21.14649
-                                ],
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK3215",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "2:00PM 09 May 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746746700.307836"
+    "extracted": "1746747001.14648"
 }
