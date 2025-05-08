@@ -10,164 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.83166,
-                            -26.281139
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.77558,
-                                    -26.369006
-                                ],
-                                [
-                                    148.827118,
-                                    -26.388053
-                                ],
-                                [
-                                    148.827686,
-                                    -26.387932
-                                ],
-                                [
-                                    148.887923,
-                                    -26.325673
-                                ],
-                                [
-                                    148.888044,
-                                    -26.325344
-                                ],
-                                [
-                                    148.886643,
-                                    -26.308127
-                                ],
-                                [
-                                    148.886626,
-                                    -26.308038
-                                ],
-                                [
-                                    148.863836,
-                                    -26.23493
-                                ],
-                                [
-                                    148.863835,
-                                    -26.234927
-                                ],
-                                [
-                                    148.844589,
-                                    -26.17455
-                                ],
-                                [
-                                    148.844061,
-                                    -26.174226
-                                ],
-                                [
-                                    148.810645,
-                                    -26.177094
-                                ],
-                                [
-                                    148.810198,
-                                    -26.17747
-                                ],
-                                [
-                                    148.775276,
-                                    -26.368515
-                                ],
-                                [
-                                    148.77558,
-                                    -26.369006
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW6730",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "21",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Crews working on-site",
-                "START": "11:07AM 08 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "CARNARVON DEVELOPMENT HWY, ELDORADO RD, GRAFTON TERRACE RD, MOUNTAIN VIEW RD, NIELLA RD, ROMA-TAROOM RD, WEST MYALL RD",
-                "SUBURBS": "EUTHULLA, ROMA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 30 May 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             142.219105,
                             -10.582052
                         ]
@@ -244,9 +86,74 @@
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
                 "START": "2:30PM 08 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
+                "EST_FIX_TIME": "4:45PM 08 May 2025",
                 "STREETS": "BLACKALL ST, CHESTER ST, DOUGLAS ST, HARGRAVE ST, JOHN ST, NORMANBY ST, QUETTA CL, QUETTA LANE",
                 "SUBURBS": "THURSDAY ISLAND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 30 May 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -398,132 +305,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.360161,
-                            -19.700299
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.358217,
-                                    -19.699076
-                                ],
-                                [
-                                    147.361053,
-                                    -19.702213
-                                ],
-                                [
-                                    147.361888,
-                                    -19.70198
-                                ],
-                                [
-                                    147.362114,
-                                    -19.700415
-                                ],
-                                [
-                                    147.361868,
-                                    -19.699957
-                                ],
-                                [
-                                    147.358806,
-                                    -19.698385
-                                ],
-                                [
-                                    147.358208,
-                                    -19.698498
-                                ],
-                                [
-                                    147.358217,
-                                    -19.699076
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ6635",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "3:40PM 08 May 2025",
-                "EST_FIX_TIME": "5:00PM 09 May 2025",
-                "STREETS": "MANN RD",
-                "SUBURBS": "HOME HILL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.207433,
-                            -18.981624
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ],
-                                [
-                                    146.197621,
-                                    -18.979466
-                                ],
-                                [
-                                    146.197069,
-                                    -18.97983
-                                ],
-                                [
-                                    146.197451,
-                                    -18.980355
-                                ],
-                                [
-                                    146.217246,
-                                    -18.983782
-                                ],
-                                [
-                                    146.217798,
-                                    -18.983418
-                                ],
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ1993",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 31 May 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.015239,
                             -17.364653
                         ]
@@ -633,6 +414,160 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 31 May 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.83166,
+                            -26.281139
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.77558,
+                                    -26.369006
+                                ],
+                                [
+                                    148.827118,
+                                    -26.388053
+                                ],
+                                [
+                                    148.827686,
+                                    -26.387932
+                                ],
+                                [
+                                    148.887923,
+                                    -26.325673
+                                ],
+                                [
+                                    148.888044,
+                                    -26.325344
+                                ],
+                                [
+                                    148.886643,
+                                    -26.308127
+                                ],
+                                [
+                                    148.886626,
+                                    -26.308038
+                                ],
+                                [
+                                    148.863836,
+                                    -26.23493
+                                ],
+                                [
+                                    148.863835,
+                                    -26.234927
+                                ],
+                                [
+                                    148.844589,
+                                    -26.17455
+                                ],
+                                [
+                                    148.844061,
+                                    -26.174226
+                                ],
+                                [
+                                    148.810645,
+                                    -26.177094
+                                ],
+                                [
+                                    148.810198,
+                                    -26.17747
+                                ],
+                                [
+                                    148.775276,
+                                    -26.368515
+                                ],
+                                [
+                                    148.77558,
+                                    -26.369006
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW6730",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "21",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Crews working on-site",
+                "START": "11:07AM 08 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "CARNARVON DEVELOPMENT HWY, ELDORADO RD, GRAFTON TERRACE RD, MOUNTAIN VIEW RD, NIELLA RD, ROMA-TAROOM RD, WEST MYALL RD",
+                "SUBURBS": "EUTHULLA, ROMA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.899297,
                             -21.144287
                         ]
@@ -689,5 +624,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746684602.984752"
+    "extracted": "1746685200.412858"
 }
