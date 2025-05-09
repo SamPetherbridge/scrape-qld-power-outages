@@ -507,9 +507,91 @@
                 "SUBURBS": "LOWOOD",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.128916,
+                            -26.725125
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.12816,
+                                    -26.725248
+                                ],
+                                [
+                                    153.128534,
+                                    -26.726567
+                                ],
+                                [
+                                    153.129023,
+                                    -26.726907
+                                ],
+                                [
+                                    153.129509,
+                                    -26.726564
+                                ],
+                                [
+                                    153.129552,
+                                    -26.726409
+                                ],
+                                [
+                                    153.129566,
+                                    -26.726319
+                                ],
+                                [
+                                    153.129679,
+                                    -26.723826
+                                ],
+                                [
+                                    153.129206,
+                                    -26.723357
+                                ],
+                                [
+                                    153.128944,
+                                    -26.723344
+                                ],
+                                [
+                                    153.12842,
+                                    -26.723715
+                                ],
+                                [
+                                    153.128153,
+                                    -26.725057
+                                ],
+                                [
+                                    153.12816,
+                                    -26.725248
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-860999-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "15",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "8:11PM 09 May 2025",
+                "EST_FIX_TIME": "10:30PM 09 May 2025",
+                "STREETS": "NICKLIN WAY",
+                "SUBURBS": "WARANA",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1746785101.093824"
+    "extracted": "1746785703.680204"
 }
