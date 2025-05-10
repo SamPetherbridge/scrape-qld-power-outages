@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.722718,
-                            -16.855351
+                            147.027936,
+                            -19.401899
                         ]
                     },
                     {
@@ -19,24 +19,44 @@
                         "coordinates": [
                             [
                                 [
-                                    145.723187,
-                                    -16.855354
+                                    147.021648,
+                                    -19.396592
                                 ],
                                 [
-                                    145.722721,
-                                    -16.854899
+                                    147.033399,
+                                    -19.413217
                                 ],
                                 [
-                                    145.722249,
-                                    -16.855348
+                                    147.034005,
+                                    -19.41337
                                 ],
                                 [
-                                    145.722715,
-                                    -16.855803
+                                    147.034246,
+                                    -19.412821
                                 ],
                                 [
-                                    145.723187,
-                                    -16.855354
+                                    147.026361,
+                                    -19.390531
+                                ],
+                                [
+                                    147.02551,
+                                    -19.390428
+                                ],
+                                [
+                                    147.021738,
+                                    -19.395931
+                                ],
+                                [
+                                    147.021718,
+                                    -19.395962
+                                ],
+                                [
+                                    147.021625,
+                                    -19.396125
+                                ],
+                                [
+                                    147.021648,
+                                    -19.396592
                                 ]
                             ]
                         ]
@@ -44,15 +64,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN5594",
+                "EVENT_ID": "25NQ6697",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "7:50AM 10 May 2025",
-                "EST_FIX_TIME": "8:00PM 10 May 2025",
-                "STREETS": "CAPTAIN COOK HWY",
-                "SUBURBS": "BARRON"
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+                "STATUS": "Outage reported",
+                "START": "11:38PM 09 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRUCE HWY, CAPE CLEVELAND RD",
+                "SUBURBS": "ALLIGATOR CREEK, CAPE CLEVELAND"
             }
         },
         {
@@ -118,79 +138,6 @@
                 "EST_FIX_TIME": "9:30AM 30 May 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.027936,
-                            -19.401899
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.021648,
-                                    -19.396592
-                                ],
-                                [
-                                    147.033399,
-                                    -19.413217
-                                ],
-                                [
-                                    147.034005,
-                                    -19.41337
-                                ],
-                                [
-                                    147.034246,
-                                    -19.412821
-                                ],
-                                [
-                                    147.026361,
-                                    -19.390531
-                                ],
-                                [
-                                    147.02551,
-                                    -19.390428
-                                ],
-                                [
-                                    147.021738,
-                                    -19.395931
-                                ],
-                                [
-                                    147.021718,
-                                    -19.395962
-                                ],
-                                [
-                                    147.021625,
-                                    -19.396125
-                                ],
-                                [
-                                    147.021648,
-                                    -19.396592
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ6697",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
-                "STATUS": "Outage reported",
-                "START": "11:38PM 09 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BRUCE HWY, CAPE CLEVELAND RD",
-                "SUBURBS": "ALLIGATOR CREEK, CAPE CLEVELAND"
             }
         },
         {
@@ -314,9 +261,62 @@
                 "STREETS": "MIRANI BOLDON RD",
                 "SUBURBS": "MIRANI"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            145.722718,
+                            -16.855351
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.723187,
+                                    -16.855354
+                                ],
+                                [
+                                    145.722721,
+                                    -16.854899
+                                ],
+                                [
+                                    145.722249,
+                                    -16.855348
+                                ],
+                                [
+                                    145.722715,
+                                    -16.855803
+                                ],
+                                [
+                                    145.723187,
+                                    -16.855354
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN5594",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "7:50AM 10 May 2025",
+                "EST_FIX_TIME": "8:00PM 10 May 2025",
+                "STREETS": "CAPTAIN COOK HWY",
+                "SUBURBS": "BARRON"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746852601.336273"
+    "extracted": "1746853203.112553"
 }
