@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.01269,
-                            -26.68342
+                            148.699115,
+                            -21.127962
                         ]
                     },
                     {
@@ -19,48 +19,36 @@
                         "coordinates": [
                             [
                                 [
-                                    152.010702,
-                                    -26.683326
+                                    148.697564,
+                                    -21.128178
                                 ],
                                 [
-                                    152.01438,
-                                    -26.684375
+                                    148.700208,
+                                    -21.128945
                                 ],
                                 [
-                                    152.015005,
-                                    -26.684093
+                                    148.700826,
+                                    -21.128582
                                 ],
                                 [
-                                    152.014706,
-                                    -26.683525
+                                    148.701003,
+                                    -21.127495
                                 ],
                                 [
-                                    152.013706,
-                                    -26.683191
+                                    148.700469,
+                                    -21.126979
                                 ],
                                 [
-                                    152.013698,
-                                    -26.683188
+                                    148.697649,
+                                    -21.127299
                                 ],
                                 [
-                                    152.01347,
-                                    -26.683116
+                                    148.697227,
+                                    -21.127706
                                 ],
                                 [
-                                    152.013444,
-                                    -26.683109
-                                ],
-                                [
-                                    152.010994,
-                                    -26.682465
-                                ],
-                                [
-                                    152.010374,
-                                    -26.682766
-                                ],
-                                [
-                                    152.010702,
-                                    -26.683326
+                                    148.697564,
+                                    -21.128178
                                 ]
                             ]
                         ]
@@ -68,15 +56,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB5650",
+                "EVENT_ID": "25MK1119",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
-                "START": "9:52PM 10 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "OLD RIFLE RANGE RD",
-                "SUBURBS": "NANANGO"
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 30 May 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -148,71 +136,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 30 May 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.899297,
                             -21.144287
                         ]
@@ -265,9 +188,86 @@
                 "STREETS": "MIRANI BOLDON RD",
                 "SUBURBS": "MIRANI"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.01269,
+                            -26.68342
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.010702,
+                                    -26.683326
+                                ],
+                                [
+                                    152.01438,
+                                    -26.684375
+                                ],
+                                [
+                                    152.015005,
+                                    -26.684093
+                                ],
+                                [
+                                    152.014706,
+                                    -26.683525
+                                ],
+                                [
+                                    152.013706,
+                                    -26.683191
+                                ],
+                                [
+                                    152.013698,
+                                    -26.683188
+                                ],
+                                [
+                                    152.01347,
+                                    -26.683116
+                                ],
+                                [
+                                    152.013444,
+                                    -26.683109
+                                ],
+                                [
+                                    152.010994,
+                                    -26.682465
+                                ],
+                                [
+                                    152.010374,
+                                    -26.682766
+                                ],
+                                [
+                                    152.010702,
+                                    -26.683326
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB5650",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "9:52PM 10 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "OLD RIFLE RANGE RD",
+                "SUBURBS": "NANANGO"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746897601.445362"
+    "extracted": "1746898203.236589"
 }
