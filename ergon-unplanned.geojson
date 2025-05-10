@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.207433,
-                            -18.981624
+                            151.981025,
+                            -26.678361
                         ]
                     },
                     {
@@ -19,32 +19,56 @@
                         "coordinates": [
                             [
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    151.979772,
+                                    -26.675564
                                 ],
                                 [
-                                    146.197621,
-                                    -18.979466
+                                    151.980784,
+                                    -26.681221
                                 ],
                                 [
-                                    146.197069,
-                                    -18.97983
+                                    151.981155,
+                                    -26.681586
                                 ],
                                 [
-                                    146.197451,
-                                    -18.980355
+                                    151.981654,
+                                    -26.681701
                                 ],
                                 [
-                                    146.217246,
-                                    -18.983782
+                                    151.982279,
+                                    -26.681258
                                 ],
                                 [
-                                    146.217798,
-                                    -18.983418
+                                    151.982206,
+                                    -26.67689
                                 ],
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    151.982199,
+                                    -26.676818
+                                ],
+                                [
+                                    151.981946,
+                                    -26.675541
+                                ],
+                                [
+                                    151.981573,
+                                    -26.675183
+                                ],
+                                [
+                                    151.980904,
+                                    -26.675035
+                                ],
+                                [
+                                    151.980761,
+                                    -26.675022
+                                ],
+                                [
+                                    151.980244,
+                                    -26.675043
+                                ],
+                                [
+                                    151.979772,
+                                    -26.675564
                                 ]
                             ]
                         ]
@@ -52,15 +76,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ1993",
+                "EVENT_ID": "25WB5645",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 31 May 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
+                "CUSTOMERS_AFFECTED": "13",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "3:50PM 10 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "OLIVER RD",
+                "SUBURBS": "NANANGO"
             }
         },
         {
@@ -209,8 +233,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.722718,
-                            -16.855351
+                            151.976409,
+                            -25.054915
                         ]
                     },
                     {
@@ -218,24 +242,56 @@
                         "coordinates": [
                             [
                                 [
-                                    145.723187,
-                                    -16.855354
+                                    151.968894,
+                                    -25.058317
                                 ],
                                 [
-                                    145.722721,
-                                    -16.854899
+                                    151.970855,
+                                    -25.070291
                                 ],
                                 [
-                                    145.722249,
-                                    -16.855348
+                                    151.97135,
+                                    -25.070675
                                 ],
                                 [
-                                    145.722715,
-                                    -16.855803
+                                    151.979451,
+                                    -25.070578
                                 ],
                                 [
-                                    145.723187,
-                                    -16.855354
+                                    151.979541,
+                                    -25.070569
+                                ],
+                                [
+                                    151.983537,
+                                    -25.069844
+                                ],
+                                [
+                                    151.98393,
+                                    -25.069345
+                                ],
+                                [
+                                    151.979768,
+                                    -25.039486
+                                ],
+                                [
+                                    151.979025,
+                                    -25.039156
+                                ],
+                                [
+                                    151.969328,
+                                    -25.044416
+                                ],
+                                [
+                                    151.969087,
+                                    -25.044797
+                                ],
+                                [
+                                    151.968889,
+                                    -25.058245
+                                ],
+                                [
+                                    151.968894,
+                                    -25.058317
                                 ]
                             ]
                         ]
@@ -243,15 +299,76 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN5594",
+                "EVENT_ID": "25WB5643",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "26",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "3:00PM 10 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRUCE HWY, DRINAN RD, OLD WALLAVILLE RD, SKYRINGS RESERVE RD",
+                "SUBURBS": "GIN GIN, WALLAVILLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "7:50AM 10 May 2025",
-                "EST_FIX_TIME": "8:00PM 10 May 2025",
-                "STREETS": "CAPTAIN COOK HWY",
-                "SUBURBS": "BARRON"
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 31 May 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
             }
         },
         {
@@ -313,91 +430,6 @@
                 "EST_FIX_TIME": "2:00PM 16 May 2025",
                 "STREETS": "MIRANI BOLDON RD",
                 "SUBURBS": "MIRANI"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.981025,
-                            -26.678361
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.979772,
-                                    -26.675564
-                                ],
-                                [
-                                    151.980784,
-                                    -26.681221
-                                ],
-                                [
-                                    151.981155,
-                                    -26.681586
-                                ],
-                                [
-                                    151.981654,
-                                    -26.681701
-                                ],
-                                [
-                                    151.982279,
-                                    -26.681258
-                                ],
-                                [
-                                    151.982206,
-                                    -26.67689
-                                ],
-                                [
-                                    151.982199,
-                                    -26.676818
-                                ],
-                                [
-                                    151.981946,
-                                    -26.675541
-                                ],
-                                [
-                                    151.981573,
-                                    -26.675183
-                                ],
-                                [
-                                    151.980904,
-                                    -26.675035
-                                ],
-                                [
-                                    151.980761,
-                                    -26.675022
-                                ],
-                                [
-                                    151.980244,
-                                    -26.675043
-                                ],
-                                [
-                                    151.979772,
-                                    -26.675564
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB5645",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "13",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "3:50PM 10 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "OLIVER RD",
-                "SUBURBS": "NANANGO"
             }
         },
         {
@@ -541,8 +573,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.976409,
-                            -25.054915
+                            145.722718,
+                            -16.855351
                         ]
                     },
                     {
@@ -550,56 +582,24 @@
                         "coordinates": [
                             [
                                 [
-                                    151.968894,
-                                    -25.058317
+                                    145.723187,
+                                    -16.855354
                                 ],
                                 [
-                                    151.970855,
-                                    -25.070291
+                                    145.722721,
+                                    -16.854899
                                 ],
                                 [
-                                    151.97135,
-                                    -25.070675
+                                    145.722249,
+                                    -16.855348
                                 ],
                                 [
-                                    151.979451,
-                                    -25.070578
+                                    145.722715,
+                                    -16.855803
                                 ],
                                 [
-                                    151.979541,
-                                    -25.070569
-                                ],
-                                [
-                                    151.983537,
-                                    -25.069844
-                                ],
-                                [
-                                    151.98393,
-                                    -25.069345
-                                ],
-                                [
-                                    151.979768,
-                                    -25.039486
-                                ],
-                                [
-                                    151.979025,
-                                    -25.039156
-                                ],
-                                [
-                                    151.969328,
-                                    -25.044416
-                                ],
-                                [
-                                    151.969087,
-                                    -25.044797
-                                ],
-                                [
-                                    151.968889,
-                                    -25.058245
-                                ],
-                                [
-                                    151.968894,
-                                    -25.058317
+                                    145.723187,
+                                    -16.855354
                                 ]
                             ]
                         ]
@@ -607,19 +607,19 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB5643",
+                "EVENT_ID": "25FN5594",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "26",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
                 "STATUS": "Crews working on-site",
-                "START": "3:00PM 10 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BRUCE HWY, DRINAN RD, OLD WALLAVILLE RD, SKYRINGS RESERVE RD",
-                "SUBURBS": "GIN GIN, WALLAVILLE"
+                "START": "7:50AM 10 May 2025",
+                "EST_FIX_TIME": "8:00PM 10 May 2025",
+                "STREETS": "CAPTAIN COOK HWY",
+                "SUBURBS": "BARRON"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746861001.485679"
+    "extracted": "1746861601.103386"
 }
