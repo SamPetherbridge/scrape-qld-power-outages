@@ -71,6 +71,79 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.027936,
+                            -19.401899
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.021648,
+                                    -19.396592
+                                ],
+                                [
+                                    147.033399,
+                                    -19.413217
+                                ],
+                                [
+                                    147.034005,
+                                    -19.41337
+                                ],
+                                [
+                                    147.034246,
+                                    -19.412821
+                                ],
+                                [
+                                    147.026361,
+                                    -19.390531
+                                ],
+                                [
+                                    147.02551,
+                                    -19.390428
+                                ],
+                                [
+                                    147.021738,
+                                    -19.395931
+                                ],
+                                [
+                                    147.021718,
+                                    -19.395962
+                                ],
+                                [
+                                    147.021625,
+                                    -19.396125
+                                ],
+                                [
+                                    147.021648,
+                                    -19.396592
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ6697",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "11:38PM 09 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRUCE HWY, CAPE CLEVELAND RD",
+                "SUBURBS": "ALLIGATOR CREEK, CAPE CLEVELAND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -136,8 +209,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.027936,
-                            -19.401899
+                            149.15594,
+                            -21.082573
                         ]
                     },
                     {
@@ -145,44 +218,64 @@
                         "coordinates": [
                             [
                                 [
-                                    147.021648,
-                                    -19.396592
+                                    149.155023,
+                                    -21.082238
                                 ],
                                 [
-                                    147.033399,
-                                    -19.413217
+                                    149.155197,
+                                    -21.083889
                                 ],
                                 [
-                                    147.034005,
-                                    -19.41337
+                                    149.155211,
+                                    -21.083961
                                 ],
                                 [
-                                    147.034246,
-                                    -19.412821
+                                    149.155272,
+                                    -21.084176
                                 ],
                                 [
-                                    147.026361,
-                                    -19.390531
+                                    149.155951,
+                                    -21.084464
                                 ],
                                 [
-                                    147.02551,
-                                    -19.390428
+                                    149.15646,
+                                    -21.084227
                                 ],
                                 [
-                                    147.021738,
-                                    -19.395931
+                                    149.156711,
+                                    -21.083938
                                 ],
                                 [
-                                    147.021718,
-                                    -19.395962
+                                    149.156841,
+                                    -21.083476
                                 ],
                                 [
-                                    147.021625,
-                                    -19.396125
+                                    149.156857,
+                                    -21.083349
                                 ],
                                 [
-                                    147.021648,
-                                    -19.396592
+                                    149.156811,
+                                    -21.081768
+                                ],
+                                [
+                                    149.156791,
+                                    -21.081101
+                                ],
+                                [
+                                    149.156449,
+                                    -21.080681
+                                ],
+                                [
+                                    149.155917,
+                                    -21.080854
+                                ],
+                                [
+                                    149.155108,
+                                    -21.081935
+                                ],
+                                [
+                                    149.155023,
+                                    -21.082238
                                 ]
                             ]
                         ]
@@ -190,15 +283,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ6697",
+                "EVENT_ID": "25MK4022",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "11:38PM 09 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BRUCE HWY, CAPE CLEVELAND RD",
-                "SUBURBS": "ALLIGATOR CREEK, CAPE CLEVELAND"
+                "CUSTOMERS_AFFECTED": "15",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "10:37AM 10 May 2025",
+                "EST_FIX_TIME": "1:00PM 10 May 2025",
+                "STREETS": "ESSEX CT, POLLY CRES",
+                "SUBURBS": "NINDAROO, RICHMOND"
             }
         },
         {
@@ -427,5 +520,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746836400.34427"
+    "extracted": "1746837601.342174"
 }
