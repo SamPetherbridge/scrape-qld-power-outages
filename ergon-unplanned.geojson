@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.271305,
-                            -15.755593
+                            146.207433,
+                            -18.981624
                         ]
                     },
                     {
@@ -19,44 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    145.268177,
-                                    -15.75447
+                                    146.217416,
+                                    -18.982893
                                 ],
                                 [
-                                    145.271206,
-                                    -15.757451
+                                    146.197621,
+                                    -18.979466
                                 ],
                                 [
-                                    145.271837,
-                                    -15.757482
+                                    146.197069,
+                                    -18.97983
                                 ],
                                 [
-                                    145.274519,
-                                    -15.755319
+                                    146.197451,
+                                    -18.980355
                                 ],
                                 [
-                                    145.274293,
-                                    -15.754525
+                                    146.217246,
+                                    -18.983782
                                 ],
                                 [
-                                    145.270406,
-                                    -15.753932
+                                    146.217798,
+                                    -18.983418
                                 ],
                                 [
-                                    145.270392,
-                                    -15.75393
-                                ],
-                                [
-                                    145.268568,
-                                    -15.753705
-                                ],
-                                [
-                                    145.268091,
-                                    -15.753952
-                                ],
-                                [
-                                    145.268177,
-                                    -15.75447
+                                    146.217416,
+                                    -18.982893
                                 ]
                             ]
                         ]
@@ -64,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN5604",
+                "EVENT_ID": "25NQ1993",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "19",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "2:10PM 11 May 2025",
-                "EST_FIX_TIME": "5:00PM 11 May 2025",
-                "STREETS": "BLOOMFIELD RD, COLLINGWOOD RD, ROSSVILLE BLOOMFIELD RD, UNKNOWN ST",
-                "SUBURBS": "COOKTOWN, ROSSVILLE"
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 31 May 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
             }
         },
         {
@@ -200,70 +188,9 @@
                 "STREETS": "MIRANI BOLDON RD",
                 "SUBURBS": "MIRANI"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.207433,
-                            -18.981624
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ],
-                                [
-                                    146.197621,
-                                    -18.979466
-                                ],
-                                [
-                                    146.197069,
-                                    -18.97983
-                                ],
-                                [
-                                    146.197451,
-                                    -18.980355
-                                ],
-                                [
-                                    146.217246,
-                                    -18.983782
-                                ],
-                                [
-                                    146.217798,
-                                    -18.983418
-                                ],
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ1993",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 31 May 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1746940201.172396"
+    "extracted": "1746941101.538471"
 }
