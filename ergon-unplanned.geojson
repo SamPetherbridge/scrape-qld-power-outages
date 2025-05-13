@@ -10,6 +10,95 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            146.940209,
+                            -28.350319
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.747665,
+                                    -28.384222
+                                ],
+                                [
+                                    146.848736,
+                                    -28.441192
+                                ],
+                                [
+                                    146.849303,
+                                    -28.441181
+                                ],
+                                [
+                                    147.132764,
+                                    -28.264781
+                                ],
+                                [
+                                    147.132958,
+                                    -28.264282
+                                ],
+                                [
+                                    147.132485,
+                                    -28.263961
+                                ],
+                                [
+                                    147.018474,
+                                    -28.260917
+                                ],
+                                [
+                                    147.018464,
+                                    -28.260916
+                                ],
+                                [
+                                    146.879598,
+                                    -28.259445
+                                ],
+                                [
+                                    146.87954,
+                                    -28.259447
+                                ],
+                                [
+                                    146.79485,
+                                    -28.267018
+                                ],
+                                [
+                                    146.794421,
+                                    -28.267316
+                                ],
+                                [
+                                    146.747459,
+                                    -28.38369
+                                ],
+                                [
+                                    146.747665,
+                                    -28.384222
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW6836",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "7:57AM 14 May 2025",
+                "EST_FIX_TIME": "1:30PM 14 May 2025",
+                "STREETS": "FERNLEE RD, MUNDA MUNDA RD, MURRA MURRA RD",
+                "SUBURBS": "BOLLON, CUNNAMULLA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -262,95 +351,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.940209,
-                            -28.350319
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.747665,
-                                    -28.384222
-                                ],
-                                [
-                                    146.848736,
-                                    -28.441192
-                                ],
-                                [
-                                    146.849303,
-                                    -28.441181
-                                ],
-                                [
-                                    147.132764,
-                                    -28.264781
-                                ],
-                                [
-                                    147.132958,
-                                    -28.264282
-                                ],
-                                [
-                                    147.132485,
-                                    -28.263961
-                                ],
-                                [
-                                    147.018474,
-                                    -28.260917
-                                ],
-                                [
-                                    147.018464,
-                                    -28.260916
-                                ],
-                                [
-                                    146.879598,
-                                    -28.259445
-                                ],
-                                [
-                                    146.87954,
-                                    -28.259447
-                                ],
-                                [
-                                    146.79485,
-                                    -28.267018
-                                ],
-                                [
-                                    146.794421,
-                                    -28.267316
-                                ],
-                                [
-                                    146.747459,
-                                    -28.38369
-                                ],
-                                [
-                                    146.747665,
-                                    -28.384222
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW6836",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "7:57AM 14 May 2025",
-                "EST_FIX_TIME": "1:30PM 14 May 2025",
-                "STREETS": "FERNLEE RD, MUNDA MUNDA RD, MURRA MURRA RD",
-                "SUBURBS": "BOLLON, CUNNAMULLA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.778088,
                             -25.281236
                         ]
@@ -527,5 +527,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1747176304.588566"
+    "extracted": "1747177500.273096"
 }
