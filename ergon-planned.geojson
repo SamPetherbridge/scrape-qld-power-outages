@@ -28,6 +28,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    139.489776,
+                    -20.751667
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ6004",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "43",
+                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+                "STATUS": "Crews working on-site",
+                "START": "8:46AM 13 May 2025",
+                "EST_FIX_TIME": "5:30PM 13 May 2025",
+                "STREETS": "BECK CRES, FOURTH AVE, OLD MICA CREEK RD, ROSEVEAR RD, SILVERLENA LANE, SOUTHDOWN AVE",
+                "SUBURBS": "HAPPY VALLEY, MICA CREEK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     150.748851,
                     -23.128504
                 ]
@@ -42,27 +63,6 @@
                 "EST_FIX_TIME": "6:30PM 13 May 2025",
                 "STREETS": "ADELAIDE ST, ANZAC PDE, NORMANBY ST",
                 "SUBURBS": "YEPPOON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    139.489436,
-                    -20.749856
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ6004",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "205",
-                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-                "STATUS": "Crews working on-site",
-                "START": "8:46AM 13 May 2025",
-                "EST_FIX_TIME": "5:30PM 13 May 2025",
-                "STREETS": "BECK CRES, BRILLIANT ST, CRYSTAL ST, DIAMOND CRES, EMERALD ST, FOURTH AVE, OLD MICA CREEK RD, OPAL ST, ROSEVEAR RD, SECOND AVE, SILVERLENA LANE, SOUTHDOWN AVE, THORLEY CRES, TIMMINS CRES, TOPAZ ST, ZIRCON ST",
-                "SUBURBS": "HAPPY VALLEY, MICA CREEK"
             }
         },
         {
@@ -89,5 +89,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1747119000.258923"
+    "extracted": "1747119601.351543"
 }
