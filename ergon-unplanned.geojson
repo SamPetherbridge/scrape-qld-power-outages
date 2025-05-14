@@ -10,6 +10,83 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.965725,
+                            -28.105352
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.962188,
+                                    -28.104955
+                                ],
+                                [
+                                    151.963845,
+                                    -28.106479
+                                ],
+                                [
+                                    151.964292,
+                                    -28.106611
+                                ],
+                                [
+                                    151.969001,
+                                    -28.105933
+                                ],
+                                [
+                                    151.969263,
+                                    -28.105157
+                                ],
+                                [
+                                    151.96889,
+                                    -28.104854
+                                ],
+                                [
+                                    151.96862,
+                                    -28.10474
+                                ],
+                                [
+                                    151.963676,
+                                    -28.104095
+                                ],
+                                [
+                                    151.963547,
+                                    -28.104093
+                                ],
+                                [
+                                    151.962498,
+                                    -28.104195
+                                ],
+                                [
+                                    151.962188,
+                                    -28.104955
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW6946",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "12",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "1:24PM 14 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "SHEPHERDS DR",
+                "SUBURBS": "DEUCHAR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -201,83 +278,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.965725,
-                            -28.105352
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.962188,
-                                    -28.104955
-                                ],
-                                [
-                                    151.963845,
-                                    -28.106479
-                                ],
-                                [
-                                    151.964292,
-                                    -28.106611
-                                ],
-                                [
-                                    151.969001,
-                                    -28.105933
-                                ],
-                                [
-                                    151.969263,
-                                    -28.105157
-                                ],
-                                [
-                                    151.96889,
-                                    -28.104854
-                                ],
-                                [
-                                    151.96862,
-                                    -28.10474
-                                ],
-                                [
-                                    151.963676,
-                                    -28.104095
-                                ],
-                                [
-                                    151.963547,
-                                    -28.104093
-                                ],
-                                [
-                                    151.962498,
-                                    -28.104195
-                                ],
-                                [
-                                    151.962188,
-                                    -28.104955
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW6946",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "12",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "1:24PM 14 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "SHEPHERDS DR",
-                "SUBURBS": "DEUCHAR"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -334,5 +334,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1747202101.51898"
+    "extracted": "1747202705.528476"
 }
