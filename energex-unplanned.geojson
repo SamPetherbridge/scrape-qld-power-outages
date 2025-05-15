@@ -10,6 +10,92 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.381631,
+                            -28.140066
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.376687,
+                                    -28.140943
+                                ],
+                                [
+                                    153.379433,
+                                    -28.142093
+                                ],
+                                [
+                                    153.379696,
+                                    -28.142135
+                                ],
+                                [
+                                    153.385189,
+                                    -28.141699
+                                ],
+                                [
+                                    153.38541,
+                                    -28.141634
+                                ],
+                                [
+                                    153.386716,
+                                    -28.140925
+                                ],
+                                [
+                                    153.386614,
+                                    -28.140112
+                                ],
+                                [
+                                    153.379776,
+                                    -28.138056
+                                ],
+                                [
+                                    153.379677,
+                                    -28.138036
+                                ],
+                                [
+                                    153.379345,
+                                    -28.137998
+                                ],
+                                [
+                                    153.378921,
+                                    -28.138125
+                                ],
+                                [
+                                    153.376546,
+                                    -28.140215
+                                ],
+                                [
+                                    153.376687,
+                                    -28.140943
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-862044-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "20",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "10:05AM 15 May 2025",
+                "EST_FIX_TIME": "1:00PM 15 May 2025",
+                "STREETS": "BRACKENFIELD CT, CHESTERFIELD DR",
+                "SUBURBS": "BONOGIN",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.436714,
                             -28.041943
                         ]
@@ -114,7 +200,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "7:08AM 15 May 2025",
-                "EST_FIX_TIME": "10:00AM 15 May 2025",
+                "EST_FIX_TIME": "10:30AM 15 May 2025",
                 "STREETS": "DUDLEY ST, FRANCIS ST, HEDGES AVE, MONTANA RD, VENTURA RD",
                 "SUBURBS": "MERMAID BEACH",
                 "ETR_FLAG": "N"
@@ -123,5 +209,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1747266600.282348"
+    "extracted": "1747267500.454836"
 }
