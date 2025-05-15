@@ -221,6 +221,99 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.263463,
+                            -24.882254
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.261201,
+                                    -24.88146
+                                ],
+                                [
+                                    152.262176,
+                                    -24.883851
+                                ],
+                                [
+                                    152.262836,
+                                    -24.884107
+                                ],
+                                [
+                                    152.264164,
+                                    -24.883578
+                                ],
+                                [
+                                    152.264257,
+                                    -24.88353
+                                ],
+                                [
+                                    152.265547,
+                                    -24.882676
+                                ],
+                                [
+                                    152.265726,
+                                    -24.882173
+                                ],
+                                [
+                                    152.265529,
+                                    -24.88162
+                                ],
+                                [
+                                    152.265468,
+                                    -24.881507
+                                ],
+                                [
+                                    152.265198,
+                                    -24.881143
+                                ],
+                                [
+                                    152.264904,
+                                    -24.880958
+                                ],
+                                [
+                                    152.262341,
+                                    -24.880402
+                                ],
+                                [
+                                    152.261897,
+                                    -24.880505
+                                ],
+                                [
+                                    152.261333,
+                                    -24.880969
+                                ],
+                                [
+                                    152.261201,
+                                    -24.88146
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB5793",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "17",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "9:48AM 15 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "AREL CT, GHOST GUM RD, SHARONDALE DR",
+                "SUBURBS": "SHARON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -471,5 +564,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1747267500.429321"
+    "extracted": "1747269018.425409"
 }
