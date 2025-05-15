@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.899297,
-                            -21.144287
+                            148.759467,
+                            -26.571607
                         ]
                     },
                     {
@@ -19,32 +19,76 @@
                         "coordinates": [
                             [
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    148.749354,
+                                    -26.574126
                                 ],
                                 [
-                                    148.898377,
-                                    -21.142205
+                                    148.758253,
+                                    -26.575664
                                 ],
                                 [
-                                    148.897709,
-                                    -21.142084
+                                    148.758473,
+                                    -26.575657
                                 ],
                                 [
-                                    148.89758,
-                                    -21.142711
+                                    148.768859,
+                                    -26.573241
                                 ],
                                 [
-                                    148.900217,
-                                    -21.146369
+                                    148.768868,
+                                    -26.573239
                                 ],
                                 [
-                                    148.900886,
-                                    -21.14649
+                                    148.769516,
+                                    -26.573076
                                 ],
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    148.76988,
+                                    -26.572689
+                                ],
+                                [
+                                    148.769984,
+                                    -26.571802
+                                ],
+                                [
+                                    148.769932,
+                                    -26.571549
+                                ],
+                                [
+                                    148.768443,
+                                    -26.56893
+                                ],
+                                [
+                                    148.768391,
+                                    -26.568856
+                                ],
+                                [
+                                    148.767559,
+                                    -26.567905
+                                ],
+                                [
+                                    148.767194,
+                                    -26.567733
+                                ],
+                                [
+                                    148.763678,
+                                    -26.567549
+                                ],
+                                [
+                                    148.763445,
+                                    -26.567588
+                                ],
+                                [
+                                    148.749245,
+                                    -26.573271
+                                ],
+                                [
+                                    148.74895,
+                                    -26.573734
+                                ],
+                                [
+                                    148.749354,
+                                    -26.574126
                                 ]
                             ]
                         ]
@@ -52,15 +96,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK3215",
+                "EVENT_ID": "25SW6981",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "CUSTOMERS_AFFECTED": "37",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "2:00PM 16 May 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
+                "START": "11:40AM 15 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BORE 14 ACCESS RD, BOURNE DR, BOWEN ST, HIGHVIEW CL, MCDOWALL ST, UPPER BOWEN ST, UPPER MCDOWALL ST",
+                "SUBURBS": "ROMA"
             }
         },
         {
@@ -197,6 +241,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.899297,
+                            -21.144287
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ],
+                                [
+                                    148.898377,
+                                    -21.142205
+                                ],
+                                [
+                                    148.897709,
+                                    -21.142084
+                                ],
+                                [
+                                    148.89758,
+                                    -21.142711
+                                ],
+                                [
+                                    148.900217,
+                                    -21.146369
+                                ],
+                                [
+                                    148.900886,
+                                    -21.14649
+                                ],
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3215",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 16 May 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             145.139455,
                             -21.457105
                         ]
@@ -273,114 +378,9 @@
                 "STREETS": "ABERFOYLE STATION, BANNOCKBURN STATION, CRANFORD STATION, ELBA STATION, HOPEWELL PARK STATION, KEEN GEA STATION, MUNDOO BLUFF STATION, PRAIRIE VALE STATION, SHIRLEY STATION, TARELLA STATION, TIMARU STATION, TIREE STATION, TUMUTVALE STATION, UANDA STATION, ULVA STATION",
                 "SUBURBS": "PRAIRIE, TORRENS CREEK"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.759467,
-                            -26.571607
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.749354,
-                                    -26.574126
-                                ],
-                                [
-                                    148.758253,
-                                    -26.575664
-                                ],
-                                [
-                                    148.758473,
-                                    -26.575657
-                                ],
-                                [
-                                    148.768859,
-                                    -26.573241
-                                ],
-                                [
-                                    148.768868,
-                                    -26.573239
-                                ],
-                                [
-                                    148.769516,
-                                    -26.573076
-                                ],
-                                [
-                                    148.76988,
-                                    -26.572689
-                                ],
-                                [
-                                    148.769984,
-                                    -26.571802
-                                ],
-                                [
-                                    148.769932,
-                                    -26.571549
-                                ],
-                                [
-                                    148.768443,
-                                    -26.56893
-                                ],
-                                [
-                                    148.768391,
-                                    -26.568856
-                                ],
-                                [
-                                    148.767559,
-                                    -26.567905
-                                ],
-                                [
-                                    148.767194,
-                                    -26.567733
-                                ],
-                                [
-                                    148.763678,
-                                    -26.567549
-                                ],
-                                [
-                                    148.763445,
-                                    -26.567588
-                                ],
-                                [
-                                    148.749245,
-                                    -26.573271
-                                ],
-                                [
-                                    148.74895,
-                                    -26.573734
-                                ],
-                                [
-                                    148.749354,
-                                    -26.574126
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW6981",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "37",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "11:40AM 15 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BORE 14 ACCESS RD, BOURNE DR, BOWEN ST, HIGHVIEW CL, MCDOWALL ST, UPPER BOWEN ST, UPPER MCDOWALL ST",
-                "SUBURBS": "ROMA"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1747278600.523827"
+    "extracted": "1747279803.009729"
 }
