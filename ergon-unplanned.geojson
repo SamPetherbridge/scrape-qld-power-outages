@@ -192,176 +192,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.139455,
-                            -21.457105
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.901869,
-                                    -21.604034
-                                ],
-                                [
-                                    145.088328,
-                                    -21.777006
-                                ],
-                                [
-                                    145.088926,
-                                    -21.777068
-                                ],
-                                [
-                                    145.217421,
-                                    -21.701567
-                                ],
-                                [
-                                    145.217544,
-                                    -21.701463
-                                ],
-                                [
-                                    145.377117,
-                                    -21.510057
-                                ],
-                                [
-                                    145.377157,
-                                    -21.509558
-                                ],
-                                [
-                                    145.172846,
-                                    -21.169323
-                                ],
-                                [
-                                    145.172587,
-                                    -21.169119
-                                ],
-                                [
-                                    145.076731,
-                                    -21.137142
-                                ],
-                                [
-                                    145.076115,
-                                    -21.137418
-                                ],
-                                [
-                                    144.901754,
-                                    -21.603564
-                                ],
-                                [
-                                    144.901869,
-                                    -21.604034
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ6901",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "21",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "9:49AM 15 May 2025",
-                "EST_FIX_TIME": "8:00PM 15 May 2025",
-                "STREETS": "ABERFOYLE STATION, BANNOCKBURN STATION, CRANFORD STATION, ELBA STATION, HOPEWELL PARK STATION, KEEN GEA STATION, MUNDOO BLUFF STATION, PRAIRIE VALE STATION, SHIRLEY STATION, TARELLA STATION, TIMARU STATION, TIREE STATION, TUMUTVALE STATION, UANDA STATION, ULVA STATION",
-                "SUBURBS": "PRAIRIE, TORRENS CREEK"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.356894,
-                            -24.982936
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.356976,
-                                    -24.984685
-                                ],
-                                [
-                                    152.357511,
-                                    -24.984086
-                                ],
-                                [
-                                    152.357536,
-                                    -24.984056
-                                ],
-                                [
-                                    152.357602,
-                                    -24.983968
-                                ],
-                                [
-                                    152.357687,
-                                    -24.983685
-                                ],
-                                [
-                                    152.357528,
-                                    -24.981474
-                                ],
-                                [
-                                    152.357056,
-                                    -24.981054
-                                ],
-                                [
-                                    152.356547,
-                                    -24.981437
-                                ],
-                                [
-                                    152.356145,
-                                    -24.983907
-                                ],
-                                [
-                                    152.356141,
-                                    -24.983935
-                                ],
-                                [
-                                    152.356102,
-                                    -24.984363
-                                ],
-                                [
-                                    152.356409,
-                                    -24.984818
-                                ],
-                                [
-                                    152.356976,
-                                    -24.984685
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB5810",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "6",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "4:17PM 15 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "GORDONS RD",
-                "SUBURBS": "ALLOWAY"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -475,9 +305,94 @@
                 "STREETS": "MIRANI BOLDON RD",
                 "SUBURBS": "MIRANI"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            145.139455,
+                            -21.457105
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    144.901869,
+                                    -21.604034
+                                ],
+                                [
+                                    145.088328,
+                                    -21.777006
+                                ],
+                                [
+                                    145.088926,
+                                    -21.777068
+                                ],
+                                [
+                                    145.217421,
+                                    -21.701567
+                                ],
+                                [
+                                    145.217544,
+                                    -21.701463
+                                ],
+                                [
+                                    145.377117,
+                                    -21.510057
+                                ],
+                                [
+                                    145.377157,
+                                    -21.509558
+                                ],
+                                [
+                                    145.172846,
+                                    -21.169323
+                                ],
+                                [
+                                    145.172587,
+                                    -21.169119
+                                ],
+                                [
+                                    145.076731,
+                                    -21.137142
+                                ],
+                                [
+                                    145.076115,
+                                    -21.137418
+                                ],
+                                [
+                                    144.901754,
+                                    -21.603564
+                                ],
+                                [
+                                    144.901869,
+                                    -21.604034
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ6901",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "21",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "9:49AM 15 May 2025",
+                "EST_FIX_TIME": "8:00PM 15 May 2025",
+                "STREETS": "ABERFOYLE STATION, BANNOCKBURN STATION, CRANFORD STATION, ELBA STATION, HOPEWELL PARK STATION, KEEN GEA STATION, MUNDOO BLUFF STATION, PRAIRIE VALE STATION, SHIRLEY STATION, TARELLA STATION, TIMARU STATION, TIREE STATION, TUMUTVALE STATION, UANDA STATION, ULVA STATION",
+                "SUBURBS": "PRAIRIE, TORRENS CREEK"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1747296301.120893"
+    "extracted": "1747296903.391914"
 }
