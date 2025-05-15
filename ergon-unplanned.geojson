@@ -75,99 +75,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.544382,
-                            -23.604569
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.541423,
-                                    -23.605924
-                                ],
-                                [
-                                    148.544571,
-                                    -23.605936
-                                ],
-                                [
-                                    148.544646,
-                                    -23.605931
-                                ],
-                                [
-                                    148.5474,
-                                    -23.605548
-                                ],
-                                [
-                                    148.547815,
-                                    -23.605059
-                                ],
-                                [
-                                    148.547769,
-                                    -23.604607
-                                ],
-                                [
-                                    148.547666,
-                                    -23.604369
-                                ],
-                                [
-                                    148.546813,
-                                    -23.603373
-                                ],
-                                [
-                                    148.546414,
-                                    -23.603202
-                                ],
-                                [
-                                    148.544347,
-                                    -23.603258
-                                ],
-                                [
-                                    148.544135,
-                                    -23.603309
-                                ],
-                                [
-                                    148.54131,
-                                    -23.604666
-                                ],
-                                [
-                                    148.541061,
-                                    -23.604956
-                                ],
-                                [
-                                    148.54095,
-                                    -23.605362
-                                ],
-                                [
-                                    148.541423,
-                                    -23.605924
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA7511",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "25",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "5:14PM 15 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BALLARD ST, COMET WATER SHED RD, CORIO ST, RODEO GROUNDS RD, SHAKESPEARE ST",
-                "SUBURBS": "COMET"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             151.955852,
                             -27.546228
                         ]
@@ -285,67 +192,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.899297,
-                            -21.144287
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ],
-                                [
-                                    148.898377,
-                                    -21.142205
-                                ],
-                                [
-                                    148.897709,
-                                    -21.142084
-                                ],
-                                [
-                                    148.89758,
-                                    -21.142711
-                                ],
-                                [
-                                    148.900217,
-                                    -21.146369
-                                ],
-                                [
-                                    148.900886,
-                                    -21.14649
-                                ],
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK3215",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "2:00PM 16 May 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -397,6 +243,67 @@
                 "EST_FIX_TIME": "6:00PM 31 May 2025",
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.899297,
+                            -21.144287
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ],
+                                [
+                                    148.898377,
+                                    -21.142205
+                                ],
+                                [
+                                    148.897709,
+                                    -21.142084
+                                ],
+                                [
+                                    148.89758,
+                                    -21.142711
+                                ],
+                                [
+                                    148.900217,
+                                    -21.146369
+                                ],
+                                [
+                                    148.900886,
+                                    -21.14649
+                                ],
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3215",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 16 May 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
             }
         },
         {
@@ -463,5 +370,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1747301701.397729"
+    "extracted": "1747302302.848187"
 }
