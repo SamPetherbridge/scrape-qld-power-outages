@@ -10,6 +10,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.41121,
+                            -24.539013
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.412339,
+                                    -24.539774
+                                ],
+                                [
+                                    151.410907,
+                                    -24.537761
+                                ],
+                                [
+                                    151.410225,
+                                    -24.537629
+                                ],
+                                [
+                                    151.410081,
+                                    -24.538253
+                                ],
+                                [
+                                    151.411513,
+                                    -24.540266
+                                ],
+                                [
+                                    151.412195,
+                                    -24.540398
+                                ],
+                                [
+                                    151.412339,
+                                    -24.539774
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA7622",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:48PM 16 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "DALGA RD",
+                "SUBURBS": "BOYNE VALLEY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -65,67 +126,6 @@
                 "EST_FIX_TIME": "9:30AM 30 May 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.41121,
-                            -24.539013
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.412339,
-                                    -24.539774
-                                ],
-                                [
-                                    151.410907,
-                                    -24.537761
-                                ],
-                                [
-                                    151.410225,
-                                    -24.537629
-                                ],
-                                [
-                                    151.410081,
-                                    -24.538253
-                                ],
-                                [
-                                    151.411513,
-                                    -24.540266
-                                ],
-                                [
-                                    151.412195,
-                                    -24.540398
-                                ],
-                                [
-                                    151.412339,
-                                    -24.539774
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA7622",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:48PM 16 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "DALGA RD",
-                "SUBURBS": "BOYNE VALLEY"
             }
         },
         {
@@ -500,5 +500,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1747410601.355753"
+    "extracted": "1747410901.328889"
 }
