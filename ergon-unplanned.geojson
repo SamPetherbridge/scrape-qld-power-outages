@@ -205,6 +205,79 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.524063,
+                            -20.414689
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.517945,
+                                    -20.412648
+                                ],
+                                [
+                                    148.524078,
+                                    -20.426898
+                                ],
+                                [
+                                    148.524942,
+                                    -20.426944
+                                ],
+                                [
+                                    148.530201,
+                                    -20.417824
+                                ],
+                                [
+                                    148.530198,
+                                    -20.417386
+                                ],
+                                [
+                                    148.521404,
+                                    -20.402661
+                                ],
+                                [
+                                    148.520924,
+                                    -20.402434
+                                ],
+                                [
+                                    148.520522,
+                                    -20.402771
+                                ],
+                                [
+                                    148.517925,
+                                    -20.412366
+                                ],
+                                [
+                                    148.517945,
+                                    -20.412648
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK4234",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "7:09AM 19 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "HADLOW RD, KELSEY CREEK RD",
+                "SUBURBS": "KELSEY CREEK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             149.171945,
                             -21.172173
                         ]
@@ -439,5 +512,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1747609201.579726"
+    "extracted": "1747609800.34632"
 }
