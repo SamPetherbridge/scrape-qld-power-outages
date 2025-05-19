@@ -10,6 +10,59 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.971352,
+                            -26.477589
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.971854,
+                                    -26.477585
+                                ],
+                                [
+                                    147.971348,
+                                    -26.477137
+                                ],
+                                [
+                                    147.97085,
+                                    -26.477592
+                                ],
+                                [
+                                    147.971356,
+                                    -26.47804
+                                ],
+                                [
+                                    147.971854,
+                                    -26.477585
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW7147",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "7:04PM 19 May 2025",
+                "EST_FIX_TIME": "10:30PM 19 May 2025",
+                "STREETS": "ALICE ST",
+                "SUBURBS": "MITCHELL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -65,237 +118,6 @@
                 "EST_FIX_TIME": "9:30AM 30 May 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            149.091717,
-                            -21.022201
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    149.079621,
-                                    -21.035986
-                                ],
-                                [
-                                    149.081638,
-                                    -21.038165
-                                ],
-                                [
-                                    149.081904,
-                                    -21.038311
-                                ],
-                                [
-                                    149.08489,
-                                    -21.038891
-                                ],
-                                [
-                                    149.085168,
-                                    -21.038867
-                                ],
-                                [
-                                    149.099979,
-                                    -21.033205
-                                ],
-                                [
-                                    149.099982,
-                                    -21.033204
-                                ],
-                                [
-                                    149.102746,
-                                    -21.032129
-                                ],
-                                [
-                                    149.103029,
-                                    -21.031817
-                                ],
-                                [
-                                    149.103613,
-                                    -21.029539
-                                ],
-                                [
-                                    149.103624,
-                                    -21.02947
-                                ],
-                                [
-                                    149.103925,
-                                    -21.025999
-                                ],
-                                [
-                                    149.103874,
-                                    -21.025757
-                                ],
-                                [
-                                    149.10321,
-                                    -21.024536
-                                ],
-                                [
-                                    149.103149,
-                                    -21.02445
-                                ],
-                                [
-                                    149.087642,
-                                    -21.007195
-                                ],
-                                [
-                                    149.087553,
-                                    -21.007118
-                                ],
-                                [
-                                    149.085145,
-                                    -21.00551
-                                ],
-                                [
-                                    149.084391,
-                                    -21.005809
-                                ],
-                                [
-                                    149.079509,
-                                    -21.035621
-                                ],
-                                [
-                                    149.079621,
-                                    -21.035986
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK4247",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "88",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "5:08PM 19 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BARROW HILL RD, GALEA CT, LE GARDES RD, SANTS RD, THOMPSON CT",
-                "SUBURBS": "HABANA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.971352,
-                            -26.477589
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.971854,
-                                    -26.477585
-                                ],
-                                [
-                                    147.971348,
-                                    -26.477137
-                                ],
-                                [
-                                    147.97085,
-                                    -26.477592
-                                ],
-                                [
-                                    147.971356,
-                                    -26.47804
-                                ],
-                                [
-                                    147.971854,
-                                    -26.477585
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW7147",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "7:04PM 19 May 2025",
-                "EST_FIX_TIME": "10:30PM 19 May 2025",
-                "STREETS": "ALICE ST",
-                "SUBURBS": "MITCHELL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.207433,
-                            -18.981624
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ],
-                                [
-                                    146.197621,
-                                    -18.979466
-                                ],
-                                [
-                                    146.197069,
-                                    -18.97983
-                                ],
-                                [
-                                    146.197451,
-                                    -18.980355
-                                ],
-                                [
-                                    146.217246,
-                                    -18.983782
-                                ],
-                                [
-                                    146.217798,
-                                    -18.983418
-                                ],
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ1993",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 30 Jul 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
             }
         },
         {
@@ -367,6 +189,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 30 Jul 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             144.49737,
                             -28.860625
                         ]
@@ -427,5 +310,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1747649401.346168"
+    "extracted": "1747650301.252467"
 }
