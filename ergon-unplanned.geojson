@@ -431,9 +431,94 @@
                 "STREETS": "EULO-HUNGERFORD RD",
                 "SUBURBS": "CUNNAMULLA"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.979099,
+                            -27.434307
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.976968,
+                                    -27.434303
+                                ],
+                                [
+                                    151.97834,
+                                    -27.435697
+                                ],
+                                [
+                                    151.978872,
+                                    -27.435829
+                                ],
+                                [
+                                    151.98108,
+                                    -27.435202
+                                ],
+                                [
+                                    151.981355,
+                                    -27.434535
+                                ],
+                                [
+                                    151.980427,
+                                    -27.433207
+                                ],
+                                [
+                                    151.980093,
+                                    -27.433003
+                                ],
+                                [
+                                    151.979629,
+                                    -27.432924
+                                ],
+                                [
+                                    151.979569,
+                                    -27.432917
+                                ],
+                                [
+                                    151.977407,
+                                    -27.432784
+                                ],
+                                [
+                                    151.976868,
+                                    -27.43322
+                                ],
+                                [
+                                    151.976843,
+                                    -27.433993
+                                ],
+                                [
+                                    151.976968,
+                                    -27.434303
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW7281",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "8",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "7:34PM 22 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "GOULDS RD, MCEWAN RD",
+                "SUBURBS": "CABARLAH"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1747906800.92264"
+    "extracted": "1747907400.915742"
 }
