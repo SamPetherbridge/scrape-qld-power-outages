@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.322834,
-                            -24.756605
+                            152.147469,
+                            -26.149045
                         ]
                     },
                     {
@@ -19,24 +19,56 @@
                         "coordinates": [
                             [
                                 [
-                                    152.323326,
-                                    -24.756587
+                                    152.138422,
+                                    -26.156658
                                 ],
                                 [
-                                    152.322815,
-                                    -24.756155
+                                    152.145656,
+                                    -26.174627
                                 ],
                                 [
-                                    152.322342,
-                                    -24.756623
+                                    152.14618,
+                                    -26.17492
                                 ],
                                 [
-                                    152.322853,
-                                    -24.757055
+                                    152.149409,
+                                    -26.174596
                                 ],
                                 [
-                                    152.323326,
-                                    -24.756587
+                                    152.149848,
+                                    -26.174208
+                                ],
+                                [
+                                    152.15653,
+                                    -26.128823
+                                ],
+                                [
+                                    152.156407,
+                                    -26.128464
+                                ],
+                                [
+                                    152.151148,
+                                    -26.123171
+                                ],
+                                [
+                                    152.150312,
+                                    -26.123309
+                                ],
+                                [
+                                    152.142823,
+                                    -26.140742
+                                ],
+                                [
+                                    152.142805,
+                                    -26.140794
+                                ],
+                                [
+                                    152.138407,
+                                    -26.156393
+                                ],
+                                [
+                                    152.138422,
+                                    -26.156658
                                 ]
                             ]
                         ]
@@ -44,15 +76,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB5998",
+                "EVENT_ID": "25WB5997",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
+                "CUSTOMERS_AFFECTED": "16",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "4:57PM 23 May 2025",
-                "EST_FIX_TIME": "4:00PM 24 May 2025",
-                "STREETS": "HILLS RD",
-                "SUBURBS": "GOOBURRUM"
+                "STATUS": "Crews working on-site",
+                "START": "9:50PM 23 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BOONARA RD, COLEMAN SIDING RD, RAGUSE RD, WIDE BAY HWY",
+                "SUBURBS": "CINNABAR, KILKIVAN, KINBOMBI"
             }
         },
         {
@@ -189,6 +221,59 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.322834,
+                            -24.756605
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.323326,
+                                    -24.756587
+                                ],
+                                [
+                                    152.322815,
+                                    -24.756155
+                                ],
+                                [
+                                    152.322342,
+                                    -24.756623
+                                ],
+                                [
+                                    152.322853,
+                                    -24.757055
+                                ],
+                                [
+                                    152.323326,
+                                    -24.756587
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB5998",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "4:57PM 23 May 2025",
+                "EST_FIX_TIME": "4:00PM 24 May 2025",
+                "STREETS": "HILLS RD",
+                "SUBURBS": "GOOBURRUM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.899297,
                             -21.144287
                         ]
@@ -240,91 +325,6 @@
                 "EST_FIX_TIME": "2:00PM 06 Jun 2025",
                 "STREETS": "MIRANI BOLDON RD",
                 "SUBURBS": "MIRANI"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.147469,
-                            -26.149045
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.138422,
-                                    -26.156658
-                                ],
-                                [
-                                    152.145656,
-                                    -26.174627
-                                ],
-                                [
-                                    152.14618,
-                                    -26.17492
-                                ],
-                                [
-                                    152.149409,
-                                    -26.174596
-                                ],
-                                [
-                                    152.149848,
-                                    -26.174208
-                                ],
-                                [
-                                    152.15653,
-                                    -26.128823
-                                ],
-                                [
-                                    152.156407,
-                                    -26.128464
-                                ],
-                                [
-                                    152.151148,
-                                    -26.123171
-                                ],
-                                [
-                                    152.150312,
-                                    -26.123309
-                                ],
-                                [
-                                    152.142823,
-                                    -26.140742
-                                ],
-                                [
-                                    152.142805,
-                                    -26.140794
-                                ],
-                                [
-                                    152.138407,
-                                    -26.156393
-                                ],
-                                [
-                                    152.138422,
-                                    -26.156658
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB5997",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "16",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
-                "START": "9:50PM 23 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BOONARA RD, COLEMAN SIDING RD, RAGUSE RD, WIDE BAY HWY",
-                "SUBURBS": "CINNABAR, KILKIVAN, KINBOMBI"
             }
         },
         {
@@ -456,5 +456,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748007003.467818"
+    "extracted": "1748007601.64087"
 }
