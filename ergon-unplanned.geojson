@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.322834,
-                            -24.756605
+                            144.49737,
+                            -28.860625
                         ]
                     },
                     {
@@ -19,24 +19,36 @@
                         "coordinates": [
                             [
                                 [
-                                    152.323326,
-                                    -24.756587
+                                    144.491292,
+                                    -28.839922
                                 ],
                                 [
-                                    152.322815,
-                                    -24.756155
+                                    144.502446,
+                                    -28.881899
                                 ],
                                 [
-                                    152.322342,
-                                    -24.756623
+                                    144.503053,
+                                    -28.882237
                                 ],
                                 [
-                                    152.322853,
-                                    -24.757055
+                                    144.503447,
+                                    -28.881708
                                 ],
                                 [
-                                    152.323326,
-                                    -24.756587
+                                    144.493865,
+                                    -28.839361
+                                ],
+                                [
+                                    144.49323,
+                                    -28.839013
+                                ],
+                                [
+                                    144.491658,
+                                    -28.839383
+                                ],
+                                [
+                                    144.491292,
+                                    -28.839922
                                 ]
                             ]
                         ]
@@ -44,15 +56,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB5998",
+                "EVENT_ID": "25SW7000",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "4:57PM 23 May 2025",
-                "EST_FIX_TIME": "4:00PM 24 May 2025",
-                "STREETS": "HILLS RD",
-                "SUBURBS": "GOOBURRUM"
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "6:50AM 16 May 2025",
+                "EST_FIX_TIME": "5:00PM 16 May 2025",
+                "STREETS": "EULO-HUNGERFORD RD",
+                "SUBURBS": "CUNNAMULLA"
             }
         },
         {
@@ -431,6 +443,59 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.322834,
+                            -24.756605
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.323326,
+                                    -24.756587
+                                ],
+                                [
+                                    152.322815,
+                                    -24.756155
+                                ],
+                                [
+                                    152.322342,
+                                    -24.756623
+                                ],
+                                [
+                                    152.322853,
+                                    -24.757055
+                                ],
+                                [
+                                    152.323326,
+                                    -24.756587
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB5998",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "4:57PM 23 May 2025",
+                "EST_FIX_TIME": "4:00PM 24 May 2025",
+                "STREETS": "HILLS RD",
+                "SUBURBS": "GOOBURRUM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -483,74 +548,9 @@
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            144.49737,
-                            -28.860625
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.491292,
-                                    -28.839922
-                                ],
-                                [
-                                    144.502446,
-                                    -28.881899
-                                ],
-                                [
-                                    144.503053,
-                                    -28.882237
-                                ],
-                                [
-                                    144.503447,
-                                    -28.881708
-                                ],
-                                [
-                                    144.493865,
-                                    -28.839361
-                                ],
-                                [
-                                    144.49323,
-                                    -28.839013
-                                ],
-                                [
-                                    144.491658,
-                                    -28.839383
-                                ],
-                                [
-                                    144.491292,
-                                    -28.839922
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW7000",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "6:50AM 16 May 2025",
-                "EST_FIX_TIME": "5:00PM 16 May 2025",
-                "STREETS": "EULO-HUNGERFORD RD",
-                "SUBURBS": "CUNNAMULLA"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748040301.987013"
+    "extracted": "1748040901.041972"
 }
