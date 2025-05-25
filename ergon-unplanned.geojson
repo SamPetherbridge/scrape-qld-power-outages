@@ -111,6 +111,71 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            144.49737,
+                            -28.860625
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    144.491292,
+                                    -28.839922
+                                ],
+                                [
+                                    144.502446,
+                                    -28.881899
+                                ],
+                                [
+                                    144.503053,
+                                    -28.882237
+                                ],
+                                [
+                                    144.503447,
+                                    -28.881708
+                                ],
+                                [
+                                    144.493865,
+                                    -28.839361
+                                ],
+                                [
+                                    144.49323,
+                                    -28.839013
+                                ],
+                                [
+                                    144.491658,
+                                    -28.839383
+                                ],
+                                [
+                                    144.491292,
+                                    -28.839922
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW7000",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "6:50AM 16 May 2025",
+                "EST_FIX_TIME": "5:00PM 16 May 2025",
+                "STREETS": "EULO-HUNGERFORD RD",
+                "SUBURBS": "CUNNAMULLA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.899297,
                             -21.144287
                         ]
@@ -162,6 +227,75 @@
                 "EST_FIX_TIME": "2:00PM 06 Jun 2025",
                 "STREETS": "MIRANI BOLDON RD",
                 "SUBURBS": "MIRANI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            150.493819,
+                            -24.416489
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.491428,
+                                    -24.413061
+                                ],
+                                [
+                                    150.494795,
+                                    -24.420217
+                                ],
+                                [
+                                    150.495298,
+                                    -24.420487
+                                ],
+                                [
+                                    150.49573,
+                                    -24.420128
+                                ],
+                                [
+                                    150.49621,
+                                    -24.417937
+                                ],
+                                [
+                                    150.496129,
+                                    -24.417588
+                                ],
+                                [
+                                    150.492282,
+                                    -24.412622
+                                ],
+                                [
+                                    150.491639,
+                                    -24.41249
+                                ],
+                                [
+                                    150.491428,
+                                    -24.413061
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA7892",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "8:21AM 26 May 2025",
+                "EST_FIX_TIME": "2:00PM 26 May 2025",
+                "STREETS": "DAWSON HWY",
+                "SUBURBS": "BILOELA"
             }
         },
         {
@@ -273,75 +407,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            150.493819,
-                            -24.416489
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    150.491428,
-                                    -24.413061
-                                ],
-                                [
-                                    150.494795,
-                                    -24.420217
-                                ],
-                                [
-                                    150.495298,
-                                    -24.420487
-                                ],
-                                [
-                                    150.49573,
-                                    -24.420128
-                                ],
-                                [
-                                    150.49621,
-                                    -24.417937
-                                ],
-                                [
-                                    150.496129,
-                                    -24.417588
-                                ],
-                                [
-                                    150.492282,
-                                    -24.412622
-                                ],
-                                [
-                                    150.491639,
-                                    -24.41249
-                                ],
-                                [
-                                    150.491428,
-                                    -24.413061
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA7892",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "8:21AM 26 May 2025",
-                "EST_FIX_TIME": "2:00PM 26 May 2025",
-                "STREETS": "DAWSON HWY",
-                "SUBURBS": "BILOELA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             143.374106,
                             -28.138808
                         ]
@@ -405,71 +470,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BULLAWARRA STATION RD, BULLOO RIVER RD, JACKSON RD",
                 "SUBURBS": "THARGOMINDAH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            144.49737,
-                            -28.860625
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.491292,
-                                    -28.839922
-                                ],
-                                [
-                                    144.502446,
-                                    -28.881899
-                                ],
-                                [
-                                    144.503053,
-                                    -28.882237
-                                ],
-                                [
-                                    144.503447,
-                                    -28.881708
-                                ],
-                                [
-                                    144.493865,
-                                    -28.839361
-                                ],
-                                [
-                                    144.49323,
-                                    -28.839013
-                                ],
-                                [
-                                    144.491658,
-                                    -28.839383
-                                ],
-                                [
-                                    144.491292,
-                                    -28.839922
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW7000",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "6:50AM 16 May 2025",
-                "EST_FIX_TIME": "5:00PM 16 May 2025",
-                "STREETS": "EULO-HUNGERFORD RD",
-                "SUBURBS": "CUNNAMULLA"
             }
         },
         {
@@ -807,5 +807,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748214001.113119"
+    "extracted": "1748214900.66142"
 }
