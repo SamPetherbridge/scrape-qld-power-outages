@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            144.546118,
-                            -15.587321
+                            144.49737,
+                            -28.860625
                         ]
                     },
                     {
@@ -19,80 +19,36 @@
                         "coordinates": [
                             [
                                 [
-                                    144.230987,
-                                    -15.581138
+                                    144.491292,
+                                    -28.839922
                                 ],
                                 [
-                                    144.827196,
-                                    -15.932878
+                                    144.502446,
+                                    -28.881899
                                 ],
                                 [
-                                    144.827587,
-                                    -15.93292
+                                    144.503053,
+                                    -28.882237
                                 ],
                                 [
-                                    144.857305,
-                                    -15.923278
+                                    144.503447,
+                                    -28.881708
                                 ],
                                 [
-                                    144.857622,
-                                    -15.922884
+                                    144.493865,
+                                    -28.839361
                                 ],
                                 [
-                                    144.86145,
-                                    -15.874169
+                                    144.49323,
+                                    -28.839013
                                 ],
                                 [
-                                    144.861451,
-                                    -15.874109
+                                    144.491658,
+                                    -28.839383
                                 ],
                                 [
-                                    144.829255,
-                                    -15.341665
-                                ],
-                                [
-                                    144.829249,
-                                    -15.341618
-                                ],
-                                [
-                                    144.812173,
-                                    -15.242072
-                                ],
-                                [
-                                    144.811554,
-                                    -15.241722
-                                ],
-                                [
-                                    144.703126,
-                                    -15.280261
-                                ],
-                                [
-                                    144.703066,
-                                    -15.280287
-                                ],
-                                [
-                                    144.281125,
-                                    -15.498594
-                                ],
-                                [
-                                    144.281013,
-                                    -15.498676
-                                ],
-                                [
-                                    144.246056,
-                                    -15.532972
-                                ],
-                                [
-                                    144.245942,
-                                    -15.533156
-                                ],
-                                [
-                                    144.230785,
-                                    -15.580619
-                                ],
-                                [
-                                    144.230987,
-                                    -15.581138
+                                    144.491292,
+                                    -28.839922
                                 ]
                             ]
                         ]
@@ -100,15 +56,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN6156",
+                "EVENT_ID": "25SW7000",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "191",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs.  ",
-                "STATUS": "Outage reported",
-                "START": "3:16AM 27 May 2025",
-                "EST_FIX_TIME": "3:57AM 27 May 2025",
-                "STREETS": "ANDERSON ST, BACK ST, BULLHEAD CREEK, CYRIL ST, DAWSON RD, DEIGHTON RD, FOYSTER DR, GEORGE CL, GLADWELL CT, HENWOOD RD, HONEY DAM RD, LAURA RD, MULLIGAN HWY, PENINSULA DEVELOPMENT RD, TERMINUS ST, UNKNOWN ST, UNNAMED RD, WEBB RD",
-                "SUBURBS": "COOKTOWN, HOPE VALE, LAKELAND, LAURA"
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "6:50AM 16 May 2025",
+                "EST_FIX_TIME": "5:00PM 16 May 2025",
+                "STREETS": "EULO-HUNGERFORD RD",
+                "SUBURBS": "CUNNAMULLA"
             }
         },
         {
@@ -297,74 +253,9 @@
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            144.49737,
-                            -28.860625
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.491292,
-                                    -28.839922
-                                ],
-                                [
-                                    144.502446,
-                                    -28.881899
-                                ],
-                                [
-                                    144.503053,
-                                    -28.882237
-                                ],
-                                [
-                                    144.503447,
-                                    -28.881708
-                                ],
-                                [
-                                    144.493865,
-                                    -28.839361
-                                ],
-                                [
-                                    144.49323,
-                                    -28.839013
-                                ],
-                                [
-                                    144.491658,
-                                    -28.839383
-                                ],
-                                [
-                                    144.491292,
-                                    -28.839922
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW7000",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "6:50AM 16 May 2025",
-                "EST_FIX_TIME": "5:00PM 16 May 2025",
-                "STREETS": "EULO-HUNGERFORD RD",
-                "SUBURBS": "CUNNAMULLA"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748283901.490089"
+    "extracted": "1748284801.68753"
 }
