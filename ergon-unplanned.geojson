@@ -10,6 +10,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.899297,
+                            -21.144287
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ],
+                                [
+                                    148.898377,
+                                    -21.142205
+                                ],
+                                [
+                                    148.897709,
+                                    -21.142084
+                                ],
+                                [
+                                    148.89758,
+                                    -21.142711
+                                ],
+                                [
+                                    148.900217,
+                                    -21.146369
+                                ],
+                                [
+                                    148.900886,
+                                    -21.14649
+                                ],
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3215",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 06 Jun 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -126,67 +187,6 @@
                 "EST_FIX_TIME": "6:00PM 30 Jul 2025",
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.899297,
-                            -21.144287
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ],
-                                [
-                                    148.898377,
-                                    -21.142205
-                                ],
-                                [
-                                    148.897709,
-                                    -21.142084
-                                ],
-                                [
-                                    148.89758,
-                                    -21.142711
-                                ],
-                                [
-                                    148.900217,
-                                    -21.146369
-                                ],
-                                [
-                                    148.900886,
-                                    -21.14649
-                                ],
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK3215",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "2:00PM 06 Jun 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
             }
         },
         {
@@ -314,22 +314,14 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.352741,
-                            -16.457875
+                            145.352816,
+                            -16.464767
                         ]
                     },
                     {
                         "type": "Polygon",
                         "coordinates": [
                             [
-                                [
-                                    145.346123,
-                                    -16.447005
-                                ],
-                                [
-                                    145.346271,
-                                    -16.461173
-                                ],
                                 [
                                     145.346272,
                                     -16.461202
@@ -355,24 +347,16 @@
                                     -16.461157
                                 ],
                                 [
-                                    145.359354,
-                                    -16.460616
+                                    145.358971,
+                                    -16.460438
                                 ],
                                 [
-                                    145.350833,
-                                    -16.449849
+                                    145.346728,
+                                    -16.460717
                                 ],
                                 [
-                                    145.350761,
-                                    -16.449776
-                                ],
-                                [
-                                    145.346891,
-                                    -16.446654
-                                ],
-                                [
-                                    145.346123,
-                                    -16.447005
+                                    145.346272,
+                                    -16.461202
                                 ]
                             ]
                         ]
@@ -382,13 +366,13 @@
             "properties": {
                 "EVENT_ID": "25FN6126",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "22",
+                "CUSTOMERS_AFFECTED": "20",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
                 "STATUS": "Crews working on-site",
                 "START": "9:56AM 26 May 2025",
                 "EST_FIX_TIME": "9:00PM 26 May 2025",
-                "STREETS": "FINLAYVALE RD, GORGE RD, SANTACATTERINA RD",
-                "SUBURBS": "FINLAYVALE, MOSSMAN GORGE, NORTH MOSSMAN"
+                "STREETS": "FINLAYVALE RD, GORGE RD",
+                "SUBURBS": "FINLAYVALE, MOSSMAN GORGE"
             }
         },
         {
@@ -560,5 +544,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748253602.623099"
+    "extracted": "1748254201.550674"
 }
