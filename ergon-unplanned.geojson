@@ -455,6 +455,115 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.413632,
+                            -26.767526
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.330638,
+                                    -26.776127
+                                ],
+                                [
+                                    151.363717,
+                                    -26.830275
+                                ],
+                                [
+                                    151.36401,
+                                    -26.830489
+                                ],
+                                [
+                                    151.399516,
+                                    -26.840245
+                                ],
+                                [
+                                    151.399946,
+                                    -26.840186
+                                ],
+                                [
+                                    151.443948,
+                                    -26.813116
+                                ],
+                                [
+                                    151.443977,
+                                    -26.813096
+                                ],
+                                [
+                                    151.47803,
+                                    -26.788762
+                                ],
+                                [
+                                    151.478051,
+                                    -26.788746
+                                ],
+                                [
+                                    151.495489,
+                                    -26.774753
+                                ],
+                                [
+                                    151.495653,
+                                    -26.774466
+                                ],
+                                [
+                                    151.49666,
+                                    -26.766159
+                                ],
+                                [
+                                    151.496464,
+                                    -26.765751
+                                ],
+                                [
+                                    151.392118,
+                                    -26.694892
+                                ],
+                                [
+                                    151.391732,
+                                    -26.694807
+                                ],
+                                [
+                                    151.360345,
+                                    -26.699549
+                                ],
+                                [
+                                    151.359954,
+                                    -26.699845
+                                ],
+                                [
+                                    151.330604,
+                                    -26.775763
+                                ],
+                                [
+                                    151.330638,
+                                    -26.776127
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW7438",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "70",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "8:30AM 28 May 2025",
+                "EST_FIX_TIME": "2:30PM 28 May 2025",
+                "STREETS": "ASTBURY'S RD, BUNYA HWY, CEDARVALE RD, COORANGA NORTH-NIAGRA RD, CROWLES RD, DENHARM-CEDARVALE RD, DOHERTYS RD, GORGE RD, JANGHARM RD, KINGAROY-JANDOWAE RD, MCIVERS RD, NIAGARA RD",
+                "SUBURBS": "BELL, COORANGA, COORANGA NORTH, DIAMONDY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             144.49737,
                             -28.860625
                         ]
@@ -515,5 +624,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748381700.780923"
+    "extracted": "1748382000.393713"
 }
