@@ -192,6 +192,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            139.496482,
+                            -20.757344
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    139.495134,
+                                    -20.756105
+                                ],
+                                [
+                                    139.495555,
+                                    -20.758724
+                                ],
+                                [
+                                    139.495786,
+                                    -20.759044
+                                ],
+                                [
+                                    139.497117,
+                                    -20.759775
+                                ],
+                                [
+                                    139.49783,
+                                    -20.75933
+                                ],
+                                [
+                                    139.497268,
+                                    -20.755228
+                                ],
+                                [
+                                    139.49653,
+                                    -20.754913
+                                ],
+                                [
+                                    139.495339,
+                                    -20.755666
+                                ],
+                                [
+                                    139.495134,
+                                    -20.756105
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ7567",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "8",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "2:09AM 29 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "CURRY RD, DUCHESS RD, PHILLIP LANE",
+                "SUBURBS": "HEALY, MORNINGTON, SPREADBOROUGH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -374,5 +443,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748451901.699779"
+    "extracted": "1748452801.204689"
 }
