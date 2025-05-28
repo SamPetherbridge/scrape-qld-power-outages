@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            144.49737,
-                            -28.860625
+                            151.933283,
+                            -28.08016
                         ]
                     },
                     {
@@ -19,36 +19,40 @@
                         "coordinates": [
                             [
                                 [
-                                    144.491292,
-                                    -28.839922
+                                    151.932067,
+                                    -28.08071
                                 ],
                                 [
-                                    144.502446,
-                                    -28.881899
+                                    151.932757,
+                                    -28.081236
                                 ],
                                 [
-                                    144.503053,
-                                    -28.882237
+                                    151.933241,
+                                    -28.081324
                                 ],
                                 [
-                                    144.503447,
-                                    -28.881708
+                                    151.934148,
+                                    -28.081069
                                 ],
                                 [
-                                    144.493865,
-                                    -28.839361
+                                    151.934499,
+                                    -28.080592
                                 ],
                                 [
-                                    144.49323,
-                                    -28.839013
+                                    151.934343,
+                                    -28.0793
                                 ],
                                 [
-                                    144.491658,
-                                    -28.839383
+                                    151.933521,
+                                    -28.078996
                                 ],
                                 [
-                                    144.491292,
-                                    -28.839922
+                                    151.932081,
+                                    -28.080017
+                                ],
+                                [
+                                    151.932067,
+                                    -28.08071
                                 ]
                             ]
                         ]
@@ -56,15 +60,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW7000",
+                "EVENT_ID": "25SW7528",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "6:50AM 16 May 2025",
-                "EST_FIX_TIME": "5:00PM 16 May 2025",
-                "STREETS": "EULO-HUNGERFORD RD",
-                "SUBURBS": "CUNNAMULLA"
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "12:45AM 29 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "HENDON - VICTORIA HILL RD, HENDON DEUCHAR RD",
+                "SUBURBS": "DEUCHAR, HENDON"
             }
         },
         {
@@ -130,144 +134,6 @@
                 "EST_FIX_TIME": "9:30AM 30 May 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            139.496482,
-                            -20.757344
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    139.495134,
-                                    -20.756105
-                                ],
-                                [
-                                    139.495555,
-                                    -20.758724
-                                ],
-                                [
-                                    139.495786,
-                                    -20.759044
-                                ],
-                                [
-                                    139.497117,
-                                    -20.759775
-                                ],
-                                [
-                                    139.49783,
-                                    -20.75933
-                                ],
-                                [
-                                    139.497268,
-                                    -20.755228
-                                ],
-                                [
-                                    139.49653,
-                                    -20.754913
-                                ],
-                                [
-                                    139.495339,
-                                    -20.755666
-                                ],
-                                [
-                                    139.495134,
-                                    -20.756105
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ7567",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "8",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "2:09AM 29 May 2025",
-                "EST_FIX_TIME": "8:00AM 29 May 2025",
-                "STREETS": "CURRY RD, DUCHESS RD, PHILLIP LANE",
-                "SUBURBS": "HEALY, MORNINGTON, SPREADBOROUGH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.933283,
-                            -28.08016
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.932067,
-                                    -28.08071
-                                ],
-                                [
-                                    151.932757,
-                                    -28.081236
-                                ],
-                                [
-                                    151.933241,
-                                    -28.081324
-                                ],
-                                [
-                                    151.934148,
-                                    -28.081069
-                                ],
-                                [
-                                    151.934499,
-                                    -28.080592
-                                ],
-                                [
-                                    151.934343,
-                                    -28.0793
-                                ],
-                                [
-                                    151.933521,
-                                    -28.078996
-                                ],
-                                [
-                                    151.932081,
-                                    -28.080017
-                                ],
-                                [
-                                    151.932067,
-                                    -28.08071
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW7528",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
-                "START": "12:45AM 29 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "HENDON - VICTORIA HILL RD, HENDON DEUCHAR RD",
-                "SUBURBS": "DEUCHAR, HENDON"
             }
         },
         {
@@ -377,67 +243,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "ARRARA STATION, BANJOURA STATION, BARRAGUNDA STATION, BIBIL STATION, BIRRICANNIA STATION, BRAEMAR STATION, CAMERON DOWNS STATION, EASTFIELD STATION, ELABE STATION, ELWELL STATION, ENSAY STATION, EVANDALE STATION, EVANDALE WEST STATION, GLENARIFF STATION, HOLMLEIGH STATION, HOMELEIGH STATION, HUGHENDEN STATION, INVERESK STATION, IONA STATION, JANEVILLE STATION, JIREENA STATION, KENTLE DNS STATION, LANDSBOROUGH STATION, LUDGATE STATION, MOKANA STATION, MT DEVLIN STATION, MT ETNA STATION, NEEDLEWOOD STATION, PERONNE STATION, REAY STATION, REDCLIFFE STATION, STENHOUSE STATION, STRATHROY STATION, THORNTON STATION, WATERVIEW STATION, WEST EVANDALE STATION, ZARA STATION",
                 "SUBURBS": "HUGHENDEN, MUTTABURRA, PRAIRIE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.207433,
-                            -18.981624
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ],
-                                [
-                                    146.197621,
-                                    -18.979466
-                                ],
-                                [
-                                    146.197069,
-                                    -18.97983
-                                ],
-                                [
-                                    146.197451,
-                                    -18.980355
-                                ],
-                                [
-                                    146.217246,
-                                    -18.983782
-                                ],
-                                [
-                                    146.217798,
-                                    -18.983418
-                                ],
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ1993",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 30 Jul 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
             }
         },
         {
@@ -609,9 +414,135 @@
                 "STREETS": "ABEL ST, ADELINE LOOP, ARROYO CT, BELVEDERE ST, BESSEMER ST, BLOODWOOD DR, BOTTLEBRUSH CT, BRUCE HWY, COACHWOOD CT, COAST RD, COOLIBAH CT, COUNTRY RD, CREEKSIDE PDE, DAWN ST, DONNELLY DR, ELLIOT SPRINGS BVD, HOSKINS ST, HUNTER ST, JULAGO ST, KALKA PDE, KARIBOE WAY, LOWE RD, MORETON BAY CT, MUNTALUNGA DR, NEEREBAH CT, NOME RD, OBSERVATION RISE, OSSINGTON CCT, PROMINENCE CT, RIVULET CT, SACHS ST, SERENE CT, SOUTHWOOD RD, SPLENDOUR CCT, SUNNYSIDE ST, TI-TREE CT, TRIBUTARY CT, VANTASSEL ST, VISTA PL, WHITES CREEK RD, YARRAN CT, ZINC AVE",
                 "SUBURBS": "JULAGO, NOME, STUART"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 30 Jul 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            144.49737,
+                            -28.860625
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    144.491292,
+                                    -28.839922
+                                ],
+                                [
+                                    144.502446,
+                                    -28.881899
+                                ],
+                                [
+                                    144.503053,
+                                    -28.882237
+                                ],
+                                [
+                                    144.503447,
+                                    -28.881708
+                                ],
+                                [
+                                    144.493865,
+                                    -28.839361
+                                ],
+                                [
+                                    144.49323,
+                                    -28.839013
+                                ],
+                                [
+                                    144.491658,
+                                    -28.839383
+                                ],
+                                [
+                                    144.491292,
+                                    -28.839922
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW7000",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "6:50AM 16 May 2025",
+                "EST_FIX_TIME": "5:00PM 16 May 2025",
+                "STREETS": "EULO-HUNGERFORD RD",
+                "SUBURBS": "CUNNAMULLA"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748464800.372999"
+    "extracted": "1748465400.216976"
 }
