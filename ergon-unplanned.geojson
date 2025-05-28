@@ -10,99 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.835803,
-                            -26.430838
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.809734,
-                                    -26.436631
-                                ],
-                                [
-                                    148.809929,
-                                    -26.445168
-                                ],
-                                [
-                                    148.809957,
-                                    -26.445308
-                                ],
-                                [
-                                    148.813204,
-                                    -26.453652
-                                ],
-                                [
-                                    148.813607,
-                                    -26.45395
-                                ],
-                                [
-                                    148.861338,
-                                    -26.45997
-                                ],
-                                [
-                                    148.861871,
-                                    -26.45935
-                                ],
-                                [
-                                    148.840768,
-                                    -26.413651
-                                ],
-                                [
-                                    148.840677,
-                                    -26.413522
-                                ],
-                                [
-                                    148.828866,
-                                    -26.401706
-                                ],
-                                [
-                                    148.828113,
-                                    -26.401714
-                                ],
-                                [
-                                    148.820345,
-                                    -26.409872
-                                ],
-                                [
-                                    148.820253,
-                                    -26.410015
-                                ],
-                                [
-                                    148.809763,
-                                    -26.43647
-                                ],
-                                [
-                                    148.809734,
-                                    -26.436631
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW7535",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "14",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "7:41AM 29 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BURTONS RD, DAISYBANK RD, MAYFIELD RD, ROMA-TAROOM RD",
-                "SUBURBS": "ROMA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -243,6 +150,99 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "MELISSA CT, PINNACLE DR, SAN VITO CRES, SIDA WAY, STEPHANIE ST",
                 "SUBURBS": "RASMUSSEN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.835803,
+                            -26.430838
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.809734,
+                                    -26.436631
+                                ],
+                                [
+                                    148.809929,
+                                    -26.445168
+                                ],
+                                [
+                                    148.809957,
+                                    -26.445308
+                                ],
+                                [
+                                    148.813204,
+                                    -26.453652
+                                ],
+                                [
+                                    148.813607,
+                                    -26.45395
+                                ],
+                                [
+                                    148.861338,
+                                    -26.45997
+                                ],
+                                [
+                                    148.861871,
+                                    -26.45935
+                                ],
+                                [
+                                    148.840768,
+                                    -26.413651
+                                ],
+                                [
+                                    148.840677,
+                                    -26.413522
+                                ],
+                                [
+                                    148.828866,
+                                    -26.401706
+                                ],
+                                [
+                                    148.828113,
+                                    -26.401714
+                                ],
+                                [
+                                    148.820345,
+                                    -26.409872
+                                ],
+                                [
+                                    148.820253,
+                                    -26.410015
+                                ],
+                                [
+                                    148.809763,
+                                    -26.43647
+                                ],
+                                [
+                                    148.809734,
+                                    -26.436631
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW7535",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "14",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "7:41AM 29 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BURTONS RD, DAISYBANK RD, MAYFIELD RD, ROMA-TAROOM RD",
+                "SUBURBS": "ROMA"
             }
         },
         {
@@ -544,5 +544,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748475001.501624"
+    "extracted": "1748475600.396455"
 }
