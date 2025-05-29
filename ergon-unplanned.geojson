@@ -278,6 +278,87 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.922479,
+                            -21.05219
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.920781,
+                                    -21.051357
+                                ],
+                                [
+                                    148.922746,
+                                    -21.053518
+                                ],
+                                [
+                                    148.923025,
+                                    -21.053669
+                                ],
+                                [
+                                    148.923757,
+                                    -21.053796
+                                ],
+                                [
+                                    148.924265,
+                                    -21.053571
+                                ],
+                                [
+                                    148.924199,
+                                    -21.053047
+                                ],
+                                [
+                                    148.921995,
+                                    -21.050788
+                                ],
+                                [
+                                    148.921705,
+                                    -21.050646
+                                ],
+                                [
+                                    148.921224,
+                                    -21.050584
+                                ],
+                                [
+                                    148.920704,
+                                    -21.050885
+                                ],
+                                [
+                                    148.920692,
+                                    -21.050918
+                                ],
+                                [
+                                    148.920781,
+                                    -21.051357
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK4511",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "6",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "11:42AM 29 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRUCE HWY",
+                "SUBURBS": "HAMPDEN, KUTTABUL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             144.49737,
                             -28.860625
                         ]
@@ -338,5 +419,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748483400.271703"
+    "extracted": "1748485500.421206"
 }
