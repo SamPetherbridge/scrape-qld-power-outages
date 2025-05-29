@@ -10,6 +10,80 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.098309,
+                            -26.655369
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.097672,
+                                    -26.655637
+                                ],
+                                [
+                                    153.098592,
+                                    -26.655968
+                                ],
+                                [
+                                    153.099246,
+                                    -26.655383
+                                ],
+                                [
+                                    153.099158,
+                                    -26.655182
+                                ],
+                                [
+                                    153.098996,
+                                    -26.65499
+                                ],
+                                [
+                                    153.098939,
+                                    -26.65495
+                                ],
+                                [
+                                    153.098699,
+                                    -26.654861
+                                ],
+                                [
+                                    153.097923,
+                                    -26.65477
+                                ],
+                                [
+                                    153.097372,
+                                    -26.655104
+                                ],
+                                [
+                                    153.097672,
+                                    -26.655637
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-865092-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "23",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "12:02AM 30 May 2025",
+                "EST_FIX_TIME": "2:30AM 30 May 2025",
+                "STREETS": "THE ESPLANADE",
+                "SUBURBS": "MAROOCHYDORE",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.976207,
                             -26.26843
                         ]
@@ -106,7 +180,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "8:54PM 29 May 2025",
-                "EST_FIX_TIME": "1:00AM 30 May 2025",
+                "EST_FIX_TIME": "7:00AM 30 May 2025",
                 "STREETS": "AGATHIS LANE, KILDEYS RD, LAKE FLAT RD",
                 "SUBURBS": "BOREEN POINT, COOTHARABA",
                 "ETR_FLAG": "N"
@@ -201,5 +275,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1748526902.509004"
+    "extracted": "1748527500.285773"
 }
