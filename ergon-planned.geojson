@@ -7,27 +7,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.626356,
-                    -28.651334
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW6531",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "14",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:38AM 30 May 2025",
-                "EST_FIX_TIME": "2:30PM 30 May 2025",
-                "STREETS": "INGLEWOOD RD, TEXAS RD",
-                "SUBURBS": "PIKEDALE, PIKES CREEK"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     148.985481,
                     -21.206245
                 ]
@@ -81,9 +60,30 @@
                 "REASON": "The loss of supply is to connect new customers to the electricity network",
                 "STATUS": "Crews working on-site",
                 "START": "8:37AM 30 May 2025",
-                "EST_FIX_TIME": "2:30PM 30 May 2025",
+                "EST_FIX_TIME": "3:00PM 30 May 2025",
                 "STREETS": "ALBERT ST, CASSAR RD, EDWARD ST, GEORGE ST, HENRY ST, INNISFAIL-JAPOON RD, JAMES ST, JAPOON RD, KURRIMINE RD, MARGARET ST, MARY ST, SILKWOOD JAPOON RD, UNKNOWN ST, VICTORIA ST",
                 "SUBURBS": "JAPOONVALE, SILKWOOD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.626356,
+                    -28.651334
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW6531",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "14",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "8:38AM 30 May 2025",
+                "EST_FIX_TIME": "2:30PM 30 May 2025",
+                "STREETS": "INGLEWOOD RD, TEXAS RD",
+                "SUBURBS": "PIKEDALE, PIKES CREEK"
             }
         },
         {
@@ -110,5 +110,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748580000.372672"
+    "extracted": "1748580600.236184"
 }
