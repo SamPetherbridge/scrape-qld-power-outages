@@ -168,6 +168,59 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.463056,
+                            -19.516253
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.463533,
+                                    -19.516252
+                                ],
+                                [
+                                    147.463055,
+                                    -19.515802
+                                ],
+                                [
+                                    147.46258,
+                                    -19.516255
+                                ],
+                                [
+                                    147.463057,
+                                    -19.516705
+                                ],
+                                [
+                                    147.463533,
+                                    -19.516252
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ7669",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "4:32PM 30 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "FABRELLAS RD",
+                "SUBURBS": "AIRDMILLAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -350,5 +403,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748588701.18069"
+    "extracted": "1748589602.556544"
 }
