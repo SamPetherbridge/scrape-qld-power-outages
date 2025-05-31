@@ -10,6 +10,83 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.908542,
+                            -27.539838
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.908291,
+                                    -27.540748
+                                ],
+                                [
+                                    151.909203,
+                                    -27.540357
+                                ],
+                                [
+                                    151.909489,
+                                    -27.539971
+                                ],
+                                [
+                                    151.909515,
+                                    -27.539449
+                                ],
+                                [
+                                    151.909054,
+                                    -27.538981
+                                ],
+                                [
+                                    151.908354,
+                                    -27.538928
+                                ],
+                                [
+                                    151.907823,
+                                    -27.539259
+                                ],
+                                [
+                                    151.907601,
+                                    -27.539997
+                                ],
+                                [
+                                    151.907585,
+                                    -27.540084
+                                ],
+                                [
+                                    151.907568,
+                                    -27.540312
+                                ],
+                                [
+                                    151.908291,
+                                    -27.540748
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW7680",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "7:48PM 31 May 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ORFORD CT",
+                "SUBURBS": "WILSONTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -253,86 +330,9 @@
                 "STREETS": "EULO-HUNGERFORD RD",
                 "SUBURBS": "CUNNAMULLA"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.908542,
-                            -27.539838
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.908291,
-                                    -27.540748
-                                ],
-                                [
-                                    151.909203,
-                                    -27.540357
-                                ],
-                                [
-                                    151.909489,
-                                    -27.539971
-                                ],
-                                [
-                                    151.909515,
-                                    -27.539449
-                                ],
-                                [
-                                    151.909054,
-                                    -27.538981
-                                ],
-                                [
-                                    151.908354,
-                                    -27.538928
-                                ],
-                                [
-                                    151.907823,
-                                    -27.539259
-                                ],
-                                [
-                                    151.907601,
-                                    -27.539997
-                                ],
-                                [
-                                    151.907585,
-                                    -27.540084
-                                ],
-                                [
-                                    151.907568,
-                                    -27.540312
-                                ],
-                                [
-                                    151.908291,
-                                    -27.540748
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW7680",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "7:48PM 31 May 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ORFORD CT",
-                "SUBURBS": "WILSONTON"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748691006.711513"
+    "extracted": "1748691601.137024"
 }
