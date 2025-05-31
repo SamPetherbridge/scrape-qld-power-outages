@@ -10,6 +10,96 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.881542,
+                            -26.458755
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.880057,
+                                    -26.458238
+                                ],
+                                [
+                                    152.880292,
+                                    -26.459706
+                                ],
+                                [
+                                    152.880429,
+                                    -26.459957
+                                ],
+                                [
+                                    152.881969,
+                                    -26.461379
+                                ],
+                                [
+                                    152.882608,
+                                    -26.461438
+                                ],
+                                [
+                                    152.882814,
+                                    -26.461313
+                                ],
+                                [
+                                    152.883026,
+                                    -26.460853
+                                ],
+                                [
+                                    152.882152,
+                                    -26.456811
+                                ],
+                                [
+                                    152.88215,
+                                    -26.456804
+                                ],
+                                [
+                                    152.882062,
+                                    -26.456425
+                                ],
+                                [
+                                    152.881646,
+                                    -26.456071
+                                ],
+                                [
+                                    152.881132,
+                                    -26.456299
+                                ],
+                                [
+                                    152.880115,
+                                    -26.457955
+                                ],
+                                [
+                                    152.880057,
+                                    -26.458238
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-865511-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "11",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "6:34PM 31 May 2025",
+                "EST_FIX_TIME": "9:00PM 31 May 2025",
+                "STREETS": "MUSA VALE RD",
+                "SUBURBS": "COOROY",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.062599,
                             -27.474262
                         ]
@@ -105,96 +195,6 @@
                 "EST_FIX_TIME": "9:30PM 31 May 2025",
                 "STREETS": "AGNEW ST, ELLIOT ST, HIPWOOD ST, SCHOOL ST",
                 "SUBURBS": "NORMAN PARK",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.881542,
-                            -26.458755
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.880057,
-                                    -26.458238
-                                ],
-                                [
-                                    152.880292,
-                                    -26.459706
-                                ],
-                                [
-                                    152.880429,
-                                    -26.459957
-                                ],
-                                [
-                                    152.881969,
-                                    -26.461379
-                                ],
-                                [
-                                    152.882608,
-                                    -26.461438
-                                ],
-                                [
-                                    152.882814,
-                                    -26.461313
-                                ],
-                                [
-                                    152.883026,
-                                    -26.460853
-                                ],
-                                [
-                                    152.882152,
-                                    -26.456811
-                                ],
-                                [
-                                    152.88215,
-                                    -26.456804
-                                ],
-                                [
-                                    152.882062,
-                                    -26.456425
-                                ],
-                                [
-                                    152.881646,
-                                    -26.456071
-                                ],
-                                [
-                                    152.881132,
-                                    -26.456299
-                                ],
-                                [
-                                    152.880115,
-                                    -26.457955
-                                ],
-                                [
-                                    152.880057,
-                                    -26.458238
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-865511-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "11",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "6:34PM 31 May 2025",
-                "EST_FIX_TIME": "9:00PM 31 May 2025",
-                "STREETS": "MUSA VALE RD",
-                "SUBURBS": "COOROY",
                 "ETR_FLAG": "N"
             }
         },
@@ -303,5 +303,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1748687405.163852"
+    "extracted": "1748688001.679221"
 }
