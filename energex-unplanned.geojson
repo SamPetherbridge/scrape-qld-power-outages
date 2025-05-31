@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.930816,
-                            -27.555919
+                            153.07762,
+                            -26.793298
                         ]
                     },
                     {
@@ -19,20 +19,126 @@
                         "coordinates": [
                             [
                                 [
-                                    152.927681,
-                                    -27.556707
+                                    153.068041,
+                                    -26.786671
                                 ],
                                 [
-                                    152.927837,
-                                    -27.557136
+                                    153.076513,
+                                    -26.802533
                                 ],
                                 [
-                                    152.928259,
-                                    -27.557445
+                                    153.076861,
+                                    -26.802779
                                 ],
                                 [
-                                    152.933487,
-                                    -27.558004
+                                    153.081956,
+                                    -26.803759
+                                ],
+                                [
+                                    153.082545,
+                                    -26.803441
+                                ],
+                                [
+                                    153.085498,
+                                    -26.794178
+                                ],
+                                [
+                                    153.085508,
+                                    -26.794137
+                                ],
+                                [
+                                    153.08719,
+                                    -26.786092
+                                ],
+                                [
+                                    153.087199,
+                                    -26.785993
+                                ],
+                                [
+                                    153.087135,
+                                    -26.784401
+                                ],
+                                [
+                                    153.087105,
+                                    -26.784261
+                                ],
+                                [
+                                    153.087067,
+                                    -26.784169
+                                ],
+                                [
+                                    153.086977,
+                                    -26.784031
+                                ],
+                                [
+                                    153.085977,
+                                    -26.782985
+                                ],
+                                [
+                                    153.085492,
+                                    -26.782837
+                                ],
+                                [
+                                    153.068392,
+                                    -26.786034
+                                ],
+                                [
+                                    153.068041,
+                                    -26.786671
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-865542-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "376",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "3:39AM 01 Jun 2025",
+                "EST_FIX_TIME": "6:00AM 01 Jun 2025",
+                "STREETS": "ASCOT WAY, BELLS CREEK ARTERIAL RD, BLUEGRASS ST, BOTTLEBRUSH PL, CASUARINA DR, EARLS CT, EUCALYPTUS PL, FLAMINGO ST, GHOSTGUM CL, KANGAROO DR, KENELAND DR, KENTUCKY CT, KOALA CT, LEXINGTON DR, PHAR LAP CT, PIERCE AVE, RAINTREE BVD, RIDGEWOOD RD, TULIPOAK CT, TULLOCH CL",
+                "SUBURBS": "BARINGA, BELLS CREEK, LITTLE MOUNTAIN",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.930837,
+                            -27.555905
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.927699,
+                                    -27.554425
+                                ],
+                                [
+                                    152.928345,
+                                    -27.556067
+                                ],
+                                [
+                                    152.928639,
+                                    -27.556338
+                                ],
+                                [
+                                    152.933364,
+                                    -27.557977
+                                ],
+                                [
+                                    152.933939,
+                                    -27.557843
                                 ],
                                 [
                                     152.933976,
@@ -95,16 +201,8 @@
                                     -27.553833
                                 ],
                                 [
-                                    152.92767,
-                                    -27.554273
-                                ],
-                                [
-                                    152.927656,
-                                    -27.556566
-                                ],
-                                [
-                                    152.927681,
-                                    -27.556707
+                                    152.927699,
+                                    -27.554425
                                 ]
                             ]
                         ]
@@ -114,12 +212,12 @@
             "properties": {
                 "EVENT_ID": "INCD-865540-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "92",
-                "REASON": "Under Investigation",
+                "CUSTOMERS_AFFECTED": "54",
+                "REASON": "Emergency Repairs",
                 "STATUS": "Awaiting",
                 "START": "3:30AM 01 Jun 2025",
-                "EST_FIX_TIME": "6:30AM 01 Jun 2025",
-                "STREETS": "BADGE ST, BEANLAND ST, DANDENONG RD, EMBLEM ST, ESTATE RD, HORIZON DR, PATROL ST, TANGLEWOOD ST",
+                "EST_FIX_TIME": "6:00AM 01 Jun 2025",
+                "STREETS": "BADGE ST, BEANLAND ST, DANDENONG RD, HORIZON DR, PATROL ST",
                 "SUBURBS": "JAMBOREE HEIGHTS, MIDDLE PARK",
                 "ETR_FLAG": "N"
             }
@@ -127,5 +225,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1748712604.96831"
+    "extracted": "1748713201.286664"
 }
