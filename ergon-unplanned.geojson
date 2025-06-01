@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
+                            146.469134,
+                            -19.08603
                         ]
                     },
                     {
@@ -19,101 +19,20 @@
                         "coordinates": [
                             [
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    146.455868,
+                                    -19.076224
                                 ],
                                 [
-                                    148.700208,
-                                    -21.128945
+                                    146.461375,
+                                    -19.096461
                                 ],
                                 [
-                                    148.700826,
-                                    -21.128582
+                                    146.462006,
+                                    -19.09677
                                 ],
                                 [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 13 Jun 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.496728,
-                            -19.118747
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.455853,
-                                    -19.076118
-                                ],
-                                [
-                                    146.457366,
-                                    -19.157183
-                                ],
-                                [
-                                    146.457773,
-                                    -19.157622
-                                ],
-                                [
-                                    146.457833,
-                                    -19.15763
-                                ],
-                                [
-                                    146.457872,
-                                    -19.157634
-                                ],
-                                [
-                                    146.537189,
-                                    -19.162203
-                                ],
-                                [
-                                    146.537604,
-                                    -19.161488
-                                ],
-                                [
-                                    146.482426,
-                                    -19.088668
+                                    146.482212,
+                                    -19.089354
                                 ],
                                 [
                                     146.482401,
@@ -188,8 +107,8 @@
                                     -19.075659
                                 ],
                                 [
-                                    146.455853,
-                                    -19.076118
+                                    146.455868,
+                                    -19.076224
                                 ]
                             ]
                         ]
@@ -199,13 +118,78 @@
             "properties": {
                 "EVENT_ID": "25NQ7684",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "167",
+                "CUSTOMERS_AFFECTED": "149",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Crews working on-site",
                 "START": "5:25AM 01 Jun 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BRUCE HWY, DENISON CT, DREAMTIME CT, EDGECUMBE CT, HASTINGS ST, HERALD ST, LADY ELLIOTT CT, SADDLEBACK CT, SALTWATER DR, SETTER RD, THE ESPLANADE, TOOMULLA BEACH RD",
-                "SUBURBS": "BLUEWATER, CLEMANT, MOUNT LOUISA, TOOMULLA"
+                "STREETS": "BRUCE HWY, DENISON CT, DREAMTIME CT, EDGECUMBE CT, HERALD ST, LADY ELLIOTT CT, SADDLEBACK CT, SALTWATER DR, THE ESPLANADE, TOOMULLA BEACH RD",
+                "SUBURBS": "CLEMANT, TOOMULLA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 13 Jun 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -398,5 +382,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748735401.172403"
+    "extracted": "1748737501.318824"
 }
