@@ -10,6 +10,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            142.163332,
+                            -10.16508
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    142.154508,
+                                    -10.163306
+                                ],
+                                [
+                                    142.164409,
+                                    -10.179377
+                                ],
+                                [
+                                    142.165231,
+                                    -10.179277
+                                ],
+                                [
+                                    142.172156,
+                                    -10.15738
+                                ],
+                                [
+                                    142.172134,
+                                    -10.157055
+                                ],
+                                [
+                                    142.169251,
+                                    -10.150934
+                                ],
+                                [
+                                    142.168541,
+                                    -10.150784
+                                ],
+                                [
+                                    142.154599,
+                                    -10.16273
+                                ],
+                                [
+                                    142.154508,
+                                    -10.163306
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN6378",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "45",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs.  ",
+                "STATUS": "Crews working on-site",
+                "START": "4:49PM 01 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "AHMAT ST, BLANKET ST, CHAPMAN ST, GULKUNAU ST, MAIRU ST, NONA ST, PHILLIP ST, SCHOOL ST, TAMWOY ST, THE ESPLANADE, UNKNOWN ST, YALLA ST",
+                "SUBURBS": "BADU ISLAND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             145.757956,
                             -16.905085
                         ]
@@ -143,71 +212,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 13 Jun 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.030761,
                             -28.225383
                         ]
@@ -325,8 +329,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.899297,
-                            -21.144287
+                            148.699115,
+                            -21.127962
                         ]
                     },
                     {
@@ -334,32 +338,36 @@
                         "coordinates": [
                             [
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    148.697564,
+                                    -21.128178
                                 ],
                                 [
-                                    148.898377,
-                                    -21.142205
+                                    148.700208,
+                                    -21.128945
                                 ],
                                 [
-                                    148.897709,
-                                    -21.142084
+                                    148.700826,
+                                    -21.128582
                                 ],
                                 [
-                                    148.89758,
-                                    -21.142711
+                                    148.701003,
+                                    -21.127495
                                 ],
                                 [
-                                    148.900217,
-                                    -21.146369
+                                    148.700469,
+                                    -21.126979
                                 ],
                                 [
-                                    148.900886,
-                                    -21.14649
+                                    148.697649,
+                                    -21.127299
                                 ],
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
                                 ]
                             ]
                         ]
@@ -367,15 +375,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK3215",
+                "EVENT_ID": "25MK1119",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "2:00PM 06 Jun 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 13 Jun 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -548,8 +556,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            142.163332,
-                            -10.16508
+                            151.96716,
+                            -27.428584
                         ]
                     },
                     {
@@ -557,40 +565,48 @@
                         "coordinates": [
                             [
                                 [
-                                    142.154508,
-                                    -10.163306
+                                    151.964575,
+                                    -27.429216
                                 ],
                                 [
-                                    142.164409,
-                                    -10.179377
+                                    151.965444,
+                                    -27.429533
                                 ],
                                 [
-                                    142.165231,
-                                    -10.179277
+                                    151.965604,
+                                    -27.429565
                                 ],
                                 [
-                                    142.172156,
-                                    -10.15738
+                                    151.969443,
+                                    -27.429775
                                 ],
                                 [
-                                    142.172134,
-                                    -10.157055
+                                    151.969921,
+                                    -27.429117
                                 ],
                                 [
-                                    142.169251,
-                                    -10.150934
+                                    151.969296,
+                                    -27.428049
                                 ],
                                 [
-                                    142.168541,
-                                    -10.150784
+                                    151.968925,
+                                    -27.427812
                                 ],
                                 [
-                                    142.154599,
-                                    -10.16273
+                                    151.965868,
+                                    -27.427393
                                 ],
                                 [
-                                    142.154508,
-                                    -10.163306
+                                    151.965426,
+                                    -27.427527
+                                ],
+                                [
+                                    151.9644,
+                                    -27.428489
+                                ],
+                                [
+                                    151.964575,
+                                    -27.429216
                                 ]
                             ]
                         ]
@@ -598,19 +614,80 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN6378",
+                "EVENT_ID": "25SW7685",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "45",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs.  ",
-                "STATUS": "Crews working on-site",
-                "START": "4:49PM 01 Jun 2025",
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "6:43PM 01 Jun 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "AHMAT ST, BLANKET ST, CHAPMAN ST, GULKUNAU ST, MAIRU ST, NONA ST, PHILLIP ST, SCHOOL ST, TAMWOY ST, THE ESPLANADE, UNKNOWN ST, YALLA ST",
-                "SUBURBS": "BADU ISLAND"
+                "STREETS": "EVANS RD, EVANS WEST RD",
+                "SUBURBS": "KLEINTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.899297,
+                            -21.144287
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ],
+                                [
+                                    148.898377,
+                                    -21.142205
+                                ],
+                                [
+                                    148.897709,
+                                    -21.142084
+                                ],
+                                [
+                                    148.89758,
+                                    -21.142711
+                                ],
+                                [
+                                    148.900217,
+                                    -21.146369
+                                ],
+                                [
+                                    148.900886,
+                                    -21.14649
+                                ],
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3215",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 06 Jun 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748768101.328041"
+    "extracted": "1748768701.13513"
 }
