@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.030761,
-                            -28.225383
+                            148.699115,
+                            -21.127962
                         ]
                     },
                     {
@@ -19,88 +19,36 @@
                         "coordinates": [
                             [
                                 [
-                                    152.028291,
-                                    -28.227702
+                                    148.697564,
+                                    -21.128178
                                 ],
                                 [
-                                    152.028304,
-                                    -28.227736
+                                    148.700208,
+                                    -21.128945
                                 ],
                                 [
-                                    152.028465,
-                                    -28.227942
+                                    148.700826,
+                                    -21.128582
                                 ],
                                 [
-                                    152.028996,
-                                    -28.228322
+                                    148.701003,
+                                    -21.127495
                                 ],
                                 [
-                                    152.029623,
-                                    -28.228331
+                                    148.700469,
+                                    -21.126979
                                 ],
                                 [
-                                    152.031304,
-                                    -28.227198
+                                    148.697649,
+                                    -21.127299
                                 ],
                                 [
-                                    152.031387,
-                                    -28.227128
+                                    148.697227,
+                                    -21.127706
                                 ],
                                 [
-                                    152.032966,
-                                    -28.225446
-                                ],
-                                [
-                                    152.033083,
-                                    -28.22519
-                                ],
-                                [
-                                    152.033228,
-                                    -28.223374
-                                ],
-                                [
-                                    152.033229,
-                                    -28.223352
-                                ],
-                                [
-                                    152.033232,
-                                    -28.223249
-                                ],
-                                [
-                                    152.033218,
-                                    -28.223135
-                                ],
-                                [
-                                    152.033131,
-                                    -28.222809
-                                ],
-                                [
-                                    152.032704,
-                                    -28.222467
-                                ],
-                                [
-                                    152.03244,
-                                    -28.222436
-                                ],
-                                [
-                                    152.032108,
-                                    -28.222498
-                                ],
-                                [
-                                    152.030555,
-                                    -28.223337
-                                ],
-                                [
-                                    152.030361,
-                                    -28.223529
-                                ],
-                                [
-                                    152.028313,
-                                    -28.227366
-                                ],
-                                [
-                                    152.028291,
-                                    -28.227702
+                                    148.697564,
+                                    -21.128178
                                 ]
                             ]
                         ]
@@ -108,15 +56,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW7682",
+                "EVENT_ID": "25MK1119",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "67",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "4:40PM 01 Jun 2025",
-                "EST_FIX_TIME": "10:00PM 01 Jun 2025",
-                "STREETS": "LOCKE ST, PALMERIN ST, PRATTEN ST, STEWART AVE, WALKER ST",
-                "SUBURBS": "WARWICK"
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 13 Jun 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -188,71 +136,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 13 Jun 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.899297,
                             -21.144287
                         ]
@@ -309,5 +192,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748775903.403077"
+    "extracted": "1748776505.247613"
 }
