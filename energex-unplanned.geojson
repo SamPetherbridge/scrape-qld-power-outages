@@ -10,92 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.178088,
-                            -28.145947
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.1691,
-                                    -28.140945
-                                ],
-                                [
-                                    153.176084,
-                                    -28.151507
-                                ],
-                                [
-                                    153.176846,
-                                    -28.151628
-                                ],
-                                [
-                                    153.186101,
-                                    -28.144901
-                                ],
-                                [
-                                    153.186254,
-                                    -28.144712
-                                ],
-                                [
-                                    153.187051,
-                                    -28.142859
-                                ],
-                                [
-                                    153.187076,
-                                    -28.14262
-                                ],
-                                [
-                                    153.187031,
-                                    -28.142395
-                                ],
-                                [
-                                    153.186626,
-                                    -28.14203
-                                ],
-                                [
-                                    153.176441,
-                                    -28.140288
-                                ],
-                                [
-                                    153.176346,
-                                    -28.14028
-                                ],
-                                [
-                                    153.169541,
-                                    -28.140266
-                                ],
-                                [
-                                    153.1691,
-                                    -28.140945
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-865562-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "Powerlines down",
-                "STATUS": "In Progress",
-                "START": "6:54AM 01 Jun 2025",
-                "EST_FIX_TIME": "12:00PM 01 Jun 2025",
-                "STREETS": "MACKENZIE RD, SOUTH WEST RD, SUMMERVILLE RD",
-                "SUBURBS": "BEECHMONT",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.824496,
                             -27.053688
                         ]
@@ -203,6 +117,92 @@
                 "EST_FIX_TIME": "12:30PM 01 Jun 2025",
                 "STREETS": "BASIN RD, CAMPBELLS POCKET RD, FLUX RD, JACKSON RD, MCCLURE RD, PEDWELL RD, R SAMPSON RD, R WILLIAMS RD, SAMPSON RD, TOP YARD RD, WHITING RD, WILLIAMS RD",
                 "SUBURBS": "WAMURAN, WAMURAN BASIN",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.178088,
+                            -28.145947
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.1691,
+                                    -28.140945
+                                ],
+                                [
+                                    153.176084,
+                                    -28.151507
+                                ],
+                                [
+                                    153.176846,
+                                    -28.151628
+                                ],
+                                [
+                                    153.186101,
+                                    -28.144901
+                                ],
+                                [
+                                    153.186254,
+                                    -28.144712
+                                ],
+                                [
+                                    153.187051,
+                                    -28.142859
+                                ],
+                                [
+                                    153.187076,
+                                    -28.14262
+                                ],
+                                [
+                                    153.187031,
+                                    -28.142395
+                                ],
+                                [
+                                    153.186626,
+                                    -28.14203
+                                ],
+                                [
+                                    153.176441,
+                                    -28.140288
+                                ],
+                                [
+                                    153.176346,
+                                    -28.14028
+                                ],
+                                [
+                                    153.169541,
+                                    -28.140266
+                                ],
+                                [
+                                    153.1691,
+                                    -28.140945
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-865562-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "Powerlines down",
+                "STATUS": "In Progress",
+                "START": "6:54AM 01 Jun 2025",
+                "EST_FIX_TIME": "12:00PM 01 Jun 2025",
+                "STREETS": "MACKENZIE RD, SOUTH WEST RD, SUMMERVILLE RD",
+                "SUBURBS": "BEECHMONT",
                 "ETR_FLAG": "N"
             }
         },
@@ -327,5 +327,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1748738705.012869"
+    "extracted": "1748740801.073568"
 }
