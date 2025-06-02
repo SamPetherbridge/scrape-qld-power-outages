@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.207433,
-                            -18.981624
+                            148.899297,
+                            -21.144287
                         ]
                     },
                     {
@@ -19,32 +19,32 @@
                         "coordinates": [
                             [
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    148.901015,
+                                    -21.145863
                                 ],
                                 [
-                                    146.197621,
-                                    -18.979466
+                                    148.898377,
+                                    -21.142205
                                 ],
                                 [
-                                    146.197069,
-                                    -18.97983
+                                    148.897709,
+                                    -21.142084
                                 ],
                                 [
-                                    146.197451,
-                                    -18.980355
+                                    148.89758,
+                                    -21.142711
                                 ],
                                 [
-                                    146.217246,
-                                    -18.983782
+                                    148.900217,
+                                    -21.146369
                                 ],
                                 [
-                                    146.217798,
-                                    -18.983418
+                                    148.900886,
+                                    -21.14649
                                 ],
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    148.901015,
+                                    -21.145863
                                 ]
                             ]
                         ]
@@ -52,15 +52,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ1993",
+                "EVENT_ID": "25MK3215",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 30 Jul 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 06 Jun 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
             }
         },
         {
@@ -136,8 +136,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.899297,
-                            -21.144287
+                            146.207433,
+                            -18.981624
                         ]
                     },
                     {
@@ -145,32 +145,32 @@
                         "coordinates": [
                             [
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    146.217416,
+                                    -18.982893
                                 ],
                                 [
-                                    148.898377,
-                                    -21.142205
+                                    146.197621,
+                                    -18.979466
                                 ],
                                 [
-                                    148.897709,
-                                    -21.142084
+                                    146.197069,
+                                    -18.97983
                                 ],
                                 [
-                                    148.89758,
-                                    -21.142711
+                                    146.197451,
+                                    -18.980355
                                 ],
                                 [
-                                    148.900217,
-                                    -21.146369
+                                    146.217246,
+                                    -18.983782
                                 ],
                                 [
-                                    148.900886,
-                                    -21.14649
+                                    146.217798,
+                                    -18.983418
                                 ],
                                 [
-                                    148.901015,
-                                    -21.145863
+                                    146.217416,
+                                    -18.982893
                                 ]
                             ]
                         ]
@@ -178,19 +178,201 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK3215",
+                "EVENT_ID": "25NQ1993",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 30 Jul 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            145.515183,
+                            -16.835615
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.512759,
+                                    -16.835871
+                                ],
+                                [
+                                    145.517127,
+                                    -16.838287
+                                ],
+                                [
+                                    145.517693,
+                                    -16.838214
+                                ],
+                                [
+                                    145.517767,
+                                    -16.837669
+                                ],
+                                [
+                                    145.514938,
+                                    -16.832963
+                                ],
+                                [
+                                    145.514138,
+                                    -16.832944
+                                ],
+                                [
+                                    145.512599,
+                                    -16.835234
+                                ],
+                                [
+                                    145.512759,
+                                    -16.835871
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN6390",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "2:00PM 06 Jun 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
+                "START": "11:28AM 02 Jun 2025",
+                "EST_FIX_TIME": "12:31PM 02 Jun 2025",
+                "STREETS": "KOAH RD",
+                "SUBURBS": "KOAH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.967999,
+                            -27.609899
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.965646,
+                                    -27.608279
+                                ],
+                                [
+                                    151.965985,
+                                    -27.610363
+                                ],
+                                [
+                                    151.966124,
+                                    -27.610612
+                                ],
+                                [
+                                    151.967321,
+                                    -27.611704
+                                ],
+                                [
+                                    151.967582,
+                                    -27.611831
+                                ],
+                                [
+                                    151.968582,
+                                    -27.612011
+                                ],
+                                [
+                                    151.968698,
+                                    -27.61202
+                                ],
+                                [
+                                    151.96961,
+                                    -27.611995
+                                ],
+                                [
+                                    151.969989,
+                                    -27.611825
+                                ],
+                                [
+                                    151.970309,
+                                    -27.611467
+                                ],
+                                [
+                                    151.970351,
+                                    -27.610961
+                                ],
+                                [
+                                    151.969699,
+                                    -27.609958
+                                ],
+                                [
+                                    151.969678,
+                                    -27.609929
+                                ],
+                                [
+                                    151.969406,
+                                    -27.609576
+                                ],
+                                [
+                                    151.969386,
+                                    -27.609552
+                                ],
+                                [
+                                    151.968669,
+                                    -27.608742
+                                ],
+                                [
+                                    151.968598,
+                                    -27.608677
+                                ],
+                                [
+                                    151.968009,
+                                    -27.608233
+                                ],
+                                [
+                                    151.967812,
+                                    -27.608142
+                                ],
+                                [
+                                    151.966275,
+                                    -27.607779
+                                ],
+                                [
+                                    151.965646,
+                                    -27.608279
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW7698",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "25",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "11:17AM 02 Jun 2025",
+                "EST_FIX_TIME": "12:45PM 02 Jun 2025",
+                "STREETS": "GLENCOE CT, MACKENZIE ST, ROWBOTHAM ST",
+                "SUBURBS": "MIDDLE RIDGE, TOOWOOMBA"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748826901.355502"
+    "extracted": "1748829900.304404"
 }
