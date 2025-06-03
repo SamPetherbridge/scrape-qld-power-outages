@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            149.313042,
-                            -21.419116
+                            144.23318,
+                            -19.458624
                         ]
                     },
                     {
@@ -19,32 +19,88 @@
                         "coordinates": [
                             [
                                 [
-                                    149.313745,
-                                    -21.41942
+                                    143.81892,
+                                    -19.157402
                                 ],
                                 [
-                                    149.313199,
-                                    -21.418406
+                                    143.977334,
+                                    -19.802774
                                 ],
                                 [
-                                    149.312552,
-                                    -21.418206
+                                    143.977343,
+                                    -19.802806
                                 ],
                                 [
-                                    149.312338,
-                                    -21.418813
+                                    144.00967,
+                                    -19.901044
                                 ],
                                 [
-                                    149.312885,
-                                    -21.419827
+                                    144.009769,
+                                    -19.901209
                                 ],
                                 [
-                                    149.313532,
-                                    -21.420026
+                                    144.00987,
+                                    -19.901316
                                 ],
                                 [
-                                    149.313745,
-                                    -21.41942
+                                    144.010248,
+                                    -19.901467
+                                ],
+                                [
+                                    144.025199,
+                                    -19.900824
+                                ],
+                                [
+                                    144.025319,
+                                    -19.900804
+                                ],
+                                [
+                                    144.519347,
+                                    -19.754116
+                                ],
+                                [
+                                    144.519484,
+                                    -19.75405
+                                ],
+                                [
+                                    144.613165,
+                                    -19.68958
+                                ],
+                                [
+                                    144.613338,
+                                    -19.689354
+                                ],
+                                [
+                                    144.64745,
+                                    -19.589106
+                                ],
+                                [
+                                    144.647307,
+                                    -19.588625
+                                ],
+                                [
+                                    143.947635,
+                                    -19.016579
+                                ],
+                                [
+                                    143.947327,
+                                    -19.016469
+                                ],
+                                [
+                                    143.834018,
+                                    -19.015781
+                                ],
+                                [
+                                    143.833543,
+                                    -19.016188
+                                ],
+                                [
+                                    143.81891,
+                                    -19.157255
+                                ],
+                                [
+                                    143.81892,
+                                    -19.157402
                                 ]
                             ]
                         ]
@@ -52,15 +108,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK4622",
+                "EVENT_ID": "25FN6469",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "9:09PM 03 Jun 2025",
+                "CUSTOMERS_AFFECTED": "43",
+                "REASON": "The loss of supply is due to a pole fire.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "3:50PM 03 Jun 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "MIRAN KHAN DR",
-                "SUBURBS": "FRESHWATER POINT"
+                "STREETS": "HANN HWY, KENNEDY DEVELOPMENT RD, MT HOGAN RD, UNKNOWN ST",
+                "SUBURBS": "EINASLEIGH, GEORGETOWN, HUGHENDEN, MOUNT SURPRISE"
             }
         },
         {
@@ -126,6 +182,67 @@
                 "EST_FIX_TIME": "9:30AM 13 Jun 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            149.313042,
+                            -21.419116
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    149.313745,
+                                    -21.41942
+                                ],
+                                [
+                                    149.313199,
+                                    -21.418406
+                                ],
+                                [
+                                    149.312552,
+                                    -21.418206
+                                ],
+                                [
+                                    149.312338,
+                                    -21.418813
+                                ],
+                                [
+                                    149.312885,
+                                    -21.419827
+                                ],
+                                [
+                                    149.313532,
+                                    -21.420026
+                                ],
+                                [
+                                    149.313745,
+                                    -21.41942
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK4622",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "9:09PM 03 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "MIRAN KHAN DR",
+                "SUBURBS": "FRESHWATER POINT"
             }
         },
         {
@@ -375,126 +492,9 @@
                 "STREETS": "MIRANI BOLDON RD",
                 "SUBURBS": "MIRANI"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            144.23318,
-                            -19.458624
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.81892,
-                                    -19.157402
-                                ],
-                                [
-                                    143.977334,
-                                    -19.802774
-                                ],
-                                [
-                                    143.977343,
-                                    -19.802806
-                                ],
-                                [
-                                    144.00967,
-                                    -19.901044
-                                ],
-                                [
-                                    144.009769,
-                                    -19.901209
-                                ],
-                                [
-                                    144.00987,
-                                    -19.901316
-                                ],
-                                [
-                                    144.010248,
-                                    -19.901467
-                                ],
-                                [
-                                    144.025199,
-                                    -19.900824
-                                ],
-                                [
-                                    144.025319,
-                                    -19.900804
-                                ],
-                                [
-                                    144.519347,
-                                    -19.754116
-                                ],
-                                [
-                                    144.519484,
-                                    -19.75405
-                                ],
-                                [
-                                    144.613165,
-                                    -19.68958
-                                ],
-                                [
-                                    144.613338,
-                                    -19.689354
-                                ],
-                                [
-                                    144.64745,
-                                    -19.589106
-                                ],
-                                [
-                                    144.647307,
-                                    -19.588625
-                                ],
-                                [
-                                    143.947635,
-                                    -19.016579
-                                ],
-                                [
-                                    143.947327,
-                                    -19.016469
-                                ],
-                                [
-                                    143.834018,
-                                    -19.015781
-                                ],
-                                [
-                                    143.833543,
-                                    -19.016188
-                                ],
-                                [
-                                    143.81891,
-                                    -19.157255
-                                ],
-                                [
-                                    143.81892,
-                                    -19.157402
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN6469",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "43",
-                "REASON": "The loss of supply is due to a pole fire.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "3:50PM 03 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "HANN HWY, KENNEDY DEVELOPMENT RD, MT HOGAN RD, UNKNOWN ST",
-                "SUBURBS": "EINASLEIGH, GEORGETOWN, HUGHENDEN, MOUNT SURPRISE"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1748957700.253965"
+    "extracted": "1748958344.398526"
 }
