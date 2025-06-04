@@ -10,6 +10,83 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.07499,
+                            -27.26878
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.0738,
+                                    -27.27195
+                                ],
+                                [
+                                    152.07631,
+                                    -27.271193
+                                ],
+                                [
+                                    152.076652,
+                                    -27.270782
+                                ],
+                                [
+                                    152.076818,
+                                    -27.266337
+                                ],
+                                [
+                                    152.076715,
+                                    -27.266049
+                                ],
+                                [
+                                    152.07634,
+                                    -27.26561
+                                ],
+                                [
+                                    152.075526,
+                                    -27.265626
+                                ],
+                                [
+                                    152.075135,
+                                    -27.266128
+                                ],
+                                [
+                                    152.075071,
+                                    -27.266243
+                                ],
+                                [
+                                    152.073161,
+                                    -27.271381
+                                ],
+                                [
+                                    152.0738,
+                                    -27.27195
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW7848",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "16",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews on route",
+                "START": "5:53PM 04 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "PINNELL RD",
+                "SUBURBS": "CROWS NEST"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -257,67 +334,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.899297,
-                            -21.144287
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ],
-                                [
-                                    148.898377,
-                                    -21.142205
-                                ],
-                                [
-                                    148.897709,
-                                    -21.142084
-                                ],
-                                [
-                                    148.89758,
-                                    -21.142711
-                                ],
-                                [
-                                    148.900217,
-                                    -21.146369
-                                ],
-                                [
-                                    148.900886,
-                                    -21.14649
-                                ],
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK3215",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "2:00PM 06 Jun 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             145.698184,
                             -16.806112
                         ]
@@ -435,8 +451,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.07499,
-                            -27.26878
+                            148.899297,
+                            -21.144287
                         ]
                     },
                     {
@@ -444,48 +460,32 @@
                         "coordinates": [
                             [
                                 [
-                                    152.0738,
-                                    -27.27195
+                                    148.901015,
+                                    -21.145863
                                 ],
                                 [
-                                    152.07631,
-                                    -27.271193
+                                    148.898377,
+                                    -21.142205
                                 ],
                                 [
-                                    152.076652,
-                                    -27.270782
+                                    148.897709,
+                                    -21.142084
                                 ],
                                 [
-                                    152.076818,
-                                    -27.266337
+                                    148.89758,
+                                    -21.142711
                                 ],
                                 [
-                                    152.076715,
-                                    -27.266049
+                                    148.900217,
+                                    -21.146369
                                 ],
                                 [
-                                    152.07634,
-                                    -27.26561
+                                    148.900886,
+                                    -21.14649
                                 ],
                                 [
-                                    152.075526,
-                                    -27.265626
-                                ],
-                                [
-                                    152.075135,
-                                    -27.266128
-                                ],
-                                [
-                                    152.075071,
-                                    -27.266243
-                                ],
-                                [
-                                    152.073161,
-                                    -27.271381
-                                ],
-                                [
-                                    152.0738,
-                                    -27.27195
+                                    148.901015,
+                                    -21.145863
                                 ]
                             ]
                         ]
@@ -493,19 +493,19 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW7848",
+                "EVENT_ID": "25MK3215",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "16",
+                "CUSTOMERS_AFFECTED": "2",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
-                "START": "5:53PM 04 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "PINNELL RD",
-                "SUBURBS": "CROWS NEST"
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 06 Jun 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749027605.156224"
+    "extracted": "1749028502.300298"
 }
