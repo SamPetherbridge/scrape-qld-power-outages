@@ -10,80 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.09794,
-                            -27.778822
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.095642,
-                                    -27.778328
-                                ],
-                                [
-                                    153.096486,
-                                    -27.779754
-                                ],
-                                [
-                                    153.097097,
-                                    -27.779971
-                                ],
-                                [
-                                    153.099893,
-                                    -27.779135
-                                ],
-                                [
-                                    153.100238,
-                                    -27.778684
-                                ],
-                                [
-                                    153.099843,
-                                    -27.778267
-                                ],
-                                [
-                                    153.098942,
-                                    -27.778085
-                                ],
-                                [
-                                    153.098913,
-                                    -27.77808
-                                ],
-                                [
-                                    153.096175,
-                                    -27.777673
-                                ],
-                                [
-                                    153.095642,
-                                    -27.778328
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-866428-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "8",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "6:55PM 04 Jun 2025",
-                "EST_FIX_TIME": "3:00AM 05 Jun 2025",
-                "STREETS": "STOCKLEIGH RD",
-                "SUBURBS": "LOGAN VILLAGE, STOCKLEIGH",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.11247,
                             -27.5486
                         ]
@@ -177,17 +103,91 @@
                 "EVENT_ID": "INCD-866443-g",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "84",
-                "REASON": "Under Investigation",
+                "REASON": "Emergency Repairs",
                 "STATUS": "Awaiting",
                 "START": "10:37PM 04 Jun 2025",
-                "EST_FIX_TIME": "1:00AM 05 Jun 2025",
+                "EST_FIX_TIME": "1:30AM 05 Jun 2025",
                 "STREETS": "HELENDALE DR, HELIDON DIP RD, JOSEPH THOMAS DR, KELLYS RD, LAVENDER RD, NANS RD, WARREGO HWY",
                 "SUBURBS": "HELIDON, HELIDON SPA",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.09794,
+                            -27.778822
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.095642,
+                                    -27.778328
+                                ],
+                                [
+                                    153.096486,
+                                    -27.779754
+                                ],
+                                [
+                                    153.097097,
+                                    -27.779971
+                                ],
+                                [
+                                    153.099893,
+                                    -27.779135
+                                ],
+                                [
+                                    153.100238,
+                                    -27.778684
+                                ],
+                                [
+                                    153.099843,
+                                    -27.778267
+                                ],
+                                [
+                                    153.098942,
+                                    -27.778085
+                                ],
+                                [
+                                    153.098913,
+                                    -27.77808
+                                ],
+                                [
+                                    153.096175,
+                                    -27.777673
+                                ],
+                                [
+                                    153.095642,
+                                    -27.778328
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-866428-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "8",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "6:55PM 04 Jun 2025",
+                "EST_FIX_TIME": "3:00AM 05 Jun 2025",
+                "STREETS": "STOCKLEIGH RD",
+                "SUBURBS": "LOGAN VILLAGE, STOCKLEIGH",
                 "ETR_FLAG": "N"
             }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1749041107.752419"
+    "extracted": "1749042004.98575"
 }
