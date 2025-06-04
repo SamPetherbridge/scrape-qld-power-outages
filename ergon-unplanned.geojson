@@ -10,6 +10,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.198747,
+                            -19.984112
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.187612,
+                                    -19.980824
+                                ],
+                                [
+                                    148.200796,
+                                    -19.99087
+                                ],
+                                [
+                                    148.20082,
+                                    -19.990887
+                                ],
+                                [
+                                    148.20765,
+                                    -19.995443
+                                ],
+                                [
+                                    148.208403,
+                                    -19.995104
+                                ],
+                                [
+                                    148.209882,
+                                    -19.973829
+                                ],
+                                [
+                                    148.209436,
+                                    -19.973348
+                                ],
+                                [
+                                    148.200227,
+                                    -19.972781
+                                ],
+                                [
+                                    148.199971,
+                                    -19.972833
+                                ],
+                                [
+                                    148.197653,
+                                    -19.974003
+                                ],
+                                [
+                                    148.197619,
+                                    -19.974022
+                                ],
+                                [
+                                    148.187653,
+                                    -19.980093
+                                ],
+                                [
+                                    148.187612,
+                                    -19.980824
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ7868",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "38",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "11:03AM 04 Jun 2025",
+                "EST_FIX_TIME": "6:00PM 04 Jun 2025",
+                "STREETS": "CHEFFINS RD, INVERDON RD, LOWER DON RD, MILLERS LANE, TALOONDA RD, WEEKES RD",
+                "SUBURBS": "BOWEN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -184,67 +269,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.899297,
-                            -21.144287
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ],
-                                [
-                                    148.898377,
-                                    -21.142205
-                                ],
-                                [
-                                    148.897709,
-                                    -21.142084
-                                ],
-                                [
-                                    148.89758,
-                                    -21.142711
-                                ],
-                                [
-                                    148.900217,
-                                    -21.146369
-                                ],
-                                [
-                                    148.900886,
-                                    -21.14649
-                                ],
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK3215",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "2:00PM 06 Jun 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -306,8 +330,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.198747,
-                            -19.984112
+                            148.899297,
+                            -21.144287
                         ]
                     },
                     {
@@ -315,56 +339,32 @@
                         "coordinates": [
                             [
                                 [
-                                    148.187612,
-                                    -19.980824
+                                    148.901015,
+                                    -21.145863
                                 ],
                                 [
-                                    148.200796,
-                                    -19.99087
+                                    148.898377,
+                                    -21.142205
                                 ],
                                 [
-                                    148.20082,
-                                    -19.990887
+                                    148.897709,
+                                    -21.142084
                                 ],
                                 [
-                                    148.20765,
-                                    -19.995443
+                                    148.89758,
+                                    -21.142711
                                 ],
                                 [
-                                    148.208403,
-                                    -19.995104
+                                    148.900217,
+                                    -21.146369
                                 ],
                                 [
-                                    148.209882,
-                                    -19.973829
+                                    148.900886,
+                                    -21.14649
                                 ],
                                 [
-                                    148.209436,
-                                    -19.973348
-                                ],
-                                [
-                                    148.200227,
-                                    -19.972781
-                                ],
-                                [
-                                    148.199971,
-                                    -19.972833
-                                ],
-                                [
-                                    148.197653,
-                                    -19.974003
-                                ],
-                                [
-                                    148.197619,
-                                    -19.974022
-                                ],
-                                [
-                                    148.187653,
-                                    -19.980093
-                                ],
-                                [
-                                    148.187612,
-                                    -19.980824
+                                    148.901015,
+                                    -21.145863
                                 ]
                             ]
                         ]
@@ -372,19 +372,19 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ7868",
+                "EVENT_ID": "25MK3215",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "38",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "11:03AM 04 Jun 2025",
-                "EST_FIX_TIME": "6:00PM 04 Jun 2025",
-                "STREETS": "CHEFFINS RD, INVERDON RD, LOWER DON RD, MILLERS LANE, TALOONDA RD, WEEKES RD",
-                "SUBURBS": "BOWEN"
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 06 Jun 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749016201.585497"
+    "extracted": "1749016804.574489"
 }
