@@ -209,6 +209,99 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.141598,
+                            -23.887556
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.137977,
+                                    -23.891814
+                                ],
+                                [
+                                    151.144112,
+                                    -23.893433
+                                ],
+                                [
+                                    151.14467,
+                                    -23.893227
+                                ],
+                                [
+                                    151.144888,
+                                    -23.892884
+                                ],
+                                [
+                                    151.144908,
+                                    -23.892849
+                                ],
+                                [
+                                    151.145534,
+                                    -23.891632
+                                ],
+                                [
+                                    151.145574,
+                                    -23.891368
+                                ],
+                                [
+                                    151.144949,
+                                    -23.887809
+                                ],
+                                [
+                                    151.144828,
+                                    -23.887579
+                                ],
+                                [
+                                    151.139037,
+                                    -23.881679
+                                ],
+                                [
+                                    151.13819,
+                                    -23.881906
+                                ],
+                                [
+                                    151.137835,
+                                    -23.883823
+                                ],
+                                [
+                                    151.137828,
+                                    -23.883888
+                                ],
+                                [
+                                    151.137622,
+                                    -23.89137
+                                ],
+                                [
+                                    151.137977,
+                                    -23.891814
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA8361",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "9:27AM 05 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BOYLES RD, CALLIOPE RIVER RD",
+                "SUBURBS": "WEST STOWE, YARWUN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.899297,
                             -21.144287
                         ]
@@ -346,9 +439,70 @@
                 "STREETS": "BRUCE HWY",
                 "SUBURBS": "HOME HILL"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            145.712997,
+                            -28.217235
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.716068,
+                                    -28.217208
+                                ],
+                                [
+                                    145.710086,
+                                    -28.21637
+                                ],
+                                [
+                                    145.709504,
+                                    -28.216745
+                                ],
+                                [
+                                    145.709927,
+                                    -28.217262
+                                ],
+                                [
+                                    145.715909,
+                                    -28.218099
+                                ],
+                                [
+                                    145.716491,
+                                    -28.217724
+                                ],
+                                [
+                                    145.716068,
+                                    -28.217208
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW7697",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "9:00AM 05 Jun 2025",
+                "EST_FIX_TIME": "1:00PM 05 Jun 2025",
+                "STREETS": "WEIR RD",
+                "SUBURBS": "CUNNAMULLA"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749081300.774238"
+    "extracted": "1749083401.260477"
 }
