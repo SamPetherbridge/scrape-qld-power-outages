@@ -611,12 +611,12 @@
             "properties": {
                 "EVENT_ID": "25NQ7927",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "893",
+                "CUSTOMERS_AFFECTED": "685",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Outage reported",
                 "START": "6:01PM 05 Jun 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ARRATTA RD, BERRYMAN RD, BRUCE HWY, BURDEKIN RD, CARTER RD, CHARLIES HILL RD, COPPO RD, DARVENIZA RD, DAVENPORT RD, EIGHTEENTH AVE, EIGHTH AVE, EIGHTH ST, ELEVENTH AVE, FIFTEENTH AVE, FIFTEENTH ST, FIRST ST, FORDS RD, FOURTEENTH A ST, FOURTEENTH AVE, FOURTEENTH ST, FOURTH A ST, FOURTH ST, FRYS RD, GROPER CREEK RD, HINKSON ESP, HURNEY RD, LITTLE RD, MARYPLAIN RD, MCDOWELL RD, MILL LANE, NINTH AVE, OLD GROPER CREEK RD, RAMSDEN RD, ROSSATO RD, SECOND ST, SEVENTEENTH AVE, SIXTEENTH AVE, SIXTH ST, TENTH AVE, TENTH ST, THIRD A ST, THIRD ST, THIRTEENTH AVE, TWELFTH AVE, TWELFTH ST, WATT RD, WOODS RD",
+                "STREETS": "ARRATTA RD, BERRYMAN RD, BRUCE HWY, BURDEKIN RD, CARTER RD, CHARLIES HILL RD, COPPO RD, DARVENIZA RD, DAVENPORT RD, EIGHTEENTH AVE, EIGHTH ST, ELEVENTH AVE, FIFTEENTH AVE, FIFTEENTH ST, FIRST ST, FORDS RD, FOURTEENTH A ST, FOURTEENTH AVE, FOURTEENTH ST, FOURTH A ST, FOURTH ST, FRYS RD, GROPER CREEK RD, HINKSON ESP, HURNEY RD, LITTLE RD, MARYPLAIN RD, MCDOWELL RD, MILL LANE, OLD GROPER CREEK RD, RAMSDEN RD, ROSSATO RD, SEVENTEENTH AVE, SIXTEENTH AVE, SIXTH ST, TENTH ST, THIRD A ST, THIRTEENTH AVE, TWELFTH AVE, TWELFTH ST, WATT RD, WOODS RD",
                 "SUBURBS": "BOWEN, CARSTAIRS, GROPER CREEK, HOME HILL, INKERMAN"
             }
         },
@@ -679,87 +679,6 @@
                 "EST_FIX_TIME": "2:00PM 06 Jun 2025",
                 "STREETS": "MIRANI BOLDON RD",
                 "SUBURBS": "MIRANI"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            144.923163,
-                            -15.767791
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.825215,
-                                    -15.816292
-                                ],
-                                [
-                                    144.85774,
-                                    -15.864224
-                                ],
-                                [
-                                    144.858469,
-                                    -15.864286
-                                ],
-                                [
-                                    144.925327,
-                                    -15.796018
-                                ],
-                                [
-                                    144.925362,
-                                    -15.795978
-                                ],
-                                [
-                                    145.02115,
-                                    -15.671943
-                                ],
-                                [
-                                    145.021115,
-                                    -15.671361
-                                ],
-                                [
-                                    145.020518,
-                                    -15.671296
-                                ],
-                                [
-                                    144.836648,
-                                    -15.789945
-                                ],
-                                [
-                                    144.836477,
-                                    -15.790145
-                                ],
-                                [
-                                    144.825176,
-                                    -15.815868
-                                ],
-                                [
-                                    144.825215,
-                                    -15.816292
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN6566",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "39",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
-                "START": "6:09PM 05 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ANDERSON ST, DAWSON RD, HURSE RD, MULLIGAN HWY, PENINSULA DEVELOPMENT RD, UNKNOWN ST",
-                "SUBURBS": "LAKELAND"
             }
         },
         {
@@ -870,9 +789,90 @@
                 "STREETS": "HELENS ST, PIONEER WAY, STANLEY CL, STANLEY ST",
                 "SUBURBS": "PITTSWORTH"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            144.923163,
+                            -15.767791
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    144.825215,
+                                    -15.816292
+                                ],
+                                [
+                                    144.85774,
+                                    -15.864224
+                                ],
+                                [
+                                    144.858469,
+                                    -15.864286
+                                ],
+                                [
+                                    144.925327,
+                                    -15.796018
+                                ],
+                                [
+                                    144.925362,
+                                    -15.795978
+                                ],
+                                [
+                                    145.02115,
+                                    -15.671943
+                                ],
+                                [
+                                    145.021115,
+                                    -15.671361
+                                ],
+                                [
+                                    145.020518,
+                                    -15.671296
+                                ],
+                                [
+                                    144.836648,
+                                    -15.789945
+                                ],
+                                [
+                                    144.836477,
+                                    -15.790145
+                                ],
+                                [
+                                    144.825176,
+                                    -15.815868
+                                ],
+                                [
+                                    144.825215,
+                                    -15.816292
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN6566",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "39",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews on route",
+                "START": "6:09PM 05 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ANDERSON ST, DAWSON RD, HURSE RD, MULLIGAN HWY, PENINSULA DEVELOPMENT RD, UNKNOWN ST",
+                "SUBURBS": "LAKELAND"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749117605.682233"
+    "extracted": "1749118518.896221"
 }
