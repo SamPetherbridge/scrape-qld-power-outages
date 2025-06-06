@@ -205,6 +205,136 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.899297,
+                            -21.144287
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ],
+                                [
+                                    148.898377,
+                                    -21.142205
+                                ],
+                                [
+                                    148.897709,
+                                    -21.142084
+                                ],
+                                [
+                                    148.89758,
+                                    -21.142711
+                                ],
+                                [
+                                    148.900217,
+                                    -21.146369
+                                ],
+                                [
+                                    148.900886,
+                                    -21.14649
+                                ],
+                                [
+                                    148.901015,
+                                    -21.145863
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK3215",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "6:23PM 01 Apr 2025",
+                "EST_FIX_TIME": "2:00PM 06 Jun 2025",
+                "STREETS": "MIRANI BOLDON RD",
+                "SUBURBS": "MIRANI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            145.699098,
+                            -17.380228
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.696731,
+                                    -17.378533
+                                ],
+                                [
+                                    145.697597,
+                                    -17.382027
+                                ],
+                                [
+                                    145.697971,
+                                    -17.382367
+                                ],
+                                [
+                                    145.699136,
+                                    -17.382569
+                                ],
+                                [
+                                    145.699647,
+                                    -17.382314
+                                ],
+                                [
+                                    145.701465,
+                                    -17.378528
+                                ],
+                                [
+                                    145.701027,
+                                    -17.377887
+                                ],
+                                [
+                                    145.697177,
+                                    -17.377977
+                                ],
+                                [
+                                    145.696731,
+                                    -17.378533
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN6567",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Crews working on-site",
+                "START": "9:33PM 05 Jun 2025",
+                "EST_FIX_TIME": "3:00PM 06 Jun 2025",
+                "STREETS": "GLEN ALLYN RD, TOPAZ RD",
+                "SUBURBS": "BUTCHERS CREEK, MALANDA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             145.483872,
                             -17.604782
                         ]
@@ -353,135 +483,9 @@
                 "STREETS": "CURMBU ST, GRIGG ST, HERBERT ST, JOHN ST, KERR ST, KURADILLA ST, MAJOR ST, MAZLIN ST, MCMILLAN ST, MERRIN CL, MONUMENT ST, STRANG ST, TUMOULIN RD, WAKOOKA ST, WORMBOO ST",
                 "SUBURBS": "RAVENSHOE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            145.698183,
-                            -17.380287
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.696731,
-                                    -17.378533
-                                ],
-                                [
-                                    145.697597,
-                                    -17.382027
-                                ],
-                                [
-                                    145.697971,
-                                    -17.382367
-                                ],
-                                [
-                                    145.699136,
-                                    -17.382569
-                                ],
-                                [
-                                    145.699636,
-                                    -17.381914
-                                ],
-                                [
-                                    145.697605,
-                                    -17.378218
-                                ],
-                                [
-                                    145.697023,
-                                    -17.378006
-                                ],
-                                [
-                                    145.696731,
-                                    -17.378533
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN6567",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Crews working on-site",
-                "START": "9:33PM 05 Jun 2025",
-                "EST_FIX_TIME": "3:00PM 06 Jun 2025",
-                "STREETS": "GLEN ALLYN RD",
-                "SUBURBS": "MALANDA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.899297,
-                            -21.144287
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ],
-                                [
-                                    148.898377,
-                                    -21.142205
-                                ],
-                                [
-                                    148.897709,
-                                    -21.142084
-                                ],
-                                [
-                                    148.89758,
-                                    -21.142711
-                                ],
-                                [
-                                    148.900217,
-                                    -21.146369
-                                ],
-                                [
-                                    148.900886,
-                                    -21.14649
-                                ],
-                                [
-                                    148.901015,
-                                    -21.145863
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK3215",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:23PM 01 Apr 2025",
-                "EST_FIX_TIME": "2:00PM 06 Jun 2025",
-                "STREETS": "MIRANI BOLDON RD",
-                "SUBURBS": "MIRANI"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749178200.392948"
+    "extracted": "1749180000.391249"
 }
