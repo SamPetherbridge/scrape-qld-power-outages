@@ -10,71 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.698183,
-                            -17.380287
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.696731,
-                                    -17.378533
-                                ],
-                                [
-                                    145.697597,
-                                    -17.382027
-                                ],
-                                [
-                                    145.697971,
-                                    -17.382367
-                                ],
-                                [
-                                    145.699136,
-                                    -17.382569
-                                ],
-                                [
-                                    145.699636,
-                                    -17.381914
-                                ],
-                                [
-                                    145.697605,
-                                    -17.378218
-                                ],
-                                [
-                                    145.697023,
-                                    -17.378006
-                                ],
-                                [
-                                    145.696731,
-                                    -17.378533
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN6567",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Crews working on-site",
-                "START": "9:33PM 05 Jun 2025",
-                "EST_FIX_TIME": "3:00PM 06 Jun 2025",
-                "STREETS": "GLEN ALLYN RD",
-                "SUBURBS": "MALANDA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -358,6 +293,71 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            145.698183,
+                            -17.380287
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.696731,
+                                    -17.378533
+                                ],
+                                [
+                                    145.697597,
+                                    -17.382027
+                                ],
+                                [
+                                    145.697971,
+                                    -17.382367
+                                ],
+                                [
+                                    145.699136,
+                                    -17.382569
+                                ],
+                                [
+                                    145.699636,
+                                    -17.381914
+                                ],
+                                [
+                                    145.697605,
+                                    -17.378218
+                                ],
+                                [
+                                    145.697023,
+                                    -17.378006
+                                ],
+                                [
+                                    145.696731,
+                                    -17.378533
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN6567",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Crews working on-site",
+                "START": "9:33PM 05 Jun 2025",
+                "EST_FIX_TIME": "3:00PM 06 Jun 2025",
+                "STREETS": "GLEN ALLYN RD",
+                "SUBURBS": "MALANDA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.899297,
                             -21.144287
                         ]
@@ -414,5 +414,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749171301.649145"
+    "extracted": "1749173700.40377"
 }
