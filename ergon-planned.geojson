@@ -28,27 +28,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.499162,
-                    -23.370497
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA6417",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "10:12AM 06 Jun 2025",
-                "EST_FIX_TIME": "5:00PM 06 Jun 2025",
-                "STREETS": "BADEN POWELL ST, CAMPBELL ST",
-                "SUBURBS": "WANDAL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.32031,
                     -27.543171
                 ]
@@ -64,9 +43,30 @@
                 "STREETS": "BARLOWS RD, MCPHERSON RD, TOOWOOMBA CECIL PLAINS RD",
                 "SUBURBS": "CECIL PLAINS, NORWIN"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.499162,
+                    -23.370497
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA6417",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "10:12AM 06 Jun 2025",
+                "EST_FIX_TIME": "5:00PM 06 Jun 2025",
+                "STREETS": "BADEN POWELL ST, CAMPBELL ST",
+                "SUBURBS": "WANDAL"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749187501.607257"
+    "extracted": "1749188103.071268"
 }
