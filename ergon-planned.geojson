@@ -1,8 +1,30 @@
 {
     "type": "FeatureCollection",
     "name": "PLANNED",
-    "features": [],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.186644,
+                    -21.15052
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK4300",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "The loss of supply is to connect new customers to the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "7:20PM 07 Jun 2025",
+                "EST_FIX_TIME": "5:00AM 08 Jun 2025",
+                "STREETS": "THIRTEENTH LANE",
+                "SUBURBS": "MACKAY"
+            }
+        }
+    ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749287401.877967"
+    "extracted": "1749288001.852824"
 }
