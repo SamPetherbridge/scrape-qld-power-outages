@@ -10,6 +10,71 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.699133,
+                            -25.58559
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.694909,
+                                    -25.586207
+                                ],
+                                [
+                                    152.703,
+                                    -25.589067
+                                ],
+                                [
+                                    152.703578,
+                                    -25.588916
+                                ],
+                                [
+                                    152.703571,
+                                    -25.588371
+                                ],
+                                [
+                                    152.69818,
+                                    -25.582114
+                                ],
+                                [
+                                    152.697387,
+                                    -25.582128
+                                ],
+                                [
+                                    152.694687,
+                                    -25.585525
+                                ],
+                                [
+                                    152.694909,
+                                    -25.586207
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB6460",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "3:40AM 09 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "LANGER RD, MAYFAIR ST, NERADA RD",
+                "SUBURBS": "BIDWILL, TINANA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -188,74 +253,9 @@
                 "STREETS": "MIRANI BOLDON RD",
                 "SUBURBS": "MIRANI"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.699133,
-                            -25.58559
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.694909,
-                                    -25.586207
-                                ],
-                                [
-                                    152.703,
-                                    -25.589067
-                                ],
-                                [
-                                    152.703578,
-                                    -25.588916
-                                ],
-                                [
-                                    152.703571,
-                                    -25.588371
-                                ],
-                                [
-                                    152.69818,
-                                    -25.582114
-                                ],
-                                [
-                                    152.697387,
-                                    -25.582128
-                                ],
-                                [
-                                    152.694687,
-                                    -25.585525
-                                ],
-                                [
-                                    152.694909,
-                                    -25.586207
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB6460",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "3:40AM 09 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "LANGER RD, MAYFAIR ST, NERADA RD",
-                "SUBURBS": "BIDWILL, TINANA"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749413700.760225"
+    "extracted": "1749414300.372497"
 }
