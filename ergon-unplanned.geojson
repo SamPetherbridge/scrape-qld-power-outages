@@ -10,107 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.086804,
-                            -20.07217
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.056006,
-                                    -20.082545
-                                ],
-                                [
-                                    148.05788,
-                                    -20.085834
-                                ],
-                                [
-                                    148.058239,
-                                    -20.086068
-                                ],
-                                [
-                                    148.10231,
-                                    -20.091459
-                                ],
-                                [
-                                    148.102623,
-                                    -20.091395
-                                ],
-                                [
-                                    148.108203,
-                                    -20.088137
-                                ],
-                                [
-                                    148.108367,
-                                    -20.087976
-                                ],
-                                [
-                                    148.117604,
-                                    -20.072641
-                                ],
-                                [
-                                    148.117651,
-                                    -20.072306
-                                ],
-                                [
-                                    148.114185,
-                                    -20.059532
-                                ],
-                                [
-                                    148.114142,
-                                    -20.059428
-                                ],
-                                [
-                                    148.110497,
-                                    -20.053117
-                                ],
-                                [
-                                    148.110071,
-                                    -20.052882
-                                ],
-                                [
-                                    148.061973,
-                                    -20.053462
-                                ],
-                                [
-                                    148.061508,
-                                    -20.053832
-                                ],
-                                [
-                                    148.055957,
-                                    -20.082249
-                                ],
-                                [
-                                    148.056006,
-                                    -20.082545
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ7908",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "36",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "7:39PM 02 Jun 2025",
-                "EST_FIX_TIME": "1:00PM 09 Jun 2025",
-                "STREETS": "ARRATTA RD, EAST EURI RD, PENNSFIELD STATION, PENSFIELD STATION, PETER DELAMOTHE RD, SUMMER HILLS RD",
-                "SUBURBS": "BOWEN"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -231,6 +130,107 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "LANGER RD, MAYFAIR ST, NERADA RD",
                 "SUBURBS": "BIDWILL, TINANA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.086804,
+                            -20.07217
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.056006,
+                                    -20.082545
+                                ],
+                                [
+                                    148.05788,
+                                    -20.085834
+                                ],
+                                [
+                                    148.058239,
+                                    -20.086068
+                                ],
+                                [
+                                    148.10231,
+                                    -20.091459
+                                ],
+                                [
+                                    148.102623,
+                                    -20.091395
+                                ],
+                                [
+                                    148.108203,
+                                    -20.088137
+                                ],
+                                [
+                                    148.108367,
+                                    -20.087976
+                                ],
+                                [
+                                    148.117604,
+                                    -20.072641
+                                ],
+                                [
+                                    148.117651,
+                                    -20.072306
+                                ],
+                                [
+                                    148.114185,
+                                    -20.059532
+                                ],
+                                [
+                                    148.114142,
+                                    -20.059428
+                                ],
+                                [
+                                    148.110497,
+                                    -20.053117
+                                ],
+                                [
+                                    148.110071,
+                                    -20.052882
+                                ],
+                                [
+                                    148.061973,
+                                    -20.053462
+                                ],
+                                [
+                                    148.061508,
+                                    -20.053832
+                                ],
+                                [
+                                    148.055957,
+                                    -20.082249
+                                ],
+                                [
+                                    148.056006,
+                                    -20.082545
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ7908",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "36",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "7:39PM 02 Jun 2025",
+                "EST_FIX_TIME": "1:00PM 09 Jun 2025",
+                "STREETS": "ARRATTA RD, EAST EURI RD, PENNSFIELD STATION, PENSFIELD STATION, PETER DELAMOTHE RD, SUMMER HILLS RD",
+                "SUBURBS": "BOWEN"
             }
         },
         {
@@ -432,7 +432,7 @@
                 "EVENT_ID": "25MK4693",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "56",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
                 "STATUS": "Outage reported",
                 "START": "9:01AM 09 Jun 2025",
                 "EST_FIX_TIME": "Under Investigation",
@@ -504,5 +504,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749423901.594883"
+    "extracted": "1749424502.189844"
 }
