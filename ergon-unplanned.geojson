@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.207433,
-                            -18.981624
+                            151.857334,
+                            -27.688492
                         ]
                     },
                     {
@@ -19,32 +19,40 @@
                         "coordinates": [
                             [
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    151.857274,
+                                    -27.689982
                                 ],
                                 [
-                                    146.197621,
-                                    -18.979466
+                                    151.85835,
+                                    -27.687302
                                 ],
                                 [
-                                    146.197069,
-                                    -18.97983
+                                    151.858045,
+                                    -27.686727
                                 ],
                                 [
-                                    146.197451,
-                                    -18.980355
+                                    151.857398,
+                                    -27.686997
                                 ],
                                 [
-                                    146.217246,
-                                    -18.983782
+                                    151.856582,
+                                    -27.688991
                                 ],
                                 [
-                                    146.217798,
-                                    -18.983418
+                                    151.856578,
+                                    -27.689001
                                 ],
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    151.856318,
+                                    -27.689687
+                                ],
+                                [
+                                    151.856632,
+                                    -27.690256
+                                ],
+                                [
+                                    151.857274,
+                                    -27.689982
                                 ]
                             ]
                         ]
@@ -52,15 +60,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ1993",
+                "EVENT_ID": "25SW8002",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 30 Jul 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews on route",
+                "START": "10:53AM 09 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "WYREEMA CAMBOOYA RD",
+                "SUBURBS": "CAMBOOYA"
             }
         },
         {
@@ -306,6 +314,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 30 Jul 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.899297,
                             -21.144287
                         ]
@@ -357,6 +426,83 @@
                 "EST_FIX_TIME": "2:00PM 13 Jun 2025",
                 "STREETS": "MIRANI BOLDON RD",
                 "SUBURBS": "MIRANI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.380734,
+                            -21.899909
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.370756,
+                                    -21.903922
+                                ],
+                                [
+                                    148.381802,
+                                    -21.902389
+                                ],
+                                [
+                                    148.381888,
+                                    -21.902369
+                                ],
+                                [
+                                    148.391142,
+                                    -21.899402
+                                ],
+                                [
+                                    148.391249,
+                                    -21.898596
+                                ],
+                                [
+                                    148.386904,
+                                    -21.895957
+                                ],
+                                [
+                                    148.386532,
+                                    -21.895896
+                                ],
+                                [
+                                    148.371745,
+                                    -21.899041
+                                ],
+                                [
+                                    148.371386,
+                                    -21.899363
+                                ],
+                                [
+                                    148.370218,
+                                    -21.903357
+                                ],
+                                [
+                                    148.370756,
+                                    -21.903922
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK4693",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "8",
+                "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
+                "STATUS": "Crews working on-site",
+                "START": "9:01AM 09 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "GOONYELLA HAY POINT LINE, MATHIESON ST, PEAK DOWNS HWY, WILLS ST",
+                "SUBURBS": "COPPABELLA, MORANBAH"
             }
         },
         {
@@ -452,83 +598,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.380734,
-                            -21.899909
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.370756,
-                                    -21.903922
-                                ],
-                                [
-                                    148.381802,
-                                    -21.902389
-                                ],
-                                [
-                                    148.381888,
-                                    -21.902369
-                                ],
-                                [
-                                    148.391142,
-                                    -21.899402
-                                ],
-                                [
-                                    148.391249,
-                                    -21.898596
-                                ],
-                                [
-                                    148.386904,
-                                    -21.895957
-                                ],
-                                [
-                                    148.386532,
-                                    -21.895896
-                                ],
-                                [
-                                    148.371745,
-                                    -21.899041
-                                ],
-                                [
-                                    148.371386,
-                                    -21.899363
-                                ],
-                                [
-                                    148.370218,
-                                    -21.903357
-                                ],
-                                [
-                                    148.370756,
-                                    -21.903922
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK4693",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "8",
-                "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
-                "STATUS": "Crews working on-site",
-                "START": "9:01AM 09 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "GOONYELLA HAY POINT LINE, MATHIESON ST, PEAK DOWNS HWY, WILLS ST",
-                "SUBURBS": "COPPABELLA, MORANBAH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.084094,
                             -25.042387
                         ]
@@ -585,5 +654,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749430804.782738"
+    "extracted": "1749432900.314571"
 }

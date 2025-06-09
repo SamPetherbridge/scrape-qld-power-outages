@@ -10,60 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.973401,
-                            -27.599853
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.973908,
-                                    -27.599853
-                                ],
-                                [
-                                    152.973401,
-                                    -27.599401
-                                ],
-                                [
-                                    152.972894,
-                                    -27.599853
-                                ],
-                                [
-                                    152.973401,
-                                    -27.600304
-                                ],
-                                [
-                                    152.973908,
-                                    -27.599853
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-867147-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "7:07AM 09 Jun 2025",
-                "EST_FIX_TIME": "12:00PM 09 Jun 2025",
-                "STREETS": "CORSAIR AVE",
-                "SUBURBS": "INALA",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.043018,
                             -27.530756
                         ]
@@ -152,14 +98,68 @@
                 "REASON": "Under Investigation",
                 "STATUS": "Awaiting",
                 "START": "7:10AM 09 Jun 2025",
-                "EST_FIX_TIME": "12:00PM 09 Jun 2025",
+                "EST_FIX_TIME": "12:30PM 09 Jun 2025",
                 "STREETS": "BRAMSTON ST, PRING ST, PRIOR ST, THORNYCROFT ST, TOOHEY RD, WINDMILL ST",
                 "SUBURBS": "TARRAGINDI",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.973401,
+                            -27.599853
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.973908,
+                                    -27.599853
+                                ],
+                                [
+                                    152.973401,
+                                    -27.599401
+                                ],
+                                [
+                                    152.972894,
+                                    -27.599853
+                                ],
+                                [
+                                    152.973401,
+                                    -27.600304
+                                ],
+                                [
+                                    152.973908,
+                                    -27.599853
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-867147-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "7:07AM 09 Jun 2025",
+                "EST_FIX_TIME": "12:30PM 09 Jun 2025",
+                "STREETS": "CORSAIR AVE",
+                "SUBURBS": "INALA",
                 "ETR_FLAG": "N"
             }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1749430834.065163"
+    "extracted": "1749433200.951397"
 }
