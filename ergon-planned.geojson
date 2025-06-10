@@ -7,27 +7,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    151.992467,
-                    -26.677524
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB5074",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "65",
-                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-                "STATUS": "Crews working on-site",
-                "START": "8:30AM 10 Jun 2025",
-                "EST_FIX_TIME": "4:00PM 10 Jun 2025",
-                "STREETS": "ARTHUR ST, ARTHUR ST W, CAIRNS ST, CHESTER ST, CONROY ST, WILLS ST",
-                "SUBURBS": "NANANGO"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.875096,
                     -27.374414
                 ]
@@ -85,9 +64,30 @@
                 "STREETS": "ACHERON AVE, NATHAN ST, ROSS RIVER RD",
                 "SUBURBS": "AITKENVALE, CRANBROOK"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.992467,
+                    -26.677524
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB5074",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "65",
+                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+                "STATUS": "Crews working on-site",
+                "START": "8:30AM 10 Jun 2025",
+                "EST_FIX_TIME": "4:00PM 10 Jun 2025",
+                "STREETS": "ARTHUR ST, ARTHUR ST W, CAIRNS ST, CHESTER ST, CONROY ST, WILLS ST",
+                "SUBURBS": "NANANGO"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749534302.80509"
+    "extracted": "1749534602.511242"
 }
