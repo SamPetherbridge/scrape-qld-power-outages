@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            150.378095,
-                            -24.147028
+                            143.199868,
+                            -13.944491
                         ]
                     },
                     {
@@ -19,40 +19,68 @@
                         "coordinates": [
                             [
                                 [
-                                    150.373206,
-                                    -24.150229
+                                    143.198213,
+                                    -13.944165
                                 ],
                                 [
-                                    150.383409,
-                                    -24.144795
+                                    143.199077,
+                                    -13.944734
                                 ],
                                 [
-                                    150.383641,
-                                    -24.144302
+                                    143.199105,
+                                    -13.94475
                                 ],
                                 [
-                                    150.383193,
-                                    -24.143955
+                                    143.200508,
+                                    -13.945542
                                 ],
                                 [
-                                    150.380957,
-                                    -24.143827
+                                    143.200698,
+                                    -13.9456
                                 ],
                                 [
-                                    150.380628,
-                                    -24.143918
+                                    143.201166,
+                                    -13.945641
                                 ],
                                 [
-                                    150.372661,
-                                    -24.14948
+                                    143.201356,
+                                    -13.945619
                                 ],
                                 [
-                                    150.37255,
-                                    -24.150089
+                                    143.201467,
+                                    -13.945582
                                 ],
                                 [
-                                    150.373206,
-                                    -24.150229
+                                    143.201701,
+                                    -13.944902
+                                ],
+                                [
+                                    143.20093,
+                                    -13.943791
+                                ],
+                                [
+                                    143.200619,
+                                    -13.943598
+                                ],
+                                [
+                                    143.199382,
+                                    -13.943409
+                                ],
+                                [
+                                    143.199346,
+                                    -13.943405
+                                ],
+                                [
+                                    143.198507,
+                                    -13.943341
+                                ],
+                                [
+                                    143.198035,
+                                    -13.943642
+                                ],
+                                [
+                                    143.198213,
+                                    -13.944165
                                 ]
                             ]
                         ]
@@ -60,15 +88,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA8569",
+                "EVENT_ID": "25FN6723",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
+                "CUSTOMERS_AFFECTED": "15",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "8:46PM 10 Jun 2025",
+                "STATUS": "Crews on route",
+                "START": "4:22PM 10 Jun 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "FIVE-WAYS-MT EUGENE RD, OFF BURNETT HWY",
-                "SUBURBS": "GOOVIGEN, JAMBIN"
+                "STREETS": "ARMBRUST ST, MUNNKEN ST, REGENT ST",
+                "SUBURBS": "COEN"
             }
         },
         {
@@ -330,103 +358,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.199868,
-                            -13.944491
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    143.198213,
-                                    -13.944165
-                                ],
-                                [
-                                    143.199077,
-                                    -13.944734
-                                ],
-                                [
-                                    143.199105,
-                                    -13.94475
-                                ],
-                                [
-                                    143.200508,
-                                    -13.945542
-                                ],
-                                [
-                                    143.200698,
-                                    -13.9456
-                                ],
-                                [
-                                    143.201166,
-                                    -13.945641
-                                ],
-                                [
-                                    143.201356,
-                                    -13.945619
-                                ],
-                                [
-                                    143.201467,
-                                    -13.945582
-                                ],
-                                [
-                                    143.201701,
-                                    -13.944902
-                                ],
-                                [
-                                    143.20093,
-                                    -13.943791
-                                ],
-                                [
-                                    143.200619,
-                                    -13.943598
-                                ],
-                                [
-                                    143.199382,
-                                    -13.943409
-                                ],
-                                [
-                                    143.199346,
-                                    -13.943405
-                                ],
-                                [
-                                    143.198507,
-                                    -13.943341
-                                ],
-                                [
-                                    143.198035,
-                                    -13.943642
-                                ],
-                                [
-                                    143.198213,
-                                    -13.944165
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN6723",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "15",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
-                "START": "4:22PM 10 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ARMBRUST ST, MUNNKEN ST, REGENT ST",
-                "SUBURBS": "COEN"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -568,5 +499,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749591300.267334"
+    "extracted": "1749591602.218974"
 }
