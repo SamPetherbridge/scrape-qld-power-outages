@@ -10,116 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.369615,
-                            -26.985489
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.333369,
-                                    -26.928056
-                                ],
-                                [
-                                    152.338325,
-                                    -26.98454
-                                ],
-                                [
-                                    152.338325,
-                                    -26.984543
-                                ],
-                                [
-                                    152.3396,
-                                    -26.997765
-                                ],
-                                [
-                                    152.339692,
-                                    -26.997989
-                                ],
-                                [
-                                    152.360925,
-                                    -27.024564
-                                ],
-                                [
-                                    152.36095,
-                                    -27.024594
-                                ],
-                                [
-                                    152.379607,
-                                    -27.044275
-                                ],
-                                [
-                                    152.380408,
-                                    -27.044237
-                                ],
-                                [
-                                    152.39286,
-                                    -27.027891
-                                ],
-                                [
-                                    152.392907,
-                                    -27.027815
-                                ],
-                                [
-                                    152.405846,
-                                    -27.000877
-                                ],
-                                [
-                                    152.405861,
-                                    -27.000556
-                                ],
-                                [
-                                    152.38141,
-                                    -26.934728
-                                ],
-                                [
-                                    152.381103,
-                                    -26.934446
-                                ],
-                                [
-                                    152.357325,
-                                    -26.926729
-                                ],
-                                [
-                                    152.357132,
-                                    -26.926702
-                                ],
-                                [
-                                    152.33385,
-                                    -26.92757
-                                ],
-                                [
-                                    152.333369,
-                                    -26.928056
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-867969-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "146",
-                "REASON": "Powerlines down",
-                "STATUS": "Awaiting",
-                "START": "6:59AM 12 Jun 2025",
-                "EST_FIX_TIME": "10:00AM 12 Jun 2025",
-                "STREETS": "ANN ST, BRAEMORE LANE, BRISBANE VALLEY HWY, CAMBROOK RD, D'AGUILAR HWY, FOGGS RD, GREGORS CREEK RD, HOLLAND RD, IVORY CREEK RD, JOSEY RD, MARGARET ST, NURINDA RD, O'LEARYS LANE, RUCKERS LANE, SINNAMONS LANE, STAGHURST RD, TOM ST, TURTLE CREEK RD, UNNAMED RD",
-                "SUBURBS": "BRAEMORE, COLINTON, GREGORS CREEK, HARLIN, TOOGOOLAWAH, YIMBUN",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.970017,
                             -26.464115
                         ]
@@ -182,11 +72,129 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "26",
                 "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
+                "STATUS": "In Progress",
                 "START": "5:15AM 12 Jun 2025",
                 "EST_FIX_TIME": "8:30AM 12 Jun 2025",
                 "STREETS": "CASH RD, TUCKEROO LANE",
                 "SUBURBS": "EUMUNDI, VERRIERDALE",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.372086,
+                            -27.007355
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.338325,
+                                    -26.984543
+                                ],
+                                [
+                                    152.3396,
+                                    -26.997765
+                                ],
+                                [
+                                    152.339692,
+                                    -26.997989
+                                ],
+                                [
+                                    152.360925,
+                                    -27.024564
+                                ],
+                                [
+                                    152.36095,
+                                    -27.024594
+                                ],
+                                [
+                                    152.379607,
+                                    -27.044275
+                                ],
+                                [
+                                    152.380408,
+                                    -27.044237
+                                ],
+                                [
+                                    152.39286,
+                                    -27.027891
+                                ],
+                                [
+                                    152.392907,
+                                    -27.027815
+                                ],
+                                [
+                                    152.405846,
+                                    -27.000877
+                                ],
+                                [
+                                    152.405806,
+                                    -27.000453
+                                ],
+                                [
+                                    152.399265,
+                                    -26.991416
+                                ],
+                                [
+                                    152.39912,
+                                    -26.991285
+                                ],
+                                [
+                                    152.363934,
+                                    -26.970494
+                                ],
+                                [
+                                    152.363522,
+                                    -26.970436
+                                ],
+                                [
+                                    152.35434,
+                                    -26.972705
+                                ],
+                                [
+                                    152.354298,
+                                    -26.972718
+                                ],
+                                [
+                                    152.344222,
+                                    -26.976093
+                                ],
+                                [
+                                    152.343971,
+                                    -26.976277
+                                ],
+                                [
+                                    152.3384,
+                                    -26.984265
+                                ],
+                                [
+                                    152.338325,
+                                    -26.984543
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-867969-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "101",
+                "REASON": "Powerlines down",
+                "STATUS": "Awaiting",
+                "START": "6:59AM 12 Jun 2025",
+                "EST_FIX_TIME": "10:00AM 12 Jun 2025",
+                "STREETS": "ANN ST, BRAEMORE LANE, BRISBANE VALLEY HWY, FOGGS RD, GREGORS CREEK RD, IVORY CREEK RD, JOSEY RD, MARGARET ST, O'LEARYS LANE, STAGHURST RD, TOM ST",
+                "SUBURBS": "BRAEMORE, GREGORS CREEK, HARLIN, TOOGOOLAWAH, YIMBUN",
                 "ETR_FLAG": "N"
             }
         },
@@ -413,5 +421,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1749677700.387886"
+    "extracted": "1749678000.440367"
 }
