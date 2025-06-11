@@ -10,6 +10,115 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.723719,
+                            -25.54438
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.721498,
+                                    -25.543827
+                                ],
+                                [
+                                    152.722747,
+                                    -25.545511
+                                ],
+                                [
+                                    152.722811,
+                                    -25.545581
+                                ],
+                                [
+                                    152.723239,
+                                    -25.545963
+                                ],
+                                [
+                                    152.723369,
+                                    -25.546046
+                                ],
+                                [
+                                    152.725154,
+                                    -25.546841
+                                ],
+                                [
+                                    152.725838,
+                                    -25.546591
+                                ],
+                                [
+                                    152.725981,
+                                    -25.546235
+                                ],
+                                [
+                                    152.725978,
+                                    -25.545921
+                                ],
+                                [
+                                    152.724819,
+                                    -25.543148
+                                ],
+                                [
+                                    152.724649,
+                                    -25.542945
+                                ],
+                                [
+                                    152.723426,
+                                    -25.542131
+                                ],
+                                [
+                                    152.723374,
+                                    -25.5421
+                                ],
+                                [
+                                    152.723016,
+                                    -25.541919
+                                ],
+                                [
+                                    152.722417,
+                                    -25.542001
+                                ],
+                                [
+                                    152.721966,
+                                    -25.542427
+                                ],
+                                [
+                                    152.721871,
+                                    -25.542554
+                                ],
+                                [
+                                    152.721457,
+                                    -25.543392
+                                ],
+                                [
+                                    152.721498,
+                                    -25.543827
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB6591",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "83",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "5:18PM 11 Jun 2025",
+                "EST_FIX_TIME": "11:00PM 11 Jun 2025",
+                "STREETS": "ARNAUD ST, HILLCREST AVE, HOFFMAN ST, JOCELYN PDE",
+                "SUBURBS": "GRANVILLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -168,115 +277,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.723719,
-                            -25.54438
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.721498,
-                                    -25.543827
-                                ],
-                                [
-                                    152.722747,
-                                    -25.545511
-                                ],
-                                [
-                                    152.722811,
-                                    -25.545581
-                                ],
-                                [
-                                    152.723239,
-                                    -25.545963
-                                ],
-                                [
-                                    152.723369,
-                                    -25.546046
-                                ],
-                                [
-                                    152.725154,
-                                    -25.546841
-                                ],
-                                [
-                                    152.725838,
-                                    -25.546591
-                                ],
-                                [
-                                    152.725981,
-                                    -25.546235
-                                ],
-                                [
-                                    152.725978,
-                                    -25.545921
-                                ],
-                                [
-                                    152.724819,
-                                    -25.543148
-                                ],
-                                [
-                                    152.724649,
-                                    -25.542945
-                                ],
-                                [
-                                    152.723426,
-                                    -25.542131
-                                ],
-                                [
-                                    152.723374,
-                                    -25.5421
-                                ],
-                                [
-                                    152.723016,
-                                    -25.541919
-                                ],
-                                [
-                                    152.722417,
-                                    -25.542001
-                                ],
-                                [
-                                    152.721966,
-                                    -25.542427
-                                ],
-                                [
-                                    152.721871,
-                                    -25.542554
-                                ],
-                                [
-                                    152.721457,
-                                    -25.543392
-                                ],
-                                [
-                                    152.721498,
-                                    -25.543827
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB6591",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "83",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "5:18PM 11 Jun 2025",
-                "EST_FIX_TIME": "11:00PM 11 Jun 2025",
-                "STREETS": "ARNAUD ST, HILLCREST AVE, HOFFMAN ST, JOCELYN PDE",
-                "SUBURBS": "GRANVILLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -328,6 +328,91 @@
                 "EST_FIX_TIME": "6:00PM 09 Jul 2025",
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.223439,
+                            -23.929581
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.220192,
+                                    -23.929619
+                                ],
+                                [
+                                    151.220866,
+                                    -23.931001
+                                ],
+                                [
+                                    151.221463,
+                                    -23.931246
+                                ],
+                                [
+                                    151.225289,
+                                    -23.930112
+                                ],
+                                [
+                                    151.225445,
+                                    -23.930035
+                                ],
+                                [
+                                    151.226572,
+                                    -23.929205
+                                ],
+                                [
+                                    151.226727,
+                                    -23.928702
+                                ],
+                                [
+                                    151.226537,
+                                    -23.928213
+                                ],
+                                [
+                                    151.226038,
+                                    -23.927916
+                                ],
+                                [
+                                    151.220635,
+                                    -23.928298
+                                ],
+                                [
+                                    151.220183,
+                                    -23.928728
+                                ],
+                                [
+                                    151.22015,
+                                    -23.929416
+                                ],
+                                [
+                                    151.220192,
+                                    -23.929619
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA8614",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "15",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews on route",
+                "START": "6:58PM 11 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "HADDOCK DR, WILLIAMS RD",
+                "SUBURBS": "BURUA"
             }
         },
         {
@@ -418,94 +503,9 @@
                 "STREETS": "NOTCH POINT RD",
                 "SUBURBS": "ILBILBIE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.223439,
-                            -23.929581
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.220192,
-                                    -23.929619
-                                ],
-                                [
-                                    151.220866,
-                                    -23.931001
-                                ],
-                                [
-                                    151.221463,
-                                    -23.931246
-                                ],
-                                [
-                                    151.225289,
-                                    -23.930112
-                                ],
-                                [
-                                    151.225445,
-                                    -23.930035
-                                ],
-                                [
-                                    151.226572,
-                                    -23.929205
-                                ],
-                                [
-                                    151.226727,
-                                    -23.928702
-                                ],
-                                [
-                                    151.226537,
-                                    -23.928213
-                                ],
-                                [
-                                    151.226038,
-                                    -23.927916
-                                ],
-                                [
-                                    151.220635,
-                                    -23.928298
-                                ],
-                                [
-                                    151.220183,
-                                    -23.928728
-                                ],
-                                [
-                                    151.22015,
-                                    -23.929416
-                                ],
-                                [
-                                    151.220192,
-                                    -23.929619
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA8614",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "15",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
-                "START": "6:58PM 11 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "HADDOCK DR, WILLIAMS RD",
-                "SUBURBS": "BURUA"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749636003.551514"
+    "extracted": "1749636601.988698"
 }
