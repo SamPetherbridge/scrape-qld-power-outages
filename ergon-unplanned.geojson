@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.727889,
-                            -27.43534
+                            152.637525,
+                            -25.853466
                         ]
                     },
                     {
@@ -19,56 +19,48 @@
                         "coordinates": [
                             [
                                 [
-                                    151.725133,
-                                    -27.434164
+                                    152.635873,
+                                    -25.854625
                                 ],
                                 [
-                                    151.725754,
-                                    -27.436355
+                                    152.636525,
+                                    -25.855187
                                 ],
                                 [
-                                    151.725999,
-                                    -27.436638
+                                    152.637265,
+                                    -25.855133
                                 ],
                                 [
-                                    151.728656,
-                                    -27.437953
+                                    152.638057,
+                                    -25.854181
                                 ],
                                 [
-                                    151.729241,
-                                    -27.437891
+                                    152.638072,
+                                    -25.854163
                                 ],
                                 [
-                                    151.730535,
-                                    -27.436838
+                                    152.639286,
+                                    -25.852539
                                 ],
                                 [
-                                    151.730644,
-                                    -27.436301
+                                    152.638906,
+                                    -25.851838
                                 ],
                                 [
-                                    151.729027,
-                                    -27.433465
+                                    152.637295,
+                                    -25.851744
                                 ],
                                 [
-                                    151.72869,
-                                    -27.433231
+                                    152.636809,
+                                    -25.852009
                                 ],
                                 [
-                                    151.726221,
-                                    -27.432728
+                                    152.635763,
+                                    -25.854115
                                 ],
                                 [
-                                    151.725656,
-                                    -27.432969
-                                ],
-                                [
-                                    151.725169,
-                                    -27.433856
-                                ],
-                                [
-                                    151.725133,
-                                    -27.434164
+                                    152.635873,
+                                    -25.854625
                                 ]
                             ]
                         ]
@@ -76,80 +68,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW8227",
+                "EVENT_ID": "25WB6634",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "62",
+                "CUSTOMERS_AFFECTED": "10",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "7:41PM 12 Jun 2025",
+                "STATUS": "Outage reported",
+                "START": "6:18PM 12 Jun 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BRIDGE ST, CAMPBELL ST, CLARKE ST, FEDERAL ST, GLADSBY ST, HAMLYN RD, KENT ST",
-                "SUBURBS": "OAKEY"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 11 Jul 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
+                "STREETS": "MYNTJE RD, VAN HENSBROEK RD",
+                "SUBURBS": "BAUPLE"
             }
         },
         {
@@ -277,6 +204,71 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 11 Jul 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             144.488077,
                             -21.516873
                         ]
@@ -386,83 +378,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.637525,
-                            -25.853466
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.635873,
-                                    -25.854625
-                                ],
-                                [
-                                    152.636525,
-                                    -25.855187
-                                ],
-                                [
-                                    152.637265,
-                                    -25.855133
-                                ],
-                                [
-                                    152.638057,
-                                    -25.854181
-                                ],
-                                [
-                                    152.638072,
-                                    -25.854163
-                                ],
-                                [
-                                    152.639286,
-                                    -25.852539
-                                ],
-                                [
-                                    152.638906,
-                                    -25.851838
-                                ],
-                                [
-                                    152.637295,
-                                    -25.851744
-                                ],
-                                [
-                                    152.636809,
-                                    -25.852009
-                                ],
-                                [
-                                    152.635763,
-                                    -25.854115
-                                ],
-                                [
-                                    152.635873,
-                                    -25.854625
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB6634",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "6:18PM 12 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "MYNTJE RD, VAN HENSBROEK RD",
-                "SUBURBS": "BAUPLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -514,6 +429,91 @@
                 "EST_FIX_TIME": "6:00PM 09 Jul 2025",
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.727889,
+                            -27.43534
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.725133,
+                                    -27.434164
+                                ],
+                                [
+                                    151.725754,
+                                    -27.436355
+                                ],
+                                [
+                                    151.725999,
+                                    -27.436638
+                                ],
+                                [
+                                    151.728656,
+                                    -27.437953
+                                ],
+                                [
+                                    151.729241,
+                                    -27.437891
+                                ],
+                                [
+                                    151.730535,
+                                    -27.436838
+                                ],
+                                [
+                                    151.730644,
+                                    -27.436301
+                                ],
+                                [
+                                    151.729027,
+                                    -27.433465
+                                ],
+                                [
+                                    151.72869,
+                                    -27.433231
+                                ],
+                                [
+                                    151.726221,
+                                    -27.432728
+                                ],
+                                [
+                                    151.725656,
+                                    -27.432969
+                                ],
+                                [
+                                    151.725169,
+                                    -27.433856
+                                ],
+                                [
+                                    151.725133,
+                                    -27.434164
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW8227",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "62",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "7:41PM 12 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRIDGE ST, CAMPBELL ST, CLARKE ST, FEDERAL ST, GLADSBY ST, HAMLYN RD, KENT ST",
+                "SUBURBS": "OAKEY"
             }
         },
         {
@@ -660,5 +660,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749725702.142979"
+    "extracted": "1749726338.285568"
 }
