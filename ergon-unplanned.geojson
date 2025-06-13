@@ -10,75 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            139.510092,
-                            -20.704519
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    139.509195,
-                                    -20.704657
-                                ],
-                                [
-                                    139.510016,
-                                    -20.705133
-                                ],
-                                [
-                                    139.510373,
-                                    -20.705188
-                                ],
-                                [
-                                    139.510802,
-                                    -20.705095
-                                ],
-                                [
-                                    139.511171,
-                                    -20.704678
-                                ],
-                                [
-                                    139.510842,
-                                    -20.704232
-                                ],
-                                [
-                                    139.509592,
-                                    -20.703849
-                                ],
-                                [
-                                    139.509012,
-                                    -20.704087
-                                ],
-                                [
-                                    139.509195,
-                                    -20.704657
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ8229",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
-                "START": "8:20PM 13 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "SPORTS PDE, SUNSET DR",
-                "SUBURBS": "MOUNT ISA, SUNSET"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -195,6 +126,83 @@
                 "EST_FIX_TIME": "9:30AM 11 Jul 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            139.507507,
+                            -20.704513
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    139.504289,
+                                    -20.70485
+                                ],
+                                [
+                                    139.510237,
+                                    -20.705199
+                                ],
+                                [
+                                    139.510373,
+                                    -20.705188
+                                ],
+                                [
+                                    139.510802,
+                                    -20.705095
+                                ],
+                                [
+                                    139.511171,
+                                    -20.704678
+                                ],
+                                [
+                                    139.510842,
+                                    -20.704232
+                                ],
+                                [
+                                    139.509592,
+                                    -20.703849
+                                ],
+                                [
+                                    139.509432,
+                                    -20.703827
+                                ],
+                                [
+                                    139.504306,
+                                    -20.703955
+                                ],
+                                [
+                                    139.503843,
+                                    -20.704395
+                                ],
+                                [
+                                    139.504289,
+                                    -20.70485
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ8229",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews on route",
+                "START": "8:20PM 13 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "COMMERCIAL RD, SPORTS PDE, SUNSET DR",
+                "SUBURBS": "MOUNT ISA, RYAN, SUNSET"
             }
         },
         {
@@ -333,5 +341,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749813601.664135"
+    "extracted": "1749814204.429484"
 }
