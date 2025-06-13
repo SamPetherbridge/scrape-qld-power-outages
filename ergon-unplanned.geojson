@@ -127,9 +127,62 @@
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.295865,
+                            -25.718288
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.296362,
+                                    -25.718273
+                                ],
+                                [
+                                    151.295849,
+                                    -25.717837
+                                ],
+                                [
+                                    151.295368,
+                                    -25.718302
+                                ],
+                                [
+                                    151.295882,
+                                    -25.718738
+                                ],
+                                [
+                                    151.296362,
+                                    -25.718273
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB6674",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "8:30PM 13 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BEERON RD",
+                "SUBURBS": "MUNDUBBERA"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749816005.378436"
+    "extracted": "1749816602.419068"
 }
