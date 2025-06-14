@@ -119,6 +119,71 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.194677,
+                            -23.080775
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.159403,
+                                    -23.088525
+                                ],
+                                [
+                                    147.230165,
+                                    -23.073917
+                                ],
+                                [
+                                    147.230544,
+                                    -23.073426
+                                ],
+                                [
+                                    147.230058,
+                                    -23.073024
+                                ],
+                                [
+                                    147.160809,
+                                    -23.073152
+                                ],
+                                [
+                                    147.160324,
+                                    -23.073561
+                                ],
+                                [
+                                    147.158811,
+                                    -23.088041
+                                ],
+                                [
+                                    147.159403,
+                                    -23.088525
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA8713",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "1:26PM 14 Jun 2025",
+                "EST_FIX_TIME": "5:00PM 14 Jun 2025",
+                "STREETS": "CLERMONT ALPHA RD",
+                "SUBURBS": "CLERMONT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -174,6 +239,83 @@
                 "EST_FIX_TIME": "9:30AM 11 Jul 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.998669,
+                            -26.681608
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.996933,
+                                    -26.682732
+                                ],
+                                [
+                                    151.998724,
+                                    -26.683039
+                                ],
+                                [
+                                    151.998973,
+                                    -26.683025
+                                ],
+                                [
+                                    152.000305,
+                                    -26.682635
+                                ],
+                                [
+                                    152.000638,
+                                    -26.682106
+                                ],
+                                [
+                                    152.000251,
+                                    -26.680604
+                                ],
+                                [
+                                    151.999844,
+                                    -26.680262
+                                ],
+                                [
+                                    151.99927,
+                                    -26.680177
+                                ],
+                                [
+                                    151.998862,
+                                    -26.68028
+                                ],
+                                [
+                                    151.996701,
+                                    -26.681948
+                                ],
+                                [
+                                    151.996933,
+                                    -26.682732
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB6676",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "11",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews on route",
+                "START": "5:49AM 14 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ARTHUR ST, SCOTT ST",
+                "SUBURBS": "NANANGO"
             }
         },
         {
@@ -283,83 +425,6 @@
                 "EST_FIX_TIME": "3:30PM 14 Jun 2025",
                 "STREETS": "BINGARA ST, ENFIELD CT, GARVEY ST, HENRY ST, KATE ST, MABEL ST, MARTINI ST, STUART ST, TALINGA ST",
                 "SUBURBS": "HARLAXTON, MOUNT LOFTY, TOOWOOMBA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.998669,
-                            -26.681608
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.996933,
-                                    -26.682732
-                                ],
-                                [
-                                    151.998724,
-                                    -26.683039
-                                ],
-                                [
-                                    151.998973,
-                                    -26.683025
-                                ],
-                                [
-                                    152.000305,
-                                    -26.682635
-                                ],
-                                [
-                                    152.000638,
-                                    -26.682106
-                                ],
-                                [
-                                    152.000251,
-                                    -26.680604
-                                ],
-                                [
-                                    151.999844,
-                                    -26.680262
-                                ],
-                                [
-                                    151.99927,
-                                    -26.680177
-                                ],
-                                [
-                                    151.998862,
-                                    -26.68028
-                                ],
-                                [
-                                    151.996701,
-                                    -26.681948
-                                ],
-                                [
-                                    151.996933,
-                                    -26.682732
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB6676",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "11",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
-                "START": "5:49AM 14 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ARTHUR ST, SCOTT ST",
-                "SUBURBS": "NANANGO"
             }
         },
         {
@@ -527,5 +592,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749873903.072489"
+    "extracted": "1749874802.514544"
 }
