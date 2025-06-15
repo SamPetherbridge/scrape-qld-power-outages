@@ -10,6 +10,92 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.058406,
+                            -26.698049
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.058423,
+                                    -26.700177
+                                ],
+                                [
+                                    153.058897,
+                                    -26.699535
+                                ],
+                                [
+                                    153.058974,
+                                    -26.699358
+                                ],
+                                [
+                                    153.0593,
+                                    -26.697555
+                                ],
+                                [
+                                    153.059304,
+                                    -26.697446
+                                ],
+                                [
+                                    153.05919,
+                                    -26.696166
+                                ],
+                                [
+                                    153.058718,
+                                    -26.695751
+                                ],
+                                [
+                                    153.058196,
+                                    -26.696114
+                                ],
+                                [
+                                    153.058127,
+                                    -26.696429
+                                ],
+                                [
+                                    153.058124,
+                                    -26.696444
+                                ],
+                                [
+                                    153.057508,
+                                    -26.699855
+                                ],
+                                [
+                                    153.057821,
+                                    -26.700347
+                                ],
+                                [
+                                    153.058423,
+                                    -26.700177
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-868751-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "7:08AM 16 Jun 2025",
+                "EST_FIX_TIME": "9:30AM 16 Jun 2025",
+                "STREETS": "STRINGYBARK RD",
+                "SUBURBS": "BUDERIM",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.974744,
                             -27.462173
                         ]
@@ -119,95 +205,9 @@
                 "SUBURBS": "BARDON",
                 "ETR_FLAG": "N"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.058406,
-                            -26.698049
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.058423,
-                                    -26.700177
-                                ],
-                                [
-                                    153.058897,
-                                    -26.699535
-                                ],
-                                [
-                                    153.058974,
-                                    -26.699358
-                                ],
-                                [
-                                    153.0593,
-                                    -26.697555
-                                ],
-                                [
-                                    153.059304,
-                                    -26.697446
-                                ],
-                                [
-                                    153.05919,
-                                    -26.696166
-                                ],
-                                [
-                                    153.058718,
-                                    -26.695751
-                                ],
-                                [
-                                    153.058196,
-                                    -26.696114
-                                ],
-                                [
-                                    153.058127,
-                                    -26.696429
-                                ],
-                                [
-                                    153.058124,
-                                    -26.696444
-                                ],
-                                [
-                                    153.057508,
-                                    -26.699855
-                                ],
-                                [
-                                    153.057821,
-                                    -26.700347
-                                ],
-                                [
-                                    153.058423,
-                                    -26.700177
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-868751-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "7",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "7:08AM 16 Jun 2025",
-                "EST_FIX_TIME": "9:30AM 16 Jun 2025",
-                "STREETS": "STRINGYBARK RD",
-                "SUBURBS": "BUDERIM",
-                "ETR_FLAG": "N"
-            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1750028405.78322"
+    "extracted": "1750029001.412022"
 }
