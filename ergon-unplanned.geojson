@@ -10,6 +10,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 09 Jul 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -152,91 +213,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.738343,
-                            -16.837591
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.736804,
-                                    -16.837328
-                                ],
-                                [
-                                    145.737047,
-                                    -16.838415
-                                ],
-                                [
-                                    145.73742,
-                                    -16.838764
-                                ],
-                                [
-                                    145.739222,
-                                    -16.839088
-                                ],
-                                [
-                                    145.739773,
-                                    -16.838703
-                                ],
-                                [
-                                    145.739881,
-                                    -16.837914
-                                ],
-                                [
-                                    145.739838,
-                                    -16.837658
-                                ],
-                                [
-                                    145.739265,
-                                    -16.83652
-                                ],
-                                [
-                                    145.739171,
-                                    -16.836395
-                                ],
-                                [
-                                    145.738922,
-                                    -16.83616
-                                ],
-                                [
-                                    145.738357,
-                                    -16.836093
-                                ],
-                                [
-                                    145.737026,
-                                    -16.836843
-                                ],
-                                [
-                                    145.736804,
-                                    -16.837328
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN6860",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "40",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "3:20PM 15 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BAMBOO ST, CASUARINA ST, MARIETTA ST, MARK CL, MATTHEW ST, OLEANDER ST",
-                "SUBURBS": "HOLLOWAYS BEACH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             151.998669,
                             -26.681608
                         ]
@@ -314,8 +290,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.207433,
-                            -18.981624
+                            145.738343,
+                            -16.837591
                         ]
                     },
                     {
@@ -323,32 +299,56 @@
                         "coordinates": [
                             [
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    145.736804,
+                                    -16.837328
                                 ],
                                 [
-                                    146.197621,
-                                    -18.979466
+                                    145.737047,
+                                    -16.838415
                                 ],
                                 [
-                                    146.197069,
-                                    -18.97983
+                                    145.73742,
+                                    -16.838764
                                 ],
                                 [
-                                    146.197451,
-                                    -18.980355
+                                    145.739222,
+                                    -16.839088
                                 ],
                                 [
-                                    146.217246,
-                                    -18.983782
+                                    145.739773,
+                                    -16.838703
                                 ],
                                 [
-                                    146.217798,
-                                    -18.983418
+                                    145.739881,
+                                    -16.837914
                                 ],
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    145.739838,
+                                    -16.837658
+                                ],
+                                [
+                                    145.739265,
+                                    -16.83652
+                                ],
+                                [
+                                    145.739171,
+                                    -16.836395
+                                ],
+                                [
+                                    145.738922,
+                                    -16.83616
+                                ],
+                                [
+                                    145.738357,
+                                    -16.836093
+                                ],
+                                [
+                                    145.737026,
+                                    -16.836843
+                                ],
+                                [
+                                    145.736804,
+                                    -16.837328
                                 ]
                             ]
                         ]
@@ -356,15 +356,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ1993",
+                "EVENT_ID": "25FN6860",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 09 Jul 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
+                "CUSTOMERS_AFFECTED": "40",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "3:20PM 15 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BAMBOO ST, CASUARINA ST, MARIETTA ST, MARK CL, MATTHEW ST, OLEANDER ST",
+                "SUBURBS": "HOLLOWAYS BEACH"
             }
         },
         {
@@ -479,5 +479,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1749966602.409979"
+    "extracted": "1749967801.36733"
 }
