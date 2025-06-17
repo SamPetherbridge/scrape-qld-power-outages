@@ -28,27 +28,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    149.187481,
-                    -21.143109
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK4496",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "19",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "Work scheduled",
-                "START": "9:30PM 17 Jun 2025",
-                "EST_FIX_TIME": "5:30AM 18 Jun 2025",
-                "STREETS": "BRISBANE ST, GORDON ST, SYDNEY ST",
-                "SUBURBS": "MACKAY"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     150.861533,
                     -23.584401
                 ]
@@ -64,9 +43,30 @@
                 "STREETS": "PORT ALMA RD",
                 "SUBURBS": "BAJOOL"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.187481,
+                    -21.143109
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK4496",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "19",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
+                "STATUS": "Work scheduled",
+                "START": "9:30PM 17 Jun 2025",
+                "EST_FIX_TIME": "5:30AM 18 Jun 2025",
+                "STREETS": "BRISBANE ST, GORDON ST, SYDNEY ST",
+                "SUBURBS": "MACKAY"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750140904.719901"
+    "extracted": "1750142100.420896"
 }
