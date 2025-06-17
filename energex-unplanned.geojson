@@ -10,6 +10,76 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.044173,
+                            -27.123375
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.041979,
+                                    -27.122387
+                                ],
+                                [
+                                    153.045738,
+                                    -27.125068
+                                ],
+                                [
+                                    153.046447,
+                                    -27.124996
+                                ],
+                                [
+                                    153.046367,
+                                    -27.124362
+                                ],
+                                [
+                                    153.045179,
+                                    -27.123515
+                                ],
+                                [
+                                    153.043277,
+                                    -27.122158
+                                ],
+                                [
+                                    153.042608,
+                                    -27.121681
+                                ],
+                                [
+                                    153.041899,
+                                    -27.121753
+                                ],
+                                [
+                                    153.041979,
+                                    -27.122387
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-869229-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "6",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "5:27PM 17 Jun 2025",
+                "EST_FIX_TIME": "7:00PM 17 Jun 2025",
+                "STREETS": "BEACHMERE RD",
+                "SUBURBS": "BEACHMERE",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.11958,
                             -27.612206
                         ]
@@ -77,76 +147,6 @@
                 "EST_FIX_TIME": "7:00PM 17 Jun 2025",
                 "STREETS": "BERNICE AVE, ELEANOR AVE, LOGAN RD, NERISSA CT, SPRINGWOOD RD",
                 "SUBURBS": "SPRINGWOOD, UNDERWOOD",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.044173,
-                            -27.123375
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.041979,
-                                    -27.122387
-                                ],
-                                [
-                                    153.045738,
-                                    -27.125068
-                                ],
-                                [
-                                    153.046447,
-                                    -27.124996
-                                ],
-                                [
-                                    153.046367,
-                                    -27.124362
-                                ],
-                                [
-                                    153.045179,
-                                    -27.123515
-                                ],
-                                [
-                                    153.043277,
-                                    -27.122158
-                                ],
-                                [
-                                    153.042608,
-                                    -27.121681
-                                ],
-                                [
-                                    153.041899,
-                                    -27.121753
-                                ],
-                                [
-                                    153.041979,
-                                    -27.122387
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-869229-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "6",
-                "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
-                "START": "5:27PM 17 Jun 2025",
-                "EST_FIX_TIME": "7:00PM 17 Jun 2025",
-                "STREETS": "BEACHMERE RD",
-                "SUBURBS": "BEACHMERE",
                 "ETR_FLAG": "N"
             }
         },
@@ -243,9 +243,111 @@
                 "SUBURBS": "SOUTH RIPLEY",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.999963,
+                            -26.553677
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.997361,
+                                    -26.553419
+                                ],
+                                [
+                                    152.999215,
+                                    -26.554241
+                                ],
+                                [
+                                    152.999313,
+                                    -26.554273
+                                ],
+                                [
+                                    152.999991,
+                                    -26.554429
+                                ],
+                                [
+                                    153.000002,
+                                    -26.554431
+                                ],
+                                [
+                                    153.000735,
+                                    -26.554583
+                                ],
+                                [
+                                    153.00075,
+                                    -26.554586
+                                ],
+                                [
+                                    153.001321,
+                                    -26.554688
+                                ],
+                                [
+                                    153.001322,
+                                    -26.554688
+                                ],
+                                [
+                                    153.00182,
+                                    -26.554776
+                                ],
+                                [
+                                    153.00212,
+                                    -26.554746
+                                ],
+                                [
+                                    153.002515,
+                                    -26.554588
+                                ],
+                                [
+                                    153.002813,
+                                    -26.554142
+                                ],
+                                [
+                                    153.002444,
+                                    -26.55374
+                                ],
+                                [
+                                    152.997715,
+                                    -26.552579
+                                ],
+                                [
+                                    152.997113,
+                                    -26.552854
+                                ],
+                                [
+                                    152.997361,
+                                    -26.553419
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-869242-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "13",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "6:34PM 17 Jun 2025",
+                "EST_FIX_TIME": "8:00PM 17 Jun 2025",
+                "STREETS": "THOMSON VALLEY RD",
+                "SUBURBS": "VALDORA",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1750149300.295842"
+    "extracted": "1750149906.425856"
 }
