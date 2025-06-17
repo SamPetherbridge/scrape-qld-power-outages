@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.087831,
-                            -24.974441
+                            151.952272,
+                            -26.290498
                         ]
                     },
                     {
@@ -19,64 +19,80 @@
                         "coordinates": [
                             [
                                 [
-                                    152.053412,
-                                    -24.996132
+                                    151.950958,
+                                    -26.291382
                                 ],
                                 [
-                                    152.055779,
-                                    -25.001863
+                                    151.951629,
+                                    -26.291643
                                 ],
                                 [
-                                    152.055971,
-                                    -25.002081
+                                    151.951798,
+                                    -26.291679
                                 ],
                                 [
-                                    152.083381,
-                                    -25.018409
+                                    151.953018,
+                                    -26.291744
                                 ],
                                 [
-                                    152.083706,
-                                    -25.018479
+                                    151.953506,
+                                    -26.291471
                                 ],
                                 [
-                                    152.093447,
-                                    -25.017487
+                                    151.953568,
+                                    -26.291342
                                 ],
                                 [
-                                    152.093863,
-                                    -25.017176
+                                    151.953577,
+                                    -26.291321
                                 ],
                                 [
-                                    152.122281,
-                                    -24.935653
+                                    151.953778,
+                                    -26.29083
                                 ],
                                 [
-                                    152.121921,
-                                    -24.935078
+                                    151.953789,
+                                    -26.2908
                                 ],
                                 [
-                                    152.099522,
-                                    -24.930402
+                                    151.953847,
+                                    -26.29062
                                 ],
                                 [
-                                    152.099099,
-                                    -24.930493
+                                    151.953867,
+                                    -26.29051
                                 ],
                                 [
-                                    152.053714,
-                                    -24.964386
+                                    151.953876,
+                                    -26.29028
                                 ],
                                 [
-                                    152.053533,
-                                    -24.964732
+                                    151.953569,
+                                    -26.289849
                                 ],
                                 [
-                                    152.05338,
-                                    -24.995971
+                                    151.951976,
+                                    -26.289251
                                 ],
                                 [
-                                    152.053412,
-                                    -24.996132
+                                    151.951332,
+                                    -26.289476
+                                ],
+                                [
+                                    151.950749,
+                                    -26.290595
+                                ],
+                                [
+                                    151.950713,
+                                    -26.290689
+                                ],
+                                [
+                                    151.950668,
+                                    -26.290872
+                                ],
+                                [
+                                    151.950958,
+                                    -26.291382
                                 ]
                             ]
                         ]
@@ -84,15 +100,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB6793",
+                "EVENT_ID": "25WB6795",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "169",
+                "CUSTOMERS_AFFECTED": "35",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Outage reported",
-                "START": "4:27PM 17 Jun 2025",
+                "START": "6:54PM 17 Jun 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BUNDABERG GIN GIN RD, BUNGADOO RD, DELAN RD, GALEAS RD, GEARS RD, GIN GIN RD, GOONDOON RD, HAIRS RD, KLINTSTROMS RD, MAHES RD, POWELLS LANE, RIVER RD, SHORT CUT RD, SHORTCUT RD, SNAKE CREEK RD, WALLAVILLE GOONDOON RD, WALLAVILLE RD, WARMINGTON RD, WILSONS RD",
-                "SUBURBS": "BUCCA, BULLYARD, BUNGADOO, DELAN, DRINAN, GIN GIN, SOUTH KOLAN, WALLAVILLE"
+                "STREETS": "BARBER ST, BROADWAY ST, HILLVIEW ST",
+                "SUBURBS": "CHERBOURG"
             }
         },
         {
@@ -307,6 +323,99 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BLUE GUM DR, CASUARINA CT, LITTLETON DR",
                 "SUBURBS": "HIGHFIELDS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.087831,
+                            -24.974441
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.053412,
+                                    -24.996132
+                                ],
+                                [
+                                    152.055779,
+                                    -25.001863
+                                ],
+                                [
+                                    152.055971,
+                                    -25.002081
+                                ],
+                                [
+                                    152.083381,
+                                    -25.018409
+                                ],
+                                [
+                                    152.083706,
+                                    -25.018479
+                                ],
+                                [
+                                    152.093447,
+                                    -25.017487
+                                ],
+                                [
+                                    152.093863,
+                                    -25.017176
+                                ],
+                                [
+                                    152.122281,
+                                    -24.935653
+                                ],
+                                [
+                                    152.121921,
+                                    -24.935078
+                                ],
+                                [
+                                    152.099522,
+                                    -24.930402
+                                ],
+                                [
+                                    152.099099,
+                                    -24.930493
+                                ],
+                                [
+                                    152.053714,
+                                    -24.964386
+                                ],
+                                [
+                                    152.053533,
+                                    -24.964732
+                                ],
+                                [
+                                    152.05338,
+                                    -24.995971
+                                ],
+                                [
+                                    152.053412,
+                                    -24.996132
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB6793",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "169",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "4:27PM 17 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BUNDABERG GIN GIN RD, BUNGADOO RD, DELAN RD, GALEAS RD, GEARS RD, GIN GIN RD, GOONDOON RD, HAIRS RD, KLINTSTROMS RD, MAHES RD, POWELLS LANE, RIVER RD, SHORT CUT RD, SHORTCUT RD, SNAKE CREEK RD, WALLAVILLE GOONDOON RD, WALLAVILLE RD, WARMINGTON RD, WILSONS RD",
+                "SUBURBS": "BUCCA, BULLYARD, BUNGADOO, DELAN, DRINAN, GIN GIN, SOUTH KOLAN, WALLAVILLE"
             }
         },
         {
@@ -684,5 +793,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750151101.847537"
+    "extracted": "1750151705.055333"
 }
