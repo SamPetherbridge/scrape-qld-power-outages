@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.67156,
-                            -21.127711
+                            151.970772,
+                            -27.984667
                         ]
                     },
                     {
@@ -19,40 +19,24 @@
                         "coordinates": [
                             [
                                 [
-                                    148.670714,
-                                    -21.128941
+                                    151.971279,
+                                    -27.984648
                                 ],
                                 [
-                                    148.672699,
-                                    -21.1276
+                                    151.970752,
+                                    -27.984217
                                 ],
                                 [
-                                    148.672844,
-                                    -21.127443
+                                    151.970266,
+                                    -27.984685
                                 ],
                                 [
-                                    148.673067,
-                                    -21.127043
+                                    151.970793,
+                                    -27.985116
                                 ],
                                 [
-                                    148.672941,
-                                    -21.126481
-                                ],
-                                [
-                                    148.67233,
-                                    -21.126488
-                                ],
-                                [
-                                    148.670123,
-                                    -21.128229
-                                ],
-                                [
-                                    148.670053,
-                                    -21.128852
-                                ],
-                                [
-                                    148.670714,
-                                    -21.128941
+                                    151.971279,
+                                    -27.984648
                                 ]
                             ]
                         ]
@@ -60,15 +44,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK4900",
+                "EVENT_ID": "25SW8421",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Crews working on-site",
-                "START": "6:49PM 17 Jun 2025",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:17PM 17 Jun 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "FAUXS RD, OWENS CREEK RD",
-                "SUBURBS": "OWENS CREEK"
+                "STREETS": "ALLORA-CLIFTON RD",
+                "SUBURBS": "CLIFTON"
             }
         },
         {
@@ -134,59 +118,6 @@
                 "EST_FIX_TIME": "9:30AM 11 Jul 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.970772,
-                            -27.984667
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.971279,
-                                    -27.984648
-                                ],
-                                [
-                                    151.970752,
-                                    -27.984217
-                                ],
-                                [
-                                    151.970266,
-                                    -27.984685
-                                ],
-                                [
-                                    151.970793,
-                                    -27.985116
-                                ],
-                                [
-                                    151.971279,
-                                    -27.984648
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW8421",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:17PM 17 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ALLORA-CLIFTON RD",
-                "SUBURBS": "CLIFTON"
             }
         },
         {
@@ -435,9 +366,78 @@
                 "STREETS": "ADAVALE RD, BLACKALL-QUILPIE RD, EMMET-BLACKALL RD, OFF ISISFORD-B'ALL RD, OFF LANDSBOROUGH HWY, OFF LANGLO RD, PENTWYN RD, RAVENSBOURNE RD",
                 "SUBURBS": "BLACKALL, CHARLEVILLE"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.67156,
+                            -21.127711
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.670714,
+                                    -21.128941
+                                ],
+                                [
+                                    148.672699,
+                                    -21.1276
+                                ],
+                                [
+                                    148.672844,
+                                    -21.127443
+                                ],
+                                [
+                                    148.673067,
+                                    -21.127043
+                                ],
+                                [
+                                    148.672941,
+                                    -21.126481
+                                ],
+                                [
+                                    148.67233,
+                                    -21.126488
+                                ],
+                                [
+                                    148.670123,
+                                    -21.128229
+                                ],
+                                [
+                                    148.670053,
+                                    -21.128852
+                                ],
+                                [
+                                    148.670714,
+                                    -21.128941
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK4900",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Crews working on-site",
+                "START": "6:49PM 17 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "FAUXS RD, OWENS CREEK RD",
+                "SUBURBS": "OWENS CREEK"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750163404.571109"
+    "extracted": "1750164901.841466"
 }
