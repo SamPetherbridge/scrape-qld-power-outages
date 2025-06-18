@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.231353,
-                            -24.980773
+                            151.273299,
+                            -27.171829
                         ]
                     },
                     {
@@ -19,80 +19,80 @@
                         "coordinates": [
                             [
                                 [
-                                    144.773204,
-                                    -24.883815
+                                    151.270079,
+                                    -27.175796
                                 ],
                                 [
-                                    145.147813,
-                                    -25.413387
+                                    151.270188,
+                                    -27.175798
                                 ],
                                 [
-                                    145.148136,
-                                    -25.413585
+                                    151.27052,
+                                    -27.175695
                                 ],
                                 [
-                                    145.431973,
-                                    -25.463548
+                                    151.271195,
+                                    -27.175194
                                 ],
                                 [
-                                    145.432539,
-                                    -25.463246
+                                    151.271201,
+                                    -27.175189
                                 ],
                                 [
-                                    145.689557,
-                                    -24.752114
+                                    151.271231,
+                                    -27.175166
                                 ],
                                 [
-                                    145.68957,
-                                    -24.751877
+                                    151.271232,
+                                    -27.175165
                                 ],
                                 [
-                                    145.651654,
-                                    -24.593142
+                                    151.273332,
+                                    -27.173546
                                 ],
                                 [
-                                    145.651451,
-                                    -24.592866
+                                    151.273393,
+                                    -27.173491
                                 ],
                                 [
-                                    145.567876,
-                                    -24.540294
+                                    151.276765,
+                                    -27.169814
                                 ],
                                 [
-                                    145.567631,
-                                    -24.540216
+                                    151.276843,
+                                    -27.169697
                                 ],
                                 [
-                                    144.932818,
-                                    -24.497997
+                                    151.276971,
+                                    -27.169413
                                 ],
                                 [
-                                    144.932469,
-                                    -24.498098
+                                    151.27685,
+                                    -27.168917
                                 ],
                                 [
-                                    144.860274,
-                                    -24.552022
+                                    151.27634,
+                                    -27.168486
                                 ],
                                 [
-                                    144.860118,
-                                    -24.552229
+                                    151.276107,
+                                    -27.168375
                                 ],
                                 [
-                                    144.823107,
-                                    -24.653943
+                                    151.273625,
+                                    -27.16786
                                 ],
                                 [
-                                    144.823091,
-                                    -24.653998
+                                    151.27305,
+                                    -27.16812
                                 ],
                                 [
-                                    144.773135,
-                                    -24.883484
+                                    151.269627,
+                                    -27.175167
                                 ],
                                 [
-                                    144.773204,
-                                    -24.883815
+                                    151.270079,
+                                    -27.175796
                                 ]
                             ]
                         ]
@@ -100,15 +100,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA8706",
+                "EVENT_ID": "25SW8472",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "80",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "2:26AM 14 Jun 2025",
+                "CUSTOMERS_AFFECTED": "96",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "6:43PM 18 Jun 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ADAVALE RD, BLACKALL-QUILPIE RD, EMMET-BLACKALL RD, OFF ISISFORD-B'ALL RD, OFF LANDSBOROUGH HWY, OFF LANGLO RD, PENTWYN RD, RAVENSBOURNE RD",
-                "SUBURBS": "BLACKALL, CHARLEVILLE"
+                "STREETS": "CONDAMINE ST, EAGLE ST, HOSPITAL RD, KOOKABURRA ST, SWAN ST, WREN ST",
+                "SUBURBS": "DALBY"
             }
         },
         {
@@ -390,9 +390,118 @@
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            145.231353,
+                            -24.980773
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    144.773204,
+                                    -24.883815
+                                ],
+                                [
+                                    145.147813,
+                                    -25.413387
+                                ],
+                                [
+                                    145.148136,
+                                    -25.413585
+                                ],
+                                [
+                                    145.431973,
+                                    -25.463548
+                                ],
+                                [
+                                    145.432539,
+                                    -25.463246
+                                ],
+                                [
+                                    145.689557,
+                                    -24.752114
+                                ],
+                                [
+                                    145.68957,
+                                    -24.751877
+                                ],
+                                [
+                                    145.651654,
+                                    -24.593142
+                                ],
+                                [
+                                    145.651451,
+                                    -24.592866
+                                ],
+                                [
+                                    145.567876,
+                                    -24.540294
+                                ],
+                                [
+                                    145.567631,
+                                    -24.540216
+                                ],
+                                [
+                                    144.932818,
+                                    -24.497997
+                                ],
+                                [
+                                    144.932469,
+                                    -24.498098
+                                ],
+                                [
+                                    144.860274,
+                                    -24.552022
+                                ],
+                                [
+                                    144.860118,
+                                    -24.552229
+                                ],
+                                [
+                                    144.823107,
+                                    -24.653943
+                                ],
+                                [
+                                    144.823091,
+                                    -24.653998
+                                ],
+                                [
+                                    144.773135,
+                                    -24.883484
+                                ],
+                                [
+                                    144.773204,
+                                    -24.883815
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA8706",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "80",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "2:26AM 14 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ADAVALE RD, BLACKALL-QUILPIE RD, EMMET-BLACKALL RD, OFF ISISFORD-B'ALL RD, OFF LANDSBOROUGH HWY, OFF LANGLO RD, PENTWYN RD, RAVENSBOURNE RD",
+                "SUBURBS": "BLACKALL, CHARLEVILLE"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750236901.890343"
+    "extracted": "1750237503.394546"
 }
