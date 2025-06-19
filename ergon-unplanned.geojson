@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.207433,
-                            -18.981624
+                            142.623422,
+                            -9.375876
                         ]
                     },
                     {
@@ -19,32 +19,24 @@
                         "coordinates": [
                             [
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    142.623876,
+                                    -9.375881
                                 ],
                                 [
-                                    146.197621,
-                                    -18.979466
+                                    142.623428,
+                                    -9.375425
                                 ],
                                 [
-                                    146.197069,
-                                    -18.97983
+                                    142.622968,
+                                    -9.37587
                                 ],
                                 [
-                                    146.197451,
-                                    -18.980355
+                                    142.623417,
+                                    -9.376327
                                 ],
                                 [
-                                    146.217246,
-                                    -18.983782
-                                ],
-                                [
-                                    146.217798,
-                                    -18.983418
-                                ],
-                                [
-                                    146.217416,
-                                    -18.982893
+                                    142.623876,
+                                    -9.375881
                                 ]
                             ]
                         ]
@@ -52,15 +44,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ1993",
+                "EVENT_ID": "25FN7042",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
+                "CUSTOMERS_AFFECTED": "9",
                 "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 09 Jul 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
+                "STATUS": "Crews on route",
+                "START": "12:54PM 19 Jun 2025",
+                "EST_FIX_TIME": "6:00PM 19 Jun 2025",
+                "STREETS": "UNKNOWN ST",
+                "SUBURBS": "SAIBAI ISLAND"
             }
         },
         {
@@ -126,83 +118,6 @@
                 "EST_FIX_TIME": "9:30AM 11 Jul 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            142.622421,
-                            -9.377027
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    142.621606,
-                                    -9.378552
-                                ],
-                                [
-                                    142.622595,
-                                    -9.377906
-                                ],
-                                [
-                                    142.622627,
-                                    -9.377884
-                                ],
-                                [
-                                    142.623027,
-                                    -9.377569
-                                ],
-                                [
-                                    142.623152,
-                                    -9.377417
-                                ],
-                                [
-                                    142.623828,
-                                    -9.376078
-                                ],
-                                [
-                                    142.623677,
-                                    -9.375503
-                                ],
-                                [
-                                    142.623083,
-                                    -9.375576
-                                ],
-                                [
-                                    142.621018,
-                                    -9.377875
-                                ],
-                                [
-                                    142.621013,
-                                    -9.37847
-                                ],
-                                [
-                                    142.621606,
-                                    -9.378552
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN7042",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Crews on route",
-                "START": "12:54PM 19 Jun 2025",
-                "EST_FIX_TIME": "6:00PM 19 Jun 2025",
-                "STREETS": "ESPLANADE, HOSPITAL DR, SCHOOL RD, UNKNOWN ST",
-                "SUBURBS": "SAIBAI ISLAND"
             }
         },
         {
@@ -312,6 +227,67 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "GILLAM ST, MASON ST, VICTORIA ST",
                 "SUBURBS": "CLIFTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 09 Jul 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
             }
         },
         {
@@ -559,5 +535,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750322401.714715"
+    "extracted": "1750323004.711389"
 }
