@@ -10,95 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.455998,
-                            -28.496365
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.402578,
-                                    -28.674947
-                                ],
-                                [
-                                    148.429219,
-                                    -28.611778
-                                ],
-                                [
-                                    148.429236,
-                                    -28.61173
-                                ],
-                                [
-                                    148.511921,
-                                    -28.318049
-                                ],
-                                [
-                                    148.511336,
-                                    -28.317496
-                                ],
-                                [
-                                    148.479466,
-                                    -28.322549
-                                ],
-                                [
-                                    148.479136,
-                                    -28.322737
-                                ],
-                                [
-                                    148.408076,
-                                    -28.413541
-                                ],
-                                [
-                                    148.407986,
-                                    -28.413767
-                                ],
-                                [
-                                    148.400076,
-                                    -28.51355
-                                ],
-                                [
-                                    148.400075,
-                                    -28.513586
-                                ],
-                                [
-                                    148.401586,
-                                    -28.674794
-                                ],
-                                [
-                                    148.402009,
-                                    -28.675234
-                                ],
-                                [
-                                    148.402578,
-                                    -28.674947
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW8487",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "16",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
-                "START": "10:24AM 19 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "CASTLEREAGH HWY, DIRRANBANDI-ST GEORGE RD, NARINE RD, NOONDOO MUNGINDI RD, ST GEORGE-DIRRANBANDI RD, UNKNOWN RD",
-                "SUBURBS": "DIRRANBANDI, ST GEORGE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -239,6 +150,95 @@
                 "EST_FIX_TIME": "2:00PM 19 Jun 2025",
                 "STREETS": "BOLLON RD, CUBBIE RD, HOOLAVALE RD, JAKELWAR GOODOOGA RD, NARLINE RD",
                 "SUBURBS": "DIRRANBANDI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.455998,
+                            -28.496365
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.402578,
+                                    -28.674947
+                                ],
+                                [
+                                    148.429219,
+                                    -28.611778
+                                ],
+                                [
+                                    148.429236,
+                                    -28.61173
+                                ],
+                                [
+                                    148.511921,
+                                    -28.318049
+                                ],
+                                [
+                                    148.511336,
+                                    -28.317496
+                                ],
+                                [
+                                    148.479466,
+                                    -28.322549
+                                ],
+                                [
+                                    148.479136,
+                                    -28.322737
+                                ],
+                                [
+                                    148.408076,
+                                    -28.413541
+                                ],
+                                [
+                                    148.407986,
+                                    -28.413767
+                                ],
+                                [
+                                    148.400076,
+                                    -28.51355
+                                ],
+                                [
+                                    148.400075,
+                                    -28.513586
+                                ],
+                                [
+                                    148.401586,
+                                    -28.674794
+                                ],
+                                [
+                                    148.402009,
+                                    -28.675234
+                                ],
+                                [
+                                    148.402578,
+                                    -28.674947
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW8487",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "16",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "10:24AM 19 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "CASTLEREAGH HWY, DIRRANBANDI-ST GEORGE RD, NARINE RD, NOONDOO MUNGINDI RD, ST GEORGE-DIRRANBANDI RD, UNKNOWN RD",
+                "SUBURBS": "DIRRANBANDI, ST GEORGE"
             }
         },
         {
@@ -624,5 +624,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750293005.629932"
+    "extracted": "1750294801.265104"
 }
