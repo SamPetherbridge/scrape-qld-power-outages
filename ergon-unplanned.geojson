@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.207433,
-                            -18.981624
+                            148.455998,
+                            -28.496365
                         ]
                     },
                     {
@@ -19,32 +19,60 @@
                         "coordinates": [
                             [
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    148.402578,
+                                    -28.674947
                                 ],
                                 [
-                                    146.197621,
-                                    -18.979466
+                                    148.429219,
+                                    -28.611778
                                 ],
                                 [
-                                    146.197069,
-                                    -18.97983
+                                    148.429236,
+                                    -28.61173
                                 ],
                                 [
-                                    146.197451,
-                                    -18.980355
+                                    148.511921,
+                                    -28.318049
                                 ],
                                 [
-                                    146.217246,
-                                    -18.983782
+                                    148.511336,
+                                    -28.317496
                                 ],
                                 [
-                                    146.217798,
-                                    -18.983418
+                                    148.479466,
+                                    -28.322549
                                 ],
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    148.479136,
+                                    -28.322737
+                                ],
+                                [
+                                    148.408076,
+                                    -28.413541
+                                ],
+                                [
+                                    148.407986,
+                                    -28.413767
+                                ],
+                                [
+                                    148.400076,
+                                    -28.51355
+                                ],
+                                [
+                                    148.400075,
+                                    -28.513586
+                                ],
+                                [
+                                    148.401586,
+                                    -28.674794
+                                ],
+                                [
+                                    148.402009,
+                                    -28.675234
+                                ],
+                                [
+                                    148.402578,
+                                    -28.674947
                                 ]
                             ]
                         ]
@@ -52,15 +80,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ1993",
+                "EVENT_ID": "25SW8487",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 09 Jul 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
+                "CUSTOMERS_AFFECTED": "16",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "10:24AM 19 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "CASTLEREAGH HWY, DIRRANBANDI-ST GEORGE RD, NARINE RD, NOONDOO MUNGINDI RD, ST GEORGE-DIRRANBANDI RD, UNKNOWN RD",
+                "SUBURBS": "DIRRANBANDI, ST GEORGE"
             }
         },
         {
@@ -126,6 +154,91 @@
                 "EST_FIX_TIME": "9:30AM 11 Jul 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.017779,
+                            -28.460963
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.811828,
+                                    -28.45694
+                                ],
+                                [
+                                    148.087515,
+                                    -28.616753
+                                ],
+                                [
+                                    148.088122,
+                                    -28.616722
+                                ],
+                                [
+                                    148.09661,
+                                    -28.610502
+                                ],
+                                [
+                                    148.0967,
+                                    -28.610416
+                                ],
+                                [
+                                    148.223928,
+                                    -28.451549
+                                ],
+                                [
+                                    148.223891,
+                                    -28.450987
+                                ],
+                                [
+                                    148.076174,
+                                    -28.305304
+                                ],
+                                [
+                                    148.075649,
+                                    -28.305173
+                                ],
+                                [
+                                    147.84938,
+                                    -28.364423
+                                ],
+                                [
+                                    147.849044,
+                                    -28.364703
+                                ],
+                                [
+                                    147.811629,
+                                    -28.45641
+                                ],
+                                [
+                                    147.811828,
+                                    -28.45694
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW8430",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "16",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "8:00AM 19 Jun 2025",
+                "EST_FIX_TIME": "2:00PM 19 Jun 2025",
+                "STREETS": "BOLLON RD, CUBBIE RD, HOOLAVALE RD, JAKELWAR GOODOOGA RD, NARLINE RD",
+                "SUBURBS": "DIRRANBANDI"
             }
         },
         {
@@ -245,8 +358,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.017779,
-                            -28.460963
+                            146.207433,
+                            -18.981624
                         ]
                     },
                     {
@@ -254,56 +367,32 @@
                         "coordinates": [
                             [
                                 [
-                                    147.811828,
-                                    -28.45694
+                                    146.217416,
+                                    -18.982893
                                 ],
                                 [
-                                    148.087515,
-                                    -28.616753
+                                    146.197621,
+                                    -18.979466
                                 ],
                                 [
-                                    148.088122,
-                                    -28.616722
+                                    146.197069,
+                                    -18.97983
                                 ],
                                 [
-                                    148.09661,
-                                    -28.610502
+                                    146.197451,
+                                    -18.980355
                                 ],
                                 [
-                                    148.0967,
-                                    -28.610416
+                                    146.217246,
+                                    -18.983782
                                 ],
                                 [
-                                    148.223928,
-                                    -28.451549
+                                    146.217798,
+                                    -18.983418
                                 ],
                                 [
-                                    148.223891,
-                                    -28.450987
-                                ],
-                                [
-                                    148.076174,
-                                    -28.305304
-                                ],
-                                [
-                                    148.075649,
-                                    -28.305173
-                                ],
-                                [
-                                    147.84938,
-                                    -28.364423
-                                ],
-                                [
-                                    147.849044,
-                                    -28.364703
-                                ],
-                                [
-                                    147.811629,
-                                    -28.45641
-                                ],
-                                [
-                                    147.811828,
-                                    -28.45694
+                                    146.217416,
+                                    -18.982893
                                 ]
                             ]
                         ]
@@ -311,136 +400,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW8430",
+                "EVENT_ID": "25NQ1993",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "16",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "8:00AM 19 Jun 2025",
-                "EST_FIX_TIME": "2:00PM 19 Jun 2025",
-                "STREETS": "BOLLON RD, CUBBIE RD, HOOLAVALE RD, JAKELWAR GOODOOGA RD, NARLINE RD",
-                "SUBURBS": "DIRRANBANDI"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.81846,
-                            -25.297426
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.817069,
-                                    -25.29713
-                                ],
-                                [
-                                    152.817104,
-                                    -25.297474
-                                ],
-                                [
-                                    152.817104,
-                                    -25.29748
-                                ],
-                                [
-                                    152.817155,
-                                    -25.297923
-                                ],
-                                [
-                                    152.817155,
-                                    -25.297926
-                                ],
-                                [
-                                    152.817325,
-                                    -25.299304
-                                ],
-                                [
-                                    152.817418,
-                                    -25.29952
-                                ],
-                                [
-                                    152.817695,
-                                    -25.299864
-                                ],
-                                [
-                                    152.818014,
-                                    -25.300042
-                                ],
-                                [
-                                    152.818211,
-                                    -25.300071
-                                ],
-                                [
-                                    152.818236,
-                                    -25.300074
-                                ],
-                                [
-                                    152.818669,
-                                    -25.300119
-                                ],
-                                [
-                                    152.8188,
-                                    -25.300116
-                                ],
-                                [
-                                    152.819076,
-                                    -25.300077
-                                ],
-                                [
-                                    152.819491,
-                                    -25.299683
-                                ],
-                                [
-                                    152.819737,
-                                    -25.297687
-                                ],
-                                [
-                                    152.819739,
-                                    -25.297656
-                                ],
-                                [
-                                    152.819852,
-                                    -25.295171
-                                ],
-                                [
-                                    152.819537,
-                                    -25.294733
-                                ],
-                                [
-                                    152.81898,
-                                    -25.294862
-                                ],
-                                [
-                                    152.817183,
-                                    -25.296799
-                                ],
-                                [
-                                    152.817069,
-                                    -25.29713
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB6860",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "56",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "8:35AM 19 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "LANCASTER CCT, MONTAGUE CT, PICADILLY CCT",
-                "SUBURBS": "URRAWEEN"
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 09 Jul 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
             }
         },
         {
@@ -656,5 +624,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750290900.583885"
+    "extracted": "1750293005.629932"
 }
