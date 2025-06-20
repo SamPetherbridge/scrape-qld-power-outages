@@ -10,6 +10,87 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            145.313052,
+                            -16.249585
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.281159,
+                                    -16.17899
+                                ],
+                                [
+                                    145.289619,
+                                    -16.28014
+                                ],
+                                [
+                                    145.289681,
+                                    -16.280331
+                                ],
+                                [
+                                    145.302649,
+                                    -16.301792
+                                ],
+                                [
+                                    145.302725,
+                                    -16.301886
+                                ],
+                                [
+                                    145.322447,
+                                    -16.320638
+                                ],
+                                [
+                                    145.323218,
+                                    -16.320463
+                                ],
+                                [
+                                    145.344945,
+                                    -16.259755
+                                ],
+                                [
+                                    145.344877,
+                                    -16.259336
+                                ],
+                                [
+                                    145.281998,
+                                    -16.178682
+                                ],
+                                [
+                                    145.281459,
+                                    -16.178532
+                                ],
+                                [
+                                    145.281159,
+                                    -16.17899
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN7116",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "103",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Crews working on-site",
+                "START": "12:57PM 20 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BEATRICE RD, CRYSTAL BROOK RD, CRYSTALBROOK RD, DAGMAR ST, DAINTREE RD, DALY ST, DOUGLAS CREEK RD, DOUGLAS ST, HUGHES ST, MOSSMAN DAINTREE RD, OSBORNE ST, POWER ST, STEWART CREEK RD, STEWART ST, UPPER DAINTREE RD",
+                "SUBURBS": "DAINTREE, STEWART CREEK VALLEY, WONGA BEACH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -196,90 +277,9 @@
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            145.313052,
-                            -16.249585
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.281159,
-                                    -16.17899
-                                ],
-                                [
-                                    145.289619,
-                                    -16.28014
-                                ],
-                                [
-                                    145.289681,
-                                    -16.280331
-                                ],
-                                [
-                                    145.302649,
-                                    -16.301792
-                                ],
-                                [
-                                    145.302725,
-                                    -16.301886
-                                ],
-                                [
-                                    145.322447,
-                                    -16.320638
-                                ],
-                                [
-                                    145.323218,
-                                    -16.320463
-                                ],
-                                [
-                                    145.344945,
-                                    -16.259755
-                                ],
-                                [
-                                    145.344877,
-                                    -16.259336
-                                ],
-                                [
-                                    145.281998,
-                                    -16.178682
-                                ],
-                                [
-                                    145.281459,
-                                    -16.178532
-                                ],
-                                [
-                                    145.281159,
-                                    -16.17899
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN7116",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "103",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Crews working on-site",
-                "START": "12:57PM 20 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BEATRICE RD, CRYSTAL BROOK RD, CRYSTALBROOK RD, DAGMAR ST, DAINTREE RD, DALY ST, DOUGLAS CREEK RD, DOUGLAS ST, HUGHES ST, MOSSMAN DAINTREE RD, OSBORNE ST, POWER ST, STEWART CREEK RD, STEWART ST, UPPER DAINTREE RD",
-                "SUBURBS": "DAINTREE, STEWART CREEK VALLEY, WONGA BEACH"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750413010.887592"
+    "extracted": "1750413301.651724"
 }
