@@ -28,20 +28,41 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    146.081638,
-                    -17.911794
+                    152.058972,
+                    -26.741337
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN6277",
+                "EVENT_ID": "25WB5820",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+                "CUSTOMERS_AFFECTED": "47",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
                 "STATUS": "Crews working on-site",
                 "START": "8:30AM 20 Jun 2025",
                 "EST_FIX_TIME": "4:30PM 20 Jun 2025",
-                "STREETS": "MISSION BEACH RD",
-                "SUBURBS": "MISSION BEACH, WONGALING BEACH"
+                "STREETS": "DIGGINGS RD, DIGGINS RD, MCCAULEY WEIR RD, OAKEY CREEK RD, OLD ESK NORTH RD, OLD ESK RD",
+                "SUBURBS": "NANANGO, SOUTH EAST NANANGO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.147198,
+                    -26.825329
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB6261",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "23",
+                "REASON": "The loss of supply is to connect new customers to the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "8:30AM 20 Jun 2025",
+                "EST_FIX_TIME": "3:30PM 20 Jun 2025",
+                "STREETS": "ALMOND RD, OLD ESK RD",
+                "SUBURBS": "BENARKIN, BENARKIN NORTH, BLACKBUTT, TAROMEO"
             }
         },
         {
@@ -91,45 +112,24 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.058972,
-                    -26.741337
+                    146.081638,
+                    -17.911794
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB5820",
+                "EVENT_ID": "25FN6277",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "47",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
                 "STATUS": "Crews working on-site",
                 "START": "8:30AM 20 Jun 2025",
                 "EST_FIX_TIME": "4:30PM 20 Jun 2025",
-                "STREETS": "DIGGINGS RD, DIGGINS RD, MCCAULEY WEIR RD, OAKEY CREEK RD, OLD ESK NORTH RD, OLD ESK RD",
-                "SUBURBS": "NANANGO, SOUTH EAST NANANGO"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    152.147198,
-                    -26.825329
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB6261",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "23",
-                "REASON": "The loss of supply is to connect new customers to the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:30AM 20 Jun 2025",
-                "EST_FIX_TIME": "3:30PM 20 Jun 2025",
-                "STREETS": "ALMOND RD, OLD ESK RD",
-                "SUBURBS": "BENARKIN, BENARKIN NORTH, BLACKBUTT, TAROMEO"
+                "STREETS": "MISSION BEACH RD",
+                "SUBURBS": "MISSION BEACH, WONGALING BEACH"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750396507.584797"
+    "extracted": "1750397404.830509"
 }
