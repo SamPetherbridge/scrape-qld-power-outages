@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.999568,
-                            -27.181218
+                            152.998311,
+                            -27.175278
                         ]
                     },
                     {
@@ -19,52 +19,110 @@
                         "coordinates": [
                             [
                                 [
-                                    152.985153,
-                                    -27.182086
+                                    152.995198,
+                                    -27.168848
                                 ],
                                 [
-                                    153.008459,
-                                    -27.19522
+                                    152.996853,
+                                    -27.180442
                                 ],
                                 [
-                                    153.008606,
-                                    -27.195276
+                                    152.996853,
+                                    -27.180443
                                 ],
                                 [
-                                    153.009187,
-                                    -27.195405
+                                    152.997043,
+                                    -27.181745
                                 ],
                                 [
-                                    153.009555,
-                                    -27.195362
+                                    152.997413,
+                                    -27.182123
                                 ],
                                 [
-                                    153.011291,
-                                    -27.194495
+                                    152.997945,
+                                    -27.181961
                                 ],
                                 [
-                                    153.011461,
-                                    -27.194357
+                                    153.001316,
+                                    -27.178006
                                 ],
                                 [
-                                    153.013222,
-                                    -27.192068
+                                    153.001419,
+                                    -27.177733
                                 ],
                                 [
-                                    153.013305,
-                                    -27.19188
+                                    153.001424,
+                                    -27.172567
                                 ],
                                 [
-                                    153.014191,
-                                    -27.18665
+                                    153.001257,
+                                    -27.172231
                                 ],
                                 [
-                                    153.014173,
-                                    -27.186446
+                                    152.999727,
+                                    -27.170999
                                 ],
                                 [
-                                    153.008977,
-                                    -27.171781
+                                    152.999697,
+                                    -27.170977
+                                ],
+                                [
+                                    152.996007,
+                                    -27.168434
+                                ],
+                                [
+                                    152.995198,
+                                    -27.168848
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-870232-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "33",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "11:33AM 23 Jun 2025",
+                "EST_FIX_TIME": "2:30PM 23 Jun 2025",
+                "STREETS": "DECEPTION BAY RD, EMBERSIDE CT, PRIESTS RD",
+                "SUBURBS": "DECEPTION BAY",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.00614,
+                            -27.169933
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.003392,
+                                    -27.167642
+                                ],
+                                [
+                                    153.00555,
+                                    -27.17256
+                                ],
+                                [
+                                    153.006126,
+                                    -27.172836
+                                ],
+                                [
+                                    153.008603,
+                                    -27.172359
                                 ],
                                 [
                                     153.008888,
@@ -91,32 +149,8 @@
                                     -27.167031
                                 ],
                                 [
-                                    153.003566,
-                                    -27.167111
-                                ],
-                                [
-                                    152.986499,
-                                    -27.178136
-                                ],
-                                [
-                                    152.986481,
-                                    -27.178148
-                                ],
-                                [
-                                    152.986281,
-                                    -27.17829
-                                ],
-                                [
-                                    152.986116,
-                                    -27.178498
-                                ],
-                                [
-                                    152.984945,
-                                    -27.181558
-                                ],
-                                [
-                                    152.985153,
-                                    -27.182086
+                                    153.003392,
+                                    -27.167642
                                 ]
                             ]
                         ]
@@ -126,12 +160,12 @@
             "properties": {
                 "EVENT_ID": "INCD-870194-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "478",
+                "CUSTOMERS_AFFECTED": "15",
                 "REASON": "A vehicle damaging our equipment",
                 "STATUS": "In Progress",
                 "START": "10:03AM 23 Jun 2025",
-                "EST_FIX_TIME": "12:30PM 23 Jun 2025",
-                "STREETS": "BRADY CT, BRONZEWING CRES, COCKATIEL CT, DECEPTION BAY RD, DESTAL ST, ETHEL ST, FINCH CT, GREENSHANK CRES, HERMANS CT, JASON ST, KOOYALEE ST, KRAUSE ST, LISA ST, MONARCH DR, MOORAK ST, OLD BAY RD, PIDGEON DR, PRIESTS RD, PRION CT, SEAGULL CT, SHAYNE AVE, SHEARWATER CT, STINT CT, TALLOW WOOD DR, WAGTAIL DR, WARREN CRES, ZAMMIT ST",
+                "EST_FIX_TIME": "2:30PM 23 Jun 2025",
+                "STREETS": "MOORAK ST, OLD BAY RD",
                 "SUBURBS": "DECEPTION BAY",
                 "ETR_FLAG": "N"
             }
@@ -139,5 +173,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1750642204.21501"
+    "extracted": "1750645201.930194"
 }
