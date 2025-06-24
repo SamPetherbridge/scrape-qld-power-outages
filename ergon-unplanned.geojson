@@ -60,13 +60,13 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN7262",
+                "EVENT_ID": "25FN7261",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "54",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Crews working on-site",
-                "START": "8:12PM 24 Jun 2025",
-                "EST_FIX_TIME": "10:00PM 24 Jun 2025",
+                "START": "6:42PM 24 Jun 2025",
+                "EST_FIX_TIME": "11:00PM 24 Jun 2025",
                 "STREETS": "BRUCE HWY",
                 "SUBURBS": "EDMONTON"
             }
@@ -134,6 +134,67 @@
                 "EST_FIX_TIME": "9:30AM 11 Jul 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 09 Jul 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
             }
         },
         {
@@ -220,139 +281,9 @@
                 "STREETS": "BRINARD STATION, CABANDA STATION, CANOBIE STATION, CONSENTES STATION, CREMONA STATION, DALGONALLY STATION, KALMETA STATION, LARA DOWNS STATION, MONSTRAVEN STATION, NORMANTON RD, OUCHY STATION, SPOONBILL STATION, VIOLA STATION, VIOLETVALE STATION",
                 "SUBURBS": "JULIA CREEK"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            145.7472,
-                            -17.026696
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.746353,
-                                    -17.026215
-                                ],
-                                [
-                                    145.746387,
-                                    -17.027104
-                                ],
-                                [
-                                    145.746648,
-                                    -17.027492
-                                ],
-                                [
-                                    145.746903,
-                                    -17.027614
-                                ],
-                                [
-                                    145.74748,
-                                    -17.02749
-                                ],
-                                [
-                                    145.748046,
-                                    -17.026801
-                                ],
-                                [
-                                    145.747849,
-                                    -17.0261
-                                ],
-                                [
-                                    145.746994,
-                                    -17.025778
-                                ],
-                                [
-                                    145.746353,
-                                    -17.026215
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN7261",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "54",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "6:42PM 24 Jun 2025",
-                "EST_FIX_TIME": "10:00PM 24 Jun 2025",
-                "STREETS": "BRUCE HWY",
-                "SUBURBS": "EDMONTON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.207433,
-                            -18.981624
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ],
-                                [
-                                    146.197621,
-                                    -18.979466
-                                ],
-                                [
-                                    146.197069,
-                                    -18.97983
-                                ],
-                                [
-                                    146.197451,
-                                    -18.980355
-                                ],
-                                [
-                                    146.217246,
-                                    -18.983782
-                                ],
-                                [
-                                    146.217798,
-                                    -18.983418
-                                ],
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ1993",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 09 Jul 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750767601.441446"
+    "extracted": "1750768501.394149"
 }
