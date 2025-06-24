@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            149.307954,
-                            -21.368897
+                            148.699115,
+                            -21.127962
                         ]
                     },
                     {
@@ -19,52 +19,36 @@
                         "coordinates": [
                             [
                                 [
-                                    149.305581,
-                                    -21.366389
+                                    148.697564,
+                                    -21.128178
                                 ],
                                 [
-                                    149.306246,
-                                    -21.367765
+                                    148.700208,
+                                    -21.128945
                                 ],
                                 [
-                                    149.306253,
-                                    -21.36778
+                                    148.700826,
+                                    -21.128582
                                 ],
                                 [
-                                    149.309472,
-                                    -21.373823
+                                    148.701003,
+                                    -21.127495
                                 ],
                                 [
-                                    149.310082,
-                                    -21.374041
+                                    148.700469,
+                                    -21.126979
                                 ],
                                 [
-                                    149.310364,
-                                    -21.37349
+                                    148.697649,
+                                    -21.127299
                                 ],
                                 [
-                                    149.307284,
-                                    -21.364058
+                                    148.697227,
+                                    -21.127706
                                 ],
                                 [
-                                    149.306703,
-                                    -21.363753
-                                ],
-                                [
-                                    149.306206,
-                                    -21.363873
-                                ],
-                                [
-                                    149.30585,
-                                    -21.364242
-                                ],
-                                [
-                                    149.305543,
-                                    -21.366135
-                                ],
-                                [
-                                    149.305581,
-                                    -21.366389
+                                    148.697564,
+                                    -21.128178
                                 ]
                             ]
                         ]
@@ -72,15 +56,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK5024",
+                "EVENT_ID": "25MK1119",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "39",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "1:29PM 24 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "THE ESPLANADE, ZELMA ST",
-                "SUBURBS": "GRASSTREE BEACH"
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 11 Jul 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -844,11 +828,92 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "2",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
+                "STATUS": "Crews working on-site",
                 "START": "10:45AM 23 Jun 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "DELLEYS RD",
                 "SUBURBS": "DALLARNIL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            149.307954,
+                            -21.368897
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    149.305581,
+                                    -21.366389
+                                ],
+                                [
+                                    149.306246,
+                                    -21.367765
+                                ],
+                                [
+                                    149.306253,
+                                    -21.36778
+                                ],
+                                [
+                                    149.309472,
+                                    -21.373823
+                                ],
+                                [
+                                    149.310082,
+                                    -21.374041
+                                ],
+                                [
+                                    149.310364,
+                                    -21.37349
+                                ],
+                                [
+                                    149.307284,
+                                    -21.364058
+                                ],
+                                [
+                                    149.306703,
+                                    -21.363753
+                                ],
+                                [
+                                    149.306206,
+                                    -21.363873
+                                ],
+                                [
+                                    149.30585,
+                                    -21.364242
+                                ],
+                                [
+                                    149.305543,
+                                    -21.366135
+                                ],
+                                [
+                                    149.305581,
+                                    -21.366389
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK5024",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "39",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "1:29PM 24 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "THE ESPLANADE, ZELMA ST",
+                "SUBURBS": "GRASSTREE BEACH"
             }
         },
         {
@@ -911,74 +976,9 @@
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 11 Jul 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750740305.270975"
+    "extracted": "1750741205.03709"
 }
