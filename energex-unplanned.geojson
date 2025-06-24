@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.026428,
-                            -27.337068
+                            152.932265,
+                            -26.472416
                         ]
                     },
                     {
@@ -19,68 +19,72 @@
                         "coordinates": [
                             [
                                 [
-                                    153.025041,
-                                    -27.336011
+                                    152.912871,
+                                    -26.481039
                                 ],
                                 [
-                                    153.025418,
-                                    -27.337168
+                                    152.925222,
+                                    -26.487721
                                 ],
                                 [
-                                    153.025465,
-                                    -27.337267
+                                    152.925665,
+                                    -26.487754
                                 ],
                                 [
-                                    153.025687,
-                                    -27.337611
+                                    152.947457,
+                                    -26.479989
                                 ],
                                 [
-                                    153.025793,
-                                    -27.337726
+                                    152.947665,
+                                    -26.47985
                                 ],
                                 [
-                                    153.026979,
-                                    -27.338651
+                                    152.951448,
+                                    -26.475571
                                 ],
                                 [
-                                    153.027816,
-                                    -27.338281
+                                    152.951513,
+                                    -26.475475
                                 ],
                                 [
-                                    153.027811,
-                                    -27.338211
+                                    152.951857,
+                                    -26.474784
                                 ],
                                 [
-                                    153.027778,
-                                    -27.338077
+                                    152.951802,
+                                    -26.47433
                                 ],
                                 [
-                                    153.027723,
-                                    -27.337951
+                                    152.949495,
+                                    -26.47154
                                 ],
                                 [
-                                    153.027688,
-                                    -27.337885
+                                    152.949449,
+                                    -26.471492
                                 ],
                                 [
-                                    153.026921,
-                                    -27.336715
+                                    152.933636,
+                                    -26.45713
                                 ],
                                 [
-                                    153.026878,
-                                    -27.336659
+                                    152.932992,
+                                    -26.457078
                                 ],
                                 [
-                                    153.025919,
-                                    -27.335601
+                                    152.920705,
+                                    -26.464833
                                 ],
                                 [
-                                    153.025292,
-                                    -27.335485
+                                    152.920536,
+                                    -26.465015
                                 ],
                                 [
-                                    153.025041,
-                                    -27.336011
+                                    152.912673,
+                                    -26.480464
+                                ],
+                                [
+                                    152.912871,
+                                    -26.481039
                                 ]
                             ]
                         ]
@@ -88,15 +92,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-870524-g",
+                "EVENT_ID": "INCD-870519-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "33",
+                "CUSTOMERS_AFFECTED": "301",
                 "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
-                "START": "1:46PM 24 Jun 2025",
-                "EST_FIX_TIME": "5:00PM 24 Jun 2025",
-                "STREETS": "FLINDERS CCT, GLENELG LANE, OTWAY CCT",
-                "SUBURBS": "FITZGIBBON",
+                "STATUS": "In Progress",
+                "START": "1:34PM 24 Jun 2025",
+                "EST_FIX_TIME": "4:00PM 24 Jun 2025",
+                "STREETS": "BARLEE ST, BLACK STUMP RD, BOONIAH CT, BURRELL AVE, CHAMBERS LANE, CLARK CRES, COLEUS RD, COWELL ST, CRESCENT RD, DAISY LANE, ELIZABETH ST, EUMUNDI-KENILWORTH RD, FULLAGER DR, MEMORIAL DR, MILLER PL, NAPIER RD, RACECOURSE RISE, SALE ST, STRONG LANE, VIDA LANE, VIV HULL AVE, WEST EUMUNDI RD, WILLIAM RD, WILSONS LANE",
+                "SUBURBS": "EERWAH VALE, EUMUNDI",
                 "ETR_FLAG": "N"
             }
         },
@@ -214,6 +218,104 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.026428,
+                            -27.337068
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.025041,
+                                    -27.336011
+                                ],
+                                [
+                                    153.025418,
+                                    -27.337168
+                                ],
+                                [
+                                    153.025465,
+                                    -27.337267
+                                ],
+                                [
+                                    153.025687,
+                                    -27.337611
+                                ],
+                                [
+                                    153.025793,
+                                    -27.337726
+                                ],
+                                [
+                                    153.026979,
+                                    -27.338651
+                                ],
+                                [
+                                    153.027816,
+                                    -27.338281
+                                ],
+                                [
+                                    153.027811,
+                                    -27.338211
+                                ],
+                                [
+                                    153.027778,
+                                    -27.338077
+                                ],
+                                [
+                                    153.027723,
+                                    -27.337951
+                                ],
+                                [
+                                    153.027688,
+                                    -27.337885
+                                ],
+                                [
+                                    153.026921,
+                                    -27.336715
+                                ],
+                                [
+                                    153.026878,
+                                    -27.336659
+                                ],
+                                [
+                                    153.025919,
+                                    -27.335601
+                                ],
+                                [
+                                    153.025292,
+                                    -27.335485
+                                ],
+                                [
+                                    153.025041,
+                                    -27.336011
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-870524-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "33",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "1:46PM 24 Jun 2025",
+                "EST_FIX_TIME": "5:00PM 24 Jun 2025",
+                "STREETS": "FLINDERS CCT, GLENELG LANE, OTWAY CCT",
+                "SUBURBS": "FITZGIBBON",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.381323,
                             -28.16418
                         ]
@@ -286,124 +388,14 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "11:49AM 24 Jun 2025",
-                "EST_FIX_TIME": "3:00PM 24 Jun 2025",
+                "EST_FIX_TIME": "3:30PM 24 Jun 2025",
                 "STREETS": "TALLEBUDGERA CREEK RD",
                 "SUBURBS": "TALLEBUDGERA VALLEY",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.93464,
-                            -26.472412
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.912871,
-                                    -26.481039
-                                ],
-                                [
-                                    152.925222,
-                                    -26.487721
-                                ],
-                                [
-                                    152.925665,
-                                    -26.487754
-                                ],
-                                [
-                                    152.947457,
-                                    -26.479989
-                                ],
-                                [
-                                    152.947515,
-                                    -26.479965
-                                ],
-                                [
-                                    152.953099,
-                                    -26.477194
-                                ],
-                                [
-                                    152.953184,
-                                    -26.47714
-                                ],
-                                [
-                                    152.954808,
-                                    -26.475878
-                                ],
-                                [
-                                    152.9549,
-                                    -26.475783
-                                ],
-                                [
-                                    152.956589,
-                                    -26.473458
-                                ],
-                                [
-                                    152.956607,
-                                    -26.472991
-                                ],
-                                [
-                                    152.954273,
-                                    -26.469223
-                                ],
-                                [
-                                    152.954107,
-                                    -26.469064
-                                ],
-                                [
-                                    152.933553,
-                                    -26.457069
-                                ],
-                                [
-                                    152.932992,
-                                    -26.457078
-                                ],
-                                [
-                                    152.920705,
-                                    -26.464833
-                                ],
-                                [
-                                    152.920536,
-                                    -26.465015
-                                ],
-                                [
-                                    152.912673,
-                                    -26.480464
-                                ],
-                                [
-                                    152.912871,
-                                    -26.481039
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-870519-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "370",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "1:34PM 24 Jun 2025",
-                "EST_FIX_TIME": "4:00PM 24 Jun 2025",
-                "STREETS": "ALBERT ST, ALICE ST, BARLEE ST, BLACK STUMP RD, BOONIAH CT, BURRELL AVE, CAPLICK WAY, CHAMBERS LANE, CLARK CRES, COLEUS RD, COOK ST, COWELL ST, CRESCENT RD, DAISY LANE, ELIZABETH ST, EUMUNDI RANGE RD, EUMUNDI-KENILWORTH RD, FULLAGER DR, GREER LANE, LONERGAN LANE, MEMORIAL DR, MILLER PL, NAPIER RD, RACECOURSE RISE, SALE ST, STRONG LANE, VIDA LANE, VIV HULL AVE, WARD ST, WEST EUMUNDI RD, WILLIAM RD, WILSONS LANE",
-                "SUBURBS": "EERWAH VALE, EUMUNDI",
                 "ETR_FLAG": "N"
             }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1750738506.95215"
+    "extracted": "1750739402.749972"
 }
