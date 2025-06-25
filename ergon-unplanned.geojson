@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.207433,
-                            -18.981624
+                            149.016718,
+                            -21.069582
                         ]
                     },
                     {
@@ -19,32 +19,44 @@
                         "coordinates": [
                             [
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    149.015626,
+                                    -21.069508
                                 ],
                                 [
-                                    146.197621,
-                                    -18.979466
+                                    149.015769,
+                                    -21.071017
                                 ],
                                 [
-                                    146.197069,
-                                    -18.97983
+                                    149.015949,
+                                    -21.071331
                                 ],
                                 [
-                                    146.197451,
-                                    -18.980355
+                                    149.016514,
+                                    -21.071752
                                 ],
                                 [
-                                    146.217246,
-                                    -18.983782
+                                    149.01729,
+                                    -21.07146
                                 ],
                                 [
-                                    146.217798,
-                                    -18.983418
+                                    149.01781,
+                                    -21.067894
                                 ],
                                 [
-                                    146.217416,
-                                    -18.982893
+                                    149.017509,
+                                    -21.067413
+                                ],
+                                [
+                                    149.01694,
+                                    -21.067573
+                                ],
+                                [
+                                    149.015712,
+                                    -21.069207
+                                ],
+                                [
+                                    149.015626,
+                                    -21.069508
                                 ]
                             ]
                         ]
@@ -52,15 +64,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ1993",
+                "EVENT_ID": "25MK5066",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 09 Jul 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "6:12PM 25 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRUCE HWY, LEAP LANE, WESTLAKE DR",
+                "SUBURBS": "THE LEAP"
             }
         },
         {
@@ -136,6 +148,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 09 Jul 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.097882,
                             -17.89348
                         ]
@@ -188,151 +261,9 @@
                 "STREETS": "KODA ST, WONGALING BEACH RD",
                 "SUBURBS": "WONGALING BEACH"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.441249,
-                            -26.192187
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.440898,
-                                    -26.193164
-                                ],
-                                [
-                                    152.442323,
-                                    -26.191833
-                                ],
-                                [
-                                    152.442311,
-                                    -26.191197
-                                ],
-                                [
-                                    152.441607,
-                                    -26.191206
-                                ],
-                                [
-                                    152.440459,
-                                    -26.19227
-                                ],
-                                [
-                                    152.440452,
-                                    -26.192277
-                                ],
-                                [
-                                    152.440175,
-                                    -26.192544
-                                ],
-                                [
-                                    152.440195,
-                                    -26.193177
-                                ],
-                                [
-                                    152.440898,
-                                    -26.193164
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB7037",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "7:13PM 25 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "COLE RD",
-                "SUBURBS": "WIDGEE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            149.016718,
-                            -21.069582
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    149.015626,
-                                    -21.069508
-                                ],
-                                [
-                                    149.015769,
-                                    -21.071017
-                                ],
-                                [
-                                    149.015949,
-                                    -21.071331
-                                ],
-                                [
-                                    149.016514,
-                                    -21.071752
-                                ],
-                                [
-                                    149.01729,
-                                    -21.07146
-                                ],
-                                [
-                                    149.01781,
-                                    -21.067894
-                                ],
-                                [
-                                    149.017509,
-                                    -21.067413
-                                ],
-                                [
-                                    149.01694,
-                                    -21.067573
-                                ],
-                                [
-                                    149.015712,
-                                    -21.069207
-                                ],
-                                [
-                                    149.015626,
-                                    -21.069508
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK5066",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "6:12PM 25 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BRUCE HWY, LEAP LANE, WESTLAKE DR",
-                "SUBURBS": "THE LEAP"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750848600.499661"
+    "extracted": "1750849204.221883"
 }
