@@ -10,6 +10,79 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            149.016718,
+                            -21.069582
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    149.015626,
+                                    -21.069508
+                                ],
+                                [
+                                    149.015769,
+                                    -21.071017
+                                ],
+                                [
+                                    149.015949,
+                                    -21.071331
+                                ],
+                                [
+                                    149.016514,
+                                    -21.071752
+                                ],
+                                [
+                                    149.01729,
+                                    -21.07146
+                                ],
+                                [
+                                    149.01781,
+                                    -21.067894
+                                ],
+                                [
+                                    149.017509,
+                                    -21.067413
+                                ],
+                                [
+                                    149.01694,
+                                    -21.067573
+                                ],
+                                [
+                                    149.015712,
+                                    -21.069207
+                                ],
+                                [
+                                    149.015626,
+                                    -21.069508
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK5066",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "6:12PM 25 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRUCE HWY, LEAP LANE, WESTLAKE DR",
+                "SUBURBS": "THE LEAP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             147.173839,
                             -19.761762
                         ]
@@ -289,82 +362,9 @@
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            149.016718,
-                            -21.069582
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    149.015626,
-                                    -21.069508
-                                ],
-                                [
-                                    149.015769,
-                                    -21.071017
-                                ],
-                                [
-                                    149.015949,
-                                    -21.071331
-                                ],
-                                [
-                                    149.016514,
-                                    -21.071752
-                                ],
-                                [
-                                    149.01729,
-                                    -21.07146
-                                ],
-                                [
-                                    149.01781,
-                                    -21.067894
-                                ],
-                                [
-                                    149.017509,
-                                    -21.067413
-                                ],
-                                [
-                                    149.01694,
-                                    -21.067573
-                                ],
-                                [
-                                    149.015712,
-                                    -21.069207
-                                ],
-                                [
-                                    149.015626,
-                                    -21.069508
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK5066",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
-                "START": "6:12PM 25 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BRUCE HWY, LEAP LANE, WESTLAKE DR",
-                "SUBURBS": "THE LEAP"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750842005.679074"
+    "extracted": "1750842601.084328"
 }
