@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
+                            149.188716,
+                            -21.155469
                         ]
                     },
                     {
@@ -19,36 +19,128 @@
                         "coordinates": [
                             [
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    149.18408,
+                                    -21.162752
                                 ],
                                 [
-                                    148.700208,
-                                    -21.128945
+                                    149.186864,
+                                    -21.166862
                                 ],
                                 [
-                                    148.700826,
-                                    -21.128582
+                                    149.187137,
+                                    -21.167054
                                 ],
                                 [
-                                    148.701003,
-                                    -21.127495
+                                    149.188274,
+                                    -21.167362
                                 ],
                                 [
-                                    148.700469,
-                                    -21.126979
+                                    149.188281,
+                                    -21.167363
                                 ],
                                 [
-                                    148.697649,
-                                    -21.127299
+                                    149.189538,
+                                    -21.167684
                                 ],
                                 [
-                                    148.697227,
-                                    -21.127706
+                                    149.189571,
+                                    -21.167691
                                 ],
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    149.190785,
+                                    -21.167915
+                                ],
+                                [
+                                    149.190991,
+                                    -21.167911
+                                ],
+                                [
+                                    149.192248,
+                                    -21.167625
+                                ],
+                                [
+                                    149.192464,
+                                    -21.167515
+                                ],
+                                [
+                                    149.192618,
+                                    -21.16738
+                                ],
+                                [
+                                    149.19274,
+                                    -21.167206
+                                ],
+                                [
+                                    149.192877,
+                                    -21.166855
+                                ],
+                                [
+                                    149.192901,
+                                    -21.166768
+                                ],
+                                [
+                                    149.193423,
+                                    -21.163578
+                                ],
+                                [
+                                    149.193428,
+                                    -21.163499
+                                ],
+                                [
+                                    149.192987,
+                                    -21.146469
+                                ],
+                                [
+                                    149.192971,
+                                    -21.146364
+                                ],
+                                [
+                                    149.19284,
+                                    -21.145901
+                                ],
+                                [
+                                    149.192813,
+                                    -21.14583
+                                ],
+                                [
+                                    149.191492,
+                                    -21.1431
+                                ],
+                                [
+                                    149.190663,
+                                    -21.143023
+                                ],
+                                [
+                                    149.1897,
+                                    -21.144274
+                                ],
+                                [
+                                    149.189696,
+                                    -21.144279
+                                ],
+                                [
+                                    149.184299,
+                                    -21.151494
+                                ],
+                                [
+                                    149.184212,
+                                    -21.151735
+                                ],
+                                [
+                                    149.184008,
+                                    -21.156492
+                                ],
+                                [
+                                    149.184008,
+                                    -21.15651
+                                ],
+                                [
+                                    149.184005,
+                                    -21.162509
+                                ],
+                                [
+                                    149.18408,
+                                    -21.162752
                                 ]
                             ]
                         ]
@@ -56,15 +148,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK1119",
+                "EVENT_ID": "25MK5119",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "9:30AM 11 Jul 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
+                "CUSTOMERS_AFFECTED": "1450",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "1:05AM 27 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ALFRED ST, BRIDGE RD, BYRON ST, CAMPBELL ST, CLARK ST, CREDLIN ST, EDWARD ST, ELAMANG ST, EVAN ST, GOLDSMITH ST, HART ST, HAYES LANE, HODGES ST, IRVING ST, JULIET ST, KEELAN ST, KENNEDY ST, KIPPEN ST, LAMB ST, MACARTHUR ST, MCKENNEY ST, MENGEL ST, MOORE ST, PARK ST, PETRIE ST, PORTER ST, PROSPECT ST, READY ST, ROLSTON ST, SCOTT ST, SHAKESPEARE ST, STEEN ST, STEVENSON ST, SYMONS ST, TENNYSON ST, THIRTEENTH LANE, TURNER ST, WENTFORD ST, WILLIAM ST",
+                "SUBURBS": "EAST MACKAY, MACKAY, SOUTH MACKAY"
             }
         },
         {
@@ -127,9 +219,74 @@
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "9:30AM 11 Jul 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1750950301.539161"
+    "extracted": "1750950904.570564"
 }
