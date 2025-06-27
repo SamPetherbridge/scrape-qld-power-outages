@@ -10,92 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.673093,
-                            -26.264859
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.668944,
-                                    -26.264355
-                                ],
-                                [
-                                    152.670253,
-                                    -26.268653
-                                ],
-                                [
-                                    152.670904,
-                                    -26.268959
-                                ],
-                                [
-                                    152.676972,
-                                    -26.267019
-                                ],
-                                [
-                                    152.677251,
-                                    -26.266389
-                                ],
-                                [
-                                    152.67422,
-                                    -26.260999
-                                ],
-                                [
-                                    152.673684,
-                                    -26.260759
-                                ],
-                                [
-                                    152.669894,
-                                    -26.261381
-                                ],
-                                [
-                                    152.669518,
-                                    -26.261658
-                                ],
-                                [
-                                    152.669376,
-                                    -26.261979
-                                ],
-                                [
-                                    152.669349,
-                                    -26.262067
-                                ],
-                                [
-                                    152.668934,
-                                    -26.264156
-                                ],
-                                [
-                                    152.668944,
-                                    -26.264355
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-871246-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "33",
-                "REASON": "Emergency repairs in-progress",
-                "STATUS": "Awaiting",
-                "START": "12:52PM 27 Jun 2025",
-                "EST_FIX_TIME": "3:30PM 27 Jun 2025",
-                "STREETS": "ILGA RD, PANORAMA DR, SOLARE RTT, VALLEY VISTA RD",
-                "SUBURBS": "LAGOON POCKET, THE DAWN",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.235874,
                             -27.972004
                         ]
@@ -171,104 +85,6 @@
                 "EST_FIX_TIME": "2:30PM 27 Jun 2025",
                 "STREETS": "HENRI ROBERT DR, KING PARROT CT",
                 "SUBURBS": "CLAGIRABA",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.960885,
-                            -26.626086
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.960129,
-                                    -26.626071
-                                ],
-                                [
-                                    152.960195,
-                                    -26.626855
-                                ],
-                                [
-                                    152.960475,
-                                    -26.627226
-                                ],
-                                [
-                                    152.960774,
-                                    -26.627358
-                                ],
-                                [
-                                    152.961023,
-                                    -26.627404
-                                ],
-                                [
-                                    152.961116,
-                                    -26.627399
-                                ],
-                                [
-                                    152.961561,
-                                    -26.6271
-                                ],
-                                [
-                                    152.961563,
-                                    -26.627097
-                                ],
-                                [
-                                    152.96159,
-                                    -26.626982
-                                ],
-                                [
-                                    152.961643,
-                                    -26.626402
-                                ],
-                                [
-                                    152.961614,
-                                    -26.62621
-                                ],
-                                [
-                                    152.961144,
-                                    -26.625059
-                                ],
-                                [
-                                    152.960597,
-                                    -26.624768
-                                ],
-                                [
-                                    152.960171,
-                                    -26.625193
-                                ],
-                                [
-                                    152.960128,
-                                    -26.626015
-                                ],
-                                [
-                                    152.960129,
-                                    -26.626071
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-871183-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "13",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "9:33AM 27 Jun 2025",
-                "EST_FIX_TIME": "2:00PM 27 Jun 2025",
-                "STREETS": "ANN ST, HOWARD ST, LOWE ST",
-                "SUBURBS": "NAMBOUR",
                 "ETR_FLAG": "N"
             }
         },
@@ -373,9 +189,95 @@
                 "SUBURBS": "SUNNYBANK HILLS",
                 "ETR_FLAG": "Y"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.673093,
+                            -26.264859
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.668944,
+                                    -26.264355
+                                ],
+                                [
+                                    152.670253,
+                                    -26.268653
+                                ],
+                                [
+                                    152.670904,
+                                    -26.268959
+                                ],
+                                [
+                                    152.676972,
+                                    -26.267019
+                                ],
+                                [
+                                    152.677251,
+                                    -26.266389
+                                ],
+                                [
+                                    152.67422,
+                                    -26.260999
+                                ],
+                                [
+                                    152.673684,
+                                    -26.260759
+                                ],
+                                [
+                                    152.669894,
+                                    -26.261381
+                                ],
+                                [
+                                    152.669518,
+                                    -26.261658
+                                ],
+                                [
+                                    152.669376,
+                                    -26.261979
+                                ],
+                                [
+                                    152.669349,
+                                    -26.262067
+                                ],
+                                [
+                                    152.668934,
+                                    -26.264156
+                                ],
+                                [
+                                    152.668944,
+                                    -26.264355
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-871246-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "33",
+                "REASON": "Emergency repairs in-progress",
+                "STATUS": "Awaiting",
+                "START": "12:52PM 27 Jun 2025",
+                "EST_FIX_TIME": "3:30PM 27 Jun 2025",
+                "STREETS": "ILGA RD, PANORAMA DR, SOLARE RTT, VALLEY VISTA RD",
+                "SUBURBS": "LAGOON POCKET, THE DAWN",
+                "ETR_FLAG": "Y"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1750993202.177577"
+    "extracted": "1750994701.472802"
 }
