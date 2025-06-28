@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            150.21589,
-                            -23.863328
+                            150.398017,
+                            -23.644239
                         ]
                     },
                     {
@@ -19,24 +19,145 @@
                         "coordinates": [
                             [
                                 [
-                                    150.191541,
-                                    -23.876822
+                                    150.389135,
+                                    -23.64137
                                 ],
                                 [
-                                    150.193562,
-                                    -23.902808
+                                    150.389423,
+                                    -23.642064
                                 ],
                                 [
-                                    150.193948,
-                                    -23.903216
+                                    150.389482,
+                                    -23.642165
                                 ],
                                 [
-                                    150.194483,
-                                    -23.902991
+                                    150.390822,
+                                    -23.643896
                                 ],
                                 [
-                                    150.232324,
-                                    -23.838831
+                                    150.391001,
+                                    -23.644038
+                                ],
+                                [
+                                    150.403543,
+                                    -23.649831
+                                ],
+                                [
+                                    150.403696,
+                                    -23.649875
+                                ],
+                                [
+                                    150.406386,
+                                    -23.650216
+                                ],
+                                [
+                                    150.40693,
+                                    -23.649671
+                                ],
+                                [
+                                    150.405854,
+                                    -23.645183
+                                ],
+                                [
+                                    150.405801,
+                                    -23.645056
+                                ],
+                                [
+                                    150.405163,
+                                    -23.644029
+                                ],
+                                [
+                                    150.405051,
+                                    -23.643906
+                                ],
+                                [
+                                    150.404835,
+                                    -23.643741
+                                ],
+                                [
+                                    150.404787,
+                                    -23.643709
+                                ],
+                                [
+                                    150.399557,
+                                    -23.64061
+                                ],
+                                [
+                                    150.399506,
+                                    -23.640584
+                                ],
+                                [
+                                    150.394361,
+                                    -23.638281
+                                ],
+                                [
+                                    150.39398,
+                                    -23.638263
+                                ],
+                                [
+                                    150.392456,
+                                    -23.638772
+                                ],
+                                [
+                                    150.392359,
+                                    -23.638816
+                                ],
+                                [
+                                    150.389341,
+                                    -23.640598
+                                ],
+                                [
+                                    150.389116,
+                                    -23.640954
+                                ],
+                                [
+                                    150.389103,
+                                    -23.641186
+                                ],
+                                [
+                                    150.389135,
+                                    -23.64137
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA9213",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "120",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "9:12AM 28 Jun 2025",
+                "EST_FIX_TIME": "2:30PM 28 Jun 2025",
+                "STREETS": "BYRNES PDE, CURRIN ST, DOBBS ST, EAST EXTD ST, GANTER ST, GOWDIE ST, HENRY ST, HIGH ST, HILL LANE, HILL ST, HINTON ST, PERLICK ST, PHILLIP ST, POSSUM ST, RIVER RD, RIVER ST, ROCHE ST",
+                "SUBURBS": "MOUNT MORGAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            150.233572,
+                            -23.831171
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.226906,
+                                    -23.832613
+                                ],
+                                [
+                                    150.231487,
+                                    -23.838868
                                 ],
                                 [
                                     150.232333,
@@ -47,28 +168,20 @@
                                     -23.824034
                                 ],
                                 [
-                                    150.240137,
-                                    -23.823509
+                                    150.240113,
+                                    -23.823489
                                 ],
                                 [
-                                    150.239562,
-                                    -23.82344
+                                    150.239507,
+                                    -23.823473
                                 ],
                                 [
-                                    150.202411,
-                                    -23.842279
+                                    150.22702,
+                                    -23.831999
                                 ],
                                 [
-                                    150.202176,
-                                    -23.84255
-                                ],
-                                [
-                                    150.191558,
-                                    -23.876666
-                                ],
-                                [
-                                    150.191541,
-                                    -23.876822
+                                    150.226906,
+                                    -23.832613
                                 ]
                             ]
                         ]
@@ -78,13 +191,13 @@
             "properties": {
                 "EVENT_ID": "25CA9215",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "11",
+                "CUSTOMERS_AFFECTED": "3",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Crews working on-site",
                 "START": "9:50AM 28 Jun 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "FLOHRS RD, FLOODS RD, FROSTYS RD, LEICHHARDT HWY",
-                "SUBURBS": "DULULU, WOWAN"
+                "STREETS": "FLOODS RD, LEICHHARDT HWY",
+                "SUBURBS": "DULULU"
             }
         },
         {
@@ -212,142 +325,9 @@
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            150.398017,
-                            -23.644239
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    150.389135,
-                                    -23.64137
-                                ],
-                                [
-                                    150.389423,
-                                    -23.642064
-                                ],
-                                [
-                                    150.389482,
-                                    -23.642165
-                                ],
-                                [
-                                    150.390822,
-                                    -23.643896
-                                ],
-                                [
-                                    150.391001,
-                                    -23.644038
-                                ],
-                                [
-                                    150.403543,
-                                    -23.649831
-                                ],
-                                [
-                                    150.403696,
-                                    -23.649875
-                                ],
-                                [
-                                    150.406386,
-                                    -23.650216
-                                ],
-                                [
-                                    150.40693,
-                                    -23.649671
-                                ],
-                                [
-                                    150.405854,
-                                    -23.645183
-                                ],
-                                [
-                                    150.405801,
-                                    -23.645056
-                                ],
-                                [
-                                    150.405163,
-                                    -23.644029
-                                ],
-                                [
-                                    150.405051,
-                                    -23.643906
-                                ],
-                                [
-                                    150.404835,
-                                    -23.643741
-                                ],
-                                [
-                                    150.404787,
-                                    -23.643709
-                                ],
-                                [
-                                    150.399557,
-                                    -23.64061
-                                ],
-                                [
-                                    150.399506,
-                                    -23.640584
-                                ],
-                                [
-                                    150.394361,
-                                    -23.638281
-                                ],
-                                [
-                                    150.39398,
-                                    -23.638263
-                                ],
-                                [
-                                    150.392456,
-                                    -23.638772
-                                ],
-                                [
-                                    150.392359,
-                                    -23.638816
-                                ],
-                                [
-                                    150.389341,
-                                    -23.640598
-                                ],
-                                [
-                                    150.389116,
-                                    -23.640954
-                                ],
-                                [
-                                    150.389103,
-                                    -23.641186
-                                ],
-                                [
-                                    150.389135,
-                                    -23.64137
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA9213",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "120",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "9:12AM 28 Jun 2025",
-                "EST_FIX_TIME": "12:30PM 28 Jun 2025",
-                "STREETS": "BYRNES PDE, CURRIN ST, DOBBS ST, EAST EXTD ST, GANTER ST, GOWDIE ST, HENRY ST, HIGH ST, HILL LANE, HILL ST, HINTON ST, PERLICK ST, PHILLIP ST, POSSUM ST, RIVER RD, RIVER ST, ROCHE ST",
-                "SUBURBS": "MOUNT MORGAN"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1751076904.689988"
+    "extracted": "1751079001.674374"
 }
