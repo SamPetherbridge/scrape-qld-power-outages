@@ -10,6 +10,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.272919,
+                            -27.8681
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.271534,
+                                    -27.870493
+                                ],
+                                [
+                                    151.274905,
+                                    -27.868522
+                                ],
+                                [
+                                    151.275085,
+                                    -27.867955
+                                ],
+                                [
+                                    151.274228,
+                                    -27.866331
+                                ],
+                                [
+                                    151.274098,
+                                    -27.86618
+                                ],
+                                [
+                                    151.273475,
+                                    -27.865706
+                                ],
+                                [
+                                    151.27281,
+                                    -27.865711
+                                ],
+                                [
+                                    151.272202,
+                                    -27.866187
+                                ],
+                                [
+                                    151.272145,
+                                    -27.866239
+                                ],
+                                [
+                                    151.271221,
+                                    -27.86724
+                                ],
+                                [
+                                    151.271109,
+                                    -27.867471
+                                ],
+                                [
+                                    151.270752,
+                                    -27.870062
+                                ],
+                                [
+                                    151.271534,
+                                    -27.870493
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW8862",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "13",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews on route",
+                "START": "8:43PM 29 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRUCE RD, MILL RD, MILLMERRAN CECIL PLAINS RD, WEAVER ST",
+                "SUBURBS": "MILLMERRAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -264,7 +349,7 @@
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Crews working on-site",
                 "START": "9:04PM 29 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
+                "EST_FIX_TIME": "4:00AM 30 Jun 2025",
                 "STREETS": "ACACIA ST, AMBER CT, BACON ST, BARCOO DR, BARRON CT, BARTON DR, BEETSON ST, BELYANDO AVE, BERNBOROUGH AVE, BOWEN CT, BRADMAN ST, CHIFLEY CT, CLEMENTS ST, COOK CT, CROKER CT, CROMPTON ST, CUTHBERT ST, DE CASTELLA DR, DOORUNA RD, FLIGHT DR, FORREST DR, FREEMAN ST, GLEN AVON RD, GOLDEN DOWNS AVON RD, GOONYELLA HAY POINT LINE, GOONYELLA RD, GOULD ST, IAN THORPE DR, KANGAROO DR, KELLERMAN DR, KENNEDY DR, KILCUMMIN DIAMOND DOWNS RD, KOALA TCE, LEICHHARDT DR, LONGMAN DR, MABBIN RD, MACKENZIE DR, MACPHERSON ST, MAITLAND ST, MCCOOL ST, MENZIES CT, MIDDLETON LANE, MILLS AVE, MT COOLON RD, MT DILLINGEN RD, MUNRO ST, NONETTE ST, NORTON CT, ONEILL ST, PARRY LANE, PEAK DOWNS HWY, RAILWAY STATION RD, RENIER CRES, ROLFE ST, ROSE ST, RUGBY RD, RUPERT ST, SARCHEDON ST, SCHIFCOFSKE DR, SHANNON DR, SHAW ST, ST FRANCIS DR, SUTTOR DEVELOPMENT RD, THOMAS LANE, THORPE ST, TURVEY CT, UTAH DR, WATKINS ST, WILLIAMS ST, WILLIS LANE, WUTHUNG RD, YEATES ST",
                 "SUBURBS": "FRANKFIELD, KILCUMMIN, MORANBAH, NEBO, SARINA"
             }
@@ -272,5 +357,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1751204704.209765"
+    "extracted": "1751205000.961132"
 }
