@@ -10,6 +10,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            142.533815,
+                            -9.414623
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    142.535444,
+                                    -9.411604
+                                ],
+                                [
+                                    142.531448,
+                                    -9.417116
+                                ],
+                                [
+                                    142.531551,
+                                    -9.417745
+                                ],
+                                [
+                                    142.532185,
+                                    -9.417643
+                                ],
+                                [
+                                    142.536181,
+                                    -9.412131
+                                ],
+                                [
+                                    142.536078,
+                                    -9.411502
+                                ],
+                                [
+                                    142.535444,
+                                    -9.411604
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN7428",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "13",
+                "REASON": "The loss of supply is due to public safety concerns.",
+                "STATUS": "Work delayed. Crew unable to continue.",
+                "START": "2:57PM 30 Jun 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "UNKNOWN ST",
+                "SUBURBS": "DAUAN ISLAND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -75,67 +136,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            142.533815,
-                            -9.414623
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    142.535444,
-                                    -9.411604
-                                ],
-                                [
-                                    142.531448,
-                                    -9.417116
-                                ],
-                                [
-                                    142.531551,
-                                    -9.417745
-                                ],
-                                [
-                                    142.532185,
-                                    -9.417643
-                                ],
-                                [
-                                    142.536181,
-                                    -9.412131
-                                ],
-                                [
-                                    142.536078,
-                                    -9.411502
-                                ],
-                                [
-                                    142.535444,
-                                    -9.411604
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN7428",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "13",
-                "REASON": "The loss of supply is due to public safety concerns.",
-                "STATUS": "Work delayed. Crew unable to continue.",
-                "START": "2:57PM 30 Jun 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "UNKNOWN ST",
-                "SUBURBS": "DAUAN ISLAND"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -187,91 +187,6 @@
                 "EST_FIX_TIME": "6:00PM 09 Jul 2025",
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.714178,
-                            -27.422354
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.710704,
-                                    -27.420126
-                                ],
-                                [
-                                    151.71403,
-                                    -27.424196
-                                ],
-                                [
-                                    151.714178,
-                                    -27.424316
-                                ],
-                                [
-                                    151.716827,
-                                    -27.425738
-                                ],
-                                [
-                                    151.717591,
-                                    -27.425371
-                                ],
-                                [
-                                    151.717629,
-                                    -27.424533
-                                ],
-                                [
-                                    151.71763,
-                                    -27.424517
-                                ],
-                                [
-                                    151.717651,
-                                    -27.420243
-                                ],
-                                [
-                                    151.717651,
-                                    -27.420224
-                                ],
-                                [
-                                    151.717616,
-                                    -27.419401
-                                ],
-                                [
-                                    151.717071,
-                                    -27.41897
-                                ],
-                                [
-                                    151.71107,
-                                    -27.419412
-                                ],
-                                [
-                                    151.710704,
-                                    -27.420126
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW8893",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "36",
-                "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
-                "STATUS": "Crews on route",
-                "START": "5:48PM 30 Jun 2025",
-                "EST_FIX_TIME": "1:30AM 01 Jul 2025",
-                "STREETS": "COOYAR RD, FITZPATRICK ST, GAYLE ST, KATRINA ST, ROSS ST",
-                "SUBURBS": "OAKEY"
             }
         },
         {
@@ -358,9 +273,94 @@
                 "STREETS": "COOPER RD, EMMERSON RD, KELSEY CREEK RD, KURKOWSKI RD, SILVER CREEK RD",
                 "SUBURBS": "GOORGANGA, GOORGANGA CREEK, KELSEY CREEK, SILVER CREEK"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.714178,
+                            -27.422354
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.710704,
+                                    -27.420126
+                                ],
+                                [
+                                    151.71403,
+                                    -27.424196
+                                ],
+                                [
+                                    151.714178,
+                                    -27.424316
+                                ],
+                                [
+                                    151.716827,
+                                    -27.425738
+                                ],
+                                [
+                                    151.717591,
+                                    -27.425371
+                                ],
+                                [
+                                    151.717629,
+                                    -27.424533
+                                ],
+                                [
+                                    151.71763,
+                                    -27.424517
+                                ],
+                                [
+                                    151.717651,
+                                    -27.420243
+                                ],
+                                [
+                                    151.717651,
+                                    -27.420224
+                                ],
+                                [
+                                    151.717616,
+                                    -27.419401
+                                ],
+                                [
+                                    151.717071,
+                                    -27.41897
+                                ],
+                                [
+                                    151.71107,
+                                    -27.419412
+                                ],
+                                [
+                                    151.710704,
+                                    -27.420126
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW8893",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "36",
+                "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
+                "STATUS": "Crews on route",
+                "START": "5:48PM 30 Jun 2025",
+                "EST_FIX_TIME": "1:30AM 01 Jul 2025",
+                "STREETS": "COOYAR RD, FITZPATRICK ST, GAYLE ST, KATRINA ST, ROSS ST",
+                "SUBURBS": "OAKEY"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1751278504.835656"
+    "extracted": "1751279407.466328"
 }
