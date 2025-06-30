@@ -10,168 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            149.391497,
-                            -21.938959
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    149.285919,
-                                    -21.883061
-                                ],
-                                [
-                                    149.304104,
-                                    -21.911644
-                                ],
-                                [
-                                    149.304176,
-                                    -21.911731
-                                ],
-                                [
-                                    149.397008,
-                                    -21.999469
-                                ],
-                                [
-                                    149.397107,
-                                    -21.999541
-                                ],
-                                [
-                                    149.482264,
-                                    -22.046167
-                                ],
-                                [
-                                    149.48228,
-                                    -22.046176
-                                ],
-                                [
-                                    149.495978,
-                                    -22.052996
-                                ],
-                                [
-                                    149.496689,
-                                    -22.052625
-                                ],
-                                [
-                                    149.497074,
-                                    -22.046618
-                                ],
-                                [
-                                    149.497066,
-                                    -22.046504
-                                ],
-                                [
-                                    149.460174,
-                                    -21.871724
-                                ],
-                                [
-                                    149.459924,
-                                    -21.871411
-                                ],
-                                [
-                                    149.365434,
-                                    -21.824922
-                                ],
-                                [
-                                    149.364911,
-                                    -21.824965
-                                ],
-                                [
-                                    149.286038,
-                                    -21.882475
-                                ],
-                                [
-                                    149.285919,
-                                    -21.883061
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK5179",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "287",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "10:20PM 30 Jun 2025",
-                "EST_FIX_TIME": "11:00AM 01 Jul 2025",
-                "STREETS": "BEACH RD, BRUCE HWY, CARMILA BEACH ESP, CARMILA BEACH RD, CARMILA WEST RD, CONNOLLYS RD, DOUGLAS RD, ELALIE RD, FLAGGY ROCK RD, FLAGGY ST, GARNHAMS RD, HINDLES RD, KARLOO RD, LEICHHARDT CREEK RD, MAJORS RD, MCLEODS RD, MUSIC ST, OLD BRUCE HWY, PLATTS RD, QUALITY ST, RAILWAY PDE, RASMUSSENS RD, STUDENT ST, TAYLORS RD, THE ESPLANADE, TINERTA RD, UPPER FLAGGY ROCK RD",
-                "SUBURBS": "CARMILA, CARMILA BEACH, CLAIRVIEW, ORKABIE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.207433,
-                            -18.981624
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ],
-                                [
-                                    146.197621,
-                                    -18.979466
-                                ],
-                                [
-                                    146.197069,
-                                    -18.97983
-                                ],
-                                [
-                                    146.197451,
-                                    -18.980355
-                                ],
-                                [
-                                    146.217246,
-                                    -18.983782
-                                ],
-                                [
-                                    146.217798,
-                                    -18.983418
-                                ],
-                                [
-                                    146.217416,
-                                    -18.982893
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ1993",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "2:16AM 02 Feb 2025",
-                "EST_FIX_TIME": "6:00PM 09 Jul 2025",
-                "STREETS": "INTAKE RD",
-                "SUBURBS": "MUTARNEE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -289,9 +127,280 @@
                 "STREETS": "UNKNOWN ST",
                 "SUBURBS": "DAUAN ISLAND"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.207433,
+                            -18.981624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ],
+                                [
+                                    146.197621,
+                                    -18.979466
+                                ],
+                                [
+                                    146.197069,
+                                    -18.97983
+                                ],
+                                [
+                                    146.197451,
+                                    -18.980355
+                                ],
+                                [
+                                    146.217246,
+                                    -18.983782
+                                ],
+                                [
+                                    146.217798,
+                                    -18.983418
+                                ],
+                                [
+                                    146.217416,
+                                    -18.982893
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ1993",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:16AM 02 Feb 2025",
+                "EST_FIX_TIME": "6:00PM 09 Jul 2025",
+                "STREETS": "INTAKE RD",
+                "SUBURBS": "MUTARNEE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.418085,
+                            -24.837028
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.412987,
+                                    -24.837402
+                                ],
+                                [
+                                    152.414419,
+                                    -24.839568
+                                ],
+                                [
+                                    152.414901,
+                                    -24.839783
+                                ],
+                                [
+                                    152.415873,
+                                    -24.839675
+                                ],
+                                [
+                                    152.416083,
+                                    -24.839604
+                                ],
+                                [
+                                    152.419527,
+                                    -24.837544
+                                ],
+                                [
+                                    152.419528,
+                                    -24.837544
+                                ],
+                                [
+                                    152.423182,
+                                    -24.835345
+                                ],
+                                [
+                                    152.423178,
+                                    -24.834591
+                                ],
+                                [
+                                    152.422795,
+                                    -24.834367
+                                ],
+                                [
+                                    152.422536,
+                                    -24.834295
+                                ],
+                                [
+                                    152.421039,
+                                    -24.834274
+                                ],
+                                [
+                                    152.420876,
+                                    -24.834297
+                                ],
+                                [
+                                    152.414227,
+                                    -24.836304
+                                ],
+                                [
+                                    152.414177,
+                                    -24.836322
+                                ],
+                                [
+                                    152.413239,
+                                    -24.836713
+                                ],
+                                [
+                                    152.413034,
+                                    -24.836873
+                                ],
+                                [
+                                    152.412999,
+                                    -24.836921
+                                ],
+                                [
+                                    152.412987,
+                                    -24.837402
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB7165",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "14",
+                "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+                "STATUS": "Crews working on-site",
+                "START": "2:08AM 01 Jul 2025",
+                "EST_FIX_TIME": "10:00AM 01 Jul 2025",
+                "STREETS": "BARGARA RD",
+                "SUBURBS": "BUNDABERG, QUNABA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            149.391497,
+                            -21.938959
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    149.285919,
+                                    -21.883061
+                                ],
+                                [
+                                    149.304104,
+                                    -21.911644
+                                ],
+                                [
+                                    149.304176,
+                                    -21.911731
+                                ],
+                                [
+                                    149.397008,
+                                    -21.999469
+                                ],
+                                [
+                                    149.397107,
+                                    -21.999541
+                                ],
+                                [
+                                    149.482264,
+                                    -22.046167
+                                ],
+                                [
+                                    149.48228,
+                                    -22.046176
+                                ],
+                                [
+                                    149.495978,
+                                    -22.052996
+                                ],
+                                [
+                                    149.496689,
+                                    -22.052625
+                                ],
+                                [
+                                    149.497074,
+                                    -22.046618
+                                ],
+                                [
+                                    149.497066,
+                                    -22.046504
+                                ],
+                                [
+                                    149.460174,
+                                    -21.871724
+                                ],
+                                [
+                                    149.459924,
+                                    -21.871411
+                                ],
+                                [
+                                    149.365434,
+                                    -21.824922
+                                ],
+                                [
+                                    149.364911,
+                                    -21.824965
+                                ],
+                                [
+                                    149.286038,
+                                    -21.882475
+                                ],
+                                [
+                                    149.285919,
+                                    -21.883061
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK5179",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "287",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "10:20PM 30 Jun 2025",
+                "EST_FIX_TIME": "11:00AM 01 Jul 2025",
+                "STREETS": "BEACH RD, BRUCE HWY, CARMILA BEACH ESP, CARMILA BEACH RD, CARMILA WEST RD, CONNOLLYS RD, DOUGLAS RD, ELALIE RD, FLAGGY ROCK RD, FLAGGY ST, GARNHAMS RD, HINDLES RD, KARLOO RD, LEICHHARDT CREEK RD, MAJORS RD, MCLEODS RD, MUSIC ST, OLD BRUCE HWY, PLATTS RD, QUALITY ST, RAILWAY PDE, RASMUSSENS RD, STUDENT ST, TAYLORS RD, THE ESPLANADE, TINERTA RD, UPPER FLAGGY ROCK RD",
+                "SUBURBS": "CARMILA, CARMILA BEACH, CLAIRVIEW, ORKABIE"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1751312706.865236"
+    "extracted": "1751313300.315582"
 }
