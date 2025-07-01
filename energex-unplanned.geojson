@@ -10,6 +10,84 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.9151,
+                            -27.416736
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.91452,
+                                    -27.417894
+                                ],
+                                [
+                                    152.914939,
+                                    -27.417812
+                                ],
+                                [
+                                    152.915191,
+                                    -27.417687
+                                ],
+                                [
+                                    152.916128,
+                                    -27.416837
+                                ],
+                                [
+                                    152.916273,
+                                    -27.416511
+                                ],
+                                [
+                                    152.916262,
+                                    -27.41602
+                                ],
+                                [
+                                    152.915743,
+                                    -27.415578
+                                ],
+                                [
+                                    152.91487,
+                                    -27.415598
+                                ],
+                                [
+                                    152.914399,
+                                    -27.415919
+                                ],
+                                [
+                                    152.913926,
+                                    -27.417324
+                                ],
+                                [
+                                    152.91452,
+                                    -27.417894
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-872190-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "8:05AM 02 Jul 2025",
+                "EST_FIX_TIME": "11:00AM 02 Jul 2025",
+                "STREETS": "CEDAR CREEK RD, LEVITT RD, MINNIE ST",
+                "SUBURBS": "UPPER KEDRON",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.354478,
                             -28.055938
                         ]
@@ -104,9 +182,9 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "34",
                 "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
+                "STATUS": "In Progress",
                 "START": "6:37AM 02 Jul 2025",
-                "EST_FIX_TIME": "10:00AM 02 Jul 2025",
+                "EST_FIX_TIME": "9:30AM 02 Jul 2025",
                 "STREETS": "CROCKER ST, MUDGEERABA RD, THREDBO DR",
                 "SUBURBS": "MUDGEERABA, WORONGARY",
                 "ETR_FLAG": "N"
@@ -173,95 +251,9 @@
                 "SUBURBS": "ROBERTSON",
                 "ETR_FLAG": "N"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.914701,
-                            -27.416736
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.913128,
-                                    -27.416379
-                                ],
-                                [
-                                    152.913973,
-                                    -27.41768
-                                ],
-                                [
-                                    152.91452,
-                                    -27.417894
-                                ],
-                                [
-                                    152.914939,
-                                    -27.417812
-                                ],
-                                [
-                                    152.915191,
-                                    -27.417687
-                                ],
-                                [
-                                    152.916128,
-                                    -27.416837
-                                ],
-                                [
-                                    152.916273,
-                                    -27.416511
-                                ],
-                                [
-                                    152.916262,
-                                    -27.41602
-                                ],
-                                [
-                                    152.915743,
-                                    -27.415578
-                                ],
-                                [
-                                    152.91487,
-                                    -27.415598
-                                ],
-                                [
-                                    152.914839,
-                                    -27.4156
-                                ],
-                                [
-                                    152.913521,
-                                    -27.415703
-                                ],
-                                [
-                                    152.913128,
-                                    -27.416379
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-872190-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "28",
-                "REASON": "Emergency Repairs",
-                "STATUS": "Awaiting",
-                "START": "8:05AM 02 Jul 2025",
-                "EST_FIX_TIME": "11:00AM 02 Jul 2025",
-                "STREETS": "ANCASTER RD, BUTLERS CL, CEDAR CREEK RD, KATHDAN CL, LEVITT RD, MINNIE ST",
-                "SUBURBS": "UPPER KEDRON",
-                "ETR_FLAG": "N"
-            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1751408700.475157"
+    "extracted": "1751409300.605432"
 }
