@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.058363,
-                            -27.435022
+                            153.153623,
+                            -27.455206
                         ]
                     },
                     {
@@ -19,56 +19,72 @@
                         "coordinates": [
                             [
                                 [
-                                    153.057421,
-                                    -27.436488
+                                    153.151111,
+                                    -27.455396
                                 ],
                                 [
-                                    153.057549,
-                                    -27.436504
+                                    153.151175,
+                                    -27.455484
                                 ],
                                 [
-                                    153.057619,
-                                    -27.436509
+                                    153.151312,
+                                    -27.455609
                                 ],
                                 [
-                                    153.058604,
-                                    -27.436515
+                                    153.152892,
+                                    -27.456581
                                 ],
                                 [
-                                    153.059056,
-                                    -27.436271
+                                    153.153077,
+                                    -27.456651
                                 ],
                                 [
-                                    153.059728,
-                                    -27.435118
+                                    153.153448,
+                                    -27.45672
                                 ],
                                 [
-                                    153.059626,
-                                    -27.434582
+                                    153.153785,
+                                    -27.456678
                                 ],
                                 [
-                                    153.058554,
-                                    -27.433676
+                                    153.154425,
+                                    -27.456379
                                 ],
                                 [
-                                    153.058264,
-                                    -27.433555
+                                    153.154524,
+                                    -27.456318
                                 ],
                                 [
-                                    153.058022,
-                                    -27.43353
+                                    153.155922,
+                                    -27.455225
                                 ],
                                 [
-                                    153.057468,
-                                    -27.433889
+                                    153.156071,
+                                    -27.455021
                                 ],
                                 [
-                                    153.056998,
-                                    -27.435951
+                                    153.156129,
+                                    -27.454858
                                 ],
                                 [
-                                    153.057421,
-                                    -27.436488
+                                    153.156135,
+                                    -27.454605
+                                ],
+                                [
+                                    153.155954,
+                                    -27.454007
+                                ],
+                                [
+                                    153.155323,
+                                    -27.453691
+                                ],
+                                [
+                                    153.151392,
+                                    -27.454716
+                                ],
+                                [
+                                    153.151111,
+                                    -27.455396
                                 ]
                             ]
                         ]
@@ -76,15 +92,125 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-872855-g",
+                "EVENT_ID": "INCD-872626-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "29",
+                "CUSTOMERS_AFFECTED": "60",
                 "REASON": "Under Investigation",
                 "STATUS": "Awaiting",
-                "START": "4:05PM 02 Jul 2025",
-                "EST_FIX_TIME": "6:00PM 02 Jul 2025",
-                "STREETS": "ABBOTT ST, CIRCE ST, COMUS ST, LAWES ST, WINDERMERE RD",
-                "SUBURBS": "ASCOT, HAMILTON",
+                "START": "1:57PM 02 Jul 2025",
+                "EST_FIX_TIME": "10:00PM 02 Jul 2025",
+                "STREETS": "WYNNUM RD",
+                "SUBURBS": "WYNNUM WEST",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.265845,
+                            -28.191772
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.210679,
+                                    -28.121876
+                                ],
+                                [
+                                    153.211542,
+                                    -28.164796
+                                ],
+                                [
+                                    153.211551,
+                                    -28.164872
+                                ],
+                                [
+                                    153.232291,
+                                    -28.261652
+                                ],
+                                [
+                                    153.232594,
+                                    -28.261984
+                                ],
+                                [
+                                    153.232976,
+                                    -28.262126
+                                ],
+                                [
+                                    153.233593,
+                                    -28.261966
+                                ],
+                                [
+                                    153.310268,
+                                    -28.1632
+                                ],
+                                [
+                                    153.310272,
+                                    -28.163194
+                                ],
+                                [
+                                    153.31825,
+                                    -28.152581
+                                ],
+                                [
+                                    153.318332,
+                                    -28.152383
+                                ],
+                                [
+                                    153.321011,
+                                    -28.131881
+                                ],
+                                [
+                                    153.320869,
+                                    -28.131512
+                                ],
+                                [
+                                    153.316779,
+                                    -28.127822
+                                ],
+                                [
+                                    153.316522,
+                                    -28.127697
+                                ],
+                                [
+                                    153.308804,
+                                    -28.126234
+                                ],
+                                [
+                                    153.308726,
+                                    -28.126225
+                                ],
+                                [
+                                    153.211217,
+                                    -28.121418
+                                ],
+                                [
+                                    153.210679,
+                                    -28.121876
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-872801-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "254",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "3:28PM 02 Jul 2025",
+                "EST_FIX_TIME": "10:00PM 02 Jul 2025",
+                "STREETS": "AUSTINVILLE RD, BAKERS RD, DAINTREE CT, DAVES CREEK RD, GOLD COAST-SPRINGBROOK RD, HAYTERS RD, NATURAL BRIDGE RD, NERANG MURWILLUMBAH RD, PINE CREEK RD, POCKET RD, SPRINGBROOK RD, STAFFORDS RD, STAGHORN DR, TALLOWWOOD RD",
+                "SUBURBS": "AUSTINVILLE, NATURAL BRIDGE, NUMINBAH VALLEY, SPRINGBROOK",
                 "ETR_FLAG": "N"
             }
         },
@@ -200,7 +326,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "2:37PM 02 Jul 2025",
-                "EST_FIX_TIME": "9:00PM 02 Jul 2025",
+                "EST_FIX_TIME": "10:00PM 02 Jul 2025",
                 "STREETS": "CORVI ST, FRASERS RD, HELIOPOLIS PDE, MASHOBRA ST, STATION VIEW ST, SUEZ ST",
                 "SUBURBS": "MITCHELTON",
                 "ETR_FLAG": "N"
@@ -214,8 +340,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.265845,
-                            -28.191772
+                            153.058363,
+                            -27.435022
                         ]
                     },
                     {
@@ -223,80 +349,56 @@
                         "coordinates": [
                             [
                                 [
-                                    153.210679,
-                                    -28.121876
+                                    153.057421,
+                                    -27.436488
                                 ],
                                 [
-                                    153.211542,
-                                    -28.164796
+                                    153.057549,
+                                    -27.436504
                                 ],
                                 [
-                                    153.211551,
-                                    -28.164872
+                                    153.057619,
+                                    -27.436509
                                 ],
                                 [
-                                    153.232291,
-                                    -28.261652
+                                    153.058604,
+                                    -27.436515
                                 ],
                                 [
-                                    153.232594,
-                                    -28.261984
+                                    153.059056,
+                                    -27.436271
                                 ],
                                 [
-                                    153.232976,
-                                    -28.262126
+                                    153.059728,
+                                    -27.435118
                                 ],
                                 [
-                                    153.233593,
-                                    -28.261966
+                                    153.059626,
+                                    -27.434582
                                 ],
                                 [
-                                    153.310268,
-                                    -28.1632
+                                    153.058554,
+                                    -27.433676
                                 ],
                                 [
-                                    153.310272,
-                                    -28.163194
+                                    153.058264,
+                                    -27.433555
                                 ],
                                 [
-                                    153.31825,
-                                    -28.152581
+                                    153.058022,
+                                    -27.43353
                                 ],
                                 [
-                                    153.318332,
-                                    -28.152383
+                                    153.057468,
+                                    -27.433889
                                 ],
                                 [
-                                    153.321011,
-                                    -28.131881
+                                    153.056998,
+                                    -27.435951
                                 ],
                                 [
-                                    153.320869,
-                                    -28.131512
-                                ],
-                                [
-                                    153.316779,
-                                    -28.127822
-                                ],
-                                [
-                                    153.316522,
-                                    -28.127697
-                                ],
-                                [
-                                    153.308804,
-                                    -28.126234
-                                ],
-                                [
-                                    153.308726,
-                                    -28.126225
-                                ],
-                                [
-                                    153.211217,
-                                    -28.121418
-                                ],
-                                [
-                                    153.210679,
-                                    -28.121876
+                                    153.057421,
+                                    -27.436488
                                 ]
                             ]
                         ]
@@ -304,15 +406,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-872801-g",
+                "EVENT_ID": "INCD-872855-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "254",
+                "CUSTOMERS_AFFECTED": "29",
                 "REASON": "Under Investigation",
                 "STATUS": "Awaiting",
-                "START": "3:28PM 02 Jul 2025",
-                "EST_FIX_TIME": "10:00PM 02 Jul 2025",
-                "STREETS": "AUSTINVILLE RD, BAKERS RD, DAINTREE CT, DAVES CREEK RD, GOLD COAST-SPRINGBROOK RD, HAYTERS RD, NATURAL BRIDGE RD, NERANG MURWILLUMBAH RD, PINE CREEK RD, POCKET RD, SPRINGBROOK RD, STAFFORDS RD, STAGHORN DR, TALLOWWOOD RD",
-                "SUBURBS": "AUSTINVILLE, NATURAL BRIDGE, NUMINBAH VALLEY, SPRINGBROOK",
+                "START": "4:05PM 02 Jul 2025",
+                "EST_FIX_TIME": "6:00PM 02 Jul 2025",
+                "STREETS": "ABBOTT ST, CIRCE ST, COMUS ST, LAWES ST, WINDERMERE RD",
+                "SUBURBS": "ASCOT, HAMILTON",
                 "ETR_FLAG": "N"
             }
         },
@@ -522,7 +624,7 @@
                 "REASON": "Trees on powerlines",
                 "STATUS": "Awaiting",
                 "START": "10:24AM 02 Jul 2025",
-                "EST_FIX_TIME": "10:00PM 02 Jul 2025",
+                "EST_FIX_TIME": "12:00AM 03 Jul 2025",
                 "STREETS": "MACDONNELL RD, TAMBORINE OXENFORD RD, TAMBORINE-OXENFORD RD, TOLIMA DR",
                 "SUBURBS": "TAMBORINE MOUNTAIN, WONGAWALLAN",
                 "ETR_FLAG": "N"
@@ -849,13 +951,13 @@
                 "EVENT_ID": "INCD-872996-g",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "32",
-                "REASON": "Emergency Repairs",
+                "REASON": "Emergency repairs in-progress",
                 "STATUS": "Awaiting",
                 "START": "6:28PM 02 Jul 2025",
                 "EST_FIX_TIME": "10:30PM 02 Jul 2025",
                 "STREETS": "EUGENIA RD, MONS RD, PARSONS RD, SANCTUARY DR",
                 "SUBURBS": "FOREST GLEN, MONS",
-                "ETR_FLAG": "N"
+                "ETR_FLAG": "Y"
             }
         },
         {
@@ -866,8 +968,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.058565,
-                            -27.331211
+                            153.21069,
+                            -27.729697
                         ]
                     },
                     {
@@ -875,80 +977,72 @@
                         "coordinates": [
                             [
                                 [
-                                    153.055983,
-                                    -27.333115
+                                    153.208659,
+                                    -27.730533
                                 ],
                                 [
-                                    153.056277,
-                                    -27.333734
+                                    153.208917,
+                                    -27.730763
                                 ],
                                 [
-                                    153.05636,
-                                    -27.333853
+                                    153.209201,
+                                    -27.730891
                                 ],
                                 [
-                                    153.05654,
-                                    -27.334039
+                                    153.21159,
+                                    -27.731208
                                 ],
                                 [
-                                    153.057064,
-                                    -27.334176
+                                    153.211708,
+                                    -27.731211
                                 ],
                                 [
-                                    153.059147,
-                                    -27.33363
+                                    153.211992,
+                                    -27.731189
                                 ],
                                 [
-                                    153.059455,
-                                    -27.333402
+                                    153.212441,
+                                    -27.730847
                                 ],
                                 [
-                                    153.059706,
-                                    -27.332963
+                                    153.21285,
+                                    -27.72936
                                 ],
                                 [
-                                    153.059724,
-                                    -27.332928
+                                    153.212861,
+                                    -27.729199
                                 ],
                                 [
-                                    153.061181,
-                                    -27.329716
+                                    153.212807,
+                                    -27.728798
                                 ],
                                 [
-                                    153.061035,
-                                    -27.329199
+                                    153.212351,
+                                    -27.728402
                                 ],
                                 [
-                                    153.059887,
-                                    -27.328346
+                                    153.209747,
+                                    -27.728183
                                 ],
                                 [
-                                    153.059488,
-                                    -27.328247
+                                    153.209522,
+                                    -27.72821
                                 ],
                                 [
-                                    153.057604,
-                                    -27.328501
+                                    153.209115,
+                                    -27.728345
                                 ],
                                 [
-                                    153.057193,
-                                    -27.328825
+                                    153.208793,
+                                    -27.728692
                                 ],
                                 [
-                                    153.056009,
-                                    -27.33255
+                                    153.208519,
+                                    -27.73014
                                 ],
                                 [
-                                    153.055996,
-                                    -27.332603
-                                ],
-                                [
-                                    153.055949,
-                                    -27.332868
-                                ],
-                                [
-                                    153.055983,
-                                    -27.333115
+                                    153.208659,
+                                    -27.730533
                                 ]
                             ]
                         ]
@@ -956,97 +1050,125 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-872698-g",
+                "EVENT_ID": "INCD-872448-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "175",
-                "REASON": "Damage due to severe weather",
-                "STATUS": "In Progress",
-                "START": "2:32PM 02 Jul 2025",
-                "EST_FIX_TIME": "10:30PM 02 Jul 2025",
-                "STREETS": "BIARRA ST, BRAUN ST, BURRALONG ST, ESTHER ST, EVA ST, LOFTUS ST",
-                "SUBURBS": "DEAGON",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.142605,
-                            -27.726982
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.13904,
-                                    -27.726421
-                                ],
-                                [
-                                    153.140375,
-                                    -27.727804
-                                ],
-                                [
-                                    153.140447,
-                                    -27.727864
-                                ],
-                                [
-                                    153.145508,
-                                    -27.7314
-                                ],
-                                [
-                                    153.146129,
-                                    -27.731404
-                                ],
-                                [
-                                    153.146289,
-                                    -27.73087
-                                ],
-                                [
-                                    153.142399,
-                                    -27.722647
-                                ],
-                                [
-                                    153.141519,
-                                    -27.72256
-                                ],
-                                [
-                                    153.139038,
-                                    -27.725637
-                                ],
-                                [
-                                    153.138946,
-                                    -27.725855
-                                ],
-                                [
-                                    153.13892,
-                                    -27.726081
-                                ],
-                                [
-                                    153.13904,
-                                    -27.726421
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-873000-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "14",
+                "CUSTOMERS_AFFECTED": "104",
                 "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
-                "START": "6:28PM 02 Jul 2025",
-                "EST_FIX_TIME": "9:00PM 02 Jul 2025",
-                "STREETS": "TAYLOR RD, WILSON RD",
-                "SUBURBS": "BUCCAN",
+                "STATUS": "In Progress",
+                "START": "12:20PM 02 Jul 2025",
+                "EST_FIX_TIME": "4:30PM 02 Jul 2025",
+                "STREETS": "BARADINE ST, BAYSWATER ST, CARLYON ST, COTSWOLD ST, SCORESBY ST",
+                "SUBURBS": "MOUNT WARREN PARK",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.610613,
+                            -28.046965
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.586777,
+                                    -28.031993
+                                ],
+                                [
+                                    152.589852,
+                                    -28.045665
+                                ],
+                                [
+                                    152.589853,
+                                    -28.04567
+                                ],
+                                [
+                                    152.594823,
+                                    -28.066546
+                                ],
+                                [
+                                    152.595564,
+                                    -28.066849
+                                ],
+                                [
+                                    152.610507,
+                                    -28.059655
+                                ],
+                                [
+                                    152.610548,
+                                    -28.059633
+                                ],
+                                [
+                                    152.62136,
+                                    -28.053188
+                                ],
+                                [
+                                    152.621375,
+                                    -28.053179
+                                ],
+                                [
+                                    152.621837,
+                                    -28.052882
+                                ],
+                                [
+                                    152.621969,
+                                    -28.052757
+                                ],
+                                [
+                                    152.634448,
+                                    -28.035138
+                                ],
+                                [
+                                    152.634216,
+                                    -28.034482
+                                ],
+                                [
+                                    152.616077,
+                                    -28.027663
+                                ],
+                                [
+                                    152.615898,
+                                    -28.027627
+                                ],
+                                [
+                                    152.600071,
+                                    -28.027081
+                                ],
+                                [
+                                    152.599869,
+                                    -28.027111
+                                ],
+                                [
+                                    152.587093,
+                                    -28.031484
+                                ],
+                                [
+                                    152.586777,
+                                    -28.031993
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-872859-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "73",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "4:07PM 02 Jul 2025",
+                "EST_FIX_TIME": "10:00PM 02 Jul 2025",
+                "STREETS": "BEHRENDORFF RD, BRENT RD, BUNJURGEN RD, F M BELL RD, MARTIN RD, MT ALFORD RD, TUNSTALL RD",
+                "SUBURBS": "BUNJURGEN, CHARLWOOD, MT ALFORD",
                 "ETR_FLAG": "N"
             }
         },
@@ -1212,9 +1334,91 @@
                 "REASON": "Under Investigation",
                 "STATUS": "Awaiting",
                 "START": "8:49PM 02 Jul 2025",
-                "EST_FIX_TIME": "12:00AM 03 Jul 2025",
+                "EST_FIX_TIME": "10:30PM 02 Jul 2025",
                 "STREETS": "MCCORDS RD",
                 "SUBURBS": "YANDINA CREEK",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.142605,
+                            -27.726982
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.13904,
+                                    -27.726421
+                                ],
+                                [
+                                    153.140375,
+                                    -27.727804
+                                ],
+                                [
+                                    153.140447,
+                                    -27.727864
+                                ],
+                                [
+                                    153.145508,
+                                    -27.7314
+                                ],
+                                [
+                                    153.146129,
+                                    -27.731404
+                                ],
+                                [
+                                    153.146289,
+                                    -27.73087
+                                ],
+                                [
+                                    153.142399,
+                                    -27.722647
+                                ],
+                                [
+                                    153.141519,
+                                    -27.72256
+                                ],
+                                [
+                                    153.139038,
+                                    -27.725637
+                                ],
+                                [
+                                    153.138946,
+                                    -27.725855
+                                ],
+                                [
+                                    153.13892,
+                                    -27.726081
+                                ],
+                                [
+                                    153.13904,
+                                    -27.726421
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-873000-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "14",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "6:28PM 02 Jul 2025",
+                "EST_FIX_TIME": "10:00PM 02 Jul 2025",
+                "STREETS": "TAYLOR RD, WILSON RD",
+                "SUBURBS": "BUCCAN",
                 "ETR_FLAG": "N"
             }
         },
@@ -1328,8 +1532,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.610613,
-                            -28.046965
+                            153.058565,
+                            -27.331211
                         ]
                     },
                     {
@@ -1337,80 +1541,80 @@
                         "coordinates": [
                             [
                                 [
-                                    152.586777,
-                                    -28.031993
+                                    153.055983,
+                                    -27.333115
                                 ],
                                 [
-                                    152.589852,
-                                    -28.045665
+                                    153.056277,
+                                    -27.333734
                                 ],
                                 [
-                                    152.589853,
-                                    -28.04567
+                                    153.05636,
+                                    -27.333853
                                 ],
                                 [
-                                    152.594823,
-                                    -28.066546
+                                    153.05654,
+                                    -27.334039
                                 ],
                                 [
-                                    152.595564,
-                                    -28.066849
+                                    153.057064,
+                                    -27.334176
                                 ],
                                 [
-                                    152.610507,
-                                    -28.059655
+                                    153.059147,
+                                    -27.33363
                                 ],
                                 [
-                                    152.610548,
-                                    -28.059633
+                                    153.059455,
+                                    -27.333402
                                 ],
                                 [
-                                    152.62136,
-                                    -28.053188
+                                    153.059706,
+                                    -27.332963
                                 ],
                                 [
-                                    152.621375,
-                                    -28.053179
+                                    153.059724,
+                                    -27.332928
                                 ],
                                 [
-                                    152.621837,
-                                    -28.052882
+                                    153.061181,
+                                    -27.329716
                                 ],
                                 [
-                                    152.621969,
-                                    -28.052757
+                                    153.061035,
+                                    -27.329199
                                 ],
                                 [
-                                    152.634448,
-                                    -28.035138
+                                    153.059887,
+                                    -27.328346
                                 ],
                                 [
-                                    152.634216,
-                                    -28.034482
+                                    153.059488,
+                                    -27.328247
                                 ],
                                 [
-                                    152.616077,
-                                    -28.027663
+                                    153.057604,
+                                    -27.328501
                                 ],
                                 [
-                                    152.615898,
-                                    -28.027627
+                                    153.057193,
+                                    -27.328825
                                 ],
                                 [
-                                    152.600071,
-                                    -28.027081
+                                    153.056009,
+                                    -27.33255
                                 ],
                                 [
-                                    152.599869,
-                                    -28.027111
+                                    153.055996,
+                                    -27.332603
                                 ],
                                 [
-                                    152.587093,
-                                    -28.031484
+                                    153.055949,
+                                    -27.332868
                                 ],
                                 [
-                                    152.586777,
-                                    -28.031993
+                                    153.055983,
+                                    -27.333115
                                 ]
                             ]
                         ]
@@ -1418,117 +1622,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-872859-g",
+                "EVENT_ID": "INCD-872698-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "73",
-                "REASON": "Under Investigation",
+                "CUSTOMERS_AFFECTED": "175",
+                "REASON": "Damage due to severe weather",
                 "STATUS": "In Progress",
-                "START": "4:07PM 02 Jul 2025",
-                "EST_FIX_TIME": "10:00PM 02 Jul 2025",
-                "STREETS": "BEHRENDORFF RD, BRENT RD, BUNJURGEN RD, F M BELL RD, MARTIN RD, MT ALFORD RD, TUNSTALL RD",
-                "SUBURBS": "BUNJURGEN, CHARLWOOD, MT ALFORD",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.21069,
-                            -27.729697
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.208659,
-                                    -27.730533
-                                ],
-                                [
-                                    153.208917,
-                                    -27.730763
-                                ],
-                                [
-                                    153.209201,
-                                    -27.730891
-                                ],
-                                [
-                                    153.21159,
-                                    -27.731208
-                                ],
-                                [
-                                    153.211708,
-                                    -27.731211
-                                ],
-                                [
-                                    153.211992,
-                                    -27.731189
-                                ],
-                                [
-                                    153.212441,
-                                    -27.730847
-                                ],
-                                [
-                                    153.21285,
-                                    -27.72936
-                                ],
-                                [
-                                    153.212861,
-                                    -27.729199
-                                ],
-                                [
-                                    153.212807,
-                                    -27.728798
-                                ],
-                                [
-                                    153.212351,
-                                    -27.728402
-                                ],
-                                [
-                                    153.209747,
-                                    -27.728183
-                                ],
-                                [
-                                    153.209522,
-                                    -27.72821
-                                ],
-                                [
-                                    153.209115,
-                                    -27.728345
-                                ],
-                                [
-                                    153.208793,
-                                    -27.728692
-                                ],
-                                [
-                                    153.208519,
-                                    -27.73014
-                                ],
-                                [
-                                    153.208659,
-                                    -27.730533
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-872448-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "104",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "12:20PM 02 Jul 2025",
-                "EST_FIX_TIME": "4:30PM 02 Jul 2025",
-                "STREETS": "BARADINE ST, BAYSWATER ST, CARLYON ST, COTSWOLD ST, SCORESBY ST",
-                "SUBURBS": "MOUNT WARREN PARK",
+                "START": "2:32PM 02 Jul 2025",
+                "EST_FIX_TIME": "10:30PM 02 Jul 2025",
+                "STREETS": "BIARRA ST, BRAUN ST, BURRALONG ST, ESTHER ST, EVA ST, LOFTUS ST",
+                "SUBURBS": "DEAGON",
                 "ETR_FLAG": "N"
             }
         },
@@ -1931,13 +2033,13 @@
                 "EVENT_ID": "INCD-872991-g",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "13",
-                "REASON": "Emergency Repairs",
+                "REASON": "Emergency repairs in-progress",
                 "STATUS": "Awaiting",
                 "START": "6:15PM 02 Jul 2025",
                 "EST_FIX_TIME": "11:30PM 02 Jul 2025",
                 "STREETS": "BATEMAN RD, BROUGH DR, SIRL RD",
                 "SUBURBS": "STONY CREEK",
-                "ETR_FLAG": "N"
+                "ETR_FLAG": "Y"
             }
         },
         {
@@ -2432,202 +2534,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.899085,
-                            -27.481229
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.895879,
-                                    -27.48104
-                                ],
-                                [
-                                    152.898953,
-                                    -27.482479
-                                ],
-                                [
-                                    152.899183,
-                                    -27.482531
-                                ],
-                                [
-                                    152.900924,
-                                    -27.482547
-                                ],
-                                [
-                                    152.900967,
-                                    -27.482546
-                                ],
-                                [
-                                    152.901673,
-                                    -27.482499
-                                ],
-                                [
-                                    152.901944,
-                                    -27.482406
-                                ],
-                                [
-                                    152.902273,
-                                    -27.48218
-                                ],
-                                [
-                                    152.90229,
-                                    -27.481477
-                                ],
-                                [
-                                    152.900344,
-                                    -27.480016
-                                ],
-                                [
-                                    152.900009,
-                                    -27.47991
-                                ],
-                                [
-                                    152.896889,
-                                    -27.47996
-                                ],
-                                [
-                                    152.89674,
-                                    -27.479983
-                                ],
-                                [
-                                    152.895957,
-                                    -27.480212
-                                ],
-                                [
-                                    152.895879,
-                                    -27.48104
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-872282-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "20",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "10:06AM 02 Jul 2025",
-                "EST_FIX_TIME": "9:30PM 02 Jul 2025",
-                "STREETS": "SAVAGES RD",
-                "SUBURBS": "BROOKFIELD",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.153623,
-                            -27.455206
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.151111,
-                                    -27.455396
-                                ],
-                                [
-                                    153.151175,
-                                    -27.455484
-                                ],
-                                [
-                                    153.151312,
-                                    -27.455609
-                                ],
-                                [
-                                    153.152892,
-                                    -27.456581
-                                ],
-                                [
-                                    153.153077,
-                                    -27.456651
-                                ],
-                                [
-                                    153.153448,
-                                    -27.45672
-                                ],
-                                [
-                                    153.153785,
-                                    -27.456678
-                                ],
-                                [
-                                    153.154425,
-                                    -27.456379
-                                ],
-                                [
-                                    153.154524,
-                                    -27.456318
-                                ],
-                                [
-                                    153.155922,
-                                    -27.455225
-                                ],
-                                [
-                                    153.156071,
-                                    -27.455021
-                                ],
-                                [
-                                    153.156129,
-                                    -27.454858
-                                ],
-                                [
-                                    153.156135,
-                                    -27.454605
-                                ],
-                                [
-                                    153.155954,
-                                    -27.454007
-                                ],
-                                [
-                                    153.155323,
-                                    -27.453691
-                                ],
-                                [
-                                    153.151392,
-                                    -27.454716
-                                ],
-                                [
-                                    153.151111,
-                                    -27.455396
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-872626-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "60",
-                "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
-                "START": "1:57PM 02 Jul 2025",
-                "EST_FIX_TIME": "10:00PM 02 Jul 2025",
-                "STREETS": "WYNNUM RD",
-                "SUBURBS": "WYNNUM WEST",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.841812,
                             -27.47159
                         ]
@@ -2961,5 +2867,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1751453701.167109"
+    "extracted": "1751454000.903203"
 }
