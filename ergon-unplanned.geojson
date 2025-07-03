@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
+                            147.401718,
+                            -19.529414
                         ]
                     },
                     {
@@ -19,36 +19,44 @@
                         "coordinates": [
                             [
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    147.399834,
+                                    -19.524899
                                 ],
                                 [
-                                    148.700208,
-                                    -21.128945
+                                    147.399856,
+                                    -19.528852
                                 ],
                                 [
-                                    148.700826,
-                                    -21.128582
+                                    147.399856,
+                                    -19.528859
                                 ],
                                 [
-                                    148.701003,
-                                    -21.127495
+                                    147.399959,
+                                    -19.53356
                                 ],
                                 [
-                                    148.700469,
-                                    -21.126979
+                                    147.400366,
+                                    -19.533998
                                 ],
                                 [
-                                    148.697649,
-                                    -21.127299
+                                    147.403074,
+                                    -19.534377
                                 ],
                                 [
-                                    148.697227,
-                                    -21.127706
+                                    147.403601,
+                                    -19.533801
                                 ],
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    147.400768,
+                                    -19.524768
+                                ],
+                                [
+                                    147.400241,
+                                    -19.52445
+                                ],
+                                [
+                                    147.399834,
+                                    -19.524899
                                 ]
                             ]
                         ]
@@ -56,15 +64,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK1119",
+                "EVENT_ID": "25NQ8870",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Crews working on-site",
+                "START": "2:22AM 03 Jul 2025",
+                "EST_FIX_TIME": "12:00PM 03 Jul 2025",
+                "STREETS": "CHIPPENDALE ST, KALAMIA RD",
+                "SUBURBS": "AYR"
             }
         },
         {
@@ -253,6 +261,71 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.995089,
                             -27.101281
                         ]
@@ -350,75 +423,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.826076,
-                            -20.574192
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.82524,
-                                    -20.573505
-                                ],
-                                [
-                                    147.826009,
-                                    -20.575218
-                                ],
-                                [
-                                    147.826612,
-                                    -20.575468
-                                ],
-                                [
-                                    147.826912,
-                                    -20.574915
-                                ],
-                                [
-                                    147.826766,
-                                    -20.574447
-                                ],
-                                [
-                                    147.826739,
-                                    -20.574381
-                                ],
-                                [
-                                    147.826116,
-                                    -20.573136
-                                ],
-                                [
-                                    147.825487,
-                                    -20.572916
-                                ],
-                                [
-                                    147.82524,
-                                    -20.573505
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ8861",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "8:00AM 03 Jul 2025",
-                "EST_FIX_TIME": "12:00PM 03 Jul 2025",
-                "STREETS": "CORDUROY CREEK RD, ELEVENTH AVE",
-                "SUBURBS": "SCOTTVILLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             151.393132,
                             -27.538006
                         ]
@@ -504,6 +508,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.826076,
+                            -20.574192
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.82524,
+                                    -20.573505
+                                ],
+                                [
+                                    147.826009,
+                                    -20.575218
+                                ],
+                                [
+                                    147.826612,
+                                    -20.575468
+                                ],
+                                [
+                                    147.826912,
+                                    -20.574915
+                                ],
+                                [
+                                    147.826766,
+                                    -20.574447
+                                ],
+                                [
+                                    147.826739,
+                                    -20.574381
+                                ],
+                                [
+                                    147.826116,
+                                    -20.573136
+                                ],
+                                [
+                                    147.825487,
+                                    -20.572916
+                                ],
+                                [
+                                    147.82524,
+                                    -20.573505
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ8861",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "8:00AM 03 Jul 2025",
+                "EST_FIX_TIME": "12:00PM 03 Jul 2025",
+                "STREETS": "CORDUROY CREEK RD, ELEVENTH AVE",
+                "SUBURBS": "SCOTTVILLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -555,79 +628,6 @@
                 "EST_FIX_TIME": "6:00PM 09 Jul 2025",
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.401718,
-                            -19.529414
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.399834,
-                                    -19.524899
-                                ],
-                                [
-                                    147.399856,
-                                    -19.528852
-                                ],
-                                [
-                                    147.399856,
-                                    -19.528859
-                                ],
-                                [
-                                    147.399959,
-                                    -19.53356
-                                ],
-                                [
-                                    147.400366,
-                                    -19.533998
-                                ],
-                                [
-                                    147.403074,
-                                    -19.534377
-                                ],
-                                [
-                                    147.403601,
-                                    -19.533801
-                                ],
-                                [
-                                    147.400768,
-                                    -19.524768
-                                ],
-                                [
-                                    147.400241,
-                                    -19.52445
-                                ],
-                                [
-                                    147.399834,
-                                    -19.524899
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ8870",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Crews working on-site",
-                "START": "2:22AM 03 Jul 2025",
-                "EST_FIX_TIME": "12:00PM 03 Jul 2025",
-                "STREETS": "CHIPPENDALE ST, KALAMIA RD",
-                "SUBURBS": "AYR"
             }
         },
         {
@@ -726,5 +726,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1751500200.444754"
+    "extracted": "1751501702.335846"
 }

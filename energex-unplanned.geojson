@@ -356,92 +356,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.08083,
-                            -26.533317
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.079077,
-                                    -26.533941
-                                ],
-                                [
-                                    153.079628,
-                                    -26.534934
-                                ],
-                                [
-                                    153.080143,
-                                    -26.53518
-                                ],
-                                [
-                                    153.080402,
-                                    -26.535149
-                                ],
-                                [
-                                    153.080459,
-                                    -26.535139
-                                ],
-                                [
-                                    153.081976,
-                                    -26.534791
-                                ],
-                                [
-                                    153.082352,
-                                    -26.534391
-                                ],
-                                [
-                                    153.082583,
-                                    -26.531918
-                                ],
-                                [
-                                    153.081914,
-                                    -26.531455
-                                ],
-                                [
-                                    153.080085,
-                                    -26.532041
-                                ],
-                                [
-                                    153.079807,
-                                    -26.53226
-                                ],
-                                [
-                                    153.07908,
-                                    -26.533533
-                                ],
-                                [
-                                    153.079077,
-                                    -26.533941
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-873123-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "62",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "7:12AM 03 Jul 2025",
-                "EST_FIX_TIME": "10:30AM 03 Jul 2025",
-                "STREETS": "CASSIA AVE, CENTRAL AVE, PALM AVE, PANDANUS AVE, PARK CRES",
-                "SUBURBS": "COOLUM BEACH",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.058363,
                             -27.435022
                         ]
@@ -600,7 +514,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "12:17AM 03 Jul 2025",
-                "EST_FIX_TIME": "10:30AM 03 Jul 2025",
+                "EST_FIX_TIME": "11:00AM 03 Jul 2025",
                 "STREETS": "CANE FARM RD, ENKELMANNS RD",
                 "SUBURBS": "ALBERTON",
                 "ETR_FLAG": "N"
@@ -715,9 +629,119 @@
                 "SUBURBS": "UPPER BROOKFIELD",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.584091,
+                            -27.426821
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.559336,
+                                    -27.398871
+                                ],
+                                [
+                                    152.580685,
+                                    -27.448599
+                                ],
+                                [
+                                    152.58085,
+                                    -27.448796
+                                ],
+                                [
+                                    152.592152,
+                                    -27.456511
+                                ],
+                                [
+                                    152.592908,
+                                    -27.45636
+                                ],
+                                [
+                                    152.600337,
+                                    -27.443575
+                                ],
+                                [
+                                    152.600356,
+                                    -27.443539
+                                ],
+                                [
+                                    152.600376,
+                                    -27.443496
+                                ],
+                                [
+                                    152.600382,
+                                    -27.443482
+                                ],
+                                [
+                                    152.608743,
+                                    -27.423423
+                                ],
+                                [
+                                    152.608774,
+                                    -27.423292
+                                ],
+                                [
+                                    152.608846,
+                                    -27.422193
+                                ],
+                                [
+                                    152.608765,
+                                    -27.42192
+                                ],
+                                [
+                                    152.590843,
+                                    -27.397336
+                                ],
+                                [
+                                    152.590404,
+                                    -27.397131
+                                ],
+                                [
+                                    152.560859,
+                                    -27.397902
+                                ],
+                                [
+                                    152.560696,
+                                    -27.397931
+                                ],
+                                [
+                                    152.559631,
+                                    -27.398287
+                                ],
+                                [
+                                    152.559336,
+                                    -27.398871
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-873198-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "89",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "9:58AM 03 Jul 2025",
+                "EST_FIX_TIME": "12:30PM 03 Jul 2025",
+                "STREETS": "BEUTELS RD, HARPENG RD, KENNEDY RD, MACDONALDS RD, O'REILLYS WEIR RD, OREILLYS WEIR RD, PATRICK ESTATE RD, ROSEBOROUGH RD, VERNOR RD, WEST RD",
+                "SUBURBS": "COOMINYA, LOWOOD, PATRICK ESTATE, WIVENHOE POCKET",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1751500200.247075"
+    "extracted": "1751501701.475241"
 }
