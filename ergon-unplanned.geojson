@@ -10,6 +10,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.027535,
+                            -23.748022
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.999827,
+                                    -23.806992
+                                ],
+                                [
+                                    151.000998,
+                                    -23.809935
+                                ],
+                                [
+                                    151.001231,
+                                    -23.81018
+                                ],
+                                [
+                                    151.001305,
+                                    -23.810215
+                                ],
+                                [
+                                    151.001758,
+                                    -23.810214
+                                ],
+                                [
+                                    151.053898,
+                                    -23.785073
+                                ],
+                                [
+                                    151.05416,
+                                    -23.784679
+                                ],
+                                [
+                                    151.055274,
+                                    -23.686197
+                                ],
+                                [
+                                    151.054494,
+                                    -23.685829
+                                ],
+                                [
+                                    151.001077,
+                                    -23.722118
+                                ],
+                                [
+                                    151.000879,
+                                    -23.722476
+                                ],
+                                [
+                                    150.999797,
+                                    -23.806832
+                                ],
+                                [
+                                    150.999827,
+                                    -23.806992
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA9422",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "34",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Crews working on-site",
+                "START": "4:34PM 03 Jul 2025",
+                "EST_FIX_TIME": "11:45PM 03 Jul 2025",
+                "STREETS": "BARKER RD, BUTLERVILLE RD, CULLEN RD, GOODMAN RD, MATTSON RD, NARROWS RD",
+                "SUBURBS": "MOUNT LARCOM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -136,91 +221,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.027535,
-                            -23.748022
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    150.999827,
-                                    -23.806992
-                                ],
-                                [
-                                    151.000998,
-                                    -23.809935
-                                ],
-                                [
-                                    151.001231,
-                                    -23.81018
-                                ],
-                                [
-                                    151.001305,
-                                    -23.810215
-                                ],
-                                [
-                                    151.001758,
-                                    -23.810214
-                                ],
-                                [
-                                    151.053898,
-                                    -23.785073
-                                ],
-                                [
-                                    151.05416,
-                                    -23.784679
-                                ],
-                                [
-                                    151.055274,
-                                    -23.686197
-                                ],
-                                [
-                                    151.054494,
-                                    -23.685829
-                                ],
-                                [
-                                    151.001077,
-                                    -23.722118
-                                ],
-                                [
-                                    151.000879,
-                                    -23.722476
-                                ],
-                                [
-                                    150.999797,
-                                    -23.806832
-                                ],
-                                [
-                                    150.999827,
-                                    -23.806992
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA9422",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "34",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Crews working on-site",
-                "START": "4:34PM 03 Jul 2025",
-                "EST_FIX_TIME": "11:45PM 03 Jul 2025",
-                "STREETS": "BARKER RD, BUTLERVILLE RD, CULLEN RD, GOODMAN RD, MATTSON RD, NARROWS RD",
-                "SUBURBS": "MOUNT LARCOM"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             150.391862,
                             -23.640362
                         ]
@@ -309,5 +309,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1751548201.048193"
+    "extracted": "1751549101.258668"
 }
