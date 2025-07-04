@@ -10,80 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.801356,
-                            -27.102096
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.799552,
-                                    -27.101867
-                                ],
-                                [
-                                    152.802461,
-                                    -27.103427
-                                ],
-                                [
-                                    152.803149,
-                                    -27.103278
-                                ],
-                                [
-                                    152.803397,
-                                    -27.10292
-                                ],
-                                [
-                                    152.803376,
-                                    -27.102416
-                                ],
-                                [
-                                    152.802181,
-                                    -27.100946
-                                ],
-                                [
-                                    152.801697,
-                                    -27.100765
-                                ],
-                                [
-                                    152.799735,
-                                    -27.101034
-                                ],
-                                [
-                                    152.799316,
-                                    -27.101393
-                                ],
-                                [
-                                    152.799552,
-                                    -27.101867
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-873493-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "7:35AM 04 Jul 2025",
-                "EST_FIX_TIME": "7:00AM 05 Jul 2025",
-                "STREETS": "CLARK RD, ROBINSON RD S",
-                "SUBURBS": "OCEAN VIEW",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.190433,
                             -27.719558
                         ]
@@ -147,108 +73,6 @@
                 "EST_FIX_TIME": "11:30PM 04 Jul 2025",
                 "STREETS": "TWEEDVALE ST",
                 "SUBURBS": "BEENLEIGH",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.137312,
-                            -26.791994
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.134023,
-                                    -26.791008
-                                ],
-                                [
-                                    153.13625,
-                                    -26.793229
-                                ],
-                                [
-                                    153.136255,
-                                    -26.793233
-                                ],
-                                [
-                                    153.137447,
-                                    -26.794391
-                                ],
-                                [
-                                    153.138225,
-                                    -26.794348
-                                ],
-                                [
-                                    153.140677,
-                                    -26.791294
-                                ],
-                                [
-                                    153.140717,
-                                    -26.790825
-                                ],
-                                [
-                                    153.140617,
-                                    -26.79065
-                                ],
-                                [
-                                    153.140387,
-                                    -26.790449
-                                ],
-                                [
-                                    153.138519,
-                                    -26.789642
-                                ],
-                                [
-                                    153.138284,
-                                    -26.789597
-                                ],
-                                [
-                                    153.13493,
-                                    -26.789702
-                                ],
-                                [
-                                    153.134816,
-                                    -26.789718
-                                ],
-                                [
-                                    153.134389,
-                                    -26.789821
-                                ],
-                                [
-                                    153.134032,
-                                    -26.790148
-                                ],
-                                [
-                                    153.133908,
-                                    -26.790597
-                                ],
-                                [
-                                    153.134023,
-                                    -26.791008
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-873690-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "151",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "6:25PM 04 Jul 2025",
-                "EST_FIX_TIME": "11:30PM 04 Jul 2025",
-                "STREETS": "BUCCLEUGH ST, CAMPBELL ST, GRIGOR ST, NOTHLING ST, RODERICK ST, ROSLIN ST, TOOWAY PDE, WILLIAM ST",
-                "SUBURBS": "MOFFAT BEACH",
                 "ETR_FLAG": "N"
             }
         },
@@ -345,9 +169,83 @@
                 "SUBURBS": "LOGAN RESERVE",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.801356,
+                            -27.102096
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.799552,
+                                    -27.101867
+                                ],
+                                [
+                                    152.802461,
+                                    -27.103427
+                                ],
+                                [
+                                    152.803149,
+                                    -27.103278
+                                ],
+                                [
+                                    152.803397,
+                                    -27.10292
+                                ],
+                                [
+                                    152.803376,
+                                    -27.102416
+                                ],
+                                [
+                                    152.802181,
+                                    -27.100946
+                                ],
+                                [
+                                    152.801697,
+                                    -27.100765
+                                ],
+                                [
+                                    152.799735,
+                                    -27.101034
+                                ],
+                                [
+                                    152.799316,
+                                    -27.101393
+                                ],
+                                [
+                                    152.799552,
+                                    -27.101867
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-873493-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "7:35AM 04 Jul 2025",
+                "EST_FIX_TIME": "3:00PM 05 Jul 2025",
+                "STREETS": "CLARK RD, ROBINSON RD S",
+                "SUBURBS": "OCEAN VIEW",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1751626803.187168"
+    "extracted": "1751627401.231634"
 }
