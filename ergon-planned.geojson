@@ -49,27 +49,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.266543,
-                    -24.864223
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB6823",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "7",
-                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-                "STATUS": "Crews working on-site",
-                "START": "8:31AM 05 Jul 2025",
-                "EST_FIX_TIME": "3:00PM 05 Jul 2025",
-                "STREETS": "GIN GIN RD",
-                "SUBURBS": "SHARON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     148.211987,
                     -19.984153
                 ]
@@ -106,9 +85,30 @@
                 "STREETS": "BRUCE HWY, REPEATER STATION RD, SHADBOLT RD",
                 "SUBURBS": "GLENWOOD, KANIGAN"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.266543,
+                    -24.864223
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB6823",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+                "STATUS": "Crews working on-site",
+                "START": "8:31AM 05 Jul 2025",
+                "EST_FIX_TIME": "3:00PM 05 Jul 2025",
+                "STREETS": "GIN GIN RD",
+                "SUBURBS": "SHARON"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1751689501.214459"
+    "extracted": "1751689803.0945"
 }
