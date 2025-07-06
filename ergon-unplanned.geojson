@@ -10,6 +10,99 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            146.06303,
+                            -17.518511
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.060911,
+                                    -17.517079
+                                ],
+                                [
+                                    146.061872,
+                                    -17.52604
+                                ],
+                                [
+                                    146.062582,
+                                    -17.526382
+                                ],
+                                [
+                                    146.064324,
+                                    -17.525383
+                                ],
+                                [
+                                    146.06455,
+                                    -17.525041
+                                ],
+                                [
+                                    146.065151,
+                                    -17.519379
+                                ],
+                                [
+                                    146.06515,
+                                    -17.519278
+                                ],
+                                [
+                                    146.065095,
+                                    -17.518843
+                                ],
+                                [
+                                    146.065093,
+                                    -17.518831
+                                ],
+                                [
+                                    146.064114,
+                                    -17.512532
+                                ],
+                                [
+                                    146.063933,
+                                    -17.512238
+                                ],
+                                [
+                                    146.061731,
+                                    -17.51064
+                                ],
+                                [
+                                    146.060976,
+                                    -17.510996
+                                ],
+                                [
+                                    146.060908,
+                                    -17.517028
+                                ],
+                                [
+                                    146.060911,
+                                    -17.517079
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN7616",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "44",
+                "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+                "STATUS": "Crews working on-site",
+                "START": "8:03AM 07 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "COQUETTE POINT RD, JOHNSTON RD, MYNARD RD",
+                "SUBURBS": "COQUETTE POINT, EAST INNISFAIL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -138,99 +231,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "DUNEDIN RD, FORESTVALE RD, PINELANDS LANE",
                 "SUBURBS": "MITCHELL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.06303,
-                            -17.518511
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.060911,
-                                    -17.517079
-                                ],
-                                [
-                                    146.061872,
-                                    -17.52604
-                                ],
-                                [
-                                    146.062582,
-                                    -17.526382
-                                ],
-                                [
-                                    146.064324,
-                                    -17.525383
-                                ],
-                                [
-                                    146.06455,
-                                    -17.525041
-                                ],
-                                [
-                                    146.065151,
-                                    -17.519379
-                                ],
-                                [
-                                    146.06515,
-                                    -17.519278
-                                ],
-                                [
-                                    146.065095,
-                                    -17.518843
-                                ],
-                                [
-                                    146.065093,
-                                    -17.518831
-                                ],
-                                [
-                                    146.064114,
-                                    -17.512532
-                                ],
-                                [
-                                    146.063933,
-                                    -17.512238
-                                ],
-                                [
-                                    146.061731,
-                                    -17.51064
-                                ],
-                                [
-                                    146.060976,
-                                    -17.510996
-                                ],
-                                [
-                                    146.060908,
-                                    -17.517028
-                                ],
-                                [
-                                    146.060911,
-                                    -17.517079
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN7616",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "44",
-                "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
-                "STATUS": "Outage reported",
-                "START": "8:03AM 07 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "COQUETTE POINT RD, JOHNSTON RD, MYNARD RD",
-                "SUBURBS": "COQUETTE POINT, EAST INNISFAIL"
             }
         },
         {
@@ -471,5 +471,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1751841004.253298"
+    "extracted": "1751841300.967806"
 }
