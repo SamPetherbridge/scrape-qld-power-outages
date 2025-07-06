@@ -10,71 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.943562,
-                            -27.534746
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.942777,
-                                    -27.537288
-                                ],
-                                [
-                                    151.944044,
-                                    -27.537403
-                                ],
-                                [
-                                    151.9446,
-                                    -27.536971
-                                ],
-                                [
-                                    151.94478,
-                                    -27.532551
-                                ],
-                                [
-                                    151.944358,
-                                    -27.53209
-                                ],
-                                [
-                                    151.943792,
-                                    -27.532405
-                                ],
-                                [
-                                    151.942344,
-                                    -27.536711
-                                ],
-                                [
-                                    151.942777,
-                                    -27.537288
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW9099",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "1:35PM 06 Jul 2025",
-                "EST_FIX_TIME": "3:00PM 06 Jul 2025",
-                "STREETS": "MORT ST, THACKERAY ST",
-                "SUBURBS": "ROCKVILLE, TOOWOOMBA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -192,9 +127,151 @@
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            149.117522,
+                            -23.569637
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    149.101182,
+                                    -23.582997
+                                ],
+                                [
+                                    149.103618,
+                                    -23.582502
+                                ],
+                                [
+                                    149.103748,
+                                    -23.582457
+                                ],
+                                [
+                                    149.113343,
+                                    -23.577615
+                                ],
+                                [
+                                    149.113466,
+                                    -23.577528
+                                ],
+                                [
+                                    149.134406,
+                                    -23.556928
+                                ],
+                                [
+                                    149.134403,
+                                    -23.556308
+                                ],
+                                [
+                                    149.133731,
+                                    -23.556276
+                                ],
+                                [
+                                    149.100758,
+                                    -23.582213
+                                ],
+                                [
+                                    149.100638,
+                                    -23.582757
+                                ],
+                                [
+                                    149.101182,
+                                    -23.582997
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA9471",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "2:30PM 06 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "OFF CAPRICORN HWY, ROCKYVIEW RD",
+                "SUBURBS": "BLUFF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.943562,
+                            -27.534746
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.942777,
+                                    -27.537288
+                                ],
+                                [
+                                    151.944044,
+                                    -27.537403
+                                ],
+                                [
+                                    151.9446,
+                                    -27.536971
+                                ],
+                                [
+                                    151.94478,
+                                    -27.532551
+                                ],
+                                [
+                                    151.944358,
+                                    -27.53209
+                                ],
+                                [
+                                    151.943792,
+                                    -27.532405
+                                ],
+                                [
+                                    151.942344,
+                                    -27.536711
+                                ],
+                                [
+                                    151.942777,
+                                    -27.537288
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW9099",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "1:35PM 06 Jul 2025",
+                "EST_FIX_TIME": "3:00PM 06 Jul 2025",
+                "STREETS": "MORT ST, THACKERAY ST",
+                "SUBURBS": "ROCKVILLE, TOOWOOMBA"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1751777101.319018"
+    "extracted": "1751777401.183207"
 }
