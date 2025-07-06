@@ -10,6 +10,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.106886,
+                            -24.620831
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.094398,
+                                    -24.622967
+                                ],
+                                [
+                                    152.114677,
+                                    -24.62908
+                                ],
+                                [
+                                    152.114857,
+                                    -24.629102
+                                ],
+                                [
+                                    152.119375,
+                                    -24.628889
+                                ],
+                                [
+                                    152.119703,
+                                    -24.628126
+                                ],
+                                [
+                                    152.112087,
+                                    -24.620942
+                                ],
+                                [
+                                    152.112083,
+                                    -24.620938
+                                ],
+                                [
+                                    152.107419,
+                                    -24.616645
+                                ],
+                                [
+                                    152.107258,
+                                    -24.616546
+                                ],
+                                [
+                                    152.096698,
+                                    -24.61256
+                                ],
+                                [
+                                    152.096026,
+                                    -24.612894
+                                ],
+                                [
+                                    152.094068,
+                                    -24.622457
+                                ],
+                                [
+                                    152.094398,
+                                    -24.622967
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB7323",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "14",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "9:05AM 07 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "LITTABELLA RD, MORTS LANE, NORTH LITTABELLA RD, NORVAL PARK RD, SOUTH LITTABELLA RD",
+                "SUBURBS": "MULLETT CREEK, YANDARAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -138,91 +223,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "DUNEDIN RD, FORESTVALE RD, PINELANDS LANE",
                 "SUBURBS": "MITCHELL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.106886,
-                            -24.620831
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.094398,
-                                    -24.622967
-                                ],
-                                [
-                                    152.114677,
-                                    -24.62908
-                                ],
-                                [
-                                    152.114857,
-                                    -24.629102
-                                ],
-                                [
-                                    152.119375,
-                                    -24.628889
-                                ],
-                                [
-                                    152.119703,
-                                    -24.628126
-                                ],
-                                [
-                                    152.112087,
-                                    -24.620942
-                                ],
-                                [
-                                    152.112083,
-                                    -24.620938
-                                ],
-                                [
-                                    152.107419,
-                                    -24.616645
-                                ],
-                                [
-                                    152.107258,
-                                    -24.616546
-                                ],
-                                [
-                                    152.096698,
-                                    -24.61256
-                                ],
-                                [
-                                    152.096026,
-                                    -24.612894
-                                ],
-                                [
-                                    152.094068,
-                                    -24.622457
-                                ],
-                                [
-                                    152.094398,
-                                    -24.622967
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB7323",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "14",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "9:05AM 07 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "LITTABELLA RD, MORTS LANE, NORTH LITTABELLA RD, NORVAL PARK RD, SOUTH LITTABELLA RD",
-                "SUBURBS": "MULLETT CREEK, YANDARAN"
             }
         },
         {
@@ -386,5 +386,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1751845501.155356"
+    "extracted": "1751846101.158455"
 }
