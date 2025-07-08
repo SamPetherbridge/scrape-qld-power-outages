@@ -10,75 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            140.505549,
-                            -20.693592
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    140.501999,
-                                    -20.697458
-                                ],
-                                [
-                                    140.505186,
-                                    -20.699371
-                                ],
-                                [
-                                    140.505896,
-                                    -20.699134
-                                ],
-                                [
-                                    140.50925,
-                                    -20.689644
-                                ],
-                                [
-                                    140.509227,
-                                    -20.689307
-                                ],
-                                [
-                                    140.50848,
-                                    -20.68785
-                                ],
-                                [
-                                    140.507641,
-                                    -20.687813
-                                ],
-                                [
-                                    140.501847,
-                                    -20.696847
-                                ],
-                                [
-                                    140.501999,
-                                    -20.697458
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ9009",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "12",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "8:17AM 09 Jul 2025",
-                "EST_FIX_TIME": "3:00PM 09 Jul 2025",
-                "STREETS": "ALICE ST, HENRY ST, SHEAFFE ST, SIR HUDSON FYSH DR",
-                "SUBURBS": "CLONCURRY"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -205,6 +136,136 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            140.505549,
+                            -20.693592
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    140.501999,
+                                    -20.697458
+                                ],
+                                [
+                                    140.505186,
+                                    -20.699371
+                                ],
+                                [
+                                    140.505896,
+                                    -20.699134
+                                ],
+                                [
+                                    140.50925,
+                                    -20.689644
+                                ],
+                                [
+                                    140.509227,
+                                    -20.689307
+                                ],
+                                [
+                                    140.50848,
+                                    -20.68785
+                                ],
+                                [
+                                    140.507641,
+                                    -20.687813
+                                ],
+                                [
+                                    140.501847,
+                                    -20.696847
+                                ],
+                                [
+                                    140.501999,
+                                    -20.697458
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ9009",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "12",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "8:17AM 09 Jul 2025",
+                "EST_FIX_TIME": "11:00AM 09 Jul 2025",
+                "STREETS": "ALICE ST, HENRY ST, SHEAFFE ST, SIR HUDSON FYSH DR",
+                "SUBURBS": "CLONCURRY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            141.312912,
+                            -20.239935
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    141.33326,
+                                    -20.243579
+                                ],
+                                [
+                                    141.292763,
+                                    -20.235411
+                                ],
+                                [
+                                    141.292197,
+                                    -20.235757
+                                ],
+                                [
+                                    141.292564,
+                                    -20.236291
+                                ],
+                                [
+                                    141.333061,
+                                    -20.244458
+                                ],
+                                [
+                                    141.333627,
+                                    -20.244113
+                                ],
+                                [
+                                    141.33326,
+                                    -20.243579
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ9111",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Outage reported",
+                "START": "6:38AM 09 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "VIOLA STATION",
+                "SUBURBS": "JULIA CREEK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.708418,
                             -26.60917
                         ]
@@ -261,5 +322,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752015605.648099"
+    "extracted": "1752016802.646076"
 }
