@@ -10,6 +10,132 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.708418,
+                            -26.60917
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.708983,
+                                    -26.609135
+                                ],
+                                [
+                                    151.708705,
+                                    -26.608731
+                                ],
+                                [
+                                    151.708016,
+                                    -26.608585
+                                ],
+                                [
+                                    151.707853,
+                                    -26.609205
+                                ],
+                                [
+                                    151.708131,
+                                    -26.609609
+                                ],
+                                [
+                                    151.70882,
+                                    -26.609755
+                                ],
+                                [
+                                    151.708983,
+                                    -26.609135
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB7357",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "10:30AM 08 Jul 2025",
+                "EST_FIX_TIME": "4:00PM 09 Jul 2025",
+                "STREETS": "BENAIR RD",
+                "SUBURBS": "KINGAROY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.348752,
                             -26.991952
                         ]
@@ -95,162 +221,12 @@
                 "EVENT_ID": "25SW9219",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "19",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "REASON": "The loss of supply is due to a vehicle accident.",
                 "STATUS": "Crews on route",
                 "START": "3:45PM 08 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BISCHOF'S RD, BUNYA HWY, CLIFFORD'S RD, CODYS RD, DALBY DOWNS RD, DOONSIDE RD, JIMBOUR STATION RD, PUKALLUS' RD",
                 "SUBURBS": "BELL, COORANGA NORTH, DALBY, JIMBOUR EAST, MALAKOFF"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.75414,
-                            -19.290361
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.753305,
-                                    -19.290782
-                                ],
-                                [
-                                    146.753404,
-                                    -19.290937
-                                ],
-                                [
-                                    146.754038,
-                                    -19.291101
-                                ],
-                                [
-                                    146.754686,
-                                    -19.290767
-                                ],
-                                [
-                                    146.754898,
-                                    -19.290544
-                                ],
-                                [
-                                    146.754975,
-                                    -19.290369
-                                ],
-                                [
-                                    146.754835,
-                                    -19.289844
-                                ],
-                                [
-                                    146.754545,
-                                    -19.289621
-                                ],
-                                [
-                                    146.753933,
-                                    -19.289631
-                                ],
-                                [
-                                    146.75372,
-                                    -19.289808
-                                ],
-                                [
-                                    146.753654,
-                                    -19.289875
-                                ],
-                                [
-                                    146.753334,
-                                    -19.290275
-                                ],
-                                [
-                                    146.753305,
-                                    -19.290782
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ9101",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "7",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "6:07PM 08 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "NARANGI ST, NERINE CT",
-                "SUBURBS": "HEATLEY"
             }
         },
         {
@@ -313,70 +289,9 @@
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.708418,
-                            -26.60917
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.708983,
-                                    -26.609135
-                                ],
-                                [
-                                    151.708705,
-                                    -26.608731
-                                ],
-                                [
-                                    151.708016,
-                                    -26.608585
-                                ],
-                                [
-                                    151.707853,
-                                    -26.609205
-                                ],
-                                [
-                                    151.708131,
-                                    -26.609609
-                                ],
-                                [
-                                    151.70882,
-                                    -26.609755
-                                ],
-                                [
-                                    151.708983,
-                                    -26.609135
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB7357",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "10:30AM 08 Jul 2025",
-                "EST_FIX_TIME": "4:00PM 09 Jul 2025",
-                "STREETS": "BENAIR RD",
-                "SUBURBS": "KINGAROY"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1751969101.676046"
+    "extracted": "1751969703.451711"
 }
