@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.708418,
-                            -26.60917
+                            150.123657,
+                            -24.919726
                         ]
                     },
                     {
@@ -19,32 +19,68 @@
                         "coordinates": [
                             [
                                 [
-                                    151.708983,
-                                    -26.609135
+                                    150.086627,
+                                    -24.905811
                                 ],
                                 [
-                                    151.708705,
-                                    -26.608731
+                                    150.107478,
+                                    -24.963592
                                 ],
                                 [
-                                    151.708016,
-                                    -26.608585
+                                    150.108318,
+                                    -24.96375
                                 ],
                                 [
-                                    151.707853,
-                                    -26.609205
+                                    150.11734,
+                                    -24.954486
                                 ],
                                 [
-                                    151.708131,
-                                    -26.609609
+                                    150.117346,
+                                    -24.95448
                                 ],
                                 [
-                                    151.70882,
-                                    -26.609755
+                                    150.123062,
+                                    -24.948385
                                 ],
                                 [
-                                    151.708983,
-                                    -26.609135
+                                    150.123133,
+                                    -24.948286
+                                ],
+                                [
+                                    150.160687,
+                                    -24.876315
+                                ],
+                                [
+                                    150.160602,
+                                    -24.875813
+                                ],
+                                [
+                                    150.16006,
+                                    -24.875701
+                                ],
+                                [
+                                    150.095594,
+                                    -24.898856
+                                ],
+                                [
+                                    150.09553,
+                                    -24.898884
+                                ],
+                                [
+                                    150.090233,
+                                    -24.90164
+                                ],
+                                [
+                                    150.090101,
+                                    -24.90174
+                                ],
+                                [
+                                    150.08672,
+                                    -24.905378
+                                ],
+                                [
+                                    150.086627,
+                                    -24.905811
                                 ]
                             ]
                         ]
@@ -52,15 +88,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB7357",
+                "EVENT_ID": "25CA9528",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "10:30AM 08 Jul 2025",
-                "EST_FIX_TIME": "4:00PM 09 Jul 2025",
-                "STREETS": "BENAIR RD",
-                "SUBURBS": "KINGAROY"
+                "CUSTOMERS_AFFECTED": "27",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews on route",
+                "START": "8:28PM 08 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BANANA RD, CASTLE CREEK RD, HEINICKES RD, LEICHHARDT HWY, LETCHFORD RD, POPE'S RD, WATSONS RD",
+                "SUBURBS": "THEODORE"
             }
         },
         {
@@ -237,103 +273,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            150.123657,
-                            -24.919726
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    150.086627,
-                                    -24.905811
-                                ],
-                                [
-                                    150.107478,
-                                    -24.963592
-                                ],
-                                [
-                                    150.108318,
-                                    -24.96375
-                                ],
-                                [
-                                    150.11734,
-                                    -24.954486
-                                ],
-                                [
-                                    150.117346,
-                                    -24.95448
-                                ],
-                                [
-                                    150.123062,
-                                    -24.948385
-                                ],
-                                [
-                                    150.123133,
-                                    -24.948286
-                                ],
-                                [
-                                    150.160687,
-                                    -24.876315
-                                ],
-                                [
-                                    150.160602,
-                                    -24.875813
-                                ],
-                                [
-                                    150.16006,
-                                    -24.875701
-                                ],
-                                [
-                                    150.095594,
-                                    -24.898856
-                                ],
-                                [
-                                    150.09553,
-                                    -24.898884
-                                ],
-                                [
-                                    150.090233,
-                                    -24.90164
-                                ],
-                                [
-                                    150.090101,
-                                    -24.90174
-                                ],
-                                [
-                                    150.08672,
-                                    -24.905378
-                                ],
-                                [
-                                    150.086627,
-                                    -24.905811
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA9528",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "27",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
-                "START": "8:28PM 08 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BANANA RD, CASTLE CREEK RD, HEINICKES RD, LEICHHARDT HWY, LETCHFORD RD, POPE'S RD, WATSONS RD",
-                "SUBURBS": "THEODORE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -386,9 +325,70 @@
                 "STREETS": "INTAKE RD",
                 "SUBURBS": "MUTARNEE"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.708418,
+                            -26.60917
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.708983,
+                                    -26.609135
+                                ],
+                                [
+                                    151.708705,
+                                    -26.608731
+                                ],
+                                [
+                                    151.708016,
+                                    -26.608585
+                                ],
+                                [
+                                    151.707853,
+                                    -26.609205
+                                ],
+                                [
+                                    151.708131,
+                                    -26.609609
+                                ],
+                                [
+                                    151.70882,
+                                    -26.609755
+                                ],
+                                [
+                                    151.708983,
+                                    -26.609135
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB7357",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "10:30AM 08 Jul 2025",
+                "EST_FIX_TIME": "4:00PM 09 Jul 2025",
+                "STREETS": "BENAIR RD",
+                "SUBURBS": "KINGAROY"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1751971502.930507"
+    "extracted": "1751972101.006995"
 }
