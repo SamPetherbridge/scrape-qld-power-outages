@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.781822,
-                            -26.575502
+                            148.508031,
+                            -27.652863
                         ]
                     },
                     {
@@ -19,32 +19,40 @@
                         "coordinates": [
                             [
                                 [
-                                    151.782696,
-                                    -26.574965
+                                    148.456341,
+                                    -27.61673
                                 ],
                                 [
-                                    151.780843,
-                                    -26.575144
+                                    148.473984,
+                                    -27.633377
                                 ],
                                 [
-                                    151.780398,
-                                    -26.57564
+                                    148.47405,
+                                    -27.633429
                                 ],
                                 [
-                                    151.780949,
-                                    -26.57604
+                                    148.559021,
+                                    -27.689658
                                 ],
                                 [
-                                    151.782802,
-                                    -26.575861
+                                    148.559725,
+                                    -27.689571
                                 ],
                                 [
-                                    151.783247,
-                                    -26.575365
+                                    148.559639,
+                                    -27.688943
                                 ],
                                 [
-                                    151.782696,
-                                    -26.574965
+                                    148.457025,
+                                    -27.616067
+                                ],
+                                [
+                                    148.456336,
+                                    -27.616114
+                                ],
+                                [
+                                    148.456341,
+                                    -27.61673
                                 ]
                             ]
                         ]
@@ -52,15 +60,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB7379",
+                "EVENT_ID": "25SW9200",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "3:14PM 08 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "LUCK RD",
-                "SUBURBS": "INVERLAW"
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Crews working on-site",
+                "START": "11:09AM 08 Jul 2025",
+                "EST_FIX_TIME": "7:30PM 08 Jul 2025",
+                "STREETS": "MITCHELL ST GEORGE RD",
+                "SUBURBS": "ST GEORGE"
             }
         },
         {
@@ -126,75 +134,6 @@
                 "EST_FIX_TIME": "10:00AM 31 Jul 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.508031,
-                            -27.652863
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.456341,
-                                    -27.61673
-                                ],
-                                [
-                                    148.473984,
-                                    -27.633377
-                                ],
-                                [
-                                    148.47405,
-                                    -27.633429
-                                ],
-                                [
-                                    148.559021,
-                                    -27.689658
-                                ],
-                                [
-                                    148.559725,
-                                    -27.689571
-                                ],
-                                [
-                                    148.559639,
-                                    -27.688943
-                                ],
-                                [
-                                    148.457025,
-                                    -27.616067
-                                ],
-                                [
-                                    148.456336,
-                                    -27.616114
-                                ],
-                                [
-                                    148.456341,
-                                    -27.61673
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW9200",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Crews working on-site",
-                "START": "11:09AM 08 Jul 2025",
-                "EST_FIX_TIME": "7:30PM 08 Jul 2025",
-                "STREETS": "MITCHELL ST GEORGE RD",
-                "SUBURBS": "ST GEORGE"
             }
         },
         {
@@ -296,6 +235,67 @@
                 "EST_FIX_TIME": "7:00PM 08 Jul 2025",
                 "STREETS": "COLEVALE RD, HILLIER RD, JACKS RD, TOLL RD",
                 "SUBURBS": "BRANDON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.781822,
+                            -26.575502
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.782696,
+                                    -26.574965
+                                ],
+                                [
+                                    151.780843,
+                                    -26.575144
+                                ],
+                                [
+                                    151.780398,
+                                    -26.57564
+                                ],
+                                [
+                                    151.780949,
+                                    -26.57604
+                                ],
+                                [
+                                    151.782802,
+                                    -26.575861
+                                ],
+                                [
+                                    151.783247,
+                                    -26.575365
+                                ],
+                                [
+                                    151.782696,
+                                    -26.574965
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB7379",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "3:14PM 08 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "LUCK RD",
+                "SUBURBS": "INVERLAW"
             }
         },
         {
@@ -492,6 +492,115 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            150.535237,
+                            -23.343444
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.532698,
+                                    -23.343202
+                                ],
+                                [
+                                    150.532766,
+                                    -23.343698
+                                ],
+                                [
+                                    150.532769,
+                                    -23.343717
+                                ],
+                                [
+                                    150.532821,
+                                    -23.343996
+                                ],
+                                [
+                                    150.533031,
+                                    -23.344295
+                                ],
+                                [
+                                    150.533274,
+                                    -23.344445
+                                ],
+                                [
+                                    150.533471,
+                                    -23.344516
+                                ],
+                                [
+                                    150.536777,
+                                    -23.344987
+                                ],
+                                [
+                                    150.536961,
+                                    -23.34498
+                                ],
+                                [
+                                    150.537395,
+                                    -23.344887
+                                ],
+                                [
+                                    150.537773,
+                                    -23.344452
+                                ],
+                                [
+                                    150.537776,
+                                    -23.344165
+                                ],
+                                [
+                                    150.537687,
+                                    -23.343901
+                                ],
+                                [
+                                    150.536295,
+                                    -23.342084
+                                ],
+                                [
+                                    150.535803,
+                                    -23.341902
+                                ],
+                                [
+                                    150.533551,
+                                    -23.342305
+                                ],
+                                [
+                                    150.533311,
+                                    -23.342417
+                                ],
+                                [
+                                    150.532849,
+                                    -23.342815
+                                ],
+                                [
+                                    150.532698,
+                                    -23.343202
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA9523",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "80",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "4:43PM 08 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRIGG ST, CRUIKSHANK ST, KERRIGAN ST, PLAHN ST",
+                "SUBURBS": "FRENCHVILLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.708418,
                             -26.60917
                         ]
@@ -548,5 +657,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1751958301.163853"
+    "extracted": "1751958901.036117"
 }
