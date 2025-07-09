@@ -10,6 +10,107 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            145.331406,
+                            -17.177422
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.280018,
+                                    -17.206437
+                                ],
+                                [
+                                    145.280287,
+                                    -17.227243
+                                ],
+                                [
+                                    145.280692,
+                                    -17.227685
+                                ],
+                                [
+                                    145.38226,
+                                    -17.241313
+                                ],
+                                [
+                                    145.382794,
+                                    -17.240828
+                                ],
+                                [
+                                    145.380258,
+                                    -17.21161
+                                ],
+                                [
+                                    145.38021,
+                                    -17.211446
+                                ],
+                                [
+                                    145.379576,
+                                    -17.210222
+                                ],
+                                [
+                                    145.379519,
+                                    -17.210137
+                                ],
+                                [
+                                    145.297344,
+                                    -17.113595
+                                ],
+                                [
+                                    145.296684,
+                                    -17.113531
+                                ],
+                                [
+                                    145.291213,
+                                    -17.117819
+                                ],
+                                [
+                                    145.291172,
+                                    -17.117855
+                                ],
+                                [
+                                    145.289332,
+                                    -17.119686
+                                ],
+                                [
+                                    145.289203,
+                                    -17.119954
+                                ],
+                                [
+                                    145.28002,
+                                    -17.206385
+                                ],
+                                [
+                                    145.280018,
+                                    -17.206437
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN7712",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "122",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "1:46PM 09 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BORZI RD, CASCADE CL, CATHERINE RD, CHISARI RD, COLLINS WEIR RD, DEMIS RD, LEMONTREE DR, MIDDLE CREEK RD, OAKY VALLEY AVE, PIN RD, SPRINGMOUNT RD, STANKOVICH RD, TABACUM RD",
+                "SUBURBS": "ARRIGA, DIMBULAH, MUTCHILBA, TABACUM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.541882,
                             -23.655684
                         ]
@@ -217,107 +318,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.331406,
-                            -17.177422
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.280018,
-                                    -17.206437
-                                ],
-                                [
-                                    145.280287,
-                                    -17.227243
-                                ],
-                                [
-                                    145.280692,
-                                    -17.227685
-                                ],
-                                [
-                                    145.38226,
-                                    -17.241313
-                                ],
-                                [
-                                    145.382794,
-                                    -17.240828
-                                ],
-                                [
-                                    145.380258,
-                                    -17.21161
-                                ],
-                                [
-                                    145.38021,
-                                    -17.211446
-                                ],
-                                [
-                                    145.379576,
-                                    -17.210222
-                                ],
-                                [
-                                    145.379519,
-                                    -17.210137
-                                ],
-                                [
-                                    145.297344,
-                                    -17.113595
-                                ],
-                                [
-                                    145.296684,
-                                    -17.113531
-                                ],
-                                [
-                                    145.291213,
-                                    -17.117819
-                                ],
-                                [
-                                    145.291172,
-                                    -17.117855
-                                ],
-                                [
-                                    145.289332,
-                                    -17.119686
-                                ],
-                                [
-                                    145.289203,
-                                    -17.119954
-                                ],
-                                [
-                                    145.28002,
-                                    -17.206385
-                                ],
-                                [
-                                    145.280018,
-                                    -17.206437
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN7712",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "122",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "1:46PM 09 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BORZI RD, CASCADE CL, CATHERINE RD, CHISARI RD, COLLINS WEIR RD, DEMIS RD, LEMONTREE DR, MIDDLE CREEK RD, OAKY VALLEY AVE, PIN RD, SPRINGMOUNT RD, STANKOVICH RD, TABACUM RD",
-                "SUBURBS": "ARRIGA, DIMBULAH, MUTCHILBA, TABACUM"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.207433,
                             -18.981624
                         ]
@@ -443,5 +443,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752041401.136359"
+    "extracted": "1752042603.660252"
 }
