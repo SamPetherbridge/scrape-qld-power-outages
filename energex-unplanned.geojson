@@ -1,8 +1,139 @@
 {
     "type": "FeatureCollection",
     "name": "UNPLANNED",
-    "features": [],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.348694,
+                            -27.410908
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.304838,
+                                    -27.363118
+                                ],
+                                [
+                                    152.314231,
+                                    -27.464725
+                                ],
+                                [
+                                    152.314655,
+                                    -27.465134
+                                ],
+                                [
+                                    152.324141,
+                                    -27.466489
+                                ],
+                                [
+                                    152.326205,
+                                    -27.466784
+                                ],
+                                [
+                                    152.330333,
+                                    -27.467373
+                                ],
+                                [
+                                    152.332387,
+                                    -27.467667
+                                ],
+                                [
+                                    152.33264,
+                                    -27.467645
+                                ],
+                                [
+                                    152.350758,
+                                    -27.461787
+                                ],
+                                [
+                                    152.351026,
+                                    -27.461586
+                                ],
+                                [
+                                    152.392486,
+                                    -27.396567
+                                ],
+                                [
+                                    152.39255,
+                                    -27.396301
+                                ],
+                                [
+                                    152.390066,
+                                    -27.373405
+                                ],
+                                [
+                                    152.390057,
+                                    -27.373355
+                                ],
+                                [
+                                    152.388281,
+                                    -27.365849
+                                ],
+                                [
+                                    152.387887,
+                                    -27.3655
+                                ],
+                                [
+                                    152.328224,
+                                    -27.354636
+                                ],
+                                [
+                                    152.328162,
+                                    -27.354628
+                                ],
+                                [
+                                    152.321143,
+                                    -27.35415
+                                ],
+                                [
+                                    152.321096,
+                                    -27.354148
+                                ],
+                                [
+                                    152.313321,
+                                    -27.354262
+                                ],
+                                [
+                                    152.312945,
+                                    -27.35442
+                                ],
+                                [
+                                    152.304957,
+                                    -27.362788
+                                ],
+                                [
+                                    152.304838,
+                                    -27.363118
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-874809-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "167",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "4:56PM 10 Jul 2025",
+                "EST_FIX_TIME": "7:30PM 10 Jul 2025",
+                "STREETS": "ARCHER RD, ATKINSON DAM RD, ATKINSONS DAM RD, BALAAM HILL RD, BARTLEYS RD, BISCHOFFS RD, BUARABA CREEK RD, CARBINE RD, GATTON-ESK RD, KAVANAGH RD, KELLY RD, KRUGERS RD, LEVER RD, QUALISCHEFSKIS RD, SKEW GULLY RD, VERANDAH CREEK RD",
+                "SUBURBS": "ATKINSONS DAM, BUARABA, CHURCHABLE, CLARENDON, SPRING CREEK",
+                "ETR_FLAG": "N"
+            }
+        }
+    ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1752130201.624312"
+    "extracted": "1752130803.660482"
 }
