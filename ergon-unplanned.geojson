@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.748815,
-                            -21.173505
+                            149.717601,
+                            -22.573635
                         ]
                     },
                     {
@@ -19,72 +19,44 @@
                         "coordinates": [
                             [
                                 [
-                                    148.742937,
-                                    -21.16682
+                                    149.655904,
+                                    -22.614784
                                 ],
                                 [
-                                    148.743536,
-                                    -21.175791
+                                    149.780012,
+                                    -22.540114
                                 ],
                                 [
-                                    148.743537,
-                                    -21.175804
+                                    149.780035,
+                                    -22.539371
                                 ],
                                 [
-                                    148.744064,
-                                    -21.181251
+                                    149.770019,
+                                    -22.532551
                                 ],
                                 [
-                                    148.744488,
-                                    -21.181658
+                                    149.769576,
+                                    -22.532487
                                 ],
                                 [
-                                    148.753864,
-                                    -21.182694
+                                    149.668247,
+                                    -22.564241
                                 ],
                                 [
-                                    148.754393,
-                                    -21.182332
+                                    149.667929,
+                                    -22.564564
                                 ],
                                 [
-                                    148.754596,
-                                    -21.181345
+                                    149.655167,
+                                    -22.6143
                                 ],
                                 [
-                                    148.754604,
-                                    -21.181263
+                                    149.655359,
+                                    -22.614773
                                 ],
                                 [
-                                    148.754694,
-                                    -21.17189
-                                ],
-                                [
-                                    148.754525,
-                                    -21.171542
-                                ],
-                                [
-                                    148.745594,
-                                    -21.16442
-                                ],
-                                [
-                                    148.745228,
-                                    -21.164315
-                                ],
-                                [
-                                    148.744919,
-                                    -21.164348
-                                ],
-                                [
-                                    148.744584,
-                                    -21.16453
-                                ],
-                                [
-                                    148.743028,
-                                    -21.166525
-                                ],
-                                [
-                                    148.742937,
-                                    -21.16682
+                                    149.655904,
+                                    -22.614784
                                 ]
                             ]
                         ]
@@ -92,15 +64,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK5432",
+                "EVENT_ID": "25CA9612",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "22",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Crews working on-site",
-                "START": "2:02PM 11 Jul 2025",
-                "EST_FIX_TIME": "5:00PM 11 Jul 2025",
-                "STREETS": "GARGETT-MIA MIA RD, MARKS RD, PUP CREEK RD, SEPTIMUS RD",
-                "SUBURBS": "GARGETT"
+                "START": "8:31AM 11 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "CHARONS FERRY RD, STOODLEIGH RD, WILANGI ST",
+                "SUBURBS": "OGMORE"
             }
         },
         {
@@ -241,6 +213,107 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.748815,
+                            -21.173505
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.742937,
+                                    -21.16682
+                                ],
+                                [
+                                    148.743536,
+                                    -21.175791
+                                ],
+                                [
+                                    148.743537,
+                                    -21.175804
+                                ],
+                                [
+                                    148.744064,
+                                    -21.181251
+                                ],
+                                [
+                                    148.744488,
+                                    -21.181658
+                                ],
+                                [
+                                    148.753864,
+                                    -21.182694
+                                ],
+                                [
+                                    148.754393,
+                                    -21.182332
+                                ],
+                                [
+                                    148.754596,
+                                    -21.181345
+                                ],
+                                [
+                                    148.754604,
+                                    -21.181263
+                                ],
+                                [
+                                    148.754694,
+                                    -21.17189
+                                ],
+                                [
+                                    148.754525,
+                                    -21.171542
+                                ],
+                                [
+                                    148.745594,
+                                    -21.16442
+                                ],
+                                [
+                                    148.745228,
+                                    -21.164315
+                                ],
+                                [
+                                    148.744919,
+                                    -21.164348
+                                ],
+                                [
+                                    148.744584,
+                                    -21.16453
+                                ],
+                                [
+                                    148.743028,
+                                    -21.166525
+                                ],
+                                [
+                                    148.742937,
+                                    -21.16682
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK5432",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "22",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "2:02PM 11 Jul 2025",
+                "EST_FIX_TIME": "5:00PM 11 Jul 2025",
+                "STREETS": "GARGETT-MIA MIA RD, MARKS RD, PUP CREEK RD, SEPTIMUS RD",
+                "SUBURBS": "GARGETT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             150.696386,
                             -23.045354
                         ]
@@ -302,6 +375,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.20781,
+                            -23.615594
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.197165,
+                                    -23.623266
+                                ],
+                                [
+                                    148.21054,
+                                    -23.629328
+                                ],
+                                [
+                                    148.210652,
+                                    -23.629364
+                                ],
+                                [
+                                    148.218099,
+                                    -23.630866
+                                ],
+                                [
+                                    148.218688,
+                                    -23.630354
+                                ],
+                                [
+                                    148.216808,
+                                    -23.619547
+                                ],
+                                [
+                                    148.2168,
+                                    -23.619509
+                                ],
+                                [
+                                    148.212058,
+                                    -23.601941
+                                ],
+                                [
+                                    148.211755,
+                                    -23.601627
+                                ],
+                                [
+                                    148.208006,
+                                    -23.600322
+                                ],
+                                [
+                                    148.207384,
+                                    -23.600565
+                                ],
+                                [
+                                    148.196932,
+                                    -23.62268
+                                ],
+                                [
+                                    148.197165,
+                                    -23.623266
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA9640",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "31",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "2:40PM 11 Jul 2025",
+                "EST_FIX_TIME": "9:00PM 11 Jul 2025",
+                "STREETS": "GREGORY HWY, TALAFA RD",
+                "SUBURBS": "EMERALD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             142.21493,
                             -10.585808
                         ]
@@ -345,79 +503,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "VICTORIA PDE",
                 "SUBURBS": "THURSDAY ISLAND"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            149.717601,
-                            -22.573635
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    149.655904,
-                                    -22.614784
-                                ],
-                                [
-                                    149.780012,
-                                    -22.540114
-                                ],
-                                [
-                                    149.780035,
-                                    -22.539371
-                                ],
-                                [
-                                    149.770019,
-                                    -22.532551
-                                ],
-                                [
-                                    149.769576,
-                                    -22.532487
-                                ],
-                                [
-                                    149.668247,
-                                    -22.564241
-                                ],
-                                [
-                                    149.667929,
-                                    -22.564564
-                                ],
-                                [
-                                    149.655167,
-                                    -22.6143
-                                ],
-                                [
-                                    149.655359,
-                                    -22.614773
-                                ],
-                                [
-                                    149.655904,
-                                    -22.614784
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA9612",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "8:31AM 11 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "CHARONS FERRY RD, STOODLEIGH RD, WILANGI ST",
-                "SUBURBS": "OGMORE"
             }
         },
         {
@@ -500,5 +585,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752208500.405078"
+    "extracted": "1752209401.657771"
 }
