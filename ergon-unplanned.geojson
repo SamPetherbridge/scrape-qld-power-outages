@@ -288,8 +288,8 @@
                 "CUSTOMERS_AFFECTED": "22",
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
-                "START": "1:30PM 11 Jul 2025",
-                "EST_FIX_TIME": "2:30PM 11 Jul 2025",
+                "START": "2:02PM 11 Jul 2025",
+                "EST_FIX_TIME": "5:00PM 11 Jul 2025",
                 "STREETS": "GARGETT-MIA MIA RD, MARKS RD, PUP CREEK RD, SEPTIMUS RD",
                 "SUBURBS": "GARGETT"
             }
@@ -419,6 +419,83 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            145.560267,
+                            -17.21504
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.558904,
+                                    -17.215487
+                                ],
+                                [
+                                    145.560037,
+                                    -17.215831
+                                ],
+                                [
+                                    145.560405,
+                                    -17.215796
+                                ],
+                                [
+                                    145.561739,
+                                    -17.215093
+                                ],
+                                [
+                                    145.561958,
+                                    -17.214553
+                                ],
+                                [
+                                    145.561444,
+                                    -17.21425
+                                ],
+                                [
+                                    145.559011,
+                                    -17.214595
+                                ],
+                                [
+                                    145.558895,
+                                    -17.214627
+                                ],
+                                [
+                                    145.558861,
+                                    -17.214641
+                                ],
+                                [
+                                    145.558576,
+                                    -17.215078
+                                ],
+                                [
+                                    145.558904,
+                                    -17.215487
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN7767",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "1:45PM 11 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "STATE FARM RD",
+                "SUBURBS": "KAIRI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             142.21493,
                             -10.585808
                         ]
@@ -472,8 +549,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            149.692452,
-                            -22.588048
+                            149.717601,
+                            -22.573635
                         ]
                     },
                     {
@@ -481,28 +558,12 @@
                         "coordinates": [
                             [
                                 [
-                                    149.604965,
-                                    -22.620198
+                                    149.655904,
+                                    -22.614784
                                 ],
                                 [
-                                    149.655014,
-                                    -22.643293
-                                ],
-                                [
-                                    149.655219,
-                                    -22.64334
-                                ],
-                                [
-                                    149.668147,
-                                    -22.643608
-                                ],
-                                [
-                                    149.668501,
-                                    -22.643477
-                                ],
-                                [
-                                    149.780091,
-                                    -22.540055
+                                    149.780012,
+                                    -22.540114
                                 ],
                                 [
                                     149.780035,
@@ -521,24 +582,20 @@
                                     -22.564241
                                 ],
                                 [
-                                    149.668102,
-                                    -22.564314
+                                    149.667929,
+                                    -22.564564
                                 ],
                                 [
-                                    149.630975,
-                                    -22.591415
+                                    149.655167,
+                                    -22.6143
                                 ],
                                 [
-                                    149.630908,
-                                    -22.591475
+                                    149.655359,
+                                    -22.614773
                                 ],
                                 [
-                                    149.604813,
-                                    -22.619499
-                                ],
-                                [
-                                    149.604965,
-                                    -22.620198
+                                    149.655904,
+                                    -22.614784
                                 ]
                             ]
                         ]
@@ -548,12 +605,12 @@
             "properties": {
                 "EVENT_ID": "25CA9612",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "59",
+                "CUSTOMERS_AFFECTED": "5",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Crews working on-site",
                 "START": "8:31AM 11 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BELAR ST, BRIGALOW ST, CARBON ST, CHARON ST, CHARONS FERRY RD, COOPERS RD, DEMPSEY ST, LINK LANE, MONTROSE ST, OFF MONTROSE ST, OGMORE KOOLTANDRA RD, OGMORE RD, STOODLEIGH RD, STYX RD, WILANGI ST",
+                "STREETS": "CHARONS FERRY RD, STOODLEIGH RD, WILANGI ST",
                 "SUBURBS": "OGMORE"
             }
         },
@@ -637,5 +694,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752206403.960675"
+    "extracted": "1752207604.638537"
 }
