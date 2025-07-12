@@ -10,148 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.303276,
-                            -20.136404
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.296406,
-                                    -20.135717
-                                ],
-                                [
-                                    146.306465,
-                                    -20.140829
-                                ],
-                                [
-                                    146.30687,
-                                    -20.140851
-                                ],
-                                [
-                                    146.310066,
-                                    -20.139641
-                                ],
-                                [
-                                    146.310233,
-                                    -20.138909
-                                ],
-                                [
-                                    146.303295,
-                                    -20.132092
-                                ],
-                                [
-                                    146.302884,
-                                    -20.131958
-                                ],
-                                [
-                                    146.299615,
-                                    -20.132389
-                                ],
-                                [
-                                    146.299368,
-                                    -20.132494
-                                ],
-                                [
-                                    146.29632,
-                                    -20.134977
-                                ],
-                                [
-                                    146.296406,
-                                    -20.135717
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ9225",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
-                "STATUS": "Crews on route",
-                "START": "5:05AM 13 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "HULLS RD, NOORLAH RD",
-                "SUBURBS": "BROUGHTON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             150.96919,
                             -25.739822
                         ]
@@ -254,11 +112,76 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "169",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
+                "STATUS": "Crews working on-site",
                 "START": "6:53AM 13 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BACK DERRA RD, BACK EIDSVOLD RD, BARBOURS RD, BASKERVILLE RD, BECKERS RD, BEERON RD, BOYNEWOOD RD, DERRA RD, DURONG RD, DYKEHEAD RD, HALFPENNYS LANE, HAWKWOOD RD, JAMES RD, JANKE RD, MOUNT NARAYEN RD, MUNDUBBERA DURONG RD, NERANGY RD, NEW CADARGA RD, OLD DYKEHEAD RD, PETERSENS RD, ROSEHALL RD, SMITHS RD, TAYLORS RD, TOONDOON JANKES RD, YERILLA RD",
                 "SUBURBS": "BOYNEWOOD, BROVINIA, DERRA, DERRI DERRA, EIDSVOLD, HAWKWOOD, MUNDUBBERA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -313,9 +236,86 @@
                 "STREETS": "VICTORIA PDE",
                 "SUBURBS": "THURSDAY ISLAND"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.303276,
+                            -20.136404
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.296406,
+                                    -20.135717
+                                ],
+                                [
+                                    146.306465,
+                                    -20.140829
+                                ],
+                                [
+                                    146.30687,
+                                    -20.140851
+                                ],
+                                [
+                                    146.310066,
+                                    -20.139641
+                                ],
+                                [
+                                    146.310233,
+                                    -20.138909
+                                ],
+                                [
+                                    146.303295,
+                                    -20.132092
+                                ],
+                                [
+                                    146.302884,
+                                    -20.131958
+                                ],
+                                [
+                                    146.299615,
+                                    -20.132389
+                                ],
+                                [
+                                    146.299368,
+                                    -20.132494
+                                ],
+                                [
+                                    146.29632,
+                                    -20.134977
+                                ],
+                                [
+                                    146.296406,
+                                    -20.135717
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ9225",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "The loss of supply is there are supply problems resulting in low voltage conditions. It is advisable to disconnect sensitive electrical appliances. ",
+                "STATUS": "Crews on route",
+                "START": "5:05AM 13 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "HULLS RD, NOORLAH RD",
+                "SUBURBS": "BROUGHTON"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752355201.335618"
+    "extracted": "1752355802.9113"
 }
