@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.837081,
-                            -22.264084
+                            149.723985,
+                            -22.548797
                         ]
                     },
                     {
@@ -19,40 +19,36 @@
                         "coordinates": [
                             [
                                 [
-                                    148.757462,
-                                    -22.144032
+                                    149.668516,
+                                    -22.565108
                                 ],
                                 [
-                                    148.884006,
-                                    -22.394214
+                                    149.779861,
+                                    -22.540174
                                 ],
                                 [
-                                    148.884356,
-                                    -22.394466
+                                    149.780035,
+                                    -22.539371
                                 ],
                                 [
-                                    148.916138,
-                                    -22.400016
+                                    149.770019,
+                                    -22.532551
                                 ],
                                 [
-                                    148.916699,
-                                    -22.399464
+                                    149.769576,
+                                    -22.532487
                                 ],
                                 [
-                                    148.845031,
-                                    -22.128489
+                                    149.668247,
+                                    -22.564241
                                 ],
                                 [
-                                    148.84447,
-                                    -22.128153
+                                    149.667935,
+                                    -22.564794
                                 ],
                                 [
-                                    148.757811,
-                                    -22.143396
-                                ],
-                                [
-                                    148.757462,
-                                    -22.144032
+                                    149.668516,
+                                    -22.565108
                                 ]
                             ]
                         ]
@@ -60,15 +56,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK5463",
+                "EVENT_ID": "25CA9612",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "13",
-                "REASON": "The loss of supply is due to public safety concerns.",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
                 "STATUS": "Crews working on-site",
-                "START": "1:48PM 12 Jul 2025",
-                "EST_FIX_TIME": "5:00PM 12 Jul 2025",
-                "STREETS": "VALKYRIE ACCESS RD",
-                "SUBURBS": "NEBO"
+                "START": "8:31AM 11 Jul 2025",
+                "EST_FIX_TIME": "6:00PM 12 Jul 2025",
+                "STREETS": "CHARONS FERRY RD, STOODLEIGH RD",
+                "SUBURBS": "OGMORE"
             }
         },
         {
@@ -144,6 +140,75 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.837081,
+                            -22.264084
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.757462,
+                                    -22.144032
+                                ],
+                                [
+                                    148.884006,
+                                    -22.394214
+                                ],
+                                [
+                                    148.884356,
+                                    -22.394466
+                                ],
+                                [
+                                    148.916138,
+                                    -22.400016
+                                ],
+                                [
+                                    148.916699,
+                                    -22.399464
+                                ],
+                                [
+                                    148.845031,
+                                    -22.128489
+                                ],
+                                [
+                                    148.84447,
+                                    -22.128153
+                                ],
+                                [
+                                    148.757811,
+                                    -22.143396
+                                ],
+                                [
+                                    148.757462,
+                                    -22.144032
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK5463",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "13",
+                "REASON": "The loss of supply is due to public safety concerns.",
+                "STATUS": "Crews working on-site",
+                "START": "1:48PM 12 Jul 2025",
+                "EST_FIX_TIME": "5:00PM 12 Jul 2025",
+                "STREETS": "VALKYRIE ACCESS RD",
+                "SUBURBS": "NEBO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             142.21493,
                             -10.585808
                         ]
@@ -187,71 +252,6 @@
                 "EST_FIX_TIME": "9:00AM 14 Jul 2025",
                 "STREETS": "VICTORIA PDE",
                 "SUBURBS": "THURSDAY ISLAND"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            149.723985,
-                            -22.548797
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    149.668516,
-                                    -22.565108
-                                ],
-                                [
-                                    149.779861,
-                                    -22.540174
-                                ],
-                                [
-                                    149.780035,
-                                    -22.539371
-                                ],
-                                [
-                                    149.770019,
-                                    -22.532551
-                                ],
-                                [
-                                    149.769576,
-                                    -22.532487
-                                ],
-                                [
-                                    149.668247,
-                                    -22.564241
-                                ],
-                                [
-                                    149.667935,
-                                    -22.564794
-                                ],
-                                [
-                                    149.668516,
-                                    -22.565108
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA9612",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Crews working on-site",
-                "START": "8:31AM 11 Jul 2025",
-                "EST_FIX_TIME": "6:00PM 12 Jul 2025",
-                "STREETS": "CHARONS FERRY RD, STOODLEIGH RD",
-                "SUBURBS": "OGMORE"
             }
         },
         {
@@ -326,5 +326,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752297601.867164"
+    "extracted": "1752298501.398625"
 }
