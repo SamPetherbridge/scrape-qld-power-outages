@@ -10,6 +10,84 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.942551,
+                            -27.714917
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.941541,
+                                    -27.714741
+                                ],
+                                [
+                                    152.941543,
+                                    -27.715496
+                                ],
+                                [
+                                    152.941854,
+                                    -27.715911
+                                ],
+                                [
+                                    152.942866,
+                                    -27.716288
+                                ],
+                                [
+                                    152.943561,
+                                    -27.715793
+                                ],
+                                [
+                                    152.943283,
+                                    -27.714385
+                                ],
+                                [
+                                    152.943127,
+                                    -27.714131
+                                ],
+                                [
+                                    152.942412,
+                                    -27.713546
+                                ],
+                                [
+                                    152.941561,
+                                    -27.713869
+                                ],
+                                [
+                                    152.941541,
+                                    -27.714731
+                                ],
+                                [
+                                    152.941541,
+                                    -27.714741
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-875274-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "6",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "8:34AM 14 Jul 2025",
+                "EST_FIX_TIME": "10:30AM 14 Jul 2025",
+                "STREETS": "FARM RD",
+                "SUBURBS": "GREENBANK",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.113581,
                             -27.636385
                         ]
@@ -128,84 +206,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.942551,
-                            -27.714917
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.941541,
-                                    -27.714741
-                                ],
-                                [
-                                    152.941543,
-                                    -27.715496
-                                ],
-                                [
-                                    152.941854,
-                                    -27.715911
-                                ],
-                                [
-                                    152.942866,
-                                    -27.716288
-                                ],
-                                [
-                                    152.943561,
-                                    -27.715793
-                                ],
-                                [
-                                    152.943283,
-                                    -27.714385
-                                ],
-                                [
-                                    152.943127,
-                                    -27.714131
-                                ],
-                                [
-                                    152.942412,
-                                    -27.713546
-                                ],
-                                [
-                                    152.941561,
-                                    -27.713869
-                                ],
-                                [
-                                    152.941541,
-                                    -27.714731
-                                ],
-                                [
-                                    152.941541,
-                                    -27.714741
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-875274-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "6",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "8:34AM 14 Jul 2025",
-                "EST_FIX_TIME": "10:30AM 14 Jul 2025",
-                "STREETS": "FARM RD",
-                "SUBURBS": "GREENBANK",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.488109,
                             -28.13285
                         ]
@@ -294,7 +294,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "3:55AM 14 Jul 2025",
-                "EST_FIX_TIME": "10:00AM 14 Jul 2025",
+                "EST_FIX_TIME": "10:30AM 14 Jul 2025",
                 "STREETS": "WOODGEE ST",
                 "SUBURBS": "CURRUMBIN",
                 "ETR_FLAG": "N"
@@ -303,5 +303,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1752449101.388721"
+    "extracted": "1752449700.300059"
 }
