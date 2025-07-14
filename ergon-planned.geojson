@@ -7,20 +7,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    144.27298,
-                    -26.625479
+                    146.846866,
+                    -28.438111
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW8978",
+                "EVENT_ID": "25SW8662",
                 "TYPE": "PLANNED",
                 "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to connect new customers to the electricity network",
+                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
                 "STATUS": "Crews working on-site",
-                "START": "8:37AM 14 Jul 2025",
-                "EST_FIX_TIME": "4:00PM 14 Jul 2025",
-                "STREETS": "SOMMERFIELD RD",
-                "SUBURBS": "QUILPIE"
+                "START": "8:30AM 14 Jul 2025",
+                "EST_FIX_TIME": "2:30PM 14 Jul 2025",
+                "STREETS": "MUNDA MUNDA RD",
+                "SUBURBS": "BOLLON"
             }
         },
         {
@@ -70,27 +70,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    146.846866,
-                    -28.438111
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW8662",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:30AM 14 Jul 2025",
-                "EST_FIX_TIME": "2:30PM 14 Jul 2025",
-                "STREETS": "MUNDA MUNDA RD",
-                "SUBURBS": "BOLLON"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     146.523918,
                     -25.131573
                 ]
@@ -106,9 +85,30 @@
                 "STREETS": "CALDERVALE RD, LANDSBOROUGH HWY, MALTA RD, MALTA-CALDERVALE RD, MANNING-STOCKADE RD, OLD TAMBO RD, TAMBO RD, UNKNOWN RD",
                 "SUBURBS": "AUGATHELLA, CHARLEVILLE, TAMBO"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.27298,
+                    -26.625479
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW8978",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to connect new customers to the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "8:37AM 14 Jul 2025",
+                "EST_FIX_TIME": "4:00PM 14 Jul 2025",
+                "STREETS": "SOMMERFIELD RD",
+                "SUBURBS": "QUILPIE"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752468301.051232"
+    "extracted": "1752468600.680136"
 }
