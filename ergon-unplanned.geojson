@@ -246,7 +246,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "43",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
+                "STATUS": "Crews working on-site",
                 "START": "12:27PM 15 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "FULLER ST, MILL DR, O'CALLAGHAN ST",
@@ -370,6 +370,139 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            145.692224,
+                            -16.908708
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.68957,
+                                    -16.908263
+                                ],
+                                [
+                                    145.689604,
+                                    -16.908585
+                                ],
+                                [
+                                    145.689619,
+                                    -16.908661
+                                ],
+                                [
+                                    145.689792,
+                                    -16.909258
+                                ],
+                                [
+                                    145.689941,
+                                    -16.909482
+                                ],
+                                [
+                                    145.69014,
+                                    -16.909644
+                                ],
+                                [
+                                    145.690147,
+                                    -16.90965
+                                ],
+                                [
+                                    145.691018,
+                                    -16.91033
+                                ],
+                                [
+                                    145.691175,
+                                    -16.91041
+                                ],
+                                [
+                                    145.691359,
+                                    -16.910465
+                                ],
+                                [
+                                    145.691591,
+                                    -16.910476
+                                ],
+                                [
+                                    145.694591,
+                                    -16.90989
+                                ],
+                                [
+                                    145.694878,
+                                    -16.909183
+                                ],
+                                [
+                                    145.694288,
+                                    -16.908397
+                                ],
+                                [
+                                    145.694154,
+                                    -16.908277
+                                ],
+                                [
+                                    145.692174,
+                                    -16.907101
+                                ],
+                                [
+                                    145.692055,
+                                    -16.907051
+                                ],
+                                [
+                                    145.691887,
+                                    -16.907005
+                                ],
+                                [
+                                    145.691777,
+                                    -16.906988
+                                ],
+                                [
+                                    145.690516,
+                                    -16.906941
+                                ],
+                                [
+                                    145.690091,
+                                    -16.907168
+                                ],
+                                [
+                                    145.689724,
+                                    -16.907785
+                                ],
+                                [
+                                    145.6897,
+                                    -16.90783
+                                ],
+                                [
+                                    145.689607,
+                                    -16.908038
+                                ],
+                                [
+                                    145.68957,
+                                    -16.908263
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN7879",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "104",
+                "REASON": "The loss of supply is due to public safety concerns.",
+                "STATUS": "Crews working on-site",
+                "START": "1:29PM 15 Jul 2025",
+                "EST_FIX_TIME": "6:00PM 15 Jul 2025",
+                "STREETS": "BROOK CL, CELTIS CL, COCCOLOBA CL, EUCALYPTUS DR, JUNGARA RD, LILLIPILLI ST, MICHAELANGELO DR, RUSSELLIA ST",
+                "SUBURBS": "REDLYNCH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.440555,
                             -25.428927
                         ]
@@ -450,5 +583,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752549900.328052"
+    "extracted": "1752550800.47358"
 }
