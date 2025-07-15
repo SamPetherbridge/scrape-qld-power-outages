@@ -389,13 +389,106 @@
             "properties": {
                 "EVENT_ID": "25FN7895",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "285",
+                "CUSTOMERS_AFFECTED": "261",
                 "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
                 "STATUS": "Crews working on-site",
                 "START": "5:13PM 15 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BARBAGALLO RD, BRADGAN RD, BRUCE HWY, ELLIS RD, FIG TREE DR, FRENCHMANS CREEK, GOLDSBOROUGH RD, HAREN RD, HARVEY CREEK RD, JUNCTION CREEK, LANDER CL, LEWIS RD, MUNRO RD, MUSTAFA RD, OLD BRUCE HWY, ROSS RD, RUSSELL HEADS RES, RUSSELL RIVER RD, SOUTH WOOLANMAROO RES, TELECOM RD, UNKNOWN ST, UNMETERED SUPPLY, WELSH RD, WOOLANMAROO RD",
+                "STREETS": "BARBAGALLO RD, BRADGAN RD, BRUCE HWY, ELLIS RD, FIG TREE DR, FRENCHMANS CREEK, GOLDSBOROUGH RD, HAREN RD, HARVEY CREEK RD, JUNCTION CREEK, LEWIS RD, MUNRO RD, MUSTAFA RD, OLD BRUCE HWY, ROSS RD, RUSSELL HEADS RES, RUSSELL RIVER RD, SOUTH WOOLANMAROO RES, TELECOM RD, UNKNOWN ST, UNMETERED SUPPLY, WELSH RD, WOOLANMAROO RD",
                 "SUBURBS": "ALOOMBA, BABINDA, BELLENDEN KER, CAIRNS, CODFISH CREEK, CUCANIA, DEERAL, EAST RUSSELL, FIG TREE CREEK, FISHERY FALLS, FRENCHMANS CREEK, GOLDSBOROUGH, HARVEYS CREEK, MCDONNELLS CREEK, PALMA SIDING, RUSSELL HEADS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            145.9156,
+                            -17.220664
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.913401,
+                                    -17.222075
+                                ],
+                                [
+                                    145.914343,
+                                    -17.222696
+                                ],
+                                [
+                                    145.914351,
+                                    -17.222702
+                                ],
+                                [
+                                    145.915917,
+                                    -17.223687
+                                ],
+                                [
+                                    145.916626,
+                                    -17.223434
+                                ],
+                                [
+                                    145.91799,
+                                    -17.218919
+                                ],
+                                [
+                                    145.917665,
+                                    -17.218358
+                                ],
+                                [
+                                    145.91525,
+                                    -17.217707
+                                ],
+                                [
+                                    145.915179,
+                                    -17.217693
+                                ],
+                                [
+                                    145.914717,
+                                    -17.21764
+                                ],
+                                [
+                                    145.91424,
+                                    -17.217891
+                                ],
+                                [
+                                    145.913988,
+                                    -17.218384
+                                ],
+                                [
+                                    145.913952,
+                                    -17.218482
+                                ],
+                                [
+                                    145.913209,
+                                    -17.221602
+                                ],
+                                [
+                                    145.913401,
+                                    -17.222075
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN7898",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "24",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Crews working on-site",
+                "START": "5:13PM 15 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BRADGAN RD, BRUCE HWY, LANDER CL, ROSS RD",
+                "SUBURBS": "DEERAL"
             }
         },
         {
@@ -518,5 +611,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752566701.615059"
+    "extracted": "1752567600.607427"
 }
