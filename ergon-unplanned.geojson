@@ -10,160 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.600768,
-                            -24.300327
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.440869,
-                                    -24.284696
-                                ],
-                                [
-                                    145.444717,
-                                    -24.337504
-                                ],
-                                [
-                                    145.444741,
-                                    -24.337617
-                                ],
-                                [
-                                    145.461568,
-                                    -24.383846
-                                ],
-                                [
-                                    145.462109,
-                                    -24.38415
-                                ],
-                                [
-                                    145.760263,
-                                    -24.342681
-                                ],
-                                [
-                                    145.760668,
-                                    -24.34234
-                                ],
-                                [
-                                    145.760476,
-                                    -24.341867
-                                ],
-                                [
-                                    145.607303,
-                                    -24.24116
-                                ],
-                                [
-                                    145.607131,
-                                    -24.241088
-                                ],
-                                [
-                                    145.495768,
-                                    -24.216505
-                                ],
-                                [
-                                    145.495256,
-                                    -24.216676
-                                ],
-                                [
-                                    145.440964,
-                                    -24.284399
-                                ],
-                                [
-                                    145.440869,
-                                    -24.284696
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA9770",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "16",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "1:45PM 15 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ALICE DOWNS RD, EVORA RD, WOODBINE RD, YALLEROI-BLACKALL RD",
-                "SUBURBS": "BLACKALL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.264863,
                             -19.99058
                         ]
@@ -239,6 +85,71 @@
                 "EST_FIX_TIME": "3:30PM 15 Jul 2025",
                 "STREETS": "BANYAN DR, BAUHINIA ST, BLUEWATER PDE, PANDANUS ST, ROSE BAY RD",
                 "SUBURBS": "BOWEN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -482,9 +393,98 @@
                 "STREETS": "BROOK CL, CELTIS CL, COCCOLOBA CL, EUCALYPTUS DR, JUNGARA RD, LILLIPILLI ST, MICHAELANGELO DR, RUSSELLIA ST",
                 "SUBURBS": "REDLYNCH"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            145.600768,
+                            -24.300327
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.440869,
+                                    -24.284696
+                                ],
+                                [
+                                    145.444717,
+                                    -24.337504
+                                ],
+                                [
+                                    145.444741,
+                                    -24.337617
+                                ],
+                                [
+                                    145.461568,
+                                    -24.383846
+                                ],
+                                [
+                                    145.462109,
+                                    -24.38415
+                                ],
+                                [
+                                    145.760263,
+                                    -24.342681
+                                ],
+                                [
+                                    145.760668,
+                                    -24.34234
+                                ],
+                                [
+                                    145.760476,
+                                    -24.341867
+                                ],
+                                [
+                                    145.607303,
+                                    -24.24116
+                                ],
+                                [
+                                    145.607131,
+                                    -24.241088
+                                ],
+                                [
+                                    145.495768,
+                                    -24.216505
+                                ],
+                                [
+                                    145.495256,
+                                    -24.216676
+                                ],
+                                [
+                                    145.440964,
+                                    -24.284399
+                                ],
+                                [
+                                    145.440869,
+                                    -24.284696
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA9770",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "16",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "1:45PM 15 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ALICE DOWNS RD, EVORA RD, WOODBINE RD, YALLEROI-BLACKALL RD",
+                "SUBURBS": "BLACKALL"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752554402.447473"
+    "extracted": "1752555301.458446"
 }
