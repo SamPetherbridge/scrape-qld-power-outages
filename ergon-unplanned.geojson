@@ -10,75 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.035541,
-                            -28.213643
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.03489,
-                                    -28.213647
-                                ],
-                                [
-                                    152.035306,
-                                    -28.214126
-                                ],
-                                [
-                                    152.035947,
-                                    -28.214249
-                                ],
-                                [
-                                    152.036191,
-                                    -28.21371
-                                ],
-                                [
-                                    152.03611,
-                                    -28.213494
-                                ],
-                                [
-                                    152.035965,
-                                    -28.213299
-                                ],
-                                [
-                                    152.03563,
-                                    -28.213036
-                                ],
-                                [
-                                    152.034946,
-                                    -28.213044
-                                ],
-                                [
-                                    152.03489,
-                                    -28.213647
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW9595",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "2:00AM 17 Jul 2025",
-                "EST_FIX_TIME": "6:00AM 17 Jul 2025",
-                "STREETS": "ALBION ST",
-                "SUBURBS": "WARWICK"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -284,9 +215,78 @@
                 "STREETS": "ABBOT POINT RD, ARRATTA RD, BALAAM RD, BERGL ST, BOWEN DEVELOPMENTAL RD, BRUCE HWY, BRUCE HWY N, CHAMPION ST, DRY CREEK RD, EARL RD, EAST EURI RD, FERGUSON RD, GEE DEE RD, GREEN SWAMP RD, JACKSON ST, JOHNS RD, KOONANDAH STATION, LASCELLES ST, MATTHEWS ST, MELLONS RD, MOUNT BUCKLEY RD, MYLES ST, PENNSFIELD STATION, PENSFIELD STATION, PETER DELAMOTHE RD, SALTERS LANE, SANDY GULLY RD, SKENE ST, SMITHS RD, SPROULE CASTLE HILL, SUMMER HILL, SUMMER HILLS RD, WEST EURI CREEK RD",
                 "SUBURBS": "BOWEN, MERINDA"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.035541,
+                            -28.213643
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.03489,
+                                    -28.213647
+                                ],
+                                [
+                                    152.035306,
+                                    -28.214126
+                                ],
+                                [
+                                    152.035947,
+                                    -28.214249
+                                ],
+                                [
+                                    152.036191,
+                                    -28.21371
+                                ],
+                                [
+                                    152.03611,
+                                    -28.213494
+                                ],
+                                [
+                                    152.035965,
+                                    -28.213299
+                                ],
+                                [
+                                    152.03563,
+                                    -28.213036
+                                ],
+                                [
+                                    152.034946,
+                                    -28.213044
+                                ],
+                                [
+                                    152.03489,
+                                    -28.213647
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW9595",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "2:00AM 17 Jul 2025",
+                "EST_FIX_TIME": "6:00AM 17 Jul 2025",
+                "STREETS": "ALBION ST",
+                "SUBURBS": "WARWICK"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752691801.423048"
+    "extracted": "1752692100.739328"
 }
