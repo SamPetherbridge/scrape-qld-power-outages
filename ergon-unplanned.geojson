@@ -10,6 +10,139 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            150.497348,
+                            -23.380282
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.495451,
+                                    -23.378834
+                                ],
+                                [
+                                    150.496241,
+                                    -23.381437
+                                ],
+                                [
+                                    150.496271,
+                                    -23.38151
+                                ],
+                                [
+                                    150.496777,
+                                    -23.382485
+                                ],
+                                [
+                                    150.497208,
+                                    -23.382741
+                                ],
+                                [
+                                    150.497377,
+                                    -23.382744
+                                ],
+                                [
+                                    150.497616,
+                                    -23.382691
+                                ],
+                                [
+                                    150.498418,
+                                    -23.382299
+                                ],
+                                [
+                                    150.49852,
+                                    -23.382232
+                                ],
+                                [
+                                    150.49899,
+                                    -23.381832
+                                ],
+                                [
+                                    150.499147,
+                                    -23.38153
+                                ],
+                                [
+                                    150.499244,
+                                    -23.380152
+                                ],
+                                [
+                                    150.499232,
+                                    -23.380019
+                                ],
+                                [
+                                    150.499014,
+                                    -23.379171
+                                ],
+                                [
+                                    150.498943,
+                                    -23.379022
+                                ],
+                                [
+                                    150.498722,
+                                    -23.378721
+                                ],
+                                [
+                                    150.498675,
+                                    -23.378666
+                                ],
+                                [
+                                    150.498135,
+                                    -23.378132
+                                ],
+                                [
+                                    150.497874,
+                                    -23.377997
+                                ],
+                                [
+                                    150.496915,
+                                    -23.377819
+                                ],
+                                [
+                                    150.49665,
+                                    -23.377838
+                                ],
+                                [
+                                    150.496072,
+                                    -23.378034
+                                ],
+                                [
+                                    150.495919,
+                                    -23.378117
+                                ],
+                                [
+                                    150.495601,
+                                    -23.378372
+                                ],
+                                [
+                                    150.495451,
+                                    -23.378834
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA9819",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "68",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "12:17PM 16 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ALBERT ST, BETHESDA ST, CAMBRIDGE ST, CANNING ST, COUSINS ST, TALFORD ST, WHEATCROFT ST",
+                "SUBURBS": "ALLENSTOWN, ROCKHAMPTON, THE RANGE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -65,91 +198,6 @@
                 "EST_FIX_TIME": "10:00AM 31 Jul 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            147.472941,
-                            -19.535097
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.457044,
-                                    -19.53622
-                                ],
-                                [
-                                    147.461421,
-                                    -19.54142
-                                ],
-                                [
-                                    147.461943,
-                                    -19.541568
-                                ],
-                                [
-                                    147.488513,
-                                    -19.533242
-                                ],
-                                [
-                                    147.488837,
-                                    -19.532762
-                                ],
-                                [
-                                    147.48854,
-                                    -19.530285
-                                ],
-                                [
-                                    147.488413,
-                                    -19.530026
-                                ],
-                                [
-                                    147.487154,
-                                    -19.528757
-                                ],
-                                [
-                                    147.486698,
-                                    -19.528627
-                                ],
-                                [
-                                    147.469361,
-                                    -19.532479
-                                ],
-                                [
-                                    147.469348,
-                                    -19.532482
-                                ],
-                                [
-                                    147.457295,
-                                    -19.535501
-                                ],
-                                [
-                                    147.457044,
-                                    -19.53622
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ9377",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "16",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "9:16AM 16 Jul 2025",
-                "EST_FIX_TIME": "12:30PM 16 Jul 2025",
-                "STREETS": "OLD WHARF RD, OSBORNE RD",
-                "SUBURBS": "AIRDMILLAN, HOME HILL"
             }
         },
         {
@@ -483,7 +531,7 @@
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Crews working on-site",
                 "START": "2:53AM 16 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
+                "EST_FIX_TIME": "4:00PM 16 Jul 2025",
                 "STREETS": "DAANDINE SOLDIERS RD, DALBY-KOGAN RD, KOGAN RD, LOGIE RD, MACALISTER WILKIE CREEK RD, WARREGO HWY",
                 "SUBURBS": "DAANDINE, KOGAN, MACALISTER, WARRA"
             }
@@ -491,5 +539,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752630000.366396"
+    "extracted": "1752633001.131711"
 }
