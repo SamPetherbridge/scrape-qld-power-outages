@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.035541,
-                            -28.213643
+                            148.057751,
+                            -20.09948
                         ]
                     },
                     {
@@ -19,40 +19,136 @@
                         "coordinates": [
                             [
                                 [
-                                    152.03489,
-                                    -28.213647
+                                    147.943636,
+                                    -20.242929
                                 ],
                                 [
-                                    152.035306,
-                                    -28.214126
+                                    147.9439,
+                                    -20.24334
                                 ],
                                 [
-                                    152.035947,
-                                    -28.214249
+                                    147.944323,
+                                    -20.243558
                                 ],
                                 [
-                                    152.036191,
-                                    -28.21371
+                                    147.994754,
+                                    -20.242233
                                 ],
                                 [
-                                    152.03611,
-                                    -28.213494
+                                    147.994758,
+                                    -20.242233
                                 ],
                                 [
-                                    152.035965,
-                                    -28.213299
+                                    148.110215,
+                                    -20.238366
                                 ],
                                 [
-                                    152.03563,
-                                    -28.213036
+                                    148.110549,
+                                    -20.238222
                                 ],
                                 [
-                                    152.034946,
-                                    -28.213044
+                                    148.118311,
+                                    -20.230327
                                 ],
                                 [
-                                    152.03489,
-                                    -28.213647
+                                    148.118365,
+                                    -20.230261
+                                ],
+                                [
+                                    148.118391,
+                                    -20.230222
+                                ],
+                                [
+                                    148.118401,
+                                    -20.230206
+                                ],
+                                [
+                                    148.145358,
+                                    -20.185795
+                                ],
+                                [
+                                    148.145414,
+                                    -20.185649
+                                ],
+                                [
+                                    148.171934,
+                                    -20.044961
+                                ],
+                                [
+                                    148.171935,
+                                    -20.044809
+                                ],
+                                [
+                                    148.16771,
+                                    -20.020206
+                                ],
+                                [
+                                    148.167689,
+                                    -20.020128
+                                ],
+                                [
+                                    148.166308,
+                                    -20.01643
+                                ],
+                                [
+                                    148.166265,
+                                    -20.016345
+                                ],
+                                [
+                                    148.153191,
+                                    -19.996123
+                                ],
+                                [
+                                    148.15315,
+                                    -19.996069
+                                ],
+                                [
+                                    148.140367,
+                                    -19.981618
+                                ],
+                                [
+                                    148.140292,
+                                    -19.98155
+                                ],
+                                [
+                                    148.104488,
+                                    -19.955496
+                                ],
+                                [
+                                    148.104175,
+                                    -19.955403
+                                ],
+                                [
+                                    148.000451,
+                                    -19.959826
+                                ],
+                                [
+                                    148.00023,
+                                    -19.959887
+                                ],
+                                [
+                                    147.990191,
+                                    -19.965457
+                                ],
+                                [
+                                    147.990065,
+                                    -19.965558
+                                ],
+                                [
+                                    147.952559,
+                                    -20.008147
+                                ],
+                                [
+                                    147.952449,
+                                    -20.00842
+                                ],
+                                [
+                                    147.943568,
+                                    -20.242679
+                                ],
+                                [
+                                    147.943636,
+                                    -20.242929
                                 ]
                             ]
                         ]
@@ -60,15 +156,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW9595",
+                "EVENT_ID": "25NQ9412",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "2:00AM 17 Jul 2025",
-                "EST_FIX_TIME": "4:00AM 17 Jul 2025",
-                "STREETS": "ALBION ST",
-                "SUBURBS": "WARWICK"
+                "CUSTOMERS_AFFECTED": "432",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "2:45AM 17 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ABBOT POINT RD, ARRATTA RD, BALAAM RD, BERGL ST, BOWEN DEVELOPMENT RD, BOWEN DEVELOPMENTAL RD, BRUCE HWY, BRUCE HWY N, CHAMPION ST, COLLINSVILLE RD, DRY CREEK RD, EARL RD, EAST EURI RD, FERGUSON RD, GEE DEE RD, GREEN SWAMP RD, HERMANS RD, JACKSON ST, JOHNS RD, KOONANDAH STATION, LASCELLES ST, MATTHEWS ST, MELLONS RD, MOSSVALE STATION, MOUNT BUCKLEY RD, MOUNT DANGAR RD, MT ABERDEEN, MT ABERDEEN RD, MT DANGAR, MYLES ST, PENNSFIELD STATION, PENSFIELD STATION, PETER DELAMOTHE RD, PRETTY BEND RD, PRING RAIL STATION, SALTERS LANE, SANDY GULLY RD, SKENE ST, SMITHS RD, SPROULE CASTLE HILL, SUMMER HILL, SUMMER HILLS RD, THURSO RD, WEST EURI CREEK RD",
+                "SUBURBS": "BOGIE, BOWEN, COLLINSVILLE, MERINDA"
             }
         },
         {
@@ -135,9 +231,78 @@
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.035541,
+                            -28.213643
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.03489,
+                                    -28.213647
+                                ],
+                                [
+                                    152.035306,
+                                    -28.214126
+                                ],
+                                [
+                                    152.035947,
+                                    -28.214249
+                                ],
+                                [
+                                    152.036191,
+                                    -28.21371
+                                ],
+                                [
+                                    152.03611,
+                                    -28.213494
+                                ],
+                                [
+                                    152.035965,
+                                    -28.213299
+                                ],
+                                [
+                                    152.03563,
+                                    -28.213036
+                                ],
+                                [
+                                    152.034946,
+                                    -28.213044
+                                ],
+                                [
+                                    152.03489,
+                                    -28.213647
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW9595",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "2:00AM 17 Jul 2025",
+                "EST_FIX_TIME": "4:00AM 17 Jul 2025",
+                "STREETS": "ALBION ST",
+                "SUBURBS": "WARWICK"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752684303.144429"
+    "extracted": "1752684901.497743"
 }
