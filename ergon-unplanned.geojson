@@ -10,67 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.709995,
-                            -25.197465
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.716427,
-                                    -25.186156
-                                ],
-                                [
-                                    151.702701,
-                                    -25.208332
-                                ],
-                                [
-                                    151.70289,
-                                    -25.208945
-                                ],
-                                [
-                                    151.703564,
-                                    -25.208774
-                                ],
-                                [
-                                    151.717289,
-                                    -25.186597
-                                ],
-                                [
-                                    151.717101,
-                                    -25.185984
-                                ],
-                                [
-                                    151.716427,
-                                    -25.186156
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB7597",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "9:48AM 17 Jul 2025",
-                "EST_FIX_TIME": "12:00PM 17 Jul 2025",
-                "STREETS": "NORTH BRANCH RD, SWINDON RD",
-                "SUBURBS": "MOUNT PERRY"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -306,6 +245,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.709995,
+                            -25.197465
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.716427,
+                                    -25.186156
+                                ],
+                                [
+                                    151.702701,
+                                    -25.208332
+                                ],
+                                [
+                                    151.70289,
+                                    -25.208945
+                                ],
+                                [
+                                    151.703564,
+                                    -25.208774
+                                ],
+                                [
+                                    151.717289,
+                                    -25.186597
+                                ],
+                                [
+                                    151.717101,
+                                    -25.185984
+                                ],
+                                [
+                                    151.716427,
+                                    -25.186156
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB7597",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "9:48AM 17 Jul 2025",
+                "EST_FIX_TIME": "12:00PM 17 Jul 2025",
+                "STREETS": "NORTH BRANCH RD, SWINDON RD",
+                "SUBURBS": "MOUNT PERRY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             149.691662,
                             -26.092333
                         ]
@@ -382,5 +382,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752714003.54471"
+    "extracted": "1752716100.298645"
 }
