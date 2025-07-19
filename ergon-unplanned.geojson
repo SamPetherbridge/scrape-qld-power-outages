@@ -10,79 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            138.846109,
-                            -17.941865
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    138.82601,
-                                    -17.942016
-                                ],
-                                [
-                                    138.866021,
-                                    -17.94509
-                                ],
-                                [
-                                    138.866523,
-                                    -17.944697
-                                ],
-                                [
-                                    138.866132,
-                                    -17.944201
-                                ],
-                                [
-                                    138.829641,
-                                    -17.93864
-                                ],
-                                [
-                                    138.82948,
-                                    -17.938642
-                                ],
-                                [
-                                    138.827973,
-                                    -17.938915
-                                ],
-                                [
-                                    138.827706,
-                                    -17.939061
-                                ],
-                                [
-                                    138.825695,
-                                    -17.941276
-                                ],
-                                [
-                                    138.82601,
-                                    -17.942016
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN8005",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "34",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "3:22PM 19 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "AKENHURST ST, GOODEEDAWA ST, UNKNOWN ST",
-                "SUBURBS": "DOOMADGEE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -266,11 +193,84 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "457",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
+                "STATUS": "Crews on route",
                 "START": "6:18AM 20 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BOMBARDERI RD, BOOGAN RD, BRUCE HWY, CAMUGLIA RD, CATALDO RD, CROATTO RD, DARVENIZA RD, DRISCOLL ST, EAST AVE, EAST ESPLANADE, ENCHONG RD, ENRIGHT ST, ESPLANADE, EXPERIMENTAL STATION RD, FAHEY ST, GREEN ST, GUNDA SINGH RD, HALL ST, HENDERSON DR, HENDERSON ST, HUNTER ST, HYNES ST, INNISFAIL JAPOON RD, INNISFAIL-JAPOON RD, KATE BOYLAN RD, KURRIMINE RD, LAWRENCE RD, LIDGARD RD, MAIN RD, MCILWRATH RD, MIDDLE AVE, MILL RD, MORESBY RD, NICHOLSON RD, NORTH AVE, O'BRIEN ST, PALMERSTON HWY, QUARRY RD, RADLOF ST, RAMLEH RD, REILLY RD, SIVYER ST, SORBELLO RD, SOUTH JOHNSTONE RD, SPANNAGLE RD, UNKNOWN ST, VALMADRE RD, WIELAND ST, WILKIE GRAY RD, ZAHRA RD",
                 "SUBURBS": "BAMBOO CREEK, BOOBAH CREEK, BOOGAN, GOONDI, JAPOONVALE, MORESBY, MOURILYAN, MUNDOO, PIN GIN HILL, SILKWOOD, SOUTH JOHNSTONE, WANGAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            138.846109,
+                            -17.941865
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    138.82601,
+                                    -17.942016
+                                ],
+                                [
+                                    138.866021,
+                                    -17.94509
+                                ],
+                                [
+                                    138.866523,
+                                    -17.944697
+                                ],
+                                [
+                                    138.866132,
+                                    -17.944201
+                                ],
+                                [
+                                    138.829641,
+                                    -17.93864
+                                ],
+                                [
+                                    138.82948,
+                                    -17.938642
+                                ],
+                                [
+                                    138.827973,
+                                    -17.938915
+                                ],
+                                [
+                                    138.827706,
+                                    -17.939061
+                                ],
+                                [
+                                    138.825695,
+                                    -17.941276
+                                ],
+                                [
+                                    138.82601,
+                                    -17.942016
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN8005",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "34",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "3:22PM 19 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "AKENHURST ST, GOODEEDAWA ST, UNKNOWN ST",
+                "SUBURBS": "DOOMADGEE"
             }
         },
         {
@@ -486,5 +486,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752958201.019223"
+    "extracted": "1752958807.180458"
 }
