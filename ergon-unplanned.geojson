@@ -208,6 +208,107 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.957975,
+                            -27.530416
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.957043,
+                                    -27.53085
+                                ],
+                                [
+                                    151.957464,
+                                    -27.531011
+                                ],
+                                [
+                                    151.957587,
+                                    -27.531043
+                                ],
+                                [
+                                    151.958277,
+                                    -27.531137
+                                ],
+                                [
+                                    151.95829,
+                                    -27.531139
+                                ],
+                                [
+                                    151.95867,
+                                    -27.531182
+                                ],
+                                [
+                                    151.959198,
+                                    -27.530559
+                                ],
+                                [
+                                    151.958925,
+                                    -27.529986
+                                ],
+                                [
+                                    151.958533,
+                                    -27.529717
+                                ],
+                                [
+                                    151.958066,
+                                    -27.529656
+                                ],
+                                [
+                                    151.957979,
+                                    -27.529651
+                                ],
+                                [
+                                    151.957391,
+                                    -27.529666
+                                ],
+                                [
+                                    151.957068,
+                                    -27.529781
+                                ],
+                                [
+                                    151.956973,
+                                    -27.529857
+                                ],
+                                [
+                                    151.956819,
+                                    -27.530085
+                                ],
+                                [
+                                    151.956752,
+                                    -27.53033
+                                ],
+                                [
+                                    151.957043,
+                                    -27.53085
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW9729",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "16",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "3:40AM 20 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "GREGORY ST, RUTHVEN ST",
+                "SUBURBS": "HARLAXTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             138.846109,
                             -17.941865
                         ]
@@ -486,5 +587,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752958807.180458"
+    "extracted": "1752959401.52714"
 }
