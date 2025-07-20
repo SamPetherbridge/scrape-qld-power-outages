@@ -7,20 +7,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    150.185564,
-                    -27.329553
+                    151.799197,
+                    -27.546341
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW8853",
+                "EVENT_ID": "25SW8935",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "7",
-                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+                "CUSTOMERS_AFFECTED": "17",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
                 "STATUS": "Crews working on-site",
-                "START": "8:00AM 20 Jul 2025",
+                "START": "8:30AM 20 Jul 2025",
                 "EST_FIX_TIME": "3:00PM 20 Jul 2025",
-                "STREETS": "LEICHHARDT HWY",
-                "SUBURBS": "THE GUMS"
+                "STREETS": "BRIMBLECOMBE RD, HANRAHAN RD, TOOWOOMBA CECIL PLAINS RD",
+                "SUBURBS": "BIDDESTON, WELLCAMP"
             }
         },
         {
@@ -60,7 +60,7 @@
                 "REASON": "The loss of supply is to connect new customers to the electricity network",
                 "STATUS": "Crews working on-site",
                 "START": "9:00AM 20 Jul 2025",
-                "EST_FIX_TIME": "3:00PM 20 Jul 2025",
+                "EST_FIX_TIME": "4:00PM 20 Jul 2025",
                 "STREETS": "DUNDAS ST, HOSPITAL RD, LITTLE ST, OFF HOSPITAL RD, SHORT ST, YAMALA ST",
                 "SUBURBS": "EMERALD"
             }
@@ -70,41 +70,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    146.261538,
-                    -20.065174
+                    150.185564,
+                    -27.329553
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ8321",
+                "EVENT_ID": "25SW8853",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "116",
+                "CUSTOMERS_AFFECTED": "7",
                 "REASON": "The loss of supply is to replace power poles and improve the electricity network",
                 "STATUS": "Crews working on-site",
-                "START": "12:00PM 20 Jul 2025",
-                "EST_FIX_TIME": "4:30PM 20 Jul 2025",
-                "STREETS": "ALLEN ST, BAKER ST, CHURCHILL ST, GORDON ST, HACKETT TCE, HILTON CT, PARADISE ST, PLANT ST, ST GABRIELS CL",
-                "SUBURBS": "CHARTERS TOWERS, RICHMOND HILL"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.799197,
-                    -27.546341
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW8935",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "17",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:30AM 20 Jul 2025",
+                "START": "8:00AM 20 Jul 2025",
                 "EST_FIX_TIME": "3:00PM 20 Jul 2025",
-                "STREETS": "BRIMBLECOMBE RD, HANRAHAN RD, TOOWOOMBA CECIL PLAINS RD",
-                "SUBURBS": "BIDDESTON, WELLCAMP"
+                "STREETS": "LEICHHARDT HWY",
+                "SUBURBS": "THE GUMS"
             }
         },
         {
@@ -127,9 +106,30 @@
                 "STREETS": "BERGHOFER RD, CROXLEY RD, GROSE RD, MCKEWIN RD, TOOWOOMBA CECIL PLAINS RD",
                 "SUBURBS": "BIDDESTON"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.261538,
+                    -20.065174
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ8321",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "116",
+                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "12:00PM 20 Jul 2025",
+                "EST_FIX_TIME": "4:30PM 20 Jul 2025",
+                "STREETS": "ALLEN ST, BAKER ST, CHURCHILL ST, GORDON ST, HACKETT TCE, HILTON CT, PARADISE ST, PLANT ST, ST GABRIELS CL",
+                "SUBURBS": "CHARTERS TOWERS, RICHMOND HILL"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1752987001.480021"
+    "extracted": "1752987901.487541"
 }
