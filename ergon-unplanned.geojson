@@ -10,6 +10,79 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            139.396182,
+                            -20.640165
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    139.340471,
+                                    -20.587894
+                                ],
+                                [
+                                    139.340743,
+                                    -20.589205
+                                ],
+                                [
+                                    139.340866,
+                                    -20.589429
+                                ],
+                                [
+                                    139.451197,
+                                    -20.698096
+                                ],
+                                [
+                                    139.451865,
+                                    -20.698115
+                                ],
+                                [
+                                    139.451897,
+                                    -20.697487
+                                ],
+                                [
+                                    139.342136,
+                                    -20.582215
+                                ],
+                                [
+                                    139.341311,
+                                    -20.582448
+                                ],
+                                [
+                                    139.340468,
+                                    -20.587741
+                                ],
+                                [
+                                    139.340471,
+                                    -20.587894
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ9552",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs.  ",
+                "STATUS": "Outage reported",
+                "START": "9:55AM 21 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "MAY DOWNS STATION",
+                "SUBURBS": "MOUNT ISA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -75,8 +148,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.958933,
-                            -26.675284
+                            147.056667,
+                            -19.702049
                         ]
                     },
                     {
@@ -84,56 +157,80 @@
                         "coordinates": [
                             [
                                 [
-                                    151.956633,
-                                    -26.675322
+                                    146.938598,
+                                    -19.68269
                                 ],
                                 [
-                                    151.957171,
-                                    -26.676569
+                                    146.953605,
+                                    -19.739082
                                 ],
                                 [
-                                    151.957679,
-                                    -26.676855
+                                    146.953947,
+                                    -19.739409
                                 ],
                                 [
-                                    151.960782,
-                                    -26.676626
+                                    147.11745,
+                                    -19.780022
                                 ],
                                 [
-                                    151.961233,
-                                    -26.676093
+                                    147.117543,
+                                    -19.780036
                                 ],
                                 [
-                                    151.961092,
-                                    -26.675428
+                                    147.13664,
+                                    -19.781084
                                 ],
                                 [
-                                    151.960955,
-                                    -26.675195
+                                    147.136769,
+                                    -19.781074
                                 ],
                                 [
-                                    151.95944,
-                                    -26.673825
+                                    147.147707,
+                                    -19.778814
                                 ],
                                 [
-                                    151.958937,
-                                    -26.673712
+                                    147.148072,
+                                    -19.778466
                                 ],
                                 [
-                                    151.958085,
-                                    -26.673948
+                                    147.174737,
+                                    -19.659637
                                 ],
                                 [
-                                    151.957927,
-                                    -26.674021
+                                    147.174412,
+                                    -19.659112
                                 ],
                                 [
-                                    151.956795,
-                                    -26.674803
+                                    147.148732,
+                                    -19.651502
                                 ],
                                 [
-                                    151.956633,
-                                    -26.675322
+                                    147.148704,
+                                    -19.651495
+                                ],
+                                [
+                                    147.028186,
+                                    -19.623028
+                                ],
+                                [
+                                    147.028049,
+                                    -19.623015
+                                ],
+                                [
+                                    147.013145,
+                                    -19.623635
+                                ],
+                                [
+                                    147.01286,
+                                    -19.623739
+                                ],
+                                [
+                                    146.938755,
+                                    -19.682232
+                                ],
+                                [
+                                    146.938598,
+                                    -19.68269
                                 ]
                             ]
                         ]
@@ -141,19 +238,19 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB7661",
+                "EVENT_ID": "25NQ9548",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "8",
+                "CUSTOMERS_AFFECTED": "130",
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
-                "START": "9:11AM 21 Jul 2025",
-                "EST_FIX_TIME": "3:00PM 21 Jul 2025",
-                "STREETS": "PARSONS RD",
-                "SUBURBS": "NANANGO"
+                "START": "11:01AM 21 Jul 2025",
+                "EST_FIX_TIME": "12:30PM 21 Jul 2025",
+                "STREETS": "BARRATTA RD, BAUDINO RD, BILL BRITT RD, BLACK RD, CADIO RD, COACH RD, COOLALIE RD, DINGO PARK RD, HOLLINGSWORTH RD, HUSTON RD, KEITH VENABLES RD, LEON RD, MILLET RD, MORRILL RD, NORRIS RD, OLD COACH RD, STOCKHAM RD, UPPER HAUGHTON RD, WEBB RD, WHELAN RD, WOODSTOCK RD",
+                "SUBURBS": "CLARE, GIRU, MAJORS CREEK, REID RIVER, WOODSTOCK"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753059000.4515"
+    "extracted": "1753061406.736076"
 }
