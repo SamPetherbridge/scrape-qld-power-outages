@@ -10,100 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.302895,
-                            -28.124549
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.291321,
-                                    -28.128438
-                                ],
-                                [
-                                    153.303606,
-                                    -28.130564
-                                ],
-                                [
-                                    153.304035,
-                                    -28.130464
-                                ],
-                                [
-                                    153.313626,
-                                    -28.123176
-                                ],
-                                [
-                                    153.313733,
-                                    -28.123062
-                                ],
-                                [
-                                    153.314874,
-                                    -28.121347
-                                ],
-                                [
-                                    153.314646,
-                                    -28.120707
-                                ],
-                                [
-                                    153.309319,
-                                    -28.118561
-                                ],
-                                [
-                                    153.308988,
-                                    -28.118533
-                                ],
-                                [
-                                    153.294088,
-                                    -28.121737
-                                ],
-                                [
-                                    153.293758,
-                                    -28.121965
-                                ],
-                                [
-                                    153.291268,
-                                    -28.126155
-                                ],
-                                [
-                                    153.291216,
-                                    -28.126293
-                                ],
-                                [
-                                    153.290916,
-                                    -28.127922
-                                ],
-                                [
-                                    153.291321,
-                                    -28.128438
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-876805-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "22",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "12:06AM 22 Jul 2025",
-                "EST_FIX_TIME": "3:00AM 22 Jul 2025",
-                "STREETS": "GOLD COAST SPRINGBROOK RD, GOLD COAST-SPRINGBROOK RD, LITTLE NERANG DAM RD, MT NIMMEL RD, STAGHORN DR",
-                "SUBURBS": "AUSTINVILLE, NERANWOOD, SPRINGBROOK",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.079242,
                             -27.567647
                         ]
@@ -192,9 +98,103 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "11:23PM 21 Jul 2025",
-                "EST_FIX_TIME": "1:00AM 22 Jul 2025",
+                "EST_FIX_TIME": "1:30AM 22 Jul 2025",
                 "STREETS": "CRESTGARDEN ST, NEVERN ST, ORCHID ST, WADLEY ST",
                 "SUBURBS": "MACGREGOR, WOODRIDGE",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.302895,
+                            -28.124549
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.291321,
+                                    -28.128438
+                                ],
+                                [
+                                    153.303606,
+                                    -28.130564
+                                ],
+                                [
+                                    153.304035,
+                                    -28.130464
+                                ],
+                                [
+                                    153.313626,
+                                    -28.123176
+                                ],
+                                [
+                                    153.313733,
+                                    -28.123062
+                                ],
+                                [
+                                    153.314874,
+                                    -28.121347
+                                ],
+                                [
+                                    153.314646,
+                                    -28.120707
+                                ],
+                                [
+                                    153.309319,
+                                    -28.118561
+                                ],
+                                [
+                                    153.308988,
+                                    -28.118533
+                                ],
+                                [
+                                    153.294088,
+                                    -28.121737
+                                ],
+                                [
+                                    153.293758,
+                                    -28.121965
+                                ],
+                                [
+                                    153.291268,
+                                    -28.126155
+                                ],
+                                [
+                                    153.291216,
+                                    -28.126293
+                                ],
+                                [
+                                    153.290916,
+                                    -28.127922
+                                ],
+                                [
+                                    153.291321,
+                                    -28.128438
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-876805-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "22",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "12:06AM 22 Jul 2025",
+                "EST_FIX_TIME": "2:30AM 22 Jul 2025",
+                "STREETS": "GOLD COAST SPRINGBROOK RD, GOLD COAST-SPRINGBROOK RD, LITTLE NERANG DAM RD, MT NIMMEL RD, STAGHORN DR",
+                "SUBURBS": "AUSTINVILLE, NERANWOOD, SPRINGBROOK",
                 "ETR_FLAG": "N"
             }
         },
@@ -282,7 +282,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "8:27PM 21 Jul 2025",
-                "EST_FIX_TIME": "1:00AM 22 Jul 2025",
+                "EST_FIX_TIME": "1:30AM 22 Jul 2025",
                 "STREETS": "MORRISONS RD, SUNBURY DR",
                 "SUBURBS": "PEACHESTER",
                 "ETR_FLAG": "N"
@@ -291,5 +291,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1753109401.513268"
+    "extracted": "1753110008.574594"
 }
