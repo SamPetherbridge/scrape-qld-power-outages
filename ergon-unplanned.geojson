@@ -75,6 +75,107 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.971545,
+                            -27.562559
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.969646,
+                                    -27.560747
+                                ],
+                                [
+                                    151.970928,
+                                    -27.56536
+                                ],
+                                [
+                                    151.971752,
+                                    -27.565589
+                                ],
+                                [
+                                    151.971874,
+                                    -27.565493
+                                ],
+                                [
+                                    151.971953,
+                                    -27.565415
+                                ],
+                                [
+                                    151.973368,
+                                    -27.563621
+                                ],
+                                [
+                                    151.973448,
+                                    -27.563266
+                                ],
+                                [
+                                    151.973048,
+                                    -27.561637
+                                ],
+                                [
+                                    151.972934,
+                                    -27.561436
+                                ],
+                                [
+                                    151.971556,
+                                    -27.560038
+                                ],
+                                [
+                                    151.971534,
+                                    -27.560016
+                                ],
+                                [
+                                    151.971224,
+                                    -27.55974
+                                ],
+                                [
+                                    151.970952,
+                                    -27.559615
+                                ],
+                                [
+                                    151.970377,
+                                    -27.559528
+                                ],
+                                [
+                                    151.969798,
+                                    -27.55988
+                                ],
+                                [
+                                    151.969642,
+                                    -27.560547
+                                ],
+                                [
+                                    151.969646,
+                                    -27.560747
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW9801",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "66",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "7:24PM 21 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ANDERSON ST, ARTHUR ST, CONNELL ST, MACKENZIE ST, MARGARET ST",
+                "SUBURBS": "EAST TOOWOOMBA, TOOWOOMBA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             145.725545,
                             -17.008548
                         ]
@@ -235,5 +336,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753089003.422882"
+    "extracted": "1753089902.937791"
 }
