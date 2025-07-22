@@ -1,233 +1,107 @@
 {
-    "type": "FeatureCollection",
-    "name": "UNPLANNED",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.093432,
-                            -26.608623
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.086441,
-                                    -26.611286
-                                ],
-                                [
-                                    153.093291,
-                                    -26.615779
-                                ],
-                                [
-                                    153.093318,
-                                    -26.615796
-                                ],
-                                [
-                                    153.09341,
-                                    -26.615848
-                                ],
-                                [
-                                    153.093725,
-                                    -26.615917
-                                ],
-                                [
-                                    153.09951,
-                                    -26.61545
-                                ],
-                                [
-                                    153.099667,
-                                    -26.615414
-                                ],
-                                [
-                                    153.099982,
-                                    -26.61529
-                                ],
-                                [
-                                    153.100275,
-                                    -26.614953
-                                ],
-                                [
-                                    153.100534,
-                                    -26.613604
-                                ],
-                                [
-                                    153.100531,
-                                    -26.613435
-                                ],
-                                [
-                                    153.100445,
-                                    -26.613063
-                                ],
-                                [
-                                    153.100442,
-                                    -26.613052
-                                ],
-                                [
-                                    153.100393,
-                                    -26.612862
-                                ],
-                                [
-                                    153.10039,
-                                    -26.612852
-                                ],
-                                [
-                                    153.098506,
-                                    -26.606303
-                                ],
-                                [
-                                    153.098497,
-                                    -26.606274
-                                ],
-                                [
-                                    153.098024,
-                                    -26.60499
-                                ],
-                                [
-                                    153.097994,
-                                    -26.604925
-                                ],
-                                [
-                                    153.096497,
-                                    -26.602313
-                                ],
-                                [
-                                    153.096257,
-                                    -26.602108
-                                ],
-                                [
-                                    153.09434,
-                                    -26.601329
-                                ],
-                                [
-                                    153.093732,
-                                    -26.601469
-                                ],
-                                [
-                                    153.093372,
-                                    -26.601899
-                                ],
-                                [
-                                    153.093367,
-                                    -26.601906
-                                ],
-                                [
-                                    153.08633,
-                                    -26.610656
-                                ],
-                                [
-                                    153.086441,
-                                    -26.611286
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-876808-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "821",
-                "REASON": "Emergency repairs in-progress",
-                "STATUS": "Awaiting",
-                "START": "5:11AM 22 Jul 2025",
-                "EST_FIX_TIME": "1:00PM 22 Jul 2025",
-                "STREETS": "AMANDA AVE, BOUNDARY CRES, COOLIBAH ST, CURRAWONG ST, DAVID LOW WAY, DESLEY ST, FIFTH AVE, FIRST AVE, FOURTH AVE, GLEN CT, KAWANNA ST, KEITH CT, KEITH ROYAL DR, MUDJIMBA BEACH RD, MUDJIMBA ESP, PANDANUS ST, REX TCE, SASSIFRAS ST, SATINASH PL, SECOND AVE, SUNSHINE CL, SURFRIDER PL, SYCAMORE ST, TAYLOR ST, TAYLOR TCE, THIRD AVE",
-                "SUBURBS": "MARCOOLA, MUDJIMBA",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.309172,
-                            -28.120923
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.303887,
-                                    -28.122003
-                                ],
-                                [
-                                    153.312519,
-                                    -28.123271
-                                ],
-                                [
-                                    153.312596,
-                                    -28.123277
-                                ],
-                                [
-                                    153.313288,
-                                    -28.123284
-                                ],
-                                [
-                                    153.313733,
-                                    -28.123062
-                                ],
-                                [
-                                    153.314874,
-                                    -28.121347
-                                ],
-                                [
-                                    153.314646,
-                                    -28.120707
-                                ],
-                                [
-                                    153.309319,
-                                    -28.118561
-                                ],
-                                [
-                                    153.308857,
-                                    -28.118579
-                                ],
-                                [
-                                    153.303719,
-                                    -28.121165
-                                ],
-                                [
-                                    153.30347,
-                                    -28.121636
-                                ],
-                                [
-                                    153.303887,
-                                    -28.122003
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-876805-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "6",
-                "REASON": "Trees on powerlines",
-                "STATUS": "In Progress",
-                "START": "12:06AM 22 Jul 2025",
-                "EST_FIX_TIME": "12:00PM 22 Jul 2025",
-                "STREETS": "GOLD COAST SPRINGBROOK RD, GOLD COAST-SPRINGBROOK RD",
-                "SUBURBS": "AUSTINVILLE, NERANWOOD",
-                "ETR_FLAG": "N"
-            }
-        }
-    ],
-    "company": "Energex",
-    "state": "Current",
-    "extracted": "1753148402.844353"
+	"type" : "FeatureCollection",
+	"name" : "UNPLANNED",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "GeometryCollection",
+				"geometries" : [
+					{
+						"type" : "Point",
+						"coordinates" : [ 153.309172, -28.120923 ]
+					},
+					{
+						"type" : "Polygon",
+						"coordinates" : [
+							[
+								[ 153.303887, -28.122003 ],
+								[ 153.312519, -28.123271 ],
+								[ 153.312596, -28.123277 ],
+								[ 153.313288, -28.123284 ],
+								[ 153.313733, -28.123062 ],
+								[ 153.314874, -28.121347 ],
+								[ 153.314646, -28.120707 ],
+								[ 153.309319, -28.118561 ],
+								[ 153.308857, -28.118579 ],
+								[ 153.303719, -28.121165 ],
+								[ 153.30347, -28.121636 ],
+								[ 153.303887, -28.122003 ]
+							]
+						]
+					}
+				]
+			},
+			"properties" : {
+				"EVENT_ID" : "INCD-876805-g",
+				"TYPE" : "UNPLANNED",
+				"CUSTOMERS_AFFECTED" : "6",
+				"REASON" : "Trees on powerlines",
+				"STATUS" : "In Progress",
+				"START" : "12:06AM 22 Jul 2025",
+				"EST_FIX_TIME" : "2:00PM 22 Jul 2025",
+				"STREETS" : "GOLD COAST SPRINGBROOK RD, GOLD COAST-SPRINGBROOK RD",
+				"SUBURBS" : "AUSTINVILLE, NERANWOOD",
+				"ETR_FLAG" : "N"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "GeometryCollection",
+				"geometries" : [
+					{
+						"type" : "Point",
+						"coordinates" : [ 153.093432, -26.608623 ]
+					},
+					{
+						"type" : "Polygon",
+						"coordinates" : [
+							[
+								[ 153.086441, -26.611286 ],
+								[ 153.093291, -26.615779 ],
+								[ 153.093318, -26.615796 ],
+								[ 153.09341, -26.615848 ],
+								[ 153.093725, -26.615917 ],
+								[ 153.09951, -26.61545 ],
+								[ 153.099667, -26.615414 ],
+								[ 153.099982, -26.61529 ],
+								[ 153.100275, -26.614953 ],
+								[ 153.100534, -26.613604 ],
+								[ 153.100531, -26.613435 ],
+								[ 153.100445, -26.613063 ],
+								[ 153.100442, -26.613052 ],
+								[ 153.100393, -26.612862 ],
+								[ 153.10039, -26.612852 ],
+								[ 153.098506, -26.606303 ],
+								[ 153.098497, -26.606274 ],
+								[ 153.098024, -26.60499 ],
+								[ 153.097994, -26.604925 ],
+								[ 153.096497, -26.602313 ],
+								[ 153.096257, -26.602108 ],
+								[ 153.09434, -26.601329 ],
+								[ 153.093732, -26.601469 ],
+								[ 153.093372, -26.601899 ],
+								[ 153.093367, -26.601906 ],
+								[ 153.08633, -26.610656 ],
+								[ 153.086441, -26.611286 ]
+							]
+						]
+					}
+				]
+			},
+			"properties" : {
+				"EVENT_ID" : "INCD-876808-g",
+				"TYPE" : "UNPLANNED",
+				"CUSTOMERS_AFFECTED" : "821",
+				"REASON" : "Emergency repairs in-progress",
+				"STATUS" : "Awaiting",
+				"START" : "5:11AM 22 Jul 2025",
+				"EST_FIX_TIME" : "2:30PM 22 Jul 2025",
+				"STREETS" : "AMANDA AVE, BOUNDARY CRES, COOLIBAH ST, CURRAWONG ST, DAVID LOW WAY, DESLEY ST, FIFTH AVE, FIRST AVE, FOURTH AVE, GLEN CT, KAWANNA ST, KEITH CT, KEITH ROYAL DR, MUDJIMBA BEACH RD, MUDJIMBA ESP, PANDANUS ST, REX TCE, SASSIFRAS ST, SATINASH PL, SECOND AVE, SUNSHINE CL, SURFRIDER PL, SYCAMORE ST, TAYLOR ST, TAYLOR TCE, THIRD AVE",
+				"SUBURBS" : "MARCOOLA, MUDJIMBA",
+				"ETR_FLAG" : "Y"
+			}
+		}
+	]
 }
