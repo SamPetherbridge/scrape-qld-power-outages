@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            144.825605,
-                            -15.816044
+                            142.589827,
+                            -22.349031
                         ]
                     },
                     {
@@ -19,24 +19,96 @@
                         "coordinates": [
                             [
                                 [
-                                    144.826071,
-                                    -15.816049
+                                    142.153644,
+                                    -21.866496
                                 ],
                                 [
-                                    144.82561,
-                                    -15.815593
+                                    142.220448,
+                                    -22.779492
                                 ],
                                 [
-                                    144.825138,
-                                    -15.81604
+                                    142.220517,
+                                    -22.779695
                                 ],
                                 [
-                                    144.8256,
-                                    -15.816496
+                                    142.316585,
+                                    -22.926627
                                 ],
                                 [
-                                    144.826071,
-                                    -15.816049
+                                    142.316659,
+                                    -22.926714
+                                ],
+                                [
+                                    142.412924,
+                                    -23.014714
+                                ],
+                                [
+                                    142.413205,
+                                    -23.01484
+                                ],
+                                [
+                                    142.819004,
+                                    -23.061627
+                                ],
+                                [
+                                    142.819358,
+                                    -23.061539
+                                ],
+                                [
+                                    142.908661,
+                                    -22.998906
+                                ],
+                                [
+                                    142.908803,
+                                    -22.998747
+                                ],
+                                [
+                                    142.96889,
+                                    -22.886658
+                                ],
+                                [
+                                    142.968939,
+                                    -22.886486
+                                ],
+                                [
+                                    143.02601,
+                                    -22.037088
+                                ],
+                                [
+                                    143.025795,
+                                    -22.036685
+                                ],
+                                [
+                                    142.465609,
+                                    -21.688476
+                                ],
+                                [
+                                    142.465521,
+                                    -21.688433
+                                ],
+                                [
+                                    142.328016,
+                                    -21.636435
+                                ],
+                                [
+                                    142.32756,
+                                    -21.636483
+                                ],
+                                [
+                                    142.240389,
+                                    -21.693134
+                                ],
+                                [
+                                    142.240227,
+                                    -21.693313
+                                ],
+                                [
+                                    142.153689,
+                                    -21.866274
+                                ],
+                                [
+                                    142.153644,
+                                    -21.866496
                                 ]
                             ]
                         ]
@@ -44,15 +116,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN8074",
+                "EVENT_ID": "25NQ9588",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
-                "START": "5:01AM 23 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "HURSE RD",
-                "SUBURBS": "LAKELAND"
+                "CUSTOMERS_AFFECTED": "69",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "7:49AM 23 Jul 2025",
+                "EST_FIX_TIME": "1:00PM 23 Jul 2025",
+                "STREETS": "ALNI STATION, ATHELSTANE STATION, BENDEMEER STATION, CARISBROOKE STATION, CASTLE HILLS STATION, CATHEDRAL STATION, COLANE STATION, COLLINGWOOD STATION, COLSTON STATION, CONGEWOI STATION, CORK STATION, CORY SDNG, COTSWOLD HILL STATION, DAGWORTH STATION, ELDERSLIE STATION, ETNA STATION, FAIRVIEW STATION, FAREWELL STATION, GLEN KYREE STATION, GOOLMA STATION, JARVISFIELD STATION, KAROOLA STATION, LANA DOWNS STATION, LANDSBOROUGH HWY, LARK QUARRY RD, LEESON STATION, LOVELLE DOWNS STATION, MT CAMPBELL STATION, NADJAYAMBA STATION, NAMARVA STATION, NARANGIE STATION, NAREEN STATION, NUKEN STATION, RED HILL STATION, STRATHBOWEN STATION, STRATHFILLAN STATION, SUVLA STATION, TEVIOT STATION, THE GROVE STATION, TRANBY STATION, TULMUR STATION, WANORA STATION, WANTALANYA STATION, WARNAMBOOL DNS STATION, WEBB STATION, WEONA STATION, WESTON STATION, WHYRALLAH STATION, WINDERMERE STATION, WONGAN STATION, WYBENIA STATION, WYRALLAH STATION",
+                "SUBURBS": "WINTON"
             }
         },
         {
@@ -118,6 +190,140 @@
                 "EST_FIX_TIME": "10:00AM 31 Jul 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            144.825605,
+                            -15.816044
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    144.826071,
+                                    -15.816049
+                                ],
+                                [
+                                    144.82561,
+                                    -15.815593
+                                ],
+                                [
+                                    144.825138,
+                                    -15.81604
+                                ],
+                                [
+                                    144.8256,
+                                    -15.816496
+                                ],
+                                [
+                                    144.826071,
+                                    -15.816049
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN8074",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews on route",
+                "START": "5:01AM 23 Jul 2025",
+                "EST_FIX_TIME": "12:00PM 23 Jul 2025",
+                "STREETS": "HURSE RD",
+                "SUBURBS": "LAKELAND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            149.066601,
+                            -27.154176
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    149.064296,
+                                    -27.15219
+                                ],
+                                [
+                                    149.067517,
+                                    -27.156979
+                                ],
+                                [
+                                    149.068063,
+                                    -27.157186
+                                ],
+                                [
+                                    149.068452,
+                                    -27.156784
+                                ],
+                                [
+                                    149.068905,
+                                    -27.151949
+                                ],
+                                [
+                                    149.068488,
+                                    -27.151467
+                                ],
+                                [
+                                    149.06658,
+                                    -27.151172
+                                ],
+                                [
+                                    149.066482,
+                                    -27.151166
+                                ],
+                                [
+                                    149.065197,
+                                    -27.151193
+                                ],
+                                [
+                                    149.064912,
+                                    -27.151279
+                                ],
+                                [
+                                    149.064431,
+                                    -27.151593
+                                ],
+                                [
+                                    149.064296,
+                                    -27.15219
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW9878",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "40",
+                "REASON": "The loss of supply is due to a pole fire.",
+                "STATUS": "Outage reported",
+                "START": "6:39AM 23 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BURROWES ST, CORDELIA ST, ROBERT ST, WILLIAM ST",
+                "SUBURBS": "SURAT"
             }
         },
         {
@@ -309,134 +515,9 @@
                 "STREETS": "BELMORE DOWNS STATION, JACK CREEK, WEIR RD",
                 "SUBURBS": "COLLINSVILLE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            142.589827,
-                            -22.349031
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    142.153644,
-                                    -21.866496
-                                ],
-                                [
-                                    142.220448,
-                                    -22.779492
-                                ],
-                                [
-                                    142.220517,
-                                    -22.779695
-                                ],
-                                [
-                                    142.316585,
-                                    -22.926627
-                                ],
-                                [
-                                    142.316659,
-                                    -22.926714
-                                ],
-                                [
-                                    142.412924,
-                                    -23.014714
-                                ],
-                                [
-                                    142.413205,
-                                    -23.01484
-                                ],
-                                [
-                                    142.819004,
-                                    -23.061627
-                                ],
-                                [
-                                    142.819358,
-                                    -23.061539
-                                ],
-                                [
-                                    142.908661,
-                                    -22.998906
-                                ],
-                                [
-                                    142.908803,
-                                    -22.998747
-                                ],
-                                [
-                                    142.96889,
-                                    -22.886658
-                                ],
-                                [
-                                    142.968939,
-                                    -22.886486
-                                ],
-                                [
-                                    143.02601,
-                                    -22.037088
-                                ],
-                                [
-                                    143.025795,
-                                    -22.036685
-                                ],
-                                [
-                                    142.465609,
-                                    -21.688476
-                                ],
-                                [
-                                    142.465521,
-                                    -21.688433
-                                ],
-                                [
-                                    142.328016,
-                                    -21.636435
-                                ],
-                                [
-                                    142.32756,
-                                    -21.636483
-                                ],
-                                [
-                                    142.240389,
-                                    -21.693134
-                                ],
-                                [
-                                    142.240227,
-                                    -21.693313
-                                ],
-                                [
-                                    142.153689,
-                                    -21.866274
-                                ],
-                                [
-                                    142.153644,
-                                    -21.866496
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ9588",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "69",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "7:49AM 23 Jul 2025",
-                "EST_FIX_TIME": "1:00PM 23 Jul 2025",
-                "STREETS": "ALNI STATION, ATHELSTANE STATION, BENDEMEER STATION, CARISBROOKE STATION, CASTLE HILLS STATION, CATHEDRAL STATION, COLANE STATION, COLLINGWOOD STATION, COLSTON STATION, CONGEWOI STATION, CORK STATION, CORY SDNG, COTSWOLD HILL STATION, DAGWORTH STATION, ELDERSLIE STATION, ETNA STATION, FAIRVIEW STATION, FAREWELL STATION, GLEN KYREE STATION, GOOLMA STATION, JARVISFIELD STATION, KAROOLA STATION, LANA DOWNS STATION, LANDSBOROUGH HWY, LARK QUARRY RD, LEESON STATION, LOVELLE DOWNS STATION, MT CAMPBELL STATION, NADJAYAMBA STATION, NAMARVA STATION, NARANGIE STATION, NAREEN STATION, NUKEN STATION, RED HILL STATION, STRATHBOWEN STATION, STRATHFILLAN STATION, SUVLA STATION, TEVIOT STATION, THE GROVE STATION, TRANBY STATION, TULMUR STATION, WANORA STATION, WANTALANYA STATION, WARNAMBOOL DNS STATION, WEBB STATION, WEONA STATION, WESTON STATION, WHYRALLAH STATION, WINDERMERE STATION, WONGAN STATION, WYBENIA STATION, WYRALLAH STATION",
-                "SUBURBS": "WINTON"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753222506.760835"
+    "extracted": "1753223102.142025"
 }
