@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.891606,
-                            -20.654411
+                            144.825605,
+                            -15.816044
                         ]
                     },
                     {
@@ -19,44 +19,24 @@
                         "coordinates": [
                             [
                                 [
-                                    147.886071,
-                                    -20.643742
+                                    144.826071,
+                                    -15.816049
                                 ],
                                 [
-                                    147.890434,
-                                    -20.660006
+                                    144.82561,
+                                    -15.815593
                                 ],
                                 [
-                                    147.890473,
-                                    -20.660103
+                                    144.825138,
+                                    -15.81604
                                 ],
                                 [
-                                    147.8932,
-                                    -20.665067
+                                    144.8256,
+                                    -15.816496
                                 ],
                                 [
-                                    147.893575,
-                                    -20.665309
-                                ],
-                                [
-                                    147.896651,
-                                    -20.665618
-                                ],
-                                [
-                                    147.897141,
-                                    -20.664986
-                                ],
-                                [
-                                    147.886975,
-                                    -20.643448
-                                ],
-                                [
-                                    147.88638,
-                                    -20.643204
-                                ],
-                                [
-                                    147.886071,
-                                    -20.643742
+                                    144.826071,
+                                    -15.816049
                                 ]
                             ]
                         ]
@@ -64,15 +44,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ9617",
+                "EVENT_ID": "25FN8074",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "5:29AM 23 Jul 2025",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews on route",
+                "START": "5:01AM 23 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BELMORE DOWNS STATION, JACK CREEK, WEIR RD",
-                "SUBURBS": "COLLINSVILLE"
+                "STREETS": "HURSE RD",
+                "SUBURBS": "LAKELAND"
             }
         },
         {
@@ -138,59 +118,6 @@
                 "EST_FIX_TIME": "10:00AM 31 Jul 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            144.825605,
-                            -15.816044
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    144.826071,
-                                    -15.816049
-                                ],
-                                [
-                                    144.82561,
-                                    -15.815593
-                                ],
-                                [
-                                    144.825138,
-                                    -15.81604
-                                ],
-                                [
-                                    144.8256,
-                                    -15.816496
-                                ],
-                                [
-                                    144.826071,
-                                    -15.816049
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN8074",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
-                "START": "5:01AM 23 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "HURSE RD",
-                "SUBURBS": "LAKELAND"
             }
         },
         {
@@ -303,11 +230,84 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "71",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
+                "STATUS": "Crews on route",
                 "START": "7:40AM 23 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BAILEY CT, CHIQUITA AVE, FEENEY AVE, JEANNIE CT, RIO CT, RITZ CT",
                 "SUBURBS": "RASMUSSEN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            147.891606,
+                            -20.654411
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.886071,
+                                    -20.643742
+                                ],
+                                [
+                                    147.890434,
+                                    -20.660006
+                                ],
+                                [
+                                    147.890473,
+                                    -20.660103
+                                ],
+                                [
+                                    147.8932,
+                                    -20.665067
+                                ],
+                                [
+                                    147.893575,
+                                    -20.665309
+                                ],
+                                [
+                                    147.896651,
+                                    -20.665618
+                                ],
+                                [
+                                    147.897141,
+                                    -20.664986
+                                ],
+                                [
+                                    147.886975,
+                                    -20.643448
+                                ],
+                                [
+                                    147.88638,
+                                    -20.643204
+                                ],
+                                [
+                                    147.886071,
+                                    -20.643742
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ9617",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "5:29AM 23 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BELMORE DOWNS STATION, JACK CREEK, WEIR RD",
+                "SUBURBS": "COLLINSVILLE"
             }
         },
         {
@@ -438,5 +438,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753221900.434917"
+    "extracted": "1753222506.760835"
 }
