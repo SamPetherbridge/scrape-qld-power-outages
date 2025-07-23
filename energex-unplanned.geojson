@@ -10,68 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.806774,
-                            -27.398601
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.810238,
-                                    -27.39958
-                                ],
-                                [
-                                    152.803747,
-                                    -27.396808
-                                ],
-                                [
-                                    152.803073,
-                                    -27.39702
-                                ],
-                                [
-                                    152.80331,
-                                    -27.397622
-                                ],
-                                [
-                                    152.809802,
-                                    -27.400394
-                                ],
-                                [
-                                    152.810476,
-                                    -27.400182
-                                ],
-                                [
-                                    152.810238,
-                                    -27.39958
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-877237-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
-                "START": "11:21PM 23 Jul 2025",
-                "EST_FIX_TIME": "5:00AM 24 Jul 2025",
-                "STREETS": "MT NEBO RD",
-                "SUBURBS": "JOLLYS LOOKOUT, MOUNT NEBO",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.822204,
                             -26.989403
                         ]
@@ -334,14 +272,76 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "2:36AM 24 Jul 2025",
-                "EST_FIX_TIME": "5:30AM 24 Jul 2025",
+                "EST_FIX_TIME": "5:00AM 24 Jul 2025",
                 "STREETS": "AIDAN CRES, ALDRIDGE CT, ATHERTON RD, BIGITA PL, BIGMOR DR, BLATCHFORD RD, BRUCE HWY, FORESHORT CT, GLANVILLE RD, GREENTREE RD, HALL RD, JAMOR CT, KEITH ST, KELMOR CT, LERAY RD, MANSFIELD RD, MELMOR CT, MIFAWNY RD, MORRIS RD, NORTHFIELD PL, PANORAMA CT, PERIMA RD, PIKE CT, PUMICESTONE RD, REMOR CT, ROJAN CT, ROSE CT, RUTTERS RD, SAGREN CRES, SAMMOR RD, SUNITA DR",
                 "SUBURBS": "CABOOLTURE, ELIMBAH",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.806774,
+                            -27.398601
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.810238,
+                                    -27.39958
+                                ],
+                                [
+                                    152.803747,
+                                    -27.396808
+                                ],
+                                [
+                                    152.803073,
+                                    -27.39702
+                                ],
+                                [
+                                    152.80331,
+                                    -27.397622
+                                ],
+                                [
+                                    152.809802,
+                                    -27.400394
+                                ],
+                                [
+                                    152.810476,
+                                    -27.400182
+                                ],
+                                [
+                                    152.810238,
+                                    -27.39958
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-877237-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "11:21PM 23 Jul 2025",
+                "EST_FIX_TIME": "5:00AM 24 Jul 2025",
+                "STREETS": "MT NEBO RD",
+                "SUBURBS": "JOLLYS LOOKOUT, MOUNT NEBO",
                 "ETR_FLAG": "N"
             }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1753291201.656079"
+    "extracted": "1753291812.209323"
 }
