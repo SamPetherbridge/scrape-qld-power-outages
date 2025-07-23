@@ -268,8 +268,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
+                            152.247665,
+                            -24.906522
                         ]
                     },
                     {
@@ -277,36 +277,64 @@
                         "coordinates": [
                             [
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    152.245542,
+                                    -24.905548
                                 ],
                                 [
-                                    148.700208,
-                                    -21.128945
+                                    152.245586,
+                                    -24.905961
                                 ],
                                 [
-                                    148.700826,
-                                    -21.128582
+                                    152.245719,
+                                    -24.906228
                                 ],
                                 [
-                                    148.701003,
-                                    -21.127495
+                                    152.248055,
+                                    -24.908472
                                 ],
                                 [
-                                    148.700469,
-                                    -21.126979
+                                    152.248847,
+                                    -24.908376
                                 ],
                                 [
-                                    148.697649,
-                                    -21.127299
+                                    152.249387,
+                                    -24.907466
                                 ],
                                 [
-                                    148.697227,
-                                    -21.127706
+                                    152.249426,
+                                    -24.907379
                                 ],
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    152.249781,
+                                    -24.90628
+                                ],
+                                [
+                                    152.249788,
+                                    -24.90605
+                                ],
+                                [
+                                    152.24968,
+                                    -24.905632
+                                ],
+                                [
+                                    152.249342,
+                                    -24.905303
+                                ],
+                                [
+                                    152.246679,
+                                    -24.904573
+                                ],
+                                [
+                                    152.246174,
+                                    -24.904699
+                                ],
+                                [
+                                    152.24567,
+                                    -24.905199
+                                ],
+                                [
+                                    152.245542,
+                                    -24.905548
                                 ]
                             ]
                         ]
@@ -314,15 +342,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK1119",
+                "EVENT_ID": "25WB7758",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
+                "CUSTOMERS_AFFECTED": "17",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "3:50PM 23 Jul 2025",
+                "EST_FIX_TIME": "6:00PM 23 Jul 2025",
+                "STREETS": "MARK RD",
+                "SUBURBS": "BRANYAN"
             }
         },
         {
@@ -458,6 +486,71 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.961232,
                             -27.550882
                         ]
@@ -560,7 +653,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "110",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
+                "STATUS": "Crews on route",
                 "START": "3:14PM 23 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BRIDGE ST, EDWARD ST, FRANCIS ST, GENTLE ST, HUME ST, KENNEDY ST, PARTRIDGE ST, SIR ST",
@@ -570,5 +663,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753250104.308613"
+    "extracted": "1753251003.883203"
 }
