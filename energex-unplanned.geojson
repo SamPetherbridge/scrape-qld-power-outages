@@ -10,148 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.054891,
-                            -27.585907
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.050664,
-                                    -27.583214
-                                ],
-                                [
-                                    153.050783,
-                                    -27.583987
-                                ],
-                                [
-                                    153.050802,
-                                    -27.584062
-                                ],
-                                [
-                                    153.051318,
-                                    -27.585515
-                                ],
-                                [
-                                    153.05145,
-                                    -27.585705
-                                ],
-                                [
-                                    153.055289,
-                                    -27.588977
-                                ],
-                                [
-                                    153.055562,
-                                    -27.589097
-                                ],
-                                [
-                                    153.05583,
-                                    -27.589134
-                                ],
-                                [
-                                    153.055919,
-                                    -27.58914
-                                ],
-                                [
-                                    153.056663,
-                                    -27.589125
-                                ],
-                                [
-                                    153.056686,
-                                    -27.589124
-                                ],
-                                [
-                                    153.056947,
-                                    -27.589108
-                                ],
-                                [
-                                    153.05708,
-                                    -27.589084
-                                ],
-                                [
-                                    153.057985,
-                                    -27.588802
-                                ],
-                                [
-                                    153.058256,
-                                    -27.588603
-                                ],
-                                [
-                                    153.058984,
-                                    -27.587489
-                                ],
-                                [
-                                    153.059041,
-                                    -27.587359
-                                ],
-                                [
-                                    153.059118,
-                                    -27.587047
-                                ],
-                                [
-                                    153.059062,
-                                    -27.586726
-                                ],
-                                [
-                                    153.056686,
-                                    -27.583035
-                                ],
-                                [
-                                    153.056293,
-                                    -27.58281
-                                ],
-                                [
-                                    153.054689,
-                                    -27.582681
-                                ],
-                                [
-                                    153.054661,
-                                    -27.582679
-                                ],
-                                [
-                                    153.054495,
-                                    -27.582674
-                                ],
-                                [
-                                    153.054473,
-                                    -27.582674
-                                ],
-                                [
-                                    153.051161,
-                                    -27.582701
-                                ],
-                                [
-                                    153.050664,
-                                    -27.583214
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-876998-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "290",
-                "REASON": "Emergency repairs in-progress",
-                "STATUS": "In Progress",
-                "START": "7:23AM 23 Jul 2025",
-                "EST_FIX_TIME": "2:30PM 23 Jul 2025",
-                "STREETS": "BEENLEIGH RD, BENDELL ST, BINTANI ST, BYWOOD ST, COOLINDA ST, GARRO ST, LANG ST, LECHA ST, NAROOMA ST, TAMINGA ST, TANBY ST, TORBEY ST, WOFF ST, WYNNE ST",
-                "SUBURBS": "SUNNYBANK, SUNNYBANK HILLS",
-                "ETR_FLAG": "Y"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.982134,
                             -26.461832
                         ]
@@ -246,16 +104,94 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "20",
                 "REASON": "Under Investigation",
-                "STATUS": "Awaiting",
+                "STATUS": "In Progress",
                 "START": "10:24AM 23 Jul 2025",
-                "EST_FIX_TIME": "1:00PM 23 Jul 2025",
+                "EST_FIX_TIME": "1:30PM 23 Jul 2025",
                 "STREETS": "GUMLEAF CL, TALLGUM AVE",
                 "SUBURBS": "DOONAN",
                 "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.05839,
+                            -27.587075
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.057823,
+                                    -27.5874
+                                ],
+                                [
+                                    153.058088,
+                                    -27.587546
+                                ],
+                                [
+                                    153.0581,
+                                    -27.587553
+                                ],
+                                [
+                                    153.058291,
+                                    -27.587652
+                                ],
+                                [
+                                    153.059041,
+                                    -27.587359
+                                ],
+                                [
+                                    153.059118,
+                                    -27.587047
+                                ],
+                                [
+                                    153.058624,
+                                    -27.586499
+                                ],
+                                [
+                                    153.058138,
+                                    -27.586498
+                                ],
+                                [
+                                    153.05771,
+                                    -27.586707
+                                ],
+                                [
+                                    153.057662,
+                                    -27.586773
+                                ],
+                                [
+                                    153.057823,
+                                    -27.5874
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-876998-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "Emergency repairs in-progress",
+                "STATUS": "In Progress",
+                "START": "7:23AM 23 Jul 2025",
+                "EST_FIX_TIME": "2:30PM 23 Jul 2025",
+                "STREETS": "TORBEY ST",
+                "SUBURBS": "SUNNYBANK HILLS",
+                "ETR_FLAG": "Y"
             }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1753237806.553632"
+    "extracted": "1753240201.438274"
 }
