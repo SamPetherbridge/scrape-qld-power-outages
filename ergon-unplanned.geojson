@@ -10,99 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.929315,
-                            -19.325538
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.917652,
-                                    -19.32583
-                                ],
-                                [
-                                    146.928038,
-                                    -19.328941
-                                ],
-                                [
-                                    146.928321,
-                                    -19.328942
-                                ],
-                                [
-                                    146.940968,
-                                    -19.32525
-                                ],
-                                [
-                                    146.941301,
-                                    -19.324769
-                                ],
-                                [
-                                    146.941042,
-                                    -19.322535
-                                ],
-                                [
-                                    146.940534,
-                                    -19.322133
-                                ],
-                                [
-                                    146.920861,
-                                    -19.32353
-                                ],
-                                [
-                                    146.920829,
-                                    -19.323534
-                                ],
-                                [
-                                    146.918027,
-                                    -19.323912
-                                ],
-                                [
-                                    146.917648,
-                                    -19.324202
-                                ],
-                                [
-                                    146.917488,
-                                    -19.324612
-                                ],
-                                [
-                                    146.917468,
-                                    -19.324676
-                                ],
-                                [
-                                    146.917329,
-                                    -19.325306
-                                ],
-                                [
-                                    146.917652,
-                                    -19.32583
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ9655",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "254",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "5:20PM 23 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BENTLEY DR, COLE PL, JONES CRES, KOPPE PL, LENNIG PL, LYONS CRES, MOLLOY CRES, PAVIA DR, RAE CRES, ZIMMERLIE PL",
-                "SUBURBS": "NOME"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -252,9 +159,102 @@
                 "STREETS": "MARK RD",
                 "SUBURBS": "BRANYAN"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.929315,
+                            -19.325538
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.917652,
+                                    -19.32583
+                                ],
+                                [
+                                    146.928038,
+                                    -19.328941
+                                ],
+                                [
+                                    146.928321,
+                                    -19.328942
+                                ],
+                                [
+                                    146.940968,
+                                    -19.32525
+                                ],
+                                [
+                                    146.941301,
+                                    -19.324769
+                                ],
+                                [
+                                    146.941042,
+                                    -19.322535
+                                ],
+                                [
+                                    146.940534,
+                                    -19.322133
+                                ],
+                                [
+                                    146.920861,
+                                    -19.32353
+                                ],
+                                [
+                                    146.920829,
+                                    -19.323534
+                                ],
+                                [
+                                    146.918027,
+                                    -19.323912
+                                ],
+                                [
+                                    146.917648,
+                                    -19.324202
+                                ],
+                                [
+                                    146.917488,
+                                    -19.324612
+                                ],
+                                [
+                                    146.917468,
+                                    -19.324676
+                                ],
+                                [
+                                    146.917329,
+                                    -19.325306
+                                ],
+                                [
+                                    146.917652,
+                                    -19.32583
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ9655",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "254",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "5:20PM 23 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BENTLEY DR, COLE PL, JONES CRES, KOPPE PL, LENNIG PL, LYONS CRES, MOLLOY CRES, PAVIA DR, RAE CRES, ZIMMERLIE PL",
+                "SUBURBS": "NOME"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753255808.377735"
+    "extracted": "1753256404.697554"
 }
