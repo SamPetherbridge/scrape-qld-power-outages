@@ -10,67 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.228825,
-                            -23.845482
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.230088,
-                                    -23.84574
-                                ],
-                                [
-                                    151.22812,
-                                    -23.844483
-                                ],
-                                [
-                                    151.227438,
-                                    -23.844596
-                                ],
-                                [
-                                    151.227561,
-                                    -23.845223
-                                ],
-                                [
-                                    151.229529,
-                                    -23.84648
-                                ],
-                                [
-                                    151.230211,
-                                    -23.846367
-                                ],
-                                [
-                                    151.230088,
-                                    -23.84574
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA10134",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "6",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "7:30AM 25 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ALF O'ROURKE DR",
-                "SUBURBS": "GLADSTONE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -126,6 +65,67 @@
                 "EST_FIX_TIME": "10:00AM 31 Jul 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.228825,
+                            -23.845482
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.230088,
+                                    -23.84574
+                                ],
+                                [
+                                    151.22812,
+                                    -23.844483
+                                ],
+                                [
+                                    151.227438,
+                                    -23.844596
+                                ],
+                                [
+                                    151.227561,
+                                    -23.845223
+                                ],
+                                [
+                                    151.229529,
+                                    -23.84648
+                                ],
+                                [
+                                    151.230211,
+                                    -23.846367
+                                ],
+                                [
+                                    151.230088,
+                                    -23.84574
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA10134",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "6",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "7:30AM 25 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ALF O'ROURKE DR",
+                "SUBURBS": "GLADSTONE"
             }
         },
         {
@@ -281,5 +281,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753398300.836815"
+    "extracted": "1753398901.844085"
 }
