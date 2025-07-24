@@ -10,75 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.558199,
-                            -23.912842
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.532667,
-                                    -23.894022
-                                ],
-                                [
-                                    148.552753,
-                                    -23.95652
-                                ],
-                                [
-                                    148.553219,
-                                    -23.956843
-                                ],
-                                [
-                                    148.553692,
-                                    -23.956528
-                                ],
-                                [
-                                    148.583731,
-                                    -23.869375
-                                ],
-                                [
-                                    148.583577,
-                                    -23.868892
-                                ],
-                                [
-                                    148.583031,
-                                    -23.868841
-                                ],
-                                [
-                                    148.532906,
-                                    -23.893496
-                                ],
-                                [
-                                    148.532667,
-                                    -23.894022
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA10121",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "7",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "3:30PM 24 Jul 2025",
-                "EST_FIX_TIME": "6:00PM 24 Jul 2025",
-                "STREETS": "COMET ROLLESTON RD, UNKNOWN ST",
-                "SUBURBS": "COMET"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             149.512335,
                             -26.969627
                         ]
@@ -273,9 +204,78 @@
                 "STREETS": "LLOYD ST, MACRAE ST",
                 "SUBURBS": "MAREEBA"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.558199,
+                            -23.912842
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.532667,
+                                    -23.894022
+                                ],
+                                [
+                                    148.552753,
+                                    -23.95652
+                                ],
+                                [
+                                    148.553219,
+                                    -23.956843
+                                ],
+                                [
+                                    148.553692,
+                                    -23.956528
+                                ],
+                                [
+                                    148.583731,
+                                    -23.869375
+                                ],
+                                [
+                                    148.583577,
+                                    -23.868892
+                                ],
+                                [
+                                    148.583031,
+                                    -23.868841
+                                ],
+                                [
+                                    148.532906,
+                                    -23.893496
+                                ],
+                                [
+                                    148.532667,
+                                    -23.894022
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA10121",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "7",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "3:30PM 24 Jul 2025",
+                "EST_FIX_TIME": "6:00PM 24 Jul 2025",
+                "STREETS": "COMET ROLLESTON RD, UNKNOWN ST",
+                "SUBURBS": "COMET"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753337101.235401"
+    "extracted": "1753338000.621465"
 }
