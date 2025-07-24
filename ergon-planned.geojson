@@ -7,20 +7,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    146.257816,
-                    -20.066846
+                    146.725016,
+                    -19.26312
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ8765",
+                "EVENT_ID": "25NQ9405",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "80",
-                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to connect new customers to the electricity network",
                 "STATUS": "Crews working on-site",
-                "START": "9:00AM 24 Jul 2025",
-                "EST_FIX_TIME": "5:00PM 24 Jul 2025",
-                "STREETS": "BAKER ST, BELLEVUE ST, BRIDGE ST, DALRYMPLE RD, HACKETT TCE, KING ST, MACDONALD ST, PLANT ST",
-                "SUBURBS": "BREDDAN, CHARTERS TOWERS, RICHMOND HILL"
+                "START": "7:13AM 24 Jul 2025",
+                "EST_FIX_TIME": "3:00PM 25 Jul 2025",
+                "STREETS": "INGHAM RD",
+                "SUBURBS": "MOUNT LOUISA"
             }
         },
         {
@@ -49,27 +49,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    145.719693,
-                    -17.146539
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN6228",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "47",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:48AM 24 Jul 2025",
-                "EST_FIX_TIME": "5:00PM 24 Jul 2025",
-                "STREETS": "APPALOOSA ST, BRONCO CL, GILLIES HWY, LITTLE MULGRAVE RD, PALAMINO CT, ROOS RD",
-                "SUBURBS": "LITTLE MULGRAVE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     149.174246,
                     -21.146339
                 ]
@@ -83,48 +62,6 @@
                 "START": "10:00PM 24 Jul 2025",
                 "EST_FIX_TIME": "5:00AM 25 Jul 2025",
                 "STREETS": "EVAN ST, MILTON ST, SHAKESPEARE ST",
-                "SUBURBS": "MACKAY, SOUTH MACKAY"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    146.725016,
-                    -19.26312
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ9405",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to connect new customers to the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "7:13AM 24 Jul 2025",
-                "EST_FIX_TIME": "3:00PM 25 Jul 2025",
-                "STREETS": "INGHAM RD",
-                "SUBURBS": "MOUNT LOUISA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    149.178736,
-                    -21.146023
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK5337",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "194",
-                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-                "STATUS": "Work scheduled",
-                "START": "10:00PM 24 Jul 2025",
-                "EST_FIX_TIME": "5:00AM 25 Jul 2025",
-                "STREETS": "ALFRED ST, JUBILEE ST, LUSCOMBE ST, MILTON ST, PEEL ST, SHAKESPEARE ST",
                 "SUBURBS": "MACKAY, SOUTH MACKAY"
             }
         },
@@ -148,9 +85,72 @@
                 "STREETS": "ISISFORD RIVER RD, ISISFORD-JUNDAH RD",
                 "SUBURBS": "ISISFORD"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.257816,
+                    -20.066846
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ8765",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "80",
+                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "9:00AM 24 Jul 2025",
+                "EST_FIX_TIME": "5:00PM 24 Jul 2025",
+                "STREETS": "BAKER ST, BELLEVUE ST, BRIDGE ST, DALRYMPLE RD, HACKETT TCE, KING ST, MACDONALD ST, PLANT ST",
+                "SUBURBS": "BREDDAN, CHARTERS TOWERS, RICHMOND HILL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.719693,
+                    -17.146539
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN6228",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "47",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "8:48AM 24 Jul 2025",
+                "EST_FIX_TIME": "5:00PM 24 Jul 2025",
+                "STREETS": "APPALOOSA ST, BRONCO CL, GILLIES HWY, LITTLE MULGRAVE RD, PALAMINO CT, ROOS RD",
+                "SUBURBS": "LITTLE MULGRAVE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.178736,
+                    -21.146023
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK5337",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "194",
+                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+                "STATUS": "Work scheduled",
+                "START": "10:00PM 24 Jul 2025",
+                "EST_FIX_TIME": "5:00AM 25 Jul 2025",
+                "STREETS": "ALFRED ST, JUBILEE ST, LUSCOMBE ST, MILTON ST, PEEL ST, SHAKESPEARE ST",
+                "SUBURBS": "MACKAY, SOUTH MACKAY"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753335911.065162"
+    "extracted": "1753336201.256102"
 }
