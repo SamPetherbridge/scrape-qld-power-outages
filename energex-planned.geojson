@@ -7,94 +7,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.580867,
-                    -27.945156
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-874746-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Scheduled",
-                "START": "8:00AM 27 Jul 2025",
-                "EST_FIX_TIME": "3:00PM 27 Jul 2025",
-                "STREETS": "CUNNINGHAM HWY, FRAZERVIEW RD",
-                "SUBURBS": "FASSIFERN, FRAZERVIEW, KALBAR",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.178472,
-                    -27.773872
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-874477-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "25",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Scheduled",
-                "START": "8:00AM 27 Jul 2025",
-                "EST_FIX_TIME": "2:00PM 27 Jul 2025",
-                "STREETS": "BEAUDESERT-BEENLEIGH RD, DUNNS RD, SKENE RD",
-                "SUBURBS": "WOLFFDENE",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.109565,
-                    -26.710468
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-875994-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "29",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Scheduled",
-                "START": "8:00AM 27 Jul 2025",
-                "EST_FIX_TIME": "10:00AM 27 Jul 2025",
-                "STREETS": "ATTENUATA DR, BRIGHTWATER BVD, FRESHWATER ST, TREVALLY ST",
-                "SUBURBS": "MOUNTAIN CREEK",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    152.981684,
-                    -27.168979
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-870418-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Cancelled",
-                "START": "8:00AM 27 Jul 2025",
-                "EST_FIX_TIME": "3:00PM 27 Jul 2025",
-                "STREETS": "BRUCE HWY EASTERN SERVICE RD",
-                "SUBURBS": "BURPENGARY EAST",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     152.996581,
                     -27.987018
                 ]
@@ -139,20 +51,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.030069,
-                    -27.348644
+                    153.109565,
+                    -26.710468
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-869101-g",
+                "EVENT_ID": "INCD-875994-g",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "2",
+                "CUSTOMERS_AFFECTED": "29",
                 "REASON": "Planned Maintenance",
                 "STATUS": "Scheduled",
-                "START": "7:30AM 27 Jul 2025",
-                "EST_FIX_TIME": "3:30PM 27 Jul 2025",
-                "STREETS": "BEAMS RD",
-                "SUBURBS": "FITZGIBBON",
+                "START": "8:00AM 27 Jul 2025",
+                "EST_FIX_TIME": "10:00AM 27 Jul 2025",
+                "STREETS": "ATTENUATA DR, BRIGHTWATER BVD, FRESHWATER ST, TREVALLY ST",
+                "SUBURBS": "MOUNTAIN CREEK",
                 "ETR_FLAG": "N"
             }
         },
@@ -249,6 +161,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.030069,
+                    -27.348644
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-869101-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Scheduled",
+                "START": "7:30AM 27 Jul 2025",
+                "EST_FIX_TIME": "3:30PM 27 Jul 2025",
+                "STREETS": "BEAMS RD",
+                "SUBURBS": "FITZGIBBON",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.264594,
                     -27.532043
                 ]
@@ -265,9 +199,75 @@
                 "SUBURBS": "CLEVELAND",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.580867,
+                    -27.945156
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-874746-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Scheduled",
+                "START": "8:00AM 27 Jul 2025",
+                "EST_FIX_TIME": "3:00PM 27 Jul 2025",
+                "STREETS": "CUNNINGHAM HWY, FRAZERVIEW RD",
+                "SUBURBS": "FASSIFERN, FRAZERVIEW, KALBAR",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.981684,
+                    -27.168979
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-870418-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Cancelled",
+                "START": "8:00AM 27 Jul 2025",
+                "EST_FIX_TIME": "3:00PM 27 Jul 2025",
+                "STREETS": "BRUCE HWY EASTERN SERVICE RD",
+                "SUBURBS": "BURPENGARY EAST",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.178472,
+                    -27.773872
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-874477-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "25",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Scheduled",
+                "START": "8:00AM 27 Jul 2025",
+                "EST_FIX_TIME": "2:00PM 27 Jul 2025",
+                "STREETS": "BEAUDESERT-BEENLEIGH RD, DUNNS RD, SKENE RD",
+                "SUBURBS": "WOLFFDENE",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1753544706.351652"
+    "extracted": "1753545000.794526"
 }
