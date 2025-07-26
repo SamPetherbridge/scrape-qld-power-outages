@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            143.448705,
-                            -24.195653
+                            151.884073,
+                            -27.49301
                         ]
                     },
                     {
@@ -19,80 +19,64 @@
                         "coordinates": [
                             [
                                 [
-                                    143.138051,
-                                    -24.029734
+                                    151.880853,
+                                    -27.49153
                                 ],
                                 [
-                                    143.263318,
-                                    -24.391705
+                                    151.884861,
+                                    -27.49585
                                 ],
                                 [
-                                    143.263551,
-                                    -24.391964
+                                    151.885588,
+                                    -27.495897
                                 ],
                                 [
-                                    143.567285,
-                                    -24.543191
+                                    151.886725,
+                                    -27.494979
                                 ],
                                 [
-                                    143.567678,
-                                    -24.543222
+                                    151.886769,
+                                    -27.494938
                                 ],
                                 [
-                                    143.643373,
-                                    -24.519804
+                                    151.88718,
+                                    -27.494511
                                 ],
                                 [
-                                    143.643695,
-                                    -24.519478
+                                    151.887294,
+                                    -27.494138
                                 ],
                                 [
-                                    143.759359,
-                                    -24.057674
+                                    151.886574,
+                                    -27.490598
                                 ],
                                 [
-                                    143.759282,
-                                    -24.057313
+                                    151.886467,
+                                    -27.490392
                                 ],
                                 [
-                                    143.601036,
-                                    -23.851207
+                                    151.886372,
+                                    -27.490289
                                 ],
                                 [
-                                    143.60078,
-                                    -23.851036
+                                    151.885986,
+                                    -27.490125
                                 ],
                                 [
-                                    143.594277,
-                                    -23.849179
+                                    151.88571,
+                                    -27.490123
                                 ],
                                 [
-                                    143.594207,
-                                    -23.849164
+                                    151.885622,
+                                    -27.490129
                                 ],
                                 [
-                                    143.58673,
-                                    -23.848088
+                                    151.881158,
+                                    -27.490799
                                 ],
                                 [
-                                    143.586639,
-                                    -23.848083
-                                ],
-                                [
-                                    143.417885,
-                                    -23.853086
-                                ],
-                                [
-                                    143.417623,
-                                    -23.853165
-                                ],
-                                [
-                                    143.138242,
-                                    -24.029226
-                                ],
-                                [
-                                    143.138051,
-                                    -24.029734
+                                    151.880853,
+                                    -27.49153
                                 ]
                             ]
                         ]
@@ -100,15 +84,210 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA10164",
+                "EVENT_ID": "25SW10070",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "78",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Crews working on-site",
-                "START": "12:48AM 26 Jul 2025",
+                "CUSTOMERS_AFFECTED": "35",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews on route",
+                "START": "12:18PM 26 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ARRILALAH RD, BIMERAH-YARAKA RD, BULFORD ST, L'REACH-STONEHENGE RD, LOCHERN NATIONAL PARK, LONGREACH-JUNDAH RD, OFF RIVER RD, SALISBURY ST, STONEHENGE-YARAKA RD, STRATFORD ST, TARCOMBE-TONKORO RD, TOCAL RD, UNKNOWN ST, WARBRECCAN RD, WILFORD ST",
-                "SUBURBS": "LONGREACH, STONEHENGE, VERGEMONT"
+                "STREETS": "CONCORDIA CT, GOWRIE LILYVALE RD, GOWRIE TILGONDA RD, OLD HOMEBUSH RD",
+                "SUBURBS": "GOWRIE JUNCTION"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.585673,
+                            -27.741771
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.5688,
+                                    -27.741957
+                                ],
+                                [
+                                    151.579016,
+                                    -27.74854
+                                ],
+                                [
+                                    151.579438,
+                                    -27.748612
+                                ],
+                                [
+                                    151.600583,
+                                    -27.743835
+                                ],
+                                [
+                                    151.600889,
+                                    -27.743634
+                                ],
+                                [
+                                    151.602546,
+                                    -27.741242
+                                ],
+                                [
+                                    151.602372,
+                                    -27.740618
+                                ],
+                                [
+                                    151.591576,
+                                    -27.734972
+                                ],
+                                [
+                                    151.591168,
+                                    -27.734931
+                                ],
+                                [
+                                    151.568945,
+                                    -27.741163
+                                ],
+                                [
+                                    151.5688,
+                                    -27.741957
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW10074",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "17",
+                "REASON": "The loss of supply is due to public safety concerns.",
+                "STATUS": "Crews working on-site",
+                "START": "12:53PM 26 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "GORE HWY, MORRISON RD, SCHICK RD, SCRUBBY RD",
+                "SUBURBS": "PITTSWORTH, SCRUBBY MOUNTAIN, YARRANLEA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            143.43444,
+                            -21.642056
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.434922,
+                                    -21.642067
+                                ],
+                                [
+                                    143.434451,
+                                    -21.641606
+                                ],
+                                [
+                                    143.433958,
+                                    -21.642046
+                                ],
+                                [
+                                    143.434429,
+                                    -21.642507
+                                ],
+                                [
+                                    143.434922,
+                                    -21.642067
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ9748",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "10:24AM 26 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "KOONDI STATION",
+                "SUBURBS": "CORFIELD, WINTON"
             }
         },
         {
@@ -236,8 +415,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.774615,
-                            -17.103301
+                            151.584201,
+                            -27.719118
                         ]
                     },
                     {
@@ -245,56 +424,52 @@
                         "coordinates": [
                             [
                                 [
-                                    145.772727,
-                                    -17.105383
+                                    151.565747,
+                                    -27.717234
                                 ],
                                 [
-                                    145.776912,
-                                    -17.102168
+                                    151.600572,
+                                    -27.726697
                                 ],
                                 [
-                                    145.776938,
-                                    -17.102147
+                                    151.601179,
+                                    -27.726455
                                 ],
                                 [
-                                    145.777139,
-                                    -17.101968
+                                    151.602971,
+                                    -27.722997
                                 ],
                                 [
-                                    145.77726,
-                                    -17.101478
+                                    151.603012,
+                                    -27.72274
                                 ],
                                 [
-                                    145.776836,
-                                    -17.101184
+                                    151.601165,
+                                    -27.711917
                                 ],
                                 [
-                                    145.776744,
-                                    -17.101181
+                                    151.600595,
+                                    -27.711539
                                 ],
                                 [
-                                    145.776554,
-                                    -17.101213
+                                    151.571616,
+                                    -27.715123
                                 ],
                                 [
-                                    145.772563,
-                                    -17.102738
+                                    151.571568,
+                                    -27.715131
                                 ],
                                 [
-                                    145.772272,
-                                    -17.103089
+                                    151.565777,
+                                    -27.716366
                                 ],
                                 [
-                                    145.77197,
-                                    -17.104961
+                                    151.565389,
+                                    -27.71679
                                 ],
                                 [
-                                    145.772198,
-                                    -17.105421
-                                ],
-                                [
-                                    145.772727,
-                                    -17.105383
+                                    151.565747,
+                                    -27.717234
                                 ]
                             ]
                         ]
@@ -302,15 +477,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25FN8159",
+                "EVENT_ID": "25SW10073",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "23",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "CUSTOMERS_AFFECTED": "18",
+                "REASON": "The loss of supply is due to public safety concerns.",
                 "STATUS": "Crews working on-site",
-                "START": "11:12AM 26 Jul 2025",
+                "START": "1:00PM 26 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "DEMPSEY ST, GILLIES HWY, RIVERSTONE RD",
-                "SUBURBS": "GORDONVALE"
+                "STREETS": "FRENCH RD, GAP RD, KAHLER RD, MURLAGGAN RD, OLD GAP RD, PITTSWORTH BY-PASS RD",
+                "SUBURBS": "PITTSWORTH"
             }
         },
         {
@@ -321,8 +496,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
+                            143.448705,
+                            -24.195653
                         ]
                     },
                     {
@@ -330,36 +505,80 @@
                         "coordinates": [
                             [
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    143.138051,
+                                    -24.029734
                                 ],
                                 [
-                                    148.700208,
-                                    -21.128945
+                                    143.263318,
+                                    -24.391705
                                 ],
                                 [
-                                    148.700826,
-                                    -21.128582
+                                    143.263551,
+                                    -24.391964
                                 ],
                                 [
-                                    148.701003,
-                                    -21.127495
+                                    143.567285,
+                                    -24.543191
                                 ],
                                 [
-                                    148.700469,
-                                    -21.126979
+                                    143.567678,
+                                    -24.543222
                                 ],
                                 [
-                                    148.697649,
-                                    -21.127299
+                                    143.643373,
+                                    -24.519804
                                 ],
                                 [
-                                    148.697227,
-                                    -21.127706
+                                    143.643695,
+                                    -24.519478
                                 ],
                                 [
-                                    148.697564,
-                                    -21.128178
+                                    143.759359,
+                                    -24.057674
+                                ],
+                                [
+                                    143.759282,
+                                    -24.057313
+                                ],
+                                [
+                                    143.601036,
+                                    -23.851207
+                                ],
+                                [
+                                    143.60078,
+                                    -23.851036
+                                ],
+                                [
+                                    143.594277,
+                                    -23.849179
+                                ],
+                                [
+                                    143.594207,
+                                    -23.849164
+                                ],
+                                [
+                                    143.58673,
+                                    -23.848088
+                                ],
+                                [
+                                    143.586639,
+                                    -23.848083
+                                ],
+                                [
+                                    143.417885,
+                                    -23.853086
+                                ],
+                                [
+                                    143.417623,
+                                    -23.853165
+                                ],
+                                [
+                                    143.138242,
+                                    -24.029226
+                                ],
+                                [
+                                    143.138051,
+                                    -24.029734
                                 ]
                             ]
                         ]
@@ -367,19 +586,19 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK1119",
+                "EVENT_ID": "25CA10164",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
+                "CUSTOMERS_AFFECTED": "78",
                 "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
+                "STATUS": "Crews working on-site",
+                "START": "12:48AM 26 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ARRILALAH RD, BIMERAH-YARAKA RD, BULFORD ST, L'REACH-STONEHENGE RD, LOCHERN NATIONAL PARK, LONGREACH-JUNDAH RD, OFF RIVER RD, SALISBURY ST, STONEHENGE-YARAKA RD, STRATFORD ST, TARCOMBE-TONKORO RD, TOCAL RD, UNKNOWN ST, WARBRECCAN RD, WILFORD ST",
+                "SUBURBS": "LONGREACH, STONEHENGE, VERGEMONT"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753496400.365595"
+    "extracted": "1753498501.054047"
 }
