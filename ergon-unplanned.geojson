@@ -10,75 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.736934,
-                            -21.155637
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.736273,
-                                    -21.155608
-                                ],
-                                [
-                                    148.736835,
-                                    -21.15629
-                                ],
-                                [
-                                    148.737492,
-                                    -21.156384
-                                ],
-                                [
-                                    148.737623,
-                                    -21.155773
-                                ],
-                                [
-                                    148.737179,
-                                    -21.155113
-                                ],
-                                [
-                                    148.736865,
-                                    -21.154911
-                                ],
-                                [
-                                    148.736747,
-                                    -21.154889
-                                ],
-                                [
-                                    148.736245,
-                                    -21.155094
-                                ],
-                                [
-                                    148.736273,
-                                    -21.155608
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK5745",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "1:16PM 26 Jul 2025",
-                "EST_FIX_TIME": "4:30PM 26 Jul 2025",
-                "STREETS": "MACKAY EUNGELLA RD",
-                "SUBURBS": "GARGETT"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -511,9 +442,78 @@
                 "STREETS": "FRENCH RD, GAP RD, KAHLER RD, MURLAGGAN RD, OLD GAP RD, PITTSWORTH BY-PASS RD",
                 "SUBURBS": "PITTSWORTH"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.736934,
+                            -21.155637
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.736273,
+                                    -21.155608
+                                ],
+                                [
+                                    148.736835,
+                                    -21.15629
+                                ],
+                                [
+                                    148.737492,
+                                    -21.156384
+                                ],
+                                [
+                                    148.737623,
+                                    -21.155773
+                                ],
+                                [
+                                    148.737179,
+                                    -21.155113
+                                ],
+                                [
+                                    148.736865,
+                                    -21.154911
+                                ],
+                                [
+                                    148.736747,
+                                    -21.154889
+                                ],
+                                [
+                                    148.736245,
+                                    -21.155094
+                                ],
+                                [
+                                    148.736273,
+                                    -21.155608
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK5745",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "1:16PM 26 Jul 2025",
+                "EST_FIX_TIME": "4:30PM 26 Jul 2025",
+                "STREETS": "MACKAY EUNGELLA RD",
+                "SUBURBS": "GARGETT"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753510201.216255"
+    "extracted": "1753511101.205156"
 }
