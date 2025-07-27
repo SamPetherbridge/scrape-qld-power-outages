@@ -10,6 +10,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            145.76433,
+                            -16.914023
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.762769,
+                                    -16.91521
+                                ],
+                                [
+                                    145.765243,
+                                    -16.915588
+                                ],
+                                [
+                                    145.765655,
+                                    -16.915454
+                                ],
+                                [
+                                    145.76616,
+                                    -16.914948
+                                ],
+                                [
+                                    145.76628,
+                                    -16.914537
+                                ],
+                                [
+                                    145.765884,
+                                    -16.912813
+                                ],
+                                [
+                                    145.765398,
+                                    -16.912459
+                                ],
+                                [
+                                    145.76391,
+                                    -16.912546
+                                ],
+                                [
+                                    145.763573,
+                                    -16.912713
+                                ],
+                                [
+                                    145.762586,
+                                    -16.913892
+                                ],
+                                [
+                                    145.762489,
+                                    -16.914097
+                                ],
+                                [
+                                    145.762381,
+                                    -16.914685
+                                ],
+                                [
+                                    145.762769,
+                                    -16.91521
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN8175",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "102",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "4:08PM 27 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BERYL ST, GROVE ST, MCLEOD ST, SHERIDAN ST",
+                "SUBURBS": "CAIRNS, CAIRNS NORTH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -456,7 +541,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "87",
                 "REASON": "The loss of supply is due to a vehicle accident.",
-                "STATUS": "Outage reported",
+                "STATUS": "Crews working on-site",
                 "START": "3:19PM 27 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "APRILE CT, ASHLEA RD, BARCLAYS RD, JOHNSONS RD, KIRWANS RD, MACKAY EUNGELLA RD, MALLIA RD, MARAJU YAKAPARI RD, MCKINLEYS RD, NEBIA CONINGSBY RD",
@@ -466,5 +551,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753596907.003891"
+    "extracted": "1753598100.25165"
 }
