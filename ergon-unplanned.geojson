@@ -10,6 +10,136 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.616906,
+                            -24.460718
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.615274,
+                                    -24.460326
+                                ],
+                                [
+                                    148.617725,
+                                    -24.461886
+                                ],
+                                [
+                                    148.618359,
+                                    -24.461831
+                                ],
+                                [
+                                    148.61868,
+                                    -24.461532
+                                ],
+                                [
+                                    148.618547,
+                                    -24.460812
+                                ],
+                                [
+                                    148.615775,
+                                    -24.459551
+                                ],
+                                [
+                                    148.615132,
+                                    -24.459725
+                                ],
+                                [
+                                    148.615274,
+                                    -24.460326
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA10172",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews on route",
+                "START": "9:26AM 27 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "COMET ST, DAWSON HWY",
+                "SUBURBS": "ROLLESTON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.699115,
+                            -21.127962
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ],
+                                [
+                                    148.700208,
+                                    -21.128945
+                                ],
+                                [
+                                    148.700826,
+                                    -21.128582
+                                ],
+                                [
+                                    148.701003,
+                                    -21.127495
+                                ],
+                                [
+                                    148.700469,
+                                    -21.126979
+                                ],
+                                [
+                                    148.697649,
+                                    -21.127299
+                                ],
+                                [
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK1119",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.211784,
                             -25.159865
                         ]
@@ -85,71 +215,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "CEMETERY RD, HODGES RD, HOLME ST, JOHN ST, OLD SCHOOL RD, QUEEN ST",
                 "SUBURBS": "CORDALBA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "10:00AM 31 Jul 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -277,8 +342,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.855145,
-                            -26.64664
+                            147.865218,
+                            -26.615583
                         ]
                     },
                     {
@@ -302,44 +367,36 @@
                                     -26.691618
                                 ],
                                 [
-                                    147.999063,
-                                    -26.691359
+                                    147.999039,
+                                    -26.691409
                                 ],
                                 [
-                                    148.027507,
-                                    -26.619074
+                                    148.047632,
+                                    -26.603756
                                 ],
                                 [
-                                    148.027503,
-                                    -26.618762
+                                    148.047653,
+                                    -26.603396
                                 ],
                                 [
-                                    148.014891,
-                                    -26.589038
+                                    148.011912,
+                                    -26.51771
                                 ],
                                 [
-                                    148.014877,
-                                    -26.58901
+                                    148.011309,
+                                    -26.517433
                                 ],
                                 [
-                                    148.011136,
-                                    -26.581711
+                                    147.996152,
+                                    -26.521193
                                 ],
                                 [
-                                    148.010695,
-                                    -26.581449
+                                    147.996035,
+                                    -26.521236
                                 ],
                                 [
-                                    147.938267,
-                                    -26.579547
-                                ],
-                                [
-                                    147.938074,
-                                    -26.579576
-                                ],
-                                [
-                                    147.775064,
-                                    -26.635001
+                                    147.774992,
+                                    -26.635031
                                 ],
                                 [
                                     147.774901,
@@ -365,12 +422,12 @@
             "properties": {
                 "EVENT_ID": "25SW10085",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "18",
+                "CUSTOMERS_AFFECTED": "24",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Crews working on-site",
                 "START": "10:40PM 26 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ANNIEVALE RD, BOLLON RD, MIDDLE RD, MITCHELL ST GEORGE RD, MITCHELL-BOLLON RD, ST GEORGE RD",
+                "STREETS": "ANNIEVALE RD, BOLLON RD, MIDDLE RD, MITCHELL ST GEORGE RD, MITCHELL-BOLLON RD, PIGGERY LANE, ST GEORGE RD, WARREN PT RD",
                 "SUBURBS": "MITCHELL"
             }
         },
@@ -446,5 +503,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753574101.715013"
+    "extracted": "1753576501.502118"
 }
