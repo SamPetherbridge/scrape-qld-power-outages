@@ -29,50 +29,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.981684,
-                    -27.168979
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-870418-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Cancelled",
-                "START": "8:00AM 27 Jul 2025",
-                "EST_FIX_TIME": "3:00PM 27 Jul 2025",
-                "STREETS": "BRUCE HWY EASTERN SERVICE RD",
-                "SUBURBS": "BURPENGARY EAST",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.178472,
-                    -27.773872
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-874477-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "25",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Completed",
-                "START": "8:00AM 27 Jul 2025",
-                "EST_FIX_TIME": "2:00PM 27 Jul 2025",
-                "STREETS": "BEAUDESERT-BEENLEIGH RD, DUNNS RD, SKENE RD",
-                "SUBURBS": "WOLFFDENE",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     152.021777,
                     -27.557133
                 ]
@@ -109,28 +65,6 @@
                 "EST_FIX_TIME": "3:00PM 27 Jul 2025",
                 "STREETS": "CUNNINGHAM HWY, FRAZERVIEW RD",
                 "SUBURBS": "FASSIFERN, FRAZERVIEW, KALBAR",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.069603,
-                    -27.695414
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-874238-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Completed",
-                "START": "7:00AM 27 Jul 2025",
-                "EST_FIX_TIME": "3:00PM 27 Jul 2025",
-                "STREETS": "RELENTLESS CT",
-                "SUBURBS": "PARK RIDGE",
                 "ETR_FLAG": "N"
             }
         },
@@ -183,6 +117,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.069603,
+                    -27.695414
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-874238-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Completed",
+                "START": "7:00AM 27 Jul 2025",
+                "EST_FIX_TIME": "3:00PM 27 Jul 2025",
+                "STREETS": "RELENTLESS CT",
+                "SUBURBS": "PARK RIDGE",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.981684,
+                    -27.168979
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-870418-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Cancelled",
+                "START": "8:00AM 27 Jul 2025",
+                "EST_FIX_TIME": "3:00PM 27 Jul 2025",
+                "STREETS": "BRUCE HWY EASTERN SERVICE RD",
+                "SUBURBS": "BURPENGARY EAST",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.030069,
                     -27.348644
                 ]
@@ -205,20 +183,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.062531,
-                    -27.496297
+                    153.178472,
+                    -27.773872
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-871182-g",
+                "EVENT_ID": "INCD-874477-g",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "35",
+                "CUSTOMERS_AFFECTED": "25",
                 "REASON": "Planned Maintenance",
                 "STATUS": "Completed",
                 "START": "8:00AM 27 Jul 2025",
-                "EST_FIX_TIME": "3:00PM 27 Jul 2025",
-                "STREETS": "BEET ST, DERBY ST, SHIRE ST, WOODHILL AVE",
-                "SUBURBS": "COORPAROO",
+                "EST_FIX_TIME": "2:00PM 27 Jul 2025",
+                "STREETS": "BEAUDESERT-BEENLEIGH RD, DUNNS RD, SKENE RD",
+                "SUBURBS": "WOLFFDENE",
                 "ETR_FLAG": "N"
             }
         },
@@ -243,9 +221,31 @@
                 "SUBURBS": "WITHCOTT",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.062531,
+                    -27.496297
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-871182-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "35",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Completed",
+                "START": "8:00AM 27 Jul 2025",
+                "EST_FIX_TIME": "3:00PM 27 Jul 2025",
+                "STREETS": "BEET ST, DERBY ST, SHIRE ST, WOODHILL AVE",
+                "SUBURBS": "COORPAROO",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1753615201.226408"
+    "extracted": "1753615802.280176"
 }
