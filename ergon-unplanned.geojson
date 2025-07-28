@@ -10,6 +10,99 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.974259,
+                            -28.460972
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.811828,
+                                    -28.45694
+                                ],
+                                [
+                                    148.087515,
+                                    -28.616753
+                                ],
+                                [
+                                    148.088122,
+                                    -28.616722
+                                ],
+                                [
+                                    148.09661,
+                                    -28.610502
+                                ],
+                                [
+                                    148.096772,
+                                    -28.610288
+                                ],
+                                [
+                                    148.136741,
+                                    -28.495488
+                                ],
+                                [
+                                    148.136745,
+                                    -28.495233
+                                ],
+                                [
+                                    148.076285,
+                                    -28.305483
+                                ],
+                                [
+                                    148.07559,
+                                    -28.305191
+                                ],
+                                [
+                                    147.961327,
+                                    -28.349102
+                                ],
+                                [
+                                    147.961232,
+                                    -28.34915
+                                ],
+                                [
+                                    147.901129,
+                                    -28.387424
+                                ],
+                                [
+                                    147.901092,
+                                    -28.38745
+                                ],
+                                [
+                                    147.811774,
+                                    -28.456223
+                                ],
+                                [
+                                    147.811828,
+                                    -28.45694
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW10125",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "11",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "7:18AM 29 Jul 2025",
+                "EST_FIX_TIME": "3:00PM 29 Jul 2025",
+                "STREETS": "BOLLON RD, CUBBIE RD, HOOLAVALE RD, JAKELWAR GOODOOGA RD, NARLINE RD",
+                "SUBURBS": "DIRRANBANDI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -152,99 +245,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.974259,
-                            -28.460972
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    147.811828,
-                                    -28.45694
-                                ],
-                                [
-                                    148.087515,
-                                    -28.616753
-                                ],
-                                [
-                                    148.088122,
-                                    -28.616722
-                                ],
-                                [
-                                    148.09661,
-                                    -28.610502
-                                ],
-                                [
-                                    148.096772,
-                                    -28.610288
-                                ],
-                                [
-                                    148.136741,
-                                    -28.495488
-                                ],
-                                [
-                                    148.136745,
-                                    -28.495233
-                                ],
-                                [
-                                    148.076285,
-                                    -28.305483
-                                ],
-                                [
-                                    148.07559,
-                                    -28.305191
-                                ],
-                                [
-                                    147.961327,
-                                    -28.349102
-                                ],
-                                [
-                                    147.961232,
-                                    -28.34915
-                                ],
-                                [
-                                    147.901129,
-                                    -28.387424
-                                ],
-                                [
-                                    147.901092,
-                                    -28.38745
-                                ],
-                                [
-                                    147.811774,
-                                    -28.456223
-                                ],
-                                [
-                                    147.811828,
-                                    -28.45694
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW10125",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "11",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "7:18AM 29 Jul 2025",
-                "EST_FIX_TIME": "3:00PM 29 Jul 2025",
-                "STREETS": "BOLLON RD, CUBBIE RD, HOOLAVALE RD, JAKELWAR GOODOOGA RD, NARLINE RD",
-                "SUBURBS": "DIRRANBANDI"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.138427,
                             -28.350365
                         ]
@@ -341,5 +341,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753737900.481831"
+    "extracted": "1753738202.120134"
 }
