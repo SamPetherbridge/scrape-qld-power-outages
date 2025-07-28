@@ -144,6 +144,100 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.384919,
+                            -27.060713
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.383276,
+                                    -27.063449
+                                ],
+                                [
+                                    152.38554,
+                                    -27.063714
+                                ],
+                                [
+                                    152.386068,
+                                    -27.063445
+                                ],
+                                [
+                                    152.386654,
+                                    -27.062231
+                                ],
+                                [
+                                    152.386691,
+                                    -27.062111
+                                ],
+                                [
+                                    152.386993,
+                                    -27.06004
+                                ],
+                                [
+                                    152.386997,
+                                    -27.059966
+                                ],
+                                [
+                                    152.386921,
+                                    -27.058034
+                                ],
+                                [
+                                    152.386083,
+                                    -27.057712
+                                ],
+                                [
+                                    152.383365,
+                                    -27.059866
+                                ],
+                                [
+                                    152.383199,
+                                    -27.060145
+                                ],
+                                [
+                                    152.383094,
+                                    -27.060866
+                                ],
+                                [
+                                    152.383093,
+                                    -27.060875
+                                ],
+                                [
+                                    152.38284,
+                                    -27.062952
+                                ],
+                                [
+                                    152.383276,
+                                    -27.063449
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-877996-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "30",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "11:46AM 28 Jul 2025",
+                "EST_FIX_TIME": "1:30PM 28 Jul 2025",
+                "STREETS": "COLINTON ST, IVORY ST, MCCONNEL ST",
+                "SUBURBS": "BRAEMORE",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.992405,
                             -27.559501
                         ]
@@ -205,5 +299,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1753667400.350762"
+    "extracted": "1753670100.390855"
 }
