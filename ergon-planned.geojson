@@ -7,6 +7,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    151.120114,
+                    -26.779595
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW9049",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "56",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "9:00AM 28 Jul 2025",
+                "EST_FIX_TIME": "2:30PM 28 Jul 2025",
+                "STREETS": "BINDINGS RD, BRIGALOW ST, COXEN ST, GEORGE ST, JIMBOUR ST, JOHN ST, KINGAROY JANDOWAE RD, MYALL ST, OLD ROSEVALE RD",
+                "SUBURBS": "JANDOWAE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     152.472854,
                     -24.851461
                 ]
@@ -18,7 +39,7 @@
                 "REASON": "The loss of supply is to replace power poles and improve the electricity network",
                 "STATUS": "Crews working on-site",
                 "START": "8:00AM 28 Jul 2025",
-                "EST_FIX_TIME": "1:30PM 28 Jul 2025",
+                "EST_FIX_TIME": "2:30PM 28 Jul 2025",
                 "STREETS": "CARBEEN ST, MAGNOLIA CT, PANDANUS CRES, WOONGARRA SCENIC DR",
                 "SUBURBS": "BARGARA, INNES PARK"
             }
@@ -70,41 +91,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    148.809277,
-                    -26.631416
+                    148.814427,
+                    -26.614895
                 ]
             },
             "properties": {
                 "EVENT_ID": "25SW8603",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "31",
+                "CUSTOMERS_AFFECTED": "3",
                 "REASON": "The loss of supply is to replace power poles and improve the electricity network",
                 "STATUS": "Crews working on-site",
                 "START": "8:31AM 28 Jul 2025",
                 "EST_FIX_TIME": "2:30PM 28 Jul 2025",
-                "STREETS": "BAKERS LANE, CHARLES ST, DOWNSVIEW LANE, MOYLANS RD, SIX MILE RD, TIFFIN ST",
-                "SUBURBS": "BUNGIL, ROMA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    151.120114,
-                    -26.779595
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW9049",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "56",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "9:00AM 28 Jul 2025",
-                "EST_FIX_TIME": "2:30PM 28 Jul 2025",
-                "STREETS": "BINDINGS RD, BRIGALOW ST, COXEN ST, GEORGE ST, JIMBOUR ST, JOHN ST, KINGAROY JANDOWAE RD, MYALL ST, OLD ROSEVALE RD",
-                "SUBURBS": "JANDOWAE"
+                "STREETS": "SIX MILE RD",
+                "SUBURBS": "ROMA"
             }
         },
         {
@@ -131,5 +131,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753672801.500381"
+    "extracted": "1753674600.37325"
 }
