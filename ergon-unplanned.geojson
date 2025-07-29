@@ -10,67 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.591346,
-                            -20.419982
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.591588,
-                                    -20.418955
-                                ],
-                                [
-                                    148.590348,
-                                    -20.420454
-                                ],
-                                [
-                                    148.590432,
-                                    -20.421088
-                                ],
-                                [
-                                    148.591104,
-                                    -20.42101
-                                ],
-                                [
-                                    148.592344,
-                                    -20.41951
-                                ],
-                                [
-                                    148.59226,
-                                    -20.418877
-                                ],
-                                [
-                                    148.591588,
-                                    -20.418955
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK5797",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "12:58PM 29 Jul 2025",
-                "EST_FIX_TIME": "7:00PM 29 Jul 2025",
-                "STREETS": "BRUCE HWY",
-                "SUBURBS": "PROSERPINE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -126,6 +65,67 @@
                 "EST_FIX_TIME": "10:00AM 31 Jul 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.591346,
+                            -20.419982
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.591588,
+                                    -20.418955
+                                ],
+                                [
+                                    148.590348,
+                                    -20.420454
+                                ],
+                                [
+                                    148.590432,
+                                    -20.421088
+                                ],
+                                [
+                                    148.591104,
+                                    -20.42101
+                                ],
+                                [
+                                    148.592344,
+                                    -20.41951
+                                ],
+                                [
+                                    148.59226,
+                                    -20.418877
+                                ],
+                                [
+                                    148.591588,
+                                    -20.418955
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK5797",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "12:58PM 29 Jul 2025",
+                "EST_FIX_TIME": "7:00PM 29 Jul 2025",
+                "STREETS": "BRUCE HWY",
+                "SUBURBS": "PROSERPINE"
             }
         },
         {
@@ -285,7 +285,7 @@
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
                 "START": "1:00PM 29 Jul 2025",
-                "EST_FIX_TIME": "6:00PM 29 Jul 2025",
+                "EST_FIX_TIME": "7:00PM 29 Jul 2025",
                 "STREETS": "BONNIE DOON RD, GLENORINA RD, MILROY DOWNS RD, OFF GEM RD, OFF GLENORINA RD, OFF MILROY DOWNS RD, OLIVE VALE RD, OLIVEVALE RD",
                 "SUBURBS": "GINDIE, SPRINGSURE, YAMALA"
             }
@@ -293,5 +293,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753775701.535885"
+    "extracted": "1753776301.142195"
 }
