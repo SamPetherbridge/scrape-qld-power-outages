@@ -28,6 +28,48 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    150.560229,
+                    -23.141802
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA9261",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "8",
+                "REASON": "The loss of supply is to connect new customers to the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "8:30AM 29 Jul 2025",
+                "EST_FIX_TIME": "6:00PM 29 Jul 2025",
+                "STREETS": "A AND J FARRS RD, C BARRETTS RD",
+                "SUBURBS": "BARMOYA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.167905,
+                    -21.45949
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK5462",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "121",
+                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
+                "STATUS": "Work scheduled",
+                "START": "10:00PM 29 Jul 2025",
+                "EST_FIX_TIME": "6:30AM 30 Jul 2025",
+                "STREETS": "ANZAC ST, BRANDON ST, BROAD ST, CENTRAL ST, EAST ST, KEILBACH CT, LANGDON RD, LEE ST, LESLIE ST, MAGUIRE RD, MAGUIRES RD, MARLBOROUGH-SARINA RD, NEWBERY RD, RANGE RD, REEVES SAUNDERS RD, WALSH RD, WEST ST",
+                "SUBURBS": "SARINA, SARINA RANGE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     146.862533,
                     -19.116638
                 ]
@@ -70,41 +112,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    149.167905,
-                    -21.45949
+                    152.347732,
+                    -24.842725
                 ]
             },
             "properties": {
-                "EVENT_ID": "25MK5462",
+                "EVENT_ID": "25WB7390",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "121",
-                "REASON": "The loss of supply is to upgrade equipment to meet customer demand for electricity and to improve reliability of supply in the area",
-                "STATUS": "Work scheduled",
-                "START": "10:00PM 29 Jul 2025",
-                "EST_FIX_TIME": "6:30AM 30 Jul 2025",
-                "STREETS": "ANZAC ST, BRANDON ST, BROAD ST, CENTRAL ST, EAST ST, KEILBACH CT, LANGDON RD, LEE ST, LESLIE ST, MAGUIRE RD, MAGUIRES RD, MARLBOROUGH-SARINA RD, NEWBERY RD, RANGE RD, REEVES SAUNDERS RD, WALSH RD, WEST ST",
-                "SUBURBS": "SARINA, SARINA RANGE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    150.560229,
-                    -23.141802
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA9261",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "8",
-                "REASON": "The loss of supply is to connect new customers to the electricity network",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
                 "STATUS": "Crews working on-site",
-                "START": "8:30AM 29 Jul 2025",
-                "EST_FIX_TIME": "6:00PM 29 Jul 2025",
-                "STREETS": "A AND J FARRS RD, C BARRETTS RD",
-                "SUBURBS": "BARMOYA"
+                "START": "3:02PM 29 Jul 2025",
+                "EST_FIX_TIME": "5:00PM 29 Jul 2025",
+                "STREETS": "JEFFERIS ST",
+                "SUBURBS": "BUNDABERG NORTH"
             }
         },
         {
@@ -127,51 +148,9 @@
                 "STREETS": "BRIGHTLANDS STATION, DEVONCOURT STATION, FARLEY STATION, MALBON BORE, MALBON RD, MALBON SDNG, SELWYN RD, Y-AUST BORE",
                 "SUBURBS": "CLONCURRY"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    152.347732,
-                    -24.842725
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB7390",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to replace power poles and improve the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "3:02PM 29 Jul 2025",
-                "EST_FIX_TIME": "5:00PM 29 Jul 2025",
-                "STREETS": "JEFFERIS ST",
-                "SUBURBS": "BUNDABERG NORTH"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    145.826433,
-                    -17.596175
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN7693",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "53",
-                "REASON": "The loss of supply is to connect new customers to the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "9:09AM 29 Jul 2025",
-                "EST_FIX_TIME": "4:15PM 29 Jul 2025",
-                "STREETS": "BAULD RD, DUNNE RD, KAY RD, OLD PALMERSTON HWY, PALMERSTON HWY, PATRICK RD, PULLOM RD",
-                "SUBURBS": "EAST PALMERSTON"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753768807.195948"
+    "extracted": "1753769708.754062"
 }
