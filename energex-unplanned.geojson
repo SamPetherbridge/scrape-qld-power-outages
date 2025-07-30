@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.127257,
-                            -28.046317
+                            152.690444,
+                            -27.579068
                         ]
                     },
                     {
@@ -19,48 +19,154 @@
                         "coordinates": [
                             [
                                 [
-                                    153.125958,
-                                    -28.047374
+                                    152.688062,
+                                    -27.580938
                                 ],
                                 [
-                                    153.126891,
-                                    -28.047408
+                                    152.688299,
+                                    -27.581661
                                 ],
                                 [
-                                    153.127207,
-                                    -28.047325
+                                    152.689205,
+                                    -27.581788
                                 ],
                                 [
-                                    153.127875,
-                                    -28.046903
+                                    152.692838,
+                                    -27.576991
                                 ],
                                 [
-                                    153.127937,
-                                    -28.046857
+                                    152.692788,
+                                    -27.57643
                                 ],
                                 [
-                                    153.128981,
-                                    -28.045941
+                                    152.692163,
+                                    -27.576349
                                 ],
                                 [
-                                    153.129031,
-                                    -28.045349
+                                    152.688745,
+                                    -27.578128
                                 ],
                                 [
-                                    153.128377,
-                                    -28.045226
+                                    152.688507,
+                                    -27.578416
                                 ],
                                 [
-                                    153.125732,
-                                    -28.046528
+                                    152.688456,
+                                    -27.57861
                                 ],
                                 [
-                                    153.125484,
-                                    -28.047026
+                                    152.688451,
+                                    -27.578636
                                 ],
                                 [
-                                    153.125958,
-                                    -28.047374
+                                    152.688049,
+                                    -27.580736
+                                ],
+                                [
+                                    152.688062,
+                                    -27.580938
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-878504-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "6:00PM 30 Jul 2025",
+                "EST_FIX_TIME": "8:30PM 30 Jul 2025",
+                "STREETS": "SPRESSER RD, WARREGO HWY",
+                "SUBURBS": "BLACKSOIL, IRONBARK, KARRABIN, WALLOON",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.124594,
+                            -28.06776
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.105176,
+                                    -28.101977
+                                ],
+                                [
+                                    153.116493,
+                                    -28.10832
+                                ],
+                                [
+                                    153.117246,
+                                    -28.108085
+                                ],
+                                [
+                                    153.144246,
+                                    -28.038414
+                                ],
+                                [
+                                    153.144241,
+                                    -28.038108
+                                ],
+                                [
+                                    153.139706,
+                                    -28.027409
+                                ],
+                                [
+                                    153.138935,
+                                    -28.0272
+                                ],
+                                [
+                                    153.129313,
+                                    -28.033283
+                                ],
+                                [
+                                    153.129198,
+                                    -28.033383
+                                ],
+                                [
+                                    153.111297,
+                                    -28.054906
+                                ],
+                                [
+                                    153.111211,
+                                    -28.05507
+                                ],
+                                [
+                                    153.109563,
+                                    -28.061281
+                                ],
+                                [
+                                    153.109552,
+                                    -28.061335
+                                ],
+                                [
+                                    153.10701,
+                                    -28.081746
+                                ],
+                                [
+                                    153.107009,
+                                    -28.081754
+                                ],
+                                [
+                                    153.104941,
+                                    -28.101553
+                                ],
+                                [
+                                    153.105176,
+                                    -28.101977
                                 ]
                             ]
                         ]
@@ -70,13 +176,13 @@
             "properties": {
                 "EVENT_ID": "INCD-878501-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "4",
+                "CUSTOMERS_AFFECTED": "109",
                 "REASON": "Emergency Repairs",
                 "STATUS": "Awaiting",
                 "START": "5:53PM 30 Jul 2025",
                 "EST_FIX_TIME": "8:30PM 30 Jul 2025",
-                "STREETS": "LAMINGTON NATIONAL PARK RD",
-                "SUBURBS": "CANUNGRA",
+                "STREETS": "COLVIN RD, CURTIS RD, DOUBLE CROSSING RD, LAMINGTON NATIONAL PARK RD, REINING RD, RYMERA RD, SARABAH RD",
+                "SUBURBS": "CANUNGRA, SARABAH",
                 "ETR_FLAG": "N"
             }
         },
@@ -228,7 +334,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "2:59PM 30 Jul 2025",
-                "EST_FIX_TIME": "6:00PM 30 Jul 2025",
+                "EST_FIX_TIME": "7:00PM 30 Jul 2025",
                 "STREETS": "CRUISER CT, DOLPHIN ST, ENDEAVOUR ESP, OYSTER POINT ESP, RIVIERA CT",
                 "SUBURBS": "NEWPORT, SCARBOROUGH",
                 "ETR_FLAG": "N"
@@ -237,5 +343,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1753862101.233895"
+    "extracted": "1753863001.61789"
 }
