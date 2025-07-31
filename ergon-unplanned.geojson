@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.011436,
-                            -26.52686
+                            146.179793,
+                            -18.87355
                         ]
                     },
                     {
@@ -19,36 +19,64 @@
                         "coordinates": [
                             [
                                 [
-                                    152.010217,
-                                    -26.526763
+                                    146.16516,
+                                    -18.859678
                                 ],
                                 [
-                                    152.012093,
-                                    -26.527777
+                                    146.169361,
+                                    -18.883548
                                 ],
                                 [
-                                    152.012851,
-                                    -26.527395
+                                    146.169605,
+                                    -18.883872
                                 ],
                                 [
-                                    152.012856,
-                                    -26.526847
+                                    146.182239,
+                                    -18.890306
                                 ],
                                 [
-                                    152.012489,
-                                    -26.52641
+                                    146.182887,
+                                    -18.890111
                                 ],
                                 [
-                                    152.010608,
-                                    -26.525943
+                                    146.194432,
+                                    -18.868352
                                 ],
                                 [
-                                    152.010015,
-                                    -26.5262
+                                    146.194237,
+                                    -18.867752
                                 ],
                                 [
-                                    152.010217,
-                                    -26.526763
+                                    146.182077,
+                                    -18.861379
+                                ],
+                                [
+                                    146.182007,
+                                    -18.861349
+                                ],
+                                [
+                                    146.173879,
+                                    -18.858595
+                                ],
+                                [
+                                    146.173828,
+                                    -18.858581
+                                ],
+                                [
+                                    146.165819,
+                                    -18.856794
+                                ],
+                                [
+                                    146.165237,
+                                    -18.857219
+                                ],
+                                [
+                                    146.165154,
+                                    -18.859588
+                                ],
+                                [
+                                    146.16516,
+                                    -18.859678
                                 ]
                             ]
                         ]
@@ -56,15 +84,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB7975",
+                "EVENT_ID": "25NQ9877",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "8:30AM 31 Jul 2025",
-                "EST_FIX_TIME": "2:30PM 31 Jul 2025",
-                "STREETS": "BURNETT HWY",
-                "SUBURBS": "NANANGO, SANDY RIDGES"
+                "CUSTOMERS_AFFECTED": "22",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "6:44AM 31 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BAMBAROO RD, BAMBAROO SCHOOL RD, BRUCE HWY, CATASTIS RD, HECHTS RD, ZAMMITS RD",
+                "SUBURBS": "BAMBAROO"
             }
         },
         {
@@ -130,107 +158,6 @@
                 "EST_FIX_TIME": "10:00AM 31 Jul 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.191373,
-                            -18.873566
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.16516,
-                                    -18.859678
-                                ],
-                                [
-                                    146.169361,
-                                    -18.883548
-                                ],
-                                [
-                                    146.169605,
-                                    -18.883872
-                                ],
-                                [
-                                    146.182239,
-                                    -18.890306
-                                ],
-                                [
-                                    146.182564,
-                                    -18.890349
-                                ],
-                                [
-                                    146.213655,
-                                    -18.883904
-                                ],
-                                [
-                                    146.213998,
-                                    -18.883622
-                                ],
-                                [
-                                    146.217582,
-                                    -18.87458
-                                ],
-                                [
-                                    146.217592,
-                                    -18.87429
-                                ],
-                                [
-                                    146.212887,
-                                    -18.859435
-                                ],
-                                [
-                                    146.212615,
-                                    -18.859148
-                                ],
-                                [
-                                    146.208739,
-                                    -18.857615
-                                ],
-                                [
-                                    146.208566,
-                                    -18.85758
-                                ],
-                                [
-                                    146.16572,
-                                    -18.856782
-                                ],
-                                [
-                                    146.165237,
-                                    -18.857219
-                                ],
-                                [
-                                    146.165154,
-                                    -18.859588
-                                ],
-                                [
-                                    146.16516,
-                                    -18.859678
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ9877",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "36",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
-                "START": "6:44AM 31 Jul 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ABSWOLD RD, BAMBAROO RD, BAMBAROO SCHOOL RD, BRUCE HWY, CATASTIS RD, HECHTS RD, PROBERT RD, WATERFALL CREEK, ZAMMITS RD",
-                "SUBURBS": "BAMBAROO"
             }
         },
         {
@@ -436,15 +363,80 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "92",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
+                "STATUS": "Crews working on-site",
                 "START": "6:44AM 31 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BAMBAROO RD, BARBEROS RD, BRUCE HWY, CARNAZOLAS RD, HEARDS RD, JOURAMA RD, MAMMARELLA'S RD, MARSHALLS RD, MAYNARDS RD, MULLINS RD, NEBBIA'S RD, SCRUBVIEW RD, YURUGA RD, YURUGA SCHOOL RD",
                 "SUBURBS": "BAMBAROO"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.011436,
+                            -26.52686
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.010217,
+                                    -26.526763
+                                ],
+                                [
+                                    152.012093,
+                                    -26.527777
+                                ],
+                                [
+                                    152.012851,
+                                    -26.527395
+                                ],
+                                [
+                                    152.012856,
+                                    -26.526847
+                                ],
+                                [
+                                    152.012489,
+                                    -26.52641
+                                ],
+                                [
+                                    152.010608,
+                                    -26.525943
+                                ],
+                                [
+                                    152.010015,
+                                    -26.5262
+                                ],
+                                [
+                                    152.010217,
+                                    -26.526763
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB7975",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "8:30AM 31 Jul 2025",
+                "EST_FIX_TIME": "2:30PM 31 Jul 2025",
+                "STREETS": "BURNETT HWY",
+                "SUBURBS": "NANANGO, SANDY RIDGES"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753920600.511753"
+    "extracted": "1753921801.389041"
 }
