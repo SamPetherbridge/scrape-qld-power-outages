@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.588925,
-                            -25.237081
+                            151.965806,
+                            -27.591763
                         ]
                     },
                     {
@@ -19,56 +19,88 @@
                         "coordinates": [
                             [
                                 [
-                                    152.586155,
-                                    -25.239039
+                                    151.962311,
+                                    -27.592677
                                 ],
                                 [
-                                    152.590952,
-                                    -25.238782
+                                    151.962711,
+                                    -27.593429
                                 ],
                                 [
-                                    152.591035,
-                                    -25.238771
+                                    151.963377,
+                                    -27.593645
                                 ],
                                 [
-                                    152.591569,
-                                    -25.238658
+                                    151.969035,
+                                    -27.591346
                                 ],
                                 [
-                                    152.591894,
-                                    -25.238431
+                                    151.96933,
+                                    -27.590959
                                 ],
                                 [
-                                    152.59214,
-                                    -25.23801
+                                    151.969346,
+                                    -27.590682
                                 ],
                                 [
-                                    152.592075,
-                                    -25.237503
+                                    151.96921,
+                                    -27.590352
                                 ],
                                 [
-                                    152.589848,
-                                    -25.23519
+                                    151.969031,
+                                    -27.590182
                                 ],
                                 [
-                                    152.589183,
-                                    -25.235124
+                                    151.968745,
+                                    -27.590045
                                 ],
                                 [
-                                    152.587015,
-                                    -25.236574
+                                    151.96767,
+                                    -27.589886
                                 ],
                                 [
-                                    152.586893,
-                                    -25.236691
+                                    151.967576,
+                                    -27.58988
                                 ],
                                 [
-                                    152.585711,
-                                    -25.238345
+                                    151.963537,
+                                    -27.589961
                                 ],
                                 [
-                                    152.586155,
-                                    -25.239039
+                                    151.963279,
+                                    -27.59003
+                                ],
+                                [
+                                    151.963095,
+                                    -27.590133
+                                ],
+                                [
+                                    151.962965,
+                                    -27.590239
+                                ],
+                                [
+                                    151.962692,
+                                    -27.590553
+                                ],
+                                [
+                                    151.9626,
+                                    -27.590727
+                                ],
+                                [
+                                    151.962411,
+                                    -27.591458
+                                ],
+                                [
+                                    151.962402,
+                                    -27.591501
+                                ],
+                                [
+                                    151.962266,
+                                    -27.592426
+                                ],
+                                [
+                                    151.962311,
+                                    -27.592677
                                 ]
                             ]
                         ]
@@ -76,15 +108,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB8034",
+                "EVENT_ID": "25SW10279",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "13",
+                "CUSTOMERS_AFFECTED": "105",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Outage reported",
-                "START": "5:42PM 31 Jul 2025",
+                "START": "6:10PM 31 Jul 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "MILLER CRES, ROSSLYN DR",
-                "SUBURBS": "BURRUM HEADS"
+                "STREETS": "AGNES ST, AMANDA DR, DIANE CT, KARYN ST, NELLIE ST, ZOE CT",
+                "SUBURBS": "CENTENARY HEIGHTS"
             }
         },
         {
@@ -244,9 +276,94 @@
                 "STREETS": "KAURI CL, MAHOGANY AVE",
                 "SUBURBS": "KURANDA, SPEEWAH"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.588925,
+                            -25.237081
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.586155,
+                                    -25.239039
+                                ],
+                                [
+                                    152.590952,
+                                    -25.238782
+                                ],
+                                [
+                                    152.591035,
+                                    -25.238771
+                                ],
+                                [
+                                    152.591569,
+                                    -25.238658
+                                ],
+                                [
+                                    152.591894,
+                                    -25.238431
+                                ],
+                                [
+                                    152.59214,
+                                    -25.23801
+                                ],
+                                [
+                                    152.592075,
+                                    -25.237503
+                                ],
+                                [
+                                    152.589848,
+                                    -25.23519
+                                ],
+                                [
+                                    152.589183,
+                                    -25.235124
+                                ],
+                                [
+                                    152.587015,
+                                    -25.236574
+                                ],
+                                [
+                                    152.586893,
+                                    -25.236691
+                                ],
+                                [
+                                    152.585711,
+                                    -25.238345
+                                ],
+                                [
+                                    152.586155,
+                                    -25.239039
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB8034",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "13",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews on route",
+                "START": "5:42PM 31 Jul 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "MILLER CRES, ROSSLYN DR",
+                "SUBURBS": "BURRUM HEADS"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1753949105.861962"
+    "extracted": "1753950007.918875"
 }
