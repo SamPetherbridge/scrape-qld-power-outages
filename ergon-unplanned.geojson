@@ -10,6 +10,79 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.687242,
+                            -25.602945
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.684587,
+                                    -25.603804
+                                ],
+                                [
+                                    152.686281,
+                                    -25.603724
+                                ],
+                                [
+                                    152.68632,
+                                    -25.603721
+                                ],
+                                [
+                                    152.689877,
+                                    -25.603293
+                                ],
+                                [
+                                    152.690269,
+                                    -25.60302
+                                ],
+                                [
+                                    152.690416,
+                                    -25.602702
+                                ],
+                                [
+                                    152.689875,
+                                    -25.602086
+                                ],
+                                [
+                                    152.684478,
+                                    -25.602912
+                                ],
+                                [
+                                    152.684068,
+                                    -25.603404
+                                ],
+                                [
+                                    152.684587,
+                                    -25.603804
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB8053",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews on route",
+                "START": "6:16PM 01 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "FIVE MILE RD, NERADA RD",
+                "SUBURBS": "TINANA, TINANA SOUTH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             147.464808,
                             -20.48337
                         ]
@@ -248,82 +321,9 @@
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.687242,
-                            -25.602945
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.684587,
-                                    -25.603804
-                                ],
-                                [
-                                    152.686281,
-                                    -25.603724
-                                ],
-                                [
-                                    152.68632,
-                                    -25.603721
-                                ],
-                                [
-                                    152.689877,
-                                    -25.603293
-                                ],
-                                [
-                                    152.690269,
-                                    -25.60302
-                                ],
-                                [
-                                    152.690416,
-                                    -25.602702
-                                ],
-                                [
-                                    152.689875,
-                                    -25.602086
-                                ],
-                                [
-                                    152.684478,
-                                    -25.602912
-                                ],
-                                [
-                                    152.684068,
-                                    -25.603404
-                                ],
-                                [
-                                    152.684587,
-                                    -25.603804
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB8053",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "6:16PM 01 Aug 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "FIVE MILE RD, NERADA RD",
-                "SUBURBS": "TINANA, TINANA SOUTH"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1754038201.171072"
+    "extracted": "1754039101.665308"
 }
