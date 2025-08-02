@@ -10,6 +10,83 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            145.872303,
+                            -17.470903
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    145.85235,
+                                    -17.453518
+                                ],
+                                [
+                                    145.853054,
+                                    -17.489014
+                                ],
+                                [
+                                    145.853401,
+                                    -17.489441
+                                ],
+                                [
+                                    145.874868,
+                                    -17.495042
+                                ],
+                                [
+                                    145.875429,
+                                    -17.494773
+                                ],
+                                [
+                                    145.892257,
+                                    -17.454216
+                                ],
+                                [
+                                    145.892186,
+                                    -17.453765
+                                ],
+                                [
+                                    145.886435,
+                                    -17.446923
+                                ],
+                                [
+                                    145.885977,
+                                    -17.446763
+                                ],
+                                [
+                                    145.85273,
+                                    -17.453066
+                                ],
+                                [
+                                    145.85235,
+                                    -17.453518
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN8327",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "82",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews on route",
+                "START": "8:26PM 02 Aug 2025",
+                "EST_FIX_TIME": "3:00AM 03 Aug 2025",
+                "STREETS": "EMSON RD, JOYCE RD, MENZIES RD, WOOPEN CREEK RD",
+                "SUBURBS": "BARTLE FRERE, WOOPEN CREEK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -281,83 +358,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            145.872303,
-                            -17.470903
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    145.85235,
-                                    -17.453518
-                                ],
-                                [
-                                    145.853054,
-                                    -17.489014
-                                ],
-                                [
-                                    145.853401,
-                                    -17.489441
-                                ],
-                                [
-                                    145.874868,
-                                    -17.495042
-                                ],
-                                [
-                                    145.875429,
-                                    -17.494773
-                                ],
-                                [
-                                    145.892257,
-                                    -17.454216
-                                ],
-                                [
-                                    145.892186,
-                                    -17.453765
-                                ],
-                                [
-                                    145.886435,
-                                    -17.446923
-                                ],
-                                [
-                                    145.885977,
-                                    -17.446763
-                                ],
-                                [
-                                    145.85273,
-                                    -17.453066
-                                ],
-                                [
-                                    145.85235,
-                                    -17.453518
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN8327",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "82",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews on route",
-                "START": "8:26PM 02 Aug 2025",
-                "EST_FIX_TIME": "3:00AM 03 Aug 2025",
-                "STREETS": "EMSON RD, JOYCE RD, MENZIES RD, WOOPEN CREEK RD",
-                "SUBURBS": "BARTLE FRERE, WOOPEN CREEK"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             150.504984,
                             -23.280604
                         ]
@@ -566,5 +566,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1754155808.454045"
+    "extracted": "1754156401.320482"
 }
