@@ -10,6 +10,100 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.095846,
+                            -26.60571
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.093361,
+                                    -26.606612
+                                ],
+                                [
+                                    153.09395,
+                                    -26.607722
+                                ],
+                                [
+                                    153.094566,
+                                    -26.607955
+                                ],
+                                [
+                                    153.098182,
+                                    -26.606843
+                                ],
+                                [
+                                    153.098374,
+                                    -26.606095
+                                ],
+                                [
+                                    153.096173,
+                                    -26.604134
+                                ],
+                                [
+                                    153.09604,
+                                    -26.604049
+                                ],
+                                [
+                                    153.094711,
+                                    -26.603465
+                                ],
+                                [
+                                    153.094136,
+                                    -26.603552
+                                ],
+                                [
+                                    153.094062,
+                                    -26.603618
+                                ],
+                                [
+                                    153.094017,
+                                    -26.603664
+                                ],
+                                [
+                                    153.093773,
+                                    -26.603955
+                                ],
+                                [
+                                    153.093676,
+                                    -26.604161
+                                ],
+                                [
+                                    153.093318,
+                                    -26.606352
+                                ],
+                                [
+                                    153.093361,
+                                    -26.606612
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-879058-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "78",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "6:19PM 02 Aug 2025",
+                "EST_FIX_TIME": "8:00PM 02 Aug 2025",
+                "STREETS": "DAVID LOW WAY, DESLEY ST, FIFTH AVE, KEITH ROYAL DR, MUDJIMBA ESP",
+                "SUBURBS": "MARCOOLA, MUDJIMBA",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.994279,
                             -26.659373
                         ]
@@ -112,100 +206,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.095846,
-                            -26.60571
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.093361,
-                                    -26.606612
-                                ],
-                                [
-                                    153.09395,
-                                    -26.607722
-                                ],
-                                [
-                                    153.094566,
-                                    -26.607955
-                                ],
-                                [
-                                    153.098182,
-                                    -26.606843
-                                ],
-                                [
-                                    153.098374,
-                                    -26.606095
-                                ],
-                                [
-                                    153.096173,
-                                    -26.604134
-                                ],
-                                [
-                                    153.09604,
-                                    -26.604049
-                                ],
-                                [
-                                    153.094711,
-                                    -26.603465
-                                ],
-                                [
-                                    153.094136,
-                                    -26.603552
-                                ],
-                                [
-                                    153.094062,
-                                    -26.603618
-                                ],
-                                [
-                                    153.094017,
-                                    -26.603664
-                                ],
-                                [
-                                    153.093773,
-                                    -26.603955
-                                ],
-                                [
-                                    153.093676,
-                                    -26.604161
-                                ],
-                                [
-                                    153.093318,
-                                    -26.606352
-                                ],
-                                [
-                                    153.093361,
-                                    -26.606612
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-879058-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "78",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "6:19PM 02 Aug 2025",
-                "EST_FIX_TIME": "8:00PM 02 Aug 2025",
-                "STREETS": "DAVID LOW WAY, DESLEY ST, FIFTH AVE, KEITH ROYAL DR, MUDJIMBA ESP",
-                "SUBURBS": "MARCOOLA, MUDJIMBA",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.9036,
                             -28.124552
                         ]
@@ -295,5 +295,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1754125212.899547"
+    "extracted": "1754126101.511421"
 }
