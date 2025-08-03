@@ -172,6 +172,160 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            150.287469,
+                            -23.906454
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.265915,
+                                    -23.905211
+                                ],
+                                [
+                                    150.303258,
+                                    -23.913977
+                                ],
+                                [
+                                    150.303379,
+                                    -23.913991
+                                ],
+                                [
+                                    150.308916,
+                                    -23.913989
+                                ],
+                                [
+                                    150.309392,
+                                    -23.913428
+                                ],
+                                [
+                                    150.305505,
+                                    -23.899252
+                                ],
+                                [
+                                    150.304956,
+                                    -23.898916
+                                ],
+                                [
+                                    150.265963,
+                                    -23.904328
+                                ],
+                                [
+                                    150.265546,
+                                    -23.904751
+                                ],
+                                [
+                                    150.265915,
+                                    -23.905211
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA10430",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "5:25AM 03 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ERIKSENS RD, OFF BURNETT HWY, RIFLE RANGE RD",
+                "SUBURBS": "WOWAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            147.546994,
+                            -19.586107
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.546055,
+                                    -19.586243
+                                ],
+                                [
+                                    147.546146,
+                                    -19.586466
+                                ],
+                                [
+                                    147.546699,
+                                    -19.586743
+                                ],
+                                [
+                                    147.547314,
+                                    -19.586606
+                                ],
+                                [
+                                    147.547521,
+                                    -19.586504
+                                ],
+                                [
+                                    147.547818,
+                                    -19.586256
+                                ],
+                                [
+                                    147.547932,
+                                    -19.585723
+                                ],
+                                [
+                                    147.547424,
+                                    -19.585471
+                                ],
+                                [
+                                    147.54708,
+                                    -19.585525
+                                ],
+                                [
+                                    147.547076,
+                                    -19.585526
+                                ],
+                                [
+                                    147.546417,
+                                    -19.585635
+                                ],
+                                [
+                                    147.546055,
+                                    -19.586243
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ9989",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "8",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "1:05PM 03 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "PHILLIPS CAMP",
+                "SUBURBS": "AYR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.870083,
                             -27.569298
                         ]
@@ -280,82 +434,9 @@
                 "STREETS": "BARKLA RD, BOUNDARY ST, BREWSTER RD, CAROLANN ST, CARYS RD, DEUBLE RD, DEVINE RD, DRAYTON WELLCAMP RD, DUNMALL CRES, E DREW RD, EUSTON RD, HARVEY RD, HURSLEY RD, JACANA ST, OESTREICH RD",
                 "SUBURBS": "CRANLEY, GLENVALE, TOOWOOMBA, WELLCAMP"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            150.287469,
-                            -23.906454
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    150.265915,
-                                    -23.905211
-                                ],
-                                [
-                                    150.303258,
-                                    -23.913977
-                                ],
-                                [
-                                    150.303379,
-                                    -23.913991
-                                ],
-                                [
-                                    150.308916,
-                                    -23.913989
-                                ],
-                                [
-                                    150.309392,
-                                    -23.913428
-                                ],
-                                [
-                                    150.305505,
-                                    -23.899252
-                                ],
-                                [
-                                    150.304956,
-                                    -23.898916
-                                ],
-                                [
-                                    150.265963,
-                                    -23.904328
-                                ],
-                                [
-                                    150.265546,
-                                    -23.904751
-                                ],
-                                [
-                                    150.265915,
-                                    -23.905211
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA10430",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Outage reported",
-                "START": "5:25AM 03 Aug 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ERIKSENS RD, OFF BURNETT HWY, RIFLE RANGE RD",
-                "SUBURBS": "WOWAN"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1754193901.647304"
+    "extracted": "1754195402.355042"
 }
