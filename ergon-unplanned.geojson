@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            149.010469,
-                            -21.613352
+                            149.015605,
+                            -21.503265
                         ]
                     },
                     {
@@ -19,52 +19,40 @@
                         "coordinates": [
                             [
                                 [
-                                    148.964971,
-                                    -21.745042
+                                    149.009179,
+                                    -21.512565
                                 ],
                                 [
-                                    149.056738,
-                                    -21.636255
+                                    149.012251,
+                                    -21.520719
                                 ],
                                 [
-                                    149.05683,
-                                    -21.635879
+                                    149.012731,
+                                    -21.52102
                                 ],
                                 [
-                                    149.022032,
-                                    -21.485843
+                                    149.013175,
+                                    -21.520674
                                 ],
                                 [
-                                    149.021598,
-                                    -21.485489
+                                    149.02203,
+                                    -21.486044
                                 ],
                                 [
-                                    148.967183,
-                                    -21.481515
+                                    149.021711,
+                                    -21.48551
                                 ],
                                 [
-                                    148.966708,
-                                    -21.481774
+                                    149.021116,
+                                    -21.485764
                                 ],
                                 [
-                                    148.966127,
-                                    -21.482936
+                                    149.00919,
+                                    -21.51224
                                 ],
                                 [
-                                    148.966082,
-                                    -21.483124
-                                ],
-                                [
-                                    148.964108,
-                                    -21.744759
-                                ],
-                                [
-                                    148.964431,
-                                    -21.745188
-                                ],
-                                [
-                                    148.964971,
-                                    -21.745042
+                                    149.009179,
+                                    -21.512565
                                 ]
                             ]
                         ]
@@ -74,13 +62,13 @@
             "properties": {
                 "EVENT_ID": "25MK5892",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "53",
+                "CUSTOMERS_AFFECTED": "3",
                 "REASON": "The loss of supply is due to public safety concerns.",
                 "STATUS": "Crews working on-site",
                 "START": "8:22AM 03 Aug 2025",
                 "EST_FIX_TIME": "1:00PM 03 Aug 2025",
-                "STREETS": "BLUE MOUNTAIN RD, BOLINGBROKE RD, BORGS RD, MARLBOROUGH SARINA RD, SARINA MARLBOROUGH RD",
-                "SUBURBS": "BLUE MOUNTAIN, COLSTON PARK, NEBO"
+                "STREETS": "BLUE MOUNTAIN RD",
+                "SUBURBS": "BLUE MOUNTAIN"
             }
         },
         {
@@ -146,6 +134,67 @@
                 "EST_FIX_TIME": "10:00AM 28 Aug 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.847483,
+                            -25.001054
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.849124,
+                                    -25.000452
+                                ],
+                                [
+                                    151.845744,
+                                    -25.000759
+                                ],
+                                [
+                                    151.845301,
+                                    -25.001252
+                                ],
+                                [
+                                    151.845842,
+                                    -25.001655
+                                ],
+                                [
+                                    151.849222,
+                                    -25.001348
+                                ],
+                                [
+                                    151.849665,
+                                    -25.000855
+                                ],
+                                [
+                                    151.849124,
+                                    -25.000452
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB8070",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "9:40AM 03 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "MOUNT PERRY RD",
+                "SUBURBS": "MOOLBOOLAMAN"
             }
         },
         {
@@ -402,7 +451,7 @@
                 "REASON": "The loss of supply is due to the operating of protective equipment. ",
                 "STATUS": "Crews working on-site",
                 "START": "6:35AM 03 Aug 2025",
-                "EST_FIX_TIME": "Under Investigation",
+                "EST_FIX_TIME": "5:00PM 03 Aug 2025",
                 "STREETS": "BAILLIES RD, BENYONS RD, MILTON RD, QUAGLIOTTO RD, RUNNING CREEK RD, STONE RIVER RD",
                 "SUBURBS": "UPPER STONE"
             }
@@ -578,7 +627,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "130",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
+                "STATUS": "Crews working on-site",
                 "START": "7:47AM 03 Aug 2025",
                 "EST_FIX_TIME": "2:00PM 03 Aug 2025",
                 "STREETS": "BARKLA RD, BOUNDARY ST, BREWSTER RD, CAROLANN ST, CARYS RD, DEUBLE RD, DEVINE RD, DRAYTON WELLCAMP RD, DUNMALL CRES, E DREW RD, EUSTON RD, HARVEY RD, HURSLEY RD, JACANA ST, OESTREICH RD",
@@ -588,5 +637,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1754186409.240057"
+    "extracted": "1754189700.281621"
 }
