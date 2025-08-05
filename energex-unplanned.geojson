@@ -1,8 +1,111 @@
 {
     "type": "FeatureCollection",
     "name": "UNPLANNED",
-    "features": [],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.406261,
+                            -27.917001
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.405252,
+                                    -27.917403
+                                ],
+                                [
+                                    153.405574,
+                                    -27.917495
+                                ],
+                                [
+                                    153.405602,
+                                    -27.917502
+                                ],
+                                [
+                                    153.406917,
+                                    -27.917805
+                                ],
+                                [
+                                    153.407534,
+                                    -27.917489
+                                ],
+                                [
+                                    153.40758,
+                                    -27.917341
+                                ],
+                                [
+                                    153.407598,
+                                    -27.917213
+                                ],
+                                [
+                                    153.407594,
+                                    -27.916968
+                                ],
+                                [
+                                    153.407278,
+                                    -27.916558
+                                ],
+                                [
+                                    153.406489,
+                                    -27.916272
+                                ],
+                                [
+                                    153.406336,
+                                    -27.91624
+                                ],
+                                [
+                                    153.405696,
+                                    -27.916196
+                                ],
+                                [
+                                    153.405357,
+                                    -27.916281
+                                ],
+                                [
+                                    153.405189,
+                                    -27.91639
+                                ],
+                                [
+                                    153.405006,
+                                    -27.916612
+                                ],
+                                [
+                                    153.404924,
+                                    -27.916831
+                                ],
+                                [
+                                    153.405252,
+                                    -27.917403
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-879562-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "43",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "7:04PM 05 Aug 2025",
+                "EST_FIX_TIME": "10:00PM 05 Aug 2025",
+                "STREETS": "JENNIFER AVE",
+                "SUBURBS": "RUNAWAY BAY",
+                "ETR_FLAG": "N"
+            }
+        }
+    ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1754383801.37025"
+    "extracted": "1754384701.574628"
 }
