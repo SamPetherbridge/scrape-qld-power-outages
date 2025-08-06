@@ -80,6 +80,84 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.391455,
+                            -27.626295
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.388015,
+                                    -27.626739
+                                ],
+                                [
+                                    152.392026,
+                                    -27.627932
+                                ],
+                                [
+                                    152.392187,
+                                    -27.627955
+                                ],
+                                [
+                                    152.394414,
+                                    -27.627951
+                                ],
+                                [
+                                    152.394914,
+                                    -27.627572
+                                ],
+                                [
+                                    152.39498,
+                                    -27.62721
+                                ],
+                                [
+                                    152.394752,
+                                    -27.626757
+                                ],
+                                [
+                                    152.391045,
+                                    -27.624649
+                                ],
+                                [
+                                    152.390526,
+                                    -27.624634
+                                ],
+                                [
+                                    152.38793,
+                                    -27.625916
+                                ],
+                                [
+                                    152.388015,
+                                    -27.626739
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-879799-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "31",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "7:25AM 07 Aug 2025",
+                "EST_FIX_TIME": "12:30PM 07 Aug 2025",
+                "STREETS": "ALEXANDER ST, CAMPBELL ST, PATRICK ST, PIKE ST",
+                "SUBURBS": "LAIDLEY",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.147869,
                             -27.62173
                         ]
@@ -243,5 +321,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1754521500.327769"
+    "extracted": "1754522101.662867"
 }
