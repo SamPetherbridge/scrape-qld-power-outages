@@ -115,7 +115,7 @@
                 "EVENT_ID": "25NQ10143",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "147",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
                 "STATUS": "Outage reported",
                 "START": "1:00PM 07 Aug 2025",
                 "EST_FIX_TIME": "6:00PM 07 Aug 2025",
@@ -350,107 +350,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.132157,
-                            -26.645718
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.110997,
-                                    -26.673002
-                                ],
-                                [
-                                    151.123501,
-                                    -26.668891
-                                ],
-                                [
-                                    151.123617,
-                                    -26.668836
-                                ],
-                                [
-                                    151.148368,
-                                    -26.653189
-                                ],
-                                [
-                                    151.148526,
-                                    -26.653025
-                                ],
-                                [
-                                    151.150963,
-                                    -26.648746
-                                ],
-                                [
-                                    151.15101,
-                                    -26.648622
-                                ],
-                                [
-                                    151.153991,
-                                    -26.63392
-                                ],
-                                [
-                                    151.153838,
-                                    -26.633508
-                                ],
-                                [
-                                    151.144567,
-                                    -26.625829
-                                ],
-                                [
-                                    151.144363,
-                                    -26.625727
-                                ],
-                                [
-                                    151.115601,
-                                    -26.618434
-                                ],
-                                [
-                                    151.114966,
-                                    -26.618818
-                                ],
-                                [
-                                    151.112056,
-                                    -26.642743
-                                ],
-                                [
-                                    151.112054,
-                                    -26.642769
-                                ],
-                                [
-                                    151.110324,
-                                    -26.672555
-                                ],
-                                [
-                                    151.110997,
-                                    -26.673002
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25SW10524",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "2:00PM 07 Aug 2025",
-                "EST_FIX_TIME": "6:00PM 07 Aug 2025",
-                "STREETS": "CURDS RD, OLD BURRANDOWAN RD, WONDAI RD",
-                "SUBURBS": "JANDOWAE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.031828,
                             -24.970308
                         ]
@@ -515,5 +414,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1754547900.37446"
+    "extracted": "1754549108.345805"
 }
