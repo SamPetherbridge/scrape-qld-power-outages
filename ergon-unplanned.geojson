@@ -10,71 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.699115,
-                            -21.127962
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ],
-                                [
-                                    148.700208,
-                                    -21.128945
-                                ],
-                                [
-                                    148.700826,
-                                    -21.128582
-                                ],
-                                [
-                                    148.701003,
-                                    -21.127495
-                                ],
-                                [
-                                    148.700469,
-                                    -21.126979
-                                ],
-                                [
-                                    148.697649,
-                                    -21.127299
-                                ],
-                                [
-                                    148.697227,
-                                    -21.127706
-                                ],
-                                [
-                                    148.697564,
-                                    -21.128178
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK1119",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "6:57AM 04 Feb 2025",
-                "EST_FIX_TIME": "10:00AM 28 Aug 2025",
-                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
-                "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.35464,
                             -20.519912
                         ]
@@ -136,8 +71,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.687466,
-                            -27.965136
+                            148.699115,
+                            -21.127962
                         ]
                     },
                     {
@@ -145,32 +80,36 @@
                         "coordinates": [
                             [
                                 [
-                                    148.687968,
-                                    -27.964138
+                                    148.697564,
+                                    -21.128178
                                 ],
                                 [
-                                    148.686289,
-                                    -27.96546
+                                    148.700208,
+                                    -21.128945
                                 ],
                                 [
-                                    148.686246,
-                                    -27.966097
+                                    148.700826,
+                                    -21.128582
                                 ],
                                 [
-                                    148.686964,
-                                    -27.966135
+                                    148.701003,
+                                    -21.127495
                                 ],
                                 [
-                                    148.688642,
-                                    -27.964812
+                                    148.700469,
+                                    -21.126979
                                 ],
                                 [
-                                    148.688685,
-                                    -27.964176
+                                    148.697649,
+                                    -21.127299
                                 ],
                                 [
-                                    148.687968,
-                                    -27.964138
+                                    148.697227,
+                                    -21.127706
+                                ],
+                                [
+                                    148.697564,
+                                    -21.128178
                                 ]
                             ]
                         ]
@@ -178,15 +117,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25SW10457",
+                "EVENT_ID": "25MK1119",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "8:08AM 08 Aug 2025",
-                "EST_FIX_TIME": "1:00PM 08 Aug 2025",
-                "STREETS": "CARNARVON HWY",
-                "SUBURBS": "ST GEORGE"
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "6:57AM 04 Feb 2025",
+                "EST_FIX_TIME": "10:00AM 28 Aug 2025",
+                "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
+                "SUBURBS": "OWENS CREEK, PINNACLE"
             }
         },
         {
@@ -288,6 +227,152 @@
                 "EST_FIX_TIME": "12:00PM 08 Aug 2025",
                 "STREETS": "BELLINGHAMS RD, CRAIKES RD, CULLENDORE RD, WATTS RD, WICKHAMS RD",
                 "SUBURBS": "ELBOW VALLEY, LOCH LOMOND, MURRAYS BRIDGE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.687466,
+                            -27.965136
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.687968,
+                                    -27.964138
+                                ],
+                                [
+                                    148.686289,
+                                    -27.96546
+                                ],
+                                [
+                                    148.686246,
+                                    -27.966097
+                                ],
+                                [
+                                    148.686964,
+                                    -27.966135
+                                ],
+                                [
+                                    148.688642,
+                                    -27.964812
+                                ],
+                                [
+                                    148.688685,
+                                    -27.964176
+                                ],
+                                [
+                                    148.687968,
+                                    -27.964138
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW10457",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "8:08AM 08 Aug 2025",
+                "EST_FIX_TIME": "1:00PM 08 Aug 2025",
+                "STREETS": "CARNARVON HWY",
+                "SUBURBS": "ST GEORGE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            150.751938,
+                            -23.791289
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.689191,
+                                    -23.878121
+                                ],
+                                [
+                                    150.693053,
+                                    -23.88033
+                                ],
+                                [
+                                    150.693532,
+                                    -23.88035
+                                ],
+                                [
+                                    150.814642,
+                                    -23.824335
+                                ],
+                                [
+                                    150.814906,
+                                    -23.823864
+                                ],
+                                [
+                                    150.796711,
+                                    -23.715553
+                                ],
+                                [
+                                    150.796344,
+                                    -23.715184
+                                ],
+                                [
+                                    150.739555,
+                                    -23.702228
+                                ],
+                                [
+                                    150.739178,
+                                    -23.702284
+                                ],
+                                [
+                                    150.7266,
+                                    -23.709514
+                                ],
+                                [
+                                    150.72638,
+                                    -23.709805
+                                ],
+                                [
+                                    150.68897,
+                                    -23.877647
+                                ],
+                                [
+                                    150.689191,
+                                    -23.878121
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA10598",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "44",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "9:19AM 08 Aug 2025",
+                "EST_FIX_TIME": "1:00PM 08 Aug 2025",
+                "STREETS": "BOND RD, DUNCAN RD, HOURIGAN CREEK RD, KRAATZ RD, LANGMORN RD, LANGMORN-ULAM RD, MORSE RD, NORTH LANGMORN RD, SAN JOSE RD",
+                "SUBURBS": "MARMOR, RAGLAN"
             }
         },
         {
@@ -407,8 +492,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            150.751938,
-                            -23.791289
+                            146.87016,
+                            -19.358631
                         ]
                     },
                     {
@@ -416,56 +501,52 @@
                         "coordinates": [
                             [
                                 [
-                                    150.689191,
-                                    -23.878121
+                                    146.864866,
+                                    -19.362524
                                 ],
                                 [
-                                    150.693053,
-                                    -23.88033
+                                    146.870832,
+                                    -19.361099
                                 ],
                                 [
-                                    150.693532,
-                                    -23.88035
+                                    146.870917,
+                                    -19.36107
                                 ],
                                 [
-                                    150.814642,
-                                    -23.824335
+                                    146.875771,
+                                    -19.358924
                                 ],
                                 [
-                                    150.814906,
-                                    -23.823864
+                                    146.876045,
+                                    -19.35849
                                 ],
                                 [
-                                    150.796711,
-                                    -23.715553
+                                    146.875724,
+                                    -19.358087
                                 ],
                                 [
-                                    150.796344,
-                                    -23.715184
+                                    146.865397,
+                                    -19.354737
                                 ],
                                 [
-                                    150.739555,
-                                    -23.702228
+                                    146.86496,
+                                    -19.354802
                                 ],
                                 [
-                                    150.739178,
-                                    -23.702284
+                                    146.864744,
+                                    -19.354953
                                 ],
                                 [
-                                    150.7266,
-                                    -23.709514
+                                    146.864551,
+                                    -19.355299
                                 ],
                                 [
-                                    150.72638,
-                                    -23.709805
+                                    146.864274,
+                                    -19.362068
                                 ],
                                 [
-                                    150.68897,
-                                    -23.877647
-                                ],
-                                [
-                                    150.689191,
-                                    -23.878121
+                                    146.864866,
+                                    -19.362524
                                 ]
                             ]
                         ]
@@ -473,15 +554,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25CA10598",
+                "EVENT_ID": "25NQ10169",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "44",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "CUSTOMERS_AFFECTED": "8",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
                 "STATUS": "Crews working on-site",
-                "START": "9:19AM 08 Aug 2025",
-                "EST_FIX_TIME": "1:00PM 08 Aug 2025",
-                "STREETS": "BOND RD, DUNCAN RD, HOURIGAN CREEK RD, KRAATZ RD, LANGMORN RD, LANGMORN-ULAM RD, MORSE RD, NORTH LANGMORN RD, SAN JOSE RD",
-                "SUBURBS": "MARMOR, RAGLAN"
+                "START": "6:43AM 08 Aug 2025",
+                "EST_FIX_TIME": "12:00PM 08 Aug 2025",
+                "STREETS": "BRUCE HWY, PRISON RES",
+                "SUBURBS": "JULAGO, STUART"
             }
         },
         {
@@ -625,8 +706,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.87016,
-                            -19.358631
+                            144.507043,
+                            -19.042281
                         ]
                     },
                     {
@@ -634,52 +715,72 @@
                         "coordinates": [
                             [
                                 [
-                                    146.864866,
-                                    -19.362524
+                                    144.365338,
+                                    -19.205014
                                 ],
                                 [
-                                    146.870832,
-                                    -19.361099
+                                    144.370083,
+                                    -19.205263
                                 ],
                                 [
-                                    146.870917,
-                                    -19.36107
+                                    144.370387,
+                                    -19.205178
                                 ],
                                 [
-                                    146.875771,
-                                    -19.358924
+                                    144.649052,
+                                    -19.014072
                                 ],
                                 [
-                                    146.876045,
-                                    -19.35849
+                                    144.649161,
+                                    -19.013444
                                 ],
                                 [
-                                    146.875724,
-                                    -19.358087
+                                    144.565877,
+                                    -18.902244
                                 ],
                                 [
-                                    146.865397,
-                                    -19.354737
+                                    144.565848,
+                                    -18.902209
                                 ],
                                 [
-                                    146.86496,
-                                    -19.354802
+                                    144.544998,
+                                    -18.879415
                                 ],
                                 [
-                                    146.864744,
-                                    -19.354953
+                                    144.544448,
+                                    -18.879299
                                 ],
                                 [
-                                    146.864551,
-                                    -19.355299
+                                    144.543347,
+                                    -18.879763
                                 ],
                                 [
-                                    146.864274,
-                                    -19.362068
+                                    144.543183,
+                                    -18.879878
                                 ],
                                 [
-                                    146.864866,
-                                    -19.362524
+                                    144.490701,
+                                    -18.936934
+                                ],
+                                [
+                                    144.490647,
+                                    -18.937007
+                                ],
+                                [
+                                    144.452771,
+                                    -18.999917
+                                ],
+                                [
+                                    144.452744,
+                                    -18.999971
+                                ],
+                                [
+                                    144.364924,
+                                    -19.204392
+                                ],
+                                [
+                                    144.365338,
+                                    -19.205014
                                 ]
                             ]
                         ]
@@ -687,19 +788,19 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ10169",
+                "EVENT_ID": "25FN8493",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "8",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
-                "START": "6:43AM 08 Aug 2025",
-                "EST_FIX_TIME": "12:00PM 08 Aug 2025",
-                "STREETS": "BRUCE HWY, PRISON RES",
-                "SUBURBS": "JULAGO, STUART"
+                "START": "7:00AM 08 Aug 2025",
+                "EST_FIX_TIME": "5:00PM 08 Aug 2025",
+                "STREETS": "GULF DEVELOPMENTAL RD, KENNEDY DEVELOPMENT RD, UNKNOWN ST",
+                "SUBURBS": "EINASLEIGH, MOUNT SURPRISE"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1754609402.876988"
+    "extracted": "1754609700.297249"
 }
