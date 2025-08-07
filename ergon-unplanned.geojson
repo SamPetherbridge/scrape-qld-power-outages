@@ -10,6 +10,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.193014,
+                            -24.888657
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.194075,
+                                    -24.888845
+                                ],
+                                [
+                                    152.19256,
+                                    -24.887762
+                                ],
+                                [
+                                    152.191868,
+                                    -24.887838
+                                ],
+                                [
+                                    152.191952,
+                                    -24.88847
+                                ],
+                                [
+                                    152.193467,
+                                    -24.889553
+                                ],
+                                [
+                                    152.194159,
+                                    -24.889477
+                                ],
+                                [
+                                    152.194075,
+                                    -24.888845
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB8211",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "2:14PM 07 Aug 2025",
+                "EST_FIX_TIME": "6:00PM 07 Aug 2025",
+                "STREETS": "TEN MILE RD",
+                "SUBURBS": "SHARON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -65,123 +126,6 @@
                 "EST_FIX_TIME": "10:00AM 28 Aug 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            151.942514,
-                            -26.955083
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.870774,
-                                    -26.985549
-                                ],
-                                [
-                                    151.970076,
-                                    -27.02882
-                                ],
-                                [
-                                    151.970579,
-                                    -27.028787
-                                ],
-                                [
-                                    152.000513,
-                                    -27.010498
-                                ],
-                                [
-                                    152.000703,
-                                    -27.010277
-                                ],
-                                [
-                                    152.001541,
-                                    -27.008176
-                                ],
-                                [
-                                    152.00156,
-                                    -27.008116
-                                ],
-                                [
-                                    152.014498,
-                                    -26.952342
-                                ],
-                                [
-                                    152.014397,
-                                    -26.951967
-                                ],
-                                [
-                                    151.963475,
-                                    -26.895452
-                                ],
-                                [
-                                    151.963358,
-                                    -26.895357
-                                ],
-                                [
-                                    151.940414,
-                                    -26.882001
-                                ],
-                                [
-                                    151.940394,
-                                    -26.881989
-                                ],
-                                [
-                                    151.939167,
-                                    -26.881346
-                                ],
-                                [
-                                    151.93854,
-                                    -26.881435
-                                ],
-                                [
-                                    151.937862,
-                                    -26.882113
-                                ],
-                                [
-                                    151.937839,
-                                    -26.882138
-                                ],
-                                [
-                                    151.895407,
-                                    -26.931394
-                                ],
-                                [
-                                    151.89534,
-                                    -26.931497
-                                ],
-                                [
-                                    151.87053,
-                                    -26.984971
-                                ],
-                                [
-                                    151.870774,
-                                    -26.985549
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB8200",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "118",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "10:39AM 07 Aug 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "BLACKBUTT RANGE RD, COOYAR KOORALGIN RD, COOYAR RD, COOYAR-MT BINGA RD, CROWS NEST RD, FROHLOFFS RD, KING RD, KOORALGIN MOUNT BINGA RD, KOORALGIN RD, KOORALGIN UPPER YARRAMAN RD, KRUGERS RD, MCDOUGALLS RD, MIDDLETON RD, MOUNT BINGA RD, NUKKU RD, SANDERS RD, YARRAMAN-KOORALGIN RD",
-                "SUBURBS": "COOYAR, EMU CREEK, KOORALGIN, MOUNT BINGA, UPPER YARRAMAN"
             }
         },
         {
@@ -261,12 +205,113 @@
                 "EVENT_ID": "25CA10613",
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "18",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "REASON": "The loss of supply is due to public safety concerns.",
                 "STATUS": "Crews working on-site",
                 "START": "1:05PM 07 Aug 2025",
                 "EST_FIX_TIME": "8:00PM 07 Aug 2025",
                 "STREETS": "AMAH RD, BULLERY RD, GREGORY HWY, MONTROSE RD, OFF GREGORY HWY",
                 "SUBURBS": "CAPELLA, EMERALD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.132157,
+                            -26.645718
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.110997,
+                                    -26.673002
+                                ],
+                                [
+                                    151.123501,
+                                    -26.668891
+                                ],
+                                [
+                                    151.123617,
+                                    -26.668836
+                                ],
+                                [
+                                    151.148368,
+                                    -26.653189
+                                ],
+                                [
+                                    151.148526,
+                                    -26.653025
+                                ],
+                                [
+                                    151.150963,
+                                    -26.648746
+                                ],
+                                [
+                                    151.15101,
+                                    -26.648622
+                                ],
+                                [
+                                    151.153991,
+                                    -26.63392
+                                ],
+                                [
+                                    151.153838,
+                                    -26.633508
+                                ],
+                                [
+                                    151.144567,
+                                    -26.625829
+                                ],
+                                [
+                                    151.144363,
+                                    -26.625727
+                                ],
+                                [
+                                    151.115601,
+                                    -26.618434
+                                ],
+                                [
+                                    151.114966,
+                                    -26.618818
+                                ],
+                                [
+                                    151.112056,
+                                    -26.642743
+                                ],
+                                [
+                                    151.112054,
+                                    -26.642769
+                                ],
+                                [
+                                    151.110324,
+                                    -26.672555
+                                ],
+                                [
+                                    151.110997,
+                                    -26.673002
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25SW10524",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "2:00PM 07 Aug 2025",
+                "EST_FIX_TIME": "6:00PM 07 Aug 2025",
+                "STREETS": "CURDS RD, OLD BURRANDOWAN RD, WONDAI RD",
+                "SUBURBS": "JANDOWAE"
             }
         },
         {
@@ -663,5 +708,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1754538600.284907"
+    "extracted": "1754540101.923173"
 }
