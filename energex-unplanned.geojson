@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.078016,
-                            -27.560736
+                            153.095042,
+                            -26.487677
                         ]
                     },
                     {
@@ -19,48 +19,56 @@
                         "coordinates": [
                             [
                                 [
-                                    153.076984,
-                                    -27.561356
+                                    153.09357,
+                                    -26.488615
                                 ],
                                 [
-                                    153.07785,
-                                    -27.561731
+                                    153.093658,
+                                    -26.488864
                                 ],
                                 [
-                                    153.078469,
-                                    -27.561604
+                                    153.09391,
+                                    -26.48913
                                 ],
                                 [
-                                    153.079226,
-                                    -27.560749
+                                    153.095354,
+                                    -26.489789
                                 ],
                                 [
-                                    153.079015,
-                                    -27.560049
+                                    153.095831,
+                                    -26.489778
                                 ],
                                 [
-                                    153.07835,
-                                    -27.559814
+                                    153.096187,
+                                    -26.489594
                                 ],
                                 [
-                                    153.078263,
-                                    -27.559791
+                                    153.096438,
+                                    -26.489214
                                 ],
                                 [
-                                    153.077983,
-                                    -27.559741
+                                    153.096514,
+                                    -26.486544
                                 ],
                                 [
-                                    153.077485,
-                                    -27.559904
+                                    153.096498,
+                                    -26.486418
                                 ],
                                 [
-                                    153.076807,
-                                    -27.560671
+                                    153.096282,
+                                    -26.485679
                                 ],
                                 [
-                                    153.076984,
-                                    -27.561356
+                                    153.095364,
+                                    -26.485566
+                                ],
+                                [
+                                    153.093615,
+                                    -26.48825
+                                ],
+                                [
+                                    153.09357,
+                                    -26.488615
                                 ]
                             ]
                         ]
@@ -68,15 +76,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-880136-g",
+                "EVENT_ID": "INCD-880150-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "13",
+                "CUSTOMERS_AFFECTED": "55",
                 "REASON": "Emergency repairs in-progress",
                 "STATUS": "Awaiting",
-                "START": "5:06PM 08 Aug 2025",
-                "EST_FIX_TIME": "9:30PM 08 Aug 2025",
-                "STREETS": "KESSELS RD, MACGREGOR ST, PICKWORTH ST",
-                "SUBURBS": "UPPER MT GRAVATT",
+                "START": "7:33PM 08 Aug 2025",
+                "EST_FIX_TIME": "10:00PM 08 Aug 2025",
+                "STREETS": "LORIKEET DR, SHEARWATER ST",
+                "SUBURBS": "PEREGIAN BEACH",
                 "ETR_FLAG": "Y"
             }
         },
@@ -184,10 +192,88 @@
                 "REASON": "Emergency Repairs",
                 "STATUS": "Awaiting",
                 "START": "7:03PM 08 Aug 2025",
-                "EST_FIX_TIME": "8:30PM 08 Aug 2025",
+                "EST_FIX_TIME": "10:00PM 08 Aug 2025",
                 "STREETS": "ELIZABETH ST, HORAN ST, MARTIN ST, MARY ST, WAGHORN ST",
                 "SUBURBS": "WOODEND",
                 "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.078016,
+                            -27.560736
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.076984,
+                                    -27.561356
+                                ],
+                                [
+                                    153.07785,
+                                    -27.561731
+                                ],
+                                [
+                                    153.078469,
+                                    -27.561604
+                                ],
+                                [
+                                    153.079226,
+                                    -27.560749
+                                ],
+                                [
+                                    153.079015,
+                                    -27.560049
+                                ],
+                                [
+                                    153.07835,
+                                    -27.559814
+                                ],
+                                [
+                                    153.078263,
+                                    -27.559791
+                                ],
+                                [
+                                    153.077983,
+                                    -27.559741
+                                ],
+                                [
+                                    153.077485,
+                                    -27.559904
+                                ],
+                                [
+                                    153.076807,
+                                    -27.560671
+                                ],
+                                [
+                                    153.076984,
+                                    -27.561356
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-880136-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "13",
+                "REASON": "Emergency repairs in-progress",
+                "STATUS": "Awaiting",
+                "START": "5:06PM 08 Aug 2025",
+                "EST_FIX_TIME": "9:30PM 08 Aug 2025",
+                "STREETS": "KESSELS RD, MACGREGOR ST, PICKWORTH ST",
+                "SUBURBS": "UPPER MT GRAVATT",
+                "ETR_FLAG": "Y"
             }
         },
         {
@@ -286,100 +372,14 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "4:44PM 08 Aug 2025",
-                "EST_FIX_TIME": "8:30PM 08 Aug 2025",
+                "EST_FIX_TIME": "9:00PM 08 Aug 2025",
                 "STREETS": "WINSTON RD",
                 "SUBURBS": "PALMWOODS",
                 "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.095042,
-                            -26.487677
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.09357,
-                                    -26.488615
-                                ],
-                                [
-                                    153.093658,
-                                    -26.488864
-                                ],
-                                [
-                                    153.09391,
-                                    -26.48913
-                                ],
-                                [
-                                    153.095354,
-                                    -26.489789
-                                ],
-                                [
-                                    153.095831,
-                                    -26.489778
-                                ],
-                                [
-                                    153.096187,
-                                    -26.489594
-                                ],
-                                [
-                                    153.096438,
-                                    -26.489214
-                                ],
-                                [
-                                    153.096514,
-                                    -26.486544
-                                ],
-                                [
-                                    153.096498,
-                                    -26.486418
-                                ],
-                                [
-                                    153.096282,
-                                    -26.485679
-                                ],
-                                [
-                                    153.095364,
-                                    -26.485566
-                                ],
-                                [
-                                    153.093615,
-                                    -26.48825
-                                ],
-                                [
-                                    153.09357,
-                                    -26.488615
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-880150-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "55",
-                "REASON": "Emergency repairs in-progress",
-                "STATUS": "Awaiting",
-                "START": "7:33PM 08 Aug 2025",
-                "EST_FIX_TIME": "10:00PM 08 Aug 2025",
-                "STREETS": "LORIKEET DR, SHEARWATER ST",
-                "SUBURBS": "PEREGIAN BEACH",
-                "ETR_FLAG": "Y"
             }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1754648700.2885"
+    "extracted": "1754649600.255438"
 }
