@@ -10,6 +10,107 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            146.775434,
+                            -19.305553
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.774574,
+                                    -19.307047
+                                ],
+                                [
+                                    146.775006,
+                                    -19.306744
+                                ],
+                                [
+                                    146.77502,
+                                    -19.306734
+                                ],
+                                [
+                                    146.776669,
+                                    -19.30549
+                                ],
+                                [
+                                    146.776814,
+                                    -19.305306
+                                ],
+                                [
+                                    146.777052,
+                                    -19.304751
+                                ],
+                                [
+                                    146.776632,
+                                    -19.30413
+                                ],
+                                [
+                                    146.774893,
+                                    -19.304058
+                                ],
+                                [
+                                    146.774829,
+                                    -19.304059
+                                ],
+                                [
+                                    146.774513,
+                                    -19.304086
+                                ],
+                                [
+                                    146.77424,
+                                    -19.304199
+                                ],
+                                [
+                                    146.774148,
+                                    -19.304277
+                                ],
+                                [
+                                    146.773991,
+                                    -19.304573
+                                ],
+                                [
+                                    146.773926,
+                                    -19.305248
+                                ],
+                                [
+                                    146.773925,
+                                    -19.305256
+                                ],
+                                [
+                                    146.773816,
+                                    -19.306651
+                                ],
+                                [
+                                    146.774574,
+                                    -19.307047
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ10213",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "48",
+                "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
+                "STATUS": "Crews on route",
+                "START": "4:24PM 08 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ESPERANCE CT, MEADOWBROOK DR, RIVER PDE",
+                "SUBURBS": "AITKENVALE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -230,116 +331,15 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "2",
                 "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
-                "STATUS": "Crews working on-site",
+                "STATUS": "Work delayed - crews unable to continue",
                 "START": "3:34PM 07 Aug 2025",
                 "EST_FIX_TIME": "5:00PM 09 Aug 2025",
                 "STREETS": "STATION RD",
                 "SUBURBS": "CRYSTAL BROOK"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.775434,
-                            -19.305553
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.774574,
-                                    -19.307047
-                                ],
-                                [
-                                    146.775006,
-                                    -19.306744
-                                ],
-                                [
-                                    146.77502,
-                                    -19.306734
-                                ],
-                                [
-                                    146.776669,
-                                    -19.30549
-                                ],
-                                [
-                                    146.776814,
-                                    -19.305306
-                                ],
-                                [
-                                    146.777052,
-                                    -19.304751
-                                ],
-                                [
-                                    146.776632,
-                                    -19.30413
-                                ],
-                                [
-                                    146.774893,
-                                    -19.304058
-                                ],
-                                [
-                                    146.774829,
-                                    -19.304059
-                                ],
-                                [
-                                    146.774513,
-                                    -19.304086
-                                ],
-                                [
-                                    146.77424,
-                                    -19.304199
-                                ],
-                                [
-                                    146.774148,
-                                    -19.304277
-                                ],
-                                [
-                                    146.773991,
-                                    -19.304573
-                                ],
-                                [
-                                    146.773926,
-                                    -19.305248
-                                ],
-                                [
-                                    146.773925,
-                                    -19.305256
-                                ],
-                                [
-                                    146.773816,
-                                    -19.306651
-                                ],
-                                [
-                                    146.774574,
-                                    -19.307047
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ10213",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "48",
-                "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
-                "STATUS": "Crews on route",
-                "START": "4:24PM 08 Aug 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "ESPERANCE CT, MEADOWBROOK DR, RIVER PDE",
-                "SUBURBS": "AITKENVALE"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1754638500.306452"
+    "extracted": "1754638801.565647"
 }
