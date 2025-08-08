@@ -10,67 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.35464,
-                            -20.519912
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.36554,
-                                    -20.535744
-                                ],
-                                [
-                                    148.344557,
-                                    -20.503608
-                                ],
-                                [
-                                    148.343897,
-                                    -20.503459
-                                ],
-                                [
-                                    148.34374,
-                                    -20.504081
-                                ],
-                                [
-                                    148.364724,
-                                    -20.536217
-                                ],
-                                [
-                                    148.365383,
-                                    -20.536365
-                                ],
-                                [
-                                    148.36554,
-                                    -20.535744
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK6005",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "3:34PM 07 Aug 2025",
-                "EST_FIX_TIME": "5:00PM 09 Aug 2025",
-                "STREETS": "STATION RD",
-                "SUBURBS": "CRYSTAL BROOK"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             148.699115,
                             -21.127962
                         ]
@@ -126,6 +65,67 @@
                 "EST_FIX_TIME": "10:00AM 28 Aug 2025",
                 "STREETS": "MACKAY EUNGELLA RD, OWENS CREEK RD, SCHOOL RD",
                 "SUBURBS": "OWENS CREEK, PINNACLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            148.35464,
+                            -20.519912
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.36554,
+                                    -20.535744
+                                ],
+                                [
+                                    148.344557,
+                                    -20.503608
+                                ],
+                                [
+                                    148.343897,
+                                    -20.503459
+                                ],
+                                [
+                                    148.34374,
+                                    -20.504081
+                                ],
+                                [
+                                    148.364724,
+                                    -20.536217
+                                ],
+                                [
+                                    148.365383,
+                                    -20.536365
+                                ],
+                                [
+                                    148.36554,
+                                    -20.535744
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK6005",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage caused by accidental contact with powerlines by a third party. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "3:34PM 07 Aug 2025",
+                "EST_FIX_TIME": "5:00PM 09 Aug 2025",
+                "STREETS": "STATION RD",
+                "SUBURBS": "CRYSTAL BROOK"
             }
         },
         {
@@ -346,79 +346,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.419326,
-                            -24.852166
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.418421,
-                                    -24.852162
-                                ],
-                                [
-                                    152.418459,
-                                    -24.852389
-                                ],
-                                [
-                                    152.419106,
-                                    -24.852747
-                                ],
-                                [
-                                    152.419369,
-                                    -24.852665
-                                ],
-                                [
-                                    152.419399,
-                                    -24.852655
-                                ],
-                                [
-                                    152.419941,
-                                    -24.85245
-                                ],
-                                [
-                                    152.420231,
-                                    -24.851929
-                                ],
-                                [
-                                    152.419713,
-                                    -24.851586
-                                ],
-                                [
-                                    152.41887,
-                                    -24.851646
-                                ],
-                                [
-                                    152.418421,
-                                    -24.852162
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB8259",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "7:20PM 08 Aug 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "WINDERMERE RD",
-                "SUBURBS": "BUNDABERG, WINDERMERE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             150.739596,
                             -23.345388
                         ]
@@ -475,5 +402,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1754654101.210341"
+    "extracted": "1754655001.83238"
 }
