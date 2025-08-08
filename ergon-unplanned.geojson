@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            139.4904,
-                            -20.726583
+                            151.939143,
+                            -27.533909
                         ]
                     },
                     {
@@ -19,48 +19,72 @@
                         "coordinates": [
                             [
                                 [
-                                    139.489591,
-                                    -20.726393
+                                    151.936335,
+                                    -27.533941
                                 ],
                                 [
-                                    139.490151,
-                                    -20.72738
+                                    151.937212,
+                                    -27.535842
                                 ],
                                 [
-                                    139.490967,
-                                    -20.727419
+                                    151.937632,
+                                    -27.536118
                                 ],
                                 [
-                                    139.49113,
-                                    -20.727192
+                                    151.939688,
+                                    -27.536289
                                 ],
                                 [
-                                    139.49121,
-                                    -20.72691
+                                    151.94004,
+                                    -27.536199
                                 ],
                                 [
-                                    139.491173,
-                                    -20.726421
+                                    151.941627,
+                                    -27.535124
                                 ],
                                 [
-                                    139.491075,
-                                    -20.726178
+                                    151.941803,
+                                    -27.534904
                                 ],
                                 [
-                                    139.490965,
-                                    -20.726045
+                                    151.941951,
+                                    -27.534494
                                 ],
                                 [
-                                    139.490706,
-                                    -20.725885
+                                    151.941879,
+                                    -27.534092
                                 ],
                                 [
-                                    139.490129,
-                                    -20.725747
+                                    151.939928,
+                                    -27.531685
                                 ],
                                 [
-                                    139.489591,
-                                    -20.726393
+                                    151.939337,
+                                    -27.531529
+                                ],
+                                [
+                                    151.938033,
+                                    -27.531977
+                                ],
+                                [
+                                    151.937879,
+                                    -27.532061
+                                ],
+                                [
+                                    151.936669,
+                                    -27.533022
+                                ],
+                                [
+                                    151.936543,
+                                    -27.533177
+                                ],
+                                [
+                                    151.93634,
+                                    -27.533589
+                                ],
+                                [
+                                    151.936335,
+                                    -27.533941
                                 ]
                             ]
                         ]
@@ -68,15 +92,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ10214",
+                "EVENT_ID": "25SW10596",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "8",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
-                "START": "6:18PM 08 Aug 2025",
-                "EST_FIX_TIME": "11:30PM 08 Aug 2025",
-                "STREETS": "WEST ST",
-                "SUBURBS": "MENZIES, MOUNT ISA CITY"
+                "CUSTOMERS_AFFECTED": "122",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "8:47PM 08 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "CLOAKE ST, ESMOND ST, HARTH ST, HOLBERTON ST, KETTLE ST, LEAHY ST, MAKEPEACE ST, PRIEST ST, VANITY ST",
+                "SUBURBS": "ROCKVILLE"
             }
         },
         {
@@ -386,9 +410,70 @@
                 "STREETS": "WINDERMERE RD",
                 "SUBURBS": "BUNDABERG, WINDERMERE"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            150.739596,
+                            -23.345388
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.739145,
+                                    -23.34491
+                                ],
+                                [
+                                    150.739074,
+                                    -23.345799
+                                ],
+                                [
+                                    150.739525,
+                                    -23.346282
+                                ],
+                                [
+                                    150.740048,
+                                    -23.345865
+                                ],
+                                [
+                                    150.740119,
+                                    -23.344976
+                                ],
+                                [
+                                    150.739667,
+                                    -23.344493
+                                ],
+                                [
+                                    150.739145,
+                                    -23.34491
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA10664",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+                "STATUS": "Outage reported",
+                "START": "8:47PM 08 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "KEPPEL SANDS RD",
+                "SUBURBS": "TUNGAMULL"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1754653200.740338"
+    "extracted": "1754653800.231673"
 }
