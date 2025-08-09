@@ -29,20 +29,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.998677,
-                    -27.986791
+                    153.006647,
+                    -27.465448
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-869580-g",
+                "EVENT_ID": "INCD-874459-g",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "50",
+                "CUSTOMERS_AFFECTED": "18",
                 "REASON": "Planned Maintenance",
                 "STATUS": "Scheduled",
-                "START": "8:00AM 10 Aug 2025",
-                "EST_FIX_TIME": "4:00PM 10 Aug 2025",
-                "STREETS": "ANNA ST, EAGLESFIELD ST",
-                "SUBURBS": "BEAUDESERT",
+                "START": "7:00AM 10 Aug 2025",
+                "EST_FIX_TIME": "2:30PM 10 Aug 2025",
+                "STREETS": "MAYNEVIEW ST",
+                "SUBURBS": "MILTON",
                 "ETR_FLAG": "N"
             }
         },
@@ -73,42 +73,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.006647,
-                    -27.465448
+                    152.998677,
+                    -27.986791
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-874459-g",
+                "EVENT_ID": "INCD-869580-g",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "18",
+                "CUSTOMERS_AFFECTED": "50",
                 "REASON": "Planned Maintenance",
                 "STATUS": "Scheduled",
-                "START": "7:00AM 10 Aug 2025",
-                "EST_FIX_TIME": "2:30PM 10 Aug 2025",
-                "STREETS": "MAYNEVIEW ST",
-                "SUBURBS": "MILTON",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.426135,
-                    -27.987038
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-877016-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Scheduled",
-                "START": "9:00AM 10 Aug 2025",
-                "EST_FIX_TIME": "1:30PM 10 Aug 2025",
-                "STREETS": "ADMIRALTY DR, COMMODORE DR",
-                "SUBURBS": "SURFERS PARADISE",
+                "START": "8:00AM 10 Aug 2025",
+                "EST_FIX_TIME": "4:00PM 10 Aug 2025",
+                "STREETS": "ANNA ST, EAGLESFIELD ST",
+                "SUBURBS": "BEAUDESERT",
                 "ETR_FLAG": "N"
             }
         },
@@ -161,6 +139,28 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    153.426135,
+                    -27.987038
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-877016-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Scheduled",
+                "START": "9:00AM 10 Aug 2025",
+                "EST_FIX_TIME": "1:30PM 10 Aug 2025",
+                "STREETS": "ADMIRALTY DR, COMMODORE DR",
+                "SUBURBS": "SURFERS PARADISE",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.394487,
                     -27.995339
                 ]
@@ -181,5 +181,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1754767500.364551"
+    "extracted": "1754768101.522573"
 }
