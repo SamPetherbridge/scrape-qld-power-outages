@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "name": "UNPLANNED",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.387,
+                            -19.748624
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.259984,
+                                    -19.708695
+                                ],
+                                [
+                                    146.513734,
+                                    -19.802264
+                                ],
+                                [
+                                    146.514318,
+                                    -19.802072
+                                ],
+                                [
+                                    146.514212,
+                                    -19.801495
+                                ],
+                                [
+                                    146.479435,
+                                    -19.774137
+                                ],
+                                [
+                                    146.479364,
+                                    -19.774091
+                                ],
+                                [
+                                    146.331421,
+                                    -19.695034
+                                ],
+                                [
+                                    146.331097,
+                                    -19.694984
+                                ],
+                                [
+                                    146.260068,
+                                    -19.70783
+                                ],
+                                [
+                                    146.259683,
+                                    -19.708233
+                                ],
+                                [
+                                    146.259984,
+                                    -19.708695
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ10227",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "The loss of supply is due to the operating of protective equipment. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "2:25PM 09 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "DOTSWOOD RD, MYRTLEVALE STATION, SOMERVIEW STATION",
+                "SUBURBS": "MINGELA"
+            }
+        }
+    ],
+    "company": "Ergon",
+    "state": "Current",
+    "extracted": "1754774712.788872"
+}
