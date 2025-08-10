@@ -51,28 +51,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.426135,
-                    -27.987038
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-877016-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Completed",
-                "START": "9:00AM 10 Aug 2025",
-                "EST_FIX_TIME": "2:30PM 10 Aug 2025",
-                "STREETS": "ADMIRALTY DR, COMMODORE DR",
-                "SUBURBS": "SURFERS PARADISE",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     152.998677,
                     -27.986791
                 ]
@@ -133,9 +111,31 @@
                 "SUBURBS": "MILTON",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.426135,
+                    -27.987038
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-877016-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Completed",
+                "START": "9:00AM 10 Aug 2025",
+                "EST_FIX_TIME": "2:30PM 10 Aug 2025",
+                "STREETS": "ADMIRALTY DR, COMMODORE DR",
+                "SUBURBS": "SURFERS PARADISE",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1754821809.031038"
+    "extracted": "1754822401.762925"
 }
