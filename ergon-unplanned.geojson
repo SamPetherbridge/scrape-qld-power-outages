@@ -10,6 +10,59 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            142.254802,
+                            -18.218317
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    142.255273,
+                                    -18.218328
+                                ],
+                                [
+                                    142.254814,
+                                    -18.217866
+                                ],
+                                [
+                                    142.254331,
+                                    -18.218305
+                                ],
+                                [
+                                    142.25479,
+                                    -18.218767
+                                ],
+                                [
+                                    142.255273,
+                                    -18.218328
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN8550",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "7:56AM 11 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "ALLDRIDGE ST, HASLER ST",
+                "SUBURBS": "CROYDON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.550398,
                             -27.016187
                         ]
@@ -114,5 +167,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1754862600.85838"
+    "extracted": "1754863201.957166"
 }
