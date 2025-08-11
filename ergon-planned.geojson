@@ -7,27 +7,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    146.762461,
-                    -19.301352
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ9210",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "57",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "9:30AM 11 Aug 2025",
-                "EST_FIX_TIME": "2:00PM 11 Aug 2025",
-                "STREETS": "ALFRED ST, ARTHUR ST, NATHAN ST, POPE ST",
-                "SUBURBS": "AITKENVALE, CRANBROOK"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     146.53595,
                     -20.135253
                 ]
@@ -85,9 +64,30 @@
                 "STREETS": "SYNDICATE RD, TATI RD",
                 "SUBURBS": "MIALLO, WHYANBEEL"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.762461,
+                    -19.301352
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ9210",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "57",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "9:30AM 11 Aug 2025",
+                "EST_FIX_TIME": "2:00PM 11 Aug 2025",
+                "STREETS": "ALFRED ST, ARTHUR ST, NATHAN ST, POPE ST",
+                "SUBURBS": "AITKENVALE, CRANBROOK"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1754879700.295027"
+    "extracted": "1754882107.417407"
 }
