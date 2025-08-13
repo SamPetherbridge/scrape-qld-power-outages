@@ -10,6 +10,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.559993,
+                            -26.12384
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.561142,
+                                    -26.124456
+                                ],
+                                [
+                                    152.559635,
+                                    -26.122679
+                                ],
+                                [
+                                    152.558936,
+                                    -26.122595
+                                ],
+                                [
+                                    152.558843,
+                                    -26.123225
+                                ],
+                                [
+                                    152.56035,
+                                    -26.125002
+                                ],
+                                [
+                                    152.561049,
+                                    -26.125086
+                                ],
+                                [
+                                    152.561142,
+                                    -26.124456
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB8396",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "4:02PM 13 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "WIDE BAY HWY",
+                "SUBURBS": "BELLS BRIDGE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             147.259862,
                             -19.622811
                         ]
@@ -276,8 +337,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.559993,
-                            -26.12384
+                            145.460278,
+                            -16.520725
                         ]
                     },
                     {
@@ -285,66 +346,13 @@
                         "coordinates": [
                             [
                                 [
-                                    152.561142,
-                                    -26.124456
+                                    145.458038,
+                                    -16.518414
                                 ],
                                 [
-                                    152.559635,
-                                    -26.122679
+                                    145.458522,
+                                    -16.521744
                                 ],
-                                [
-                                    152.558936,
-                                    -26.122595
-                                ],
-                                [
-                                    152.558843,
-                                    -26.123225
-                                ],
-                                [
-                                    152.56035,
-                                    -26.125002
-                                ],
-                                [
-                                    152.561049,
-                                    -26.125086
-                                ],
-                                [
-                                    152.561142,
-                                    -26.124456
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB8396",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "4:02PM 13 Aug 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "WIDE BAY HWY",
-                "SUBURBS": "BELLS BRIDGE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            145.460519,
-                            -16.521334
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
                                 [
                                     145.458552,
                                     -16.52185
@@ -378,24 +386,32 @@
                                     -16.519664
                                 ],
                                 [
-                                    145.462083,
-                                    -16.519107
+                                    145.462267,
+                                    -16.519152
                                 ],
                                 [
-                                    145.45924,
-                                    -16.518984
+                                    145.459651,
+                                    -16.517923
                                 ],
                                 [
-                                    145.458753,
-                                    -16.51939
+                                    145.459538,
+                                    -16.517886
                                 ],
                                 [
-                                    145.45852,
-                                    -16.521636
+                                    145.458919,
+                                    -16.517766
                                 ],
                                 [
-                                    145.458552,
-                                    -16.52185
+                                    145.458634,
+                                    -16.517797
+                                ],
+                                [
+                                    145.458309,
+                                    -16.517939
+                                ],
+                                [
+                                    145.458038,
+                                    -16.518414
                                 ]
                             ]
                         ]
@@ -405,11 +421,11 @@
             "properties": {
                 "EVENT_ID": "25FN8636",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "51",
+                "CUSTOMERS_AFFECTED": "72",
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
                 "START": "3:03PM 13 Aug 2025",
-                "EST_FIX_TIME": "6:30PM 13 Aug 2025",
+                "EST_FIX_TIME": "5:23PM 13 Aug 2025",
                 "STREETS": "ARLINGTON CL, EGRET CL, ENDEAVOUR ST, HOPE ST, ST CRISPINS AVE",
                 "SUBURBS": "PORT DOUGLAS"
             }
@@ -417,5 +433,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1755069602.449439"
+    "extracted": "1755070208.607726"
 }
