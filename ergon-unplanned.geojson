@@ -10,6 +10,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            150.768401,
+                            -23.241558
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.75967,
+                                    -23.24289
+                                ],
+                                [
+                                    150.777003,
+                                    -23.24494
+                                ],
+                                [
+                                    150.777532,
+                                    -23.244362
+                                ],
+                                [
+                                    150.775735,
+                                    -23.238895
+                                ],
+                                [
+                                    150.775347,
+                                    -23.238581
+                                ],
+                                [
+                                    150.772732,
+                                    -23.238182
+                                ],
+                                [
+                                    150.772639,
+                                    -23.238177
+                                ],
+                                [
+                                    150.765813,
+                                    -23.238355
+                                ],
+                                [
+                                    150.765664,
+                                    -23.238381
+                                ],
+                                [
+                                    150.760265,
+                                    -23.240148
+                                ],
+                                [
+                                    150.759967,
+                                    -23.240427
+                                ],
+                                [
+                                    150.759271,
+                                    -23.242296
+                                ],
+                                [
+                                    150.75967,
+                                    -23.24289
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA10801",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews on route",
+                "START": "10:43PM 13 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "DELANDELLES RD",
+                "SUBURBS": "TANBY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.146232,
                             -24.689106
                         ]
@@ -240,94 +325,9 @@
                 "STREETS": "WIDE BAY HWY",
                 "SUBURBS": "BELLS BRIDGE"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            150.768401,
-                            -23.241558
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    150.75967,
-                                    -23.24289
-                                ],
-                                [
-                                    150.777003,
-                                    -23.24494
-                                ],
-                                [
-                                    150.777532,
-                                    -23.244362
-                                ],
-                                [
-                                    150.775735,
-                                    -23.238895
-                                ],
-                                [
-                                    150.775347,
-                                    -23.238581
-                                ],
-                                [
-                                    150.772732,
-                                    -23.238182
-                                ],
-                                [
-                                    150.772639,
-                                    -23.238177
-                                ],
-                                [
-                                    150.765813,
-                                    -23.238355
-                                ],
-                                [
-                                    150.765664,
-                                    -23.238381
-                                ],
-                                [
-                                    150.760265,
-                                    -23.240148
-                                ],
-                                [
-                                    150.759967,
-                                    -23.240427
-                                ],
-                                [
-                                    150.759271,
-                                    -23.242296
-                                ],
-                                [
-                                    150.75967,
-                                    -23.24289
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA10801",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews on route",
-                "START": "10:43PM 13 Aug 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "DELANDELLES RD",
-                "SUBURBS": "TANBY"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1755093301.286088"
+    "extracted": "1755093901.83856"
 }
