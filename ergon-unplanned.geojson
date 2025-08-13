@@ -375,11 +375,88 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "45",
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
+                "STATUS": "Work delayed. Crew unable to continue.",
                 "START": "12:03PM 13 Aug 2025",
                 "EST_FIX_TIME": "4:00PM 13 Aug 2025",
                 "STREETS": "BELTANA DR, BRIN ST, MALPAS ST, PITTSBAY CRES, TARCOOLA DR",
                 "SUBURBS": "BOYNE ISLAND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            143.548719,
+                            -18.297358
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    143.547717,
+                                    -18.295699
+                                ],
+                                [
+                                    143.547711,
+                                    -18.297011
+                                ],
+                                [
+                                    143.54773,
+                                    -18.297139
+                                ],
+                                [
+                                    143.548335,
+                                    -18.299126
+                                ],
+                                [
+                                    143.548786,
+                                    -18.299451
+                                ],
+                                [
+                                    143.549241,
+                                    -18.299129
+                                ],
+                                [
+                                    143.549727,
+                                    -18.297575
+                                ],
+                                [
+                                    143.549681,
+                                    -18.297215
+                                ],
+                                [
+                                    143.548595,
+                                    -18.29547
+                                ],
+                                [
+                                    143.548065,
+                                    -18.295265
+                                ],
+                                [
+                                    143.547717,
+                                    -18.295699
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25FN8646",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "6",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "3:22PM 13 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "FORSAYTH RD, LOW ST, ST GEORGE ST",
+                "SUBURBS": "GEORGETOWN"
             }
         },
         {
@@ -446,5 +523,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1755062101.676234"
+    "extracted": "1755063011.030553"
 }
