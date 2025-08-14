@@ -72,8 +72,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.809832,
-                            -26.226886
+                            152.734394,
+                            -26.023909
                         ]
                     },
                     {
@@ -81,48 +81,40 @@
                         "coordinates": [
                             [
                                 [
-                                    152.805643,
-                                    -26.225028
+                                    152.728998,
+                                    -26.026682
                                 ],
                                 [
-                                    152.809176,
-                                    -26.228837
+                                    152.735264,
+                                    -26.028213
                                 ],
                                 [
-                                    152.80929,
-                                    -26.228928
+                                    152.735711,
+                                    -26.028127
                                 ],
                                 [
-                                    152.813261,
-                                    -26.231216
+                                    152.739774,
+                                    -26.025129
                                 ],
                                 [
-                                    152.814022,
-                                    -26.230748
+                                    152.739952,
+                                    -26.024713
                                 ],
                                 [
-                                    152.812605,
-                                    -26.224258
+                                    152.739162,
+                                    -26.019903
                                 ],
                                 [
-                                    152.812351,
-                                    -26.223947
+                                    152.738374,
+                                    -26.019605
                                 ],
                                 [
-                                    152.809484,
-                                    -26.222557
+                                    152.728835,
+                                    -26.025881
                                 ],
                                 [
-                                    152.808985,
-                                    -26.222569
-                                ],
-                                [
-                                    152.805765,
-                                    -26.224353
-                                ],
-                                [
-                                    152.805643,
-                                    -26.225028
+                                    152.728998,
+                                    -26.026682
                                 ]
                             ]
                         ]
@@ -130,15 +122,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-881096-g",
+                "EVENT_ID": "INCD-881182-g",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "5",
+                "CUSTOMERS_AFFECTED": "7",
                 "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "1:33PM 14 Aug 2025",
-                "EST_FIX_TIME": "10:00PM 14 Aug 2025",
-                "STREETS": "BACON RD, GAP RD",
-                "SUBURBS": "CEDAR POCKET",
+                "STATUS": "Awaiting",
+                "START": "5:56PM 14 Aug 2025",
+                "EST_FIX_TIME": "8:00PM 14 Aug 2025",
+                "STREETS": "ANTIMONY RD, DAMM RD",
+                "SUBURBS": "DOWNSFIELD, KIA ORA, NEERDIE",
                 "ETR_FLAG": "N"
             }
         },
@@ -239,9 +231,87 @@
                 "SUBURBS": "BRASSALL, MUIRLEA, NORTH IPSWICH",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.809832,
+                            -26.226886
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.805643,
+                                    -26.225028
+                                ],
+                                [
+                                    152.809176,
+                                    -26.228837
+                                ],
+                                [
+                                    152.80929,
+                                    -26.228928
+                                ],
+                                [
+                                    152.813261,
+                                    -26.231216
+                                ],
+                                [
+                                    152.814022,
+                                    -26.230748
+                                ],
+                                [
+                                    152.812605,
+                                    -26.224258
+                                ],
+                                [
+                                    152.812351,
+                                    -26.223947
+                                ],
+                                [
+                                    152.809484,
+                                    -26.222557
+                                ],
+                                [
+                                    152.808985,
+                                    -26.222569
+                                ],
+                                [
+                                    152.805765,
+                                    -26.224353
+                                ],
+                                [
+                                    152.805643,
+                                    -26.225028
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-881096-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "5",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "1:33PM 14 Aug 2025",
+                "EST_FIX_TIME": "10:00PM 14 Aug 2025",
+                "STREETS": "BACON RD, GAP RD",
+                "SUBURBS": "CEDAR POCKET",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1755159307.665227"
+    "extracted": "1755160208.007096"
 }
