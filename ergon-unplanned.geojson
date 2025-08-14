@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.237591,
-                            -18.991984
+                            150.104537,
+                            -23.538094
                         ]
                     },
                     {
@@ -19,56 +19,24 @@
                         "coordinates": [
                             [
                                 [
-                                    146.197069,
-                                    -18.979994
+                                    150.105026,
+                                    -23.538084
                                 ],
                                 [
-                                    146.202793,
-                                    -19.009077
+                                    150.104526,
+                                    -23.537643
                                 ],
                                 [
-                                    146.203139,
-                                    -19.009431
+                                    150.104048,
+                                    -23.538104
                                 ],
                                 [
-                                    146.210212,
-                                    -19.011196
+                                    150.104548,
+                                    -23.538545
                                 ],
                                 [
-                                    146.210387,
-                                    -19.011208
-                                ],
-                                [
-                                    146.210631,
-                                    -19.011181
-                                ],
-                                [
-                                    146.210791,
-                                    -19.011136
-                                ],
-                                [
-                                    146.273975,
-                                    -18.980727
-                                ],
-                                [
-                                    146.274181,
-                                    -18.980534
-                                ],
-                                [
-                                    146.278113,
-                                    -18.97342
-                                ],
-                                [
-                                    146.277651,
-                                    -18.97276
-                                ],
-                                [
-                                    146.197495,
-                                    -18.97946
-                                ],
-                                [
-                                    146.197069,
-                                    -18.979994
+                                    150.105026,
+                                    -23.538084
                                 ]
                             ]
                         ]
@@ -76,15 +44,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ10371",
+                "EVENT_ID": "25CA10856",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "90",
+                "CUSTOMERS_AFFECTED": "2",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "5:03PM 14 Aug 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "INTAKE RD, LENNOX CRES, LOOKOUT RD, LOOP RD, MOUNT SPEC RD, MT SPEC EWAN RD, SMITH CRES, SPIEGELHAUER'S RD, WHALLEY CRES, YALGAYGUDU SHORT RD",
-                "SUBURBS": "MUTARNEE, PALUMA"
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "1:18PM 14 Aug 2025",
+                "EST_FIX_TIME": "3:00PM 15 Aug 2025",
+                "STREETS": "HI-VALLEY RD",
+                "SUBURBS": "WESTWOOD"
             }
         },
         {
@@ -186,59 +154,6 @@
                 "EST_FIX_TIME": "9:00PM 14 Aug 2025",
                 "STREETS": "ABELA CT, BAYVIEW DR, BOBONGIES RD, DANMAAR DR, HABANA WHARF RD, OLLETTS RD, SUMMERHILL RISE, YAKAPARI HABANA RD",
                 "SUBURBS": "HABANA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            150.104537,
-                            -23.538094
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    150.105026,
-                                    -23.538084
-                                ],
-                                [
-                                    150.104526,
-                                    -23.537643
-                                ],
-                                [
-                                    150.104048,
-                                    -23.538104
-                                ],
-                                [
-                                    150.104548,
-                                    -23.538545
-                                ],
-                                [
-                                    150.105026,
-                                    -23.538084
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA10856",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "1:18PM 14 Aug 2025",
-                "EST_FIX_TIME": "3:00PM 15 Aug 2025",
-                "STREETS": "HI-VALLEY RD",
-                "SUBURBS": "WESTWOOD"
             }
         },
         {
@@ -499,9 +414,94 @@
                 "STREETS": "CURRAWONG RD, DEEP CREEK RD, KALLIWA RD, MOUNT PERRY RD",
                 "SUBURBS": "BYRNESTOWN, MINGO, MOUNT PERRY"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            146.237591,
+                            -18.991984
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    146.197069,
+                                    -18.979994
+                                ],
+                                [
+                                    146.202793,
+                                    -19.009077
+                                ],
+                                [
+                                    146.203139,
+                                    -19.009431
+                                ],
+                                [
+                                    146.210212,
+                                    -19.011196
+                                ],
+                                [
+                                    146.210387,
+                                    -19.011208
+                                ],
+                                [
+                                    146.210631,
+                                    -19.011181
+                                ],
+                                [
+                                    146.210791,
+                                    -19.011136
+                                ],
+                                [
+                                    146.273975,
+                                    -18.980727
+                                ],
+                                [
+                                    146.274181,
+                                    -18.980534
+                                ],
+                                [
+                                    146.278113,
+                                    -18.97342
+                                ],
+                                [
+                                    146.277651,
+                                    -18.97276
+                                ],
+                                [
+                                    146.197495,
+                                    -18.97946
+                                ],
+                                [
+                                    146.197069,
+                                    -18.979994
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ10371",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "90",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "5:03PM 14 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "INTAKE RD, LENNOX CRES, LOOKOUT RD, LOOP RD, MOUNT SPEC RD, MT SPEC EWAN RD, SMITH CRES, SPIEGELHAUER'S RD, WHALLEY CRES, YALGAYGUDU SHORT RD",
+                "SUBURBS": "MUTARNEE, PALUMA"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1755162009.232631"
+    "extracted": "1755162907.34414"
 }
