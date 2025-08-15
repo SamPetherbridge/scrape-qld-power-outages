@@ -10,6 +10,76 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.894819,
+                            -26.56871
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.89306,
+                                    -26.568383
+                                ],
+                                [
+                                    152.896132,
+                                    -26.569866
+                                ],
+                                [
+                                    152.896804,
+                                    -26.569695
+                                ],
+                                [
+                                    152.896637,
+                                    -26.569086
+                                ],
+                                [
+                                    152.894434,
+                                    -26.567843
+                                ],
+                                [
+                                    152.894314,
+                                    -26.567793
+                                ],
+                                [
+                                    152.893445,
+                                    -26.567554
+                                ],
+                                [
+                                    152.892834,
+                                    -26.567811
+                                ],
+                                [
+                                    152.89306,
+                                    -26.568383
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-881499-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Emergency Repairs",
+                "STATUS": "In Progress",
+                "START": "4:45PM 15 Aug 2025",
+                "EST_FIX_TIME": "9:00PM 15 Aug 2025",
+                "STREETS": "ATKINSONS RD, ENGLISH RD",
+                "SUBURBS": "KIAMBA",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.573471,
                             -26.943274
                         ]
@@ -86,170 +156,14 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "6:42PM 15 Aug 2025",
-                "EST_FIX_TIME": "8:30PM 15 Aug 2025",
+                "EST_FIX_TIME": "10:30PM 15 Aug 2025",
                 "STREETS": "D'AGUILAR HWY, SALEYARD RD",
                 "SUBURBS": "WINYA",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.206936,
-                            -27.674813
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.206348,
-                                    -27.6753
-                                ],
-                                [
-                                    153.206462,
-                                    -27.675345
-                                ],
-                                [
-                                    153.206622,
-                                    -27.675381
-                                ],
-                                [
-                                    153.207283,
-                                    -27.675433
-                                ],
-                                [
-                                    153.207828,
-                                    -27.67491
-                                ],
-                                [
-                                    153.207791,
-                                    -27.674713
-                                ],
-                                [
-                                    153.207427,
-                                    -27.674351
-                                ],
-                                [
-                                    153.206786,
-                                    -27.674193
-                                ],
-                                [
-                                    153.206219,
-                                    -27.67439
-                                ],
-                                [
-                                    153.206123,
-                                    -27.674528
-                                ],
-                                [
-                                    153.206048,
-                                    -27.674756
-                                ],
-                                [
-                                    153.206045,
-                                    -27.674877
-                                ],
-                                [
-                                    153.206348,
-                                    -27.6753
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-881266-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "Emergency Repairs",
-                "STATUS": "In Progress",
-                "START": "5:50AM 15 Aug 2025",
-                "EST_FIX_TIME": "6:00PM 15 Aug 2025",
-                "STREETS": "MEDINAH CT",
-                "SUBURBS": "CORNUBIA",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.894819,
-                            -26.56871
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.89306,
-                                    -26.568383
-                                ],
-                                [
-                                    152.896132,
-                                    -26.569866
-                                ],
-                                [
-                                    152.896804,
-                                    -26.569695
-                                ],
-                                [
-                                    152.896637,
-                                    -26.569086
-                                ],
-                                [
-                                    152.894434,
-                                    -26.567843
-                                ],
-                                [
-                                    152.894314,
-                                    -26.567793
-                                ],
-                                [
-                                    152.893445,
-                                    -26.567554
-                                ],
-                                [
-                                    152.892834,
-                                    -26.567811
-                                ],
-                                [
-                                    152.89306,
-                                    -26.568383
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-881499-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Emergency Repairs",
-                "STATUS": "In Progress",
-                "START": "4:45PM 15 Aug 2025",
-                "EST_FIX_TIME": "9:00PM 15 Aug 2025",
-                "STREETS": "ATKINSONS RD, ENGLISH RD",
-                "SUBURBS": "KIAMBA",
                 "ETR_FLAG": "N"
             }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1755252312.734177"
+    "extracted": "1755253201.798397"
 }
