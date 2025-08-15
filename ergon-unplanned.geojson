@@ -143,6 +143,59 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            150.104537,
+                            -23.538094
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.105026,
+                                    -23.538084
+                                ],
+                                [
+                                    150.104526,
+                                    -23.537643
+                                ],
+                                [
+                                    150.104048,
+                                    -23.538104
+                                ],
+                                [
+                                    150.104548,
+                                    -23.538545
+                                ],
+                                [
+                                    150.105026,
+                                    -23.538084
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA10856",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "1:18PM 14 Aug 2025",
+                "EST_FIX_TIME": "11:00PM 16 Aug 2025",
+                "STREETS": "HI-VALLEY RD",
+                "SUBURBS": "WESTWOOD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             150.189611,
                             -23.546943
                         ]
@@ -276,59 +329,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            150.104537,
-                            -23.538094
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    150.105026,
-                                    -23.538084
-                                ],
-                                [
-                                    150.104526,
-                                    -23.537643
-                                ],
-                                [
-                                    150.104048,
-                                    -23.538104
-                                ],
-                                [
-                                    150.104548,
-                                    -23.538545
-                                ],
-                                [
-                                    150.105026,
-                                    -23.538084
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA10856",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "1:18PM 14 Aug 2025",
-                "EST_FIX_TIME": "11:00PM 16 Aug 2025",
-                "STREETS": "HI-VALLEY RD",
-                "SUBURBS": "WESTWOOD"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             145.376532,
                             -16.508224
                         ]
@@ -385,7 +385,7 @@
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
                 "STATUS": "Crews working on-site",
                 "START": "6:30AM 16 Aug 2025",
-                "EST_FIX_TIME": "Under Investigation",
+                "EST_FIX_TIME": "1:00PM 16 Aug 2025",
                 "STREETS": "BORZI RD, SHANNONVALE RD",
                 "SUBURBS": "MOSSMAN, SHANNONVALE"
             }
@@ -393,5 +393,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1755298201.091292"
+    "extracted": "1755298501.170255"
 }
