@@ -29,20 +29,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.662328,
-                    -26.185449
+                    153.065815,
+                    -27.569104
                 ]
             },
             "properties": {
-                "EVENT_ID": "INCD-874683-g",
+                "EVENT_ID": "INCD-875336-g",
                 "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "55",
+                "CUSTOMERS_AFFECTED": "41",
                 "REASON": "Planned Maintenance",
                 "STATUS": "Completed",
                 "START": "8:00AM 17 Aug 2025",
-                "EST_FIX_TIME": "3:30PM 17 Aug 2025",
-                "STREETS": "CHANNON ST, HENRY ST",
-                "SUBURBS": "GYMPIE",
+                "EST_FIX_TIME": "3:00PM 17 Aug 2025",
+                "STREETS": "CARNABY ST, LAMBETH PL, LEADENHALL ST, MAINS RD",
+                "SUBURBS": "MACGREGOR",
                 "ETR_FLAG": "N"
             }
         },
@@ -117,28 +117,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    152.997087,
-                    -27.985822
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-875781-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "26",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Completed",
-                "START": "8:00AM 17 Aug 2025",
-                "EST_FIX_TIME": "4:00PM 17 Aug 2025",
-                "STREETS": "ANNA ST, BRISBANE ST, EAGLESFIELD ST",
-                "SUBURBS": "BEAUDESERT",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     153.062915,
                     -27.57763
                 ]
@@ -183,6 +161,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    152.662328,
+                    -26.185449
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-874683-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "55",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Completed",
+                "START": "8:00AM 17 Aug 2025",
+                "EST_FIX_TIME": "3:30PM 17 Aug 2025",
+                "STREETS": "CHANNON ST, HENRY ST",
+                "SUBURBS": "GYMPIE",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.997087,
+                    -27.985822
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-875781-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "26",
+                "REASON": "Planned Maintenance",
+                "STATUS": "Completed",
+                "START": "8:00AM 17 Aug 2025",
+                "EST_FIX_TIME": "4:00PM 17 Aug 2025",
+                "STREETS": "ANNA ST, BRISBANE ST, EAGLESFIELD ST",
+                "SUBURBS": "BEAUDESERT",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     153.435075,
                     -28.063448
                 ]
@@ -199,31 +221,9 @@
                 "SUBURBS": "MIAMI",
                 "ETR_FLAG": "N"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    153.065815,
-                    -27.569104
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-875336-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "41",
-                "REASON": "Planned Maintenance",
-                "STATUS": "Completed",
-                "START": "8:00AM 17 Aug 2025",
-                "EST_FIX_TIME": "3:00PM 17 Aug 2025",
-                "STREETS": "CARNABY ST, LAMBETH PL, LEADENHALL ST, MAINS RD",
-                "SUBURBS": "MACGREGOR",
-                "ETR_FLAG": "N"
-            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1755416401.695607"
+    "extracted": "1755416705.037528"
 }
