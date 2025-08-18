@@ -10,6 +10,76 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.549839,
+                            -27.476479
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.548297,
+                                    -27.477749
+                                ],
+                                [
+                                    152.551585,
+                                    -27.477337
+                                ],
+                                [
+                                    152.55195,
+                                    -27.476659
+                                ],
+                                [
+                                    152.551436,
+                                    -27.475888
+                                ],
+                                [
+                                    152.551108,
+                                    -27.475677
+                                ],
+                                [
+                                    152.548671,
+                                    -27.475208
+                                ],
+                                [
+                                    152.548066,
+                                    -27.475568
+                                ],
+                                [
+                                    152.547728,
+                                    -27.477221
+                                ],
+                                [
+                                    152.548297,
+                                    -27.477749
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-881793-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "8",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "11:09AM 18 Aug 2025",
+                "EST_FIX_TIME": "1:30PM 18 Aug 2025",
+                "STREETS": "LOWOOD-MINDEN RD, SAXELBY RD",
+                "SUBURBS": "LOWOOD, TARAMPA",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.026305,
                             -27.712115
                         ]
@@ -112,92 +182,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            153.021224,
-                            -27.700267
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.01853,
-                                    -27.700636
-                                ],
-                                [
-                                    153.019823,
-                                    -27.702391
-                                ],
-                                [
-                                    153.020456,
-                                    -27.702554
-                                ],
-                                [
-                                    153.022899,
-                                    -27.701569
-                                ],
-                                [
-                                    153.023156,
-                                    -27.701334
-                                ],
-                                [
-                                    153.023931,
-                                    -27.699708
-                                ],
-                                [
-                                    153.02397,
-                                    -27.699498
-                                ],
-                                [
-                                    153.023874,
-                                    -27.698356
-                                ],
-                                [
-                                    153.023158,
-                                    -27.697979
-                                ],
-                                [
-                                    153.018848,
-                                    -27.699725
-                                ],
-                                [
-                                    153.018582,
-                                    -27.69998
-                                ],
-                                [
-                                    153.018478,
-                                    -27.700233
-                                ],
-                                [
-                                    153.01853,
-                                    -27.700636
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-881725-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "27",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "5:18AM 18 Aug 2025",
-                "EST_FIX_TIME": "11:00AM 18 Aug 2025",
-                "STREETS": "BIRDSVILLE ST, CREST RD, LENNONS RD",
-                "SUBURBS": "GREENBANK",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.018691,
                             -26.432374
                         ]
@@ -266,7 +250,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "8:09AM 18 Aug 2025",
-                "EST_FIX_TIME": "11:00AM 18 Aug 2025",
+                "EST_FIX_TIME": "1:30PM 18 Aug 2025",
                 "STREETS": "LENEHANS LANE, MIRBELIA PL",
                 "SUBURBS": "DOONAN",
                 "ETR_FLAG": "N"
@@ -275,5 +259,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1755477600.392889"
+    "extracted": "1755479400.412083"
 }
