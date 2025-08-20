@@ -144,6 +144,84 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.426942,
+                            -27.226687
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.417455,
+                                    -27.226113
+                                ],
+                                [
+                                    152.420952,
+                                    -27.233422
+                                ],
+                                [
+                                    152.421602,
+                                    -27.233664
+                                ],
+                                [
+                                    152.436275,
+                                    -27.228475
+                                ],
+                                [
+                                    152.436429,
+                                    -27.227722
+                                ],
+                                [
+                                    152.426752,
+                                    -27.219823
+                                ],
+                                [
+                                    152.426337,
+                                    -27.21971
+                                ],
+                                [
+                                    152.420253,
+                                    -27.220524
+                                ],
+                                [
+                                    152.419865,
+                                    -27.220791
+                                ],
+                                [
+                                    152.417456,
+                                    -27.225756
+                                ],
+                                [
+                                    152.417455,
+                                    -27.226113
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-882399-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "3:44PM 20 Aug 2025",
+                "EST_FIX_TIME": "6:30PM 20 Aug 2025",
+                "STREETS": "BRISBANE VALLEY HWY, FALLS RD, FRANCIS TCE",
+                "SUBURBS": "ESK",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.018541,
                             -27.458794
                         ]
@@ -366,7 +444,7 @@
                 "REASON": "Under Investigation",
                 "STATUS": "In Progress",
                 "START": "5:36AM 20 Aug 2025",
-                "EST_FIX_TIME": "5:00PM 20 Aug 2025",
+                "EST_FIX_TIME": "6:30PM 20 Aug 2025",
                 "STREETS": "DOONAN BRIDGE RD N, EUMUNDI NOOSA RD, GRAYS RD, NYELL RD, RUTCH RD",
                 "SUBURBS": "DOONAN",
                 "ETR_FLAG": "N"
@@ -375,5 +453,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1755668703.288921"
+    "extracted": "1755669001.229383"
 }
