@@ -10,76 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.502298,
-                            -27.537147
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.500751,
-                                    -27.5374
-                                ],
-                                [
-                                    152.502228,
-                                    -27.537595
-                                ],
-                                [
-                                    152.502229,
-                                    -27.537595
-                                ],
-                                [
-                                    152.503698,
-                                    -27.537786
-                                ],
-                                [
-                                    152.504272,
-                                    -27.537405
-                                ],
-                                [
-                                    152.503844,
-                                    -27.536893
-                                ],
-                                [
-                                    152.500898,
-                                    -27.536507
-                                ],
-                                [
-                                    152.500324,
-                                    -27.536888
-                                ],
-                                [
-                                    152.500751,
-                                    -27.5374
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-882652-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "3:45PM 21 Aug 2025",
-                "EST_FIX_TIME": "6:30PM 21 Aug 2025",
-                "STREETS": "MULLERS LANE",
-                "SUBURBS": "PRENZLAU",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.325394,
                             -28.059626
                         ]
@@ -149,9 +79,79 @@
                 "SUBURBS": "TALLAI",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.502298,
+                            -27.537147
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.500751,
+                                    -27.5374
+                                ],
+                                [
+                                    152.502228,
+                                    -27.537595
+                                ],
+                                [
+                                    152.502229,
+                                    -27.537595
+                                ],
+                                [
+                                    152.503698,
+                                    -27.537786
+                                ],
+                                [
+                                    152.504272,
+                                    -27.537405
+                                ],
+                                [
+                                    152.503844,
+                                    -27.536893
+                                ],
+                                [
+                                    152.500898,
+                                    -27.536507
+                                ],
+                                [
+                                    152.500324,
+                                    -27.536888
+                                ],
+                                [
+                                    152.500751,
+                                    -27.5374
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-882652-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "3:45PM 21 Aug 2025",
+                "EST_FIX_TIME": "7:00PM 21 Aug 2025",
+                "STREETS": "MULLERS LANE",
+                "SUBURBS": "PRENZLAU",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1755762912.758418"
+    "extracted": "1755763501.509252"
 }
