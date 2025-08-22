@@ -10,6 +10,67 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.738327,
+                            -20.89708
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.728951,
+                                    -20.892658
+                                ],
+                                [
+                                    148.741166,
+                                    -20.903652
+                                ],
+                                [
+                                    148.741939,
+                                    -20.903507
+                                ],
+                                [
+                                    148.747704,
+                                    -20.891139
+                                ],
+                                [
+                                    148.747225,
+                                    -20.890508
+                                ],
+                                [
+                                    148.729244,
+                                    -20.891882
+                                ],
+                                [
+                                    148.728951,
+                                    -20.892658
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK6367",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "8",
+                "REASON": "The loss of supply is due to fallen power lines.  ",
+                "STATUS": "Crews working on-site",
+                "START": "5:20AM 23 Aug 2025",
+                "EST_FIX_TIME": "12:00PM 23 Aug 2025",
+                "STREETS": "BARRON POCKET RD, COALMINE RD",
+                "SUBURBS": "CALEN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             149.53295,
                             -23.851387
                         ]
@@ -85,67 +146,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "COOMOO BARALABA RD, COOMOOBOOLAROO BARALABA RD, FITZROY DEVELOPMENT RD, PARKES RD",
                 "SUBURBS": "COOMOO, DUARINGA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            148.738327,
-                            -20.89708
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.728951,
-                                    -20.892658
-                                ],
-                                [
-                                    148.741166,
-                                    -20.903652
-                                ],
-                                [
-                                    148.741939,
-                                    -20.903507
-                                ],
-                                [
-                                    148.747704,
-                                    -20.891139
-                                ],
-                                [
-                                    148.747225,
-                                    -20.890508
-                                ],
-                                [
-                                    148.729244,
-                                    -20.891882
-                                ],
-                                [
-                                    148.728951,
-                                    -20.892658
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK6367",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "8",
-                "REASON": "The loss of supply is due to fallen power lines.  ",
-                "STATUS": "Crews working on-site",
-                "START": "5:20AM 23 Aug 2025",
-                "EST_FIX_TIME": "12:00PM 23 Aug 2025",
-                "STREETS": "BARRON POCKET RD, COALMINE RD",
-                "SUBURBS": "CALEN"
             }
         },
         {
@@ -242,7 +242,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "41",
                 "REASON": "The loss of supply is our repair crews are attending. Fault finding is in progress. ",
-                "STATUS": "Outage reported",
+                "STATUS": "Crews on route",
                 "START": "7:40AM 23 Aug 2025",
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "COUTTS DR, MT LOW PKWY, PARK VIEW TCE, VESTERMAN CT",
@@ -366,6 +366,115 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            149.955046,
+                            -24.237378
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    149.835819,
+                                    -24.20222
+                                ],
+                                [
+                                    149.867767,
+                                    -24.27625
+                                ],
+                                [
+                                    149.86785,
+                                    -24.276376
+                                ],
+                                [
+                                    149.869686,
+                                    -24.278357
+                                ],
+                                [
+                                    149.869848,
+                                    -24.278472
+                                ],
+                                [
+                                    149.925408,
+                                    -24.302934
+                                ],
+                                [
+                                    149.925711,
+                                    -24.30297
+                                ],
+                                [
+                                    150.073877,
+                                    -24.277589
+                                ],
+                                [
+                                    150.074273,
+                                    -24.277081
+                                ],
+                                [
+                                    150.06656,
+                                    -24.228677
+                                ],
+                                [
+                                    150.066258,
+                                    -24.228324
+                                ],
+                                [
+                                    149.935583,
+                                    -24.179743
+                                ],
+                                [
+                                    149.935562,
+                                    -24.179736
+                                ],
+                                [
+                                    149.911138,
+                                    -24.171785
+                                ],
+                                [
+                                    149.910781,
+                                    -24.171795
+                                ],
+                                [
+                                    149.858324,
+                                    -24.192164
+                                ],
+                                [
+                                    149.858309,
+                                    -24.19217
+                                ],
+                                [
+                                    149.836069,
+                                    -24.201645
+                                ],
+                                [
+                                    149.835819,
+                                    -24.20222
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA11091",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "33",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "8:30AM 23 Aug 2025",
+                "EST_FIX_TIME": "2:30PM 23 Aug 2025",
+                "STREETS": "BARALABA BANANA RD, BARALABA RANNES RD, KOKOTUNGO WANDOO RD, LOWRIES RD, REMFREYS RD, RIDERS RD, THEODORE-BARALABA RD",
+                "SUBURBS": "BARALABA, KOKOTUNGO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             146.723739,
                             -19.352746
                         ]
@@ -470,5 +579,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1755901806.971637"
+    "extracted": "1755902100.312491"
 }
