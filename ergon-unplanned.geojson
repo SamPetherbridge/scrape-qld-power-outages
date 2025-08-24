@@ -10,6 +10,95 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            147.842026,
+                            -20.585464
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    147.836308,
+                                    -20.591481
+                                ],
+                                [
+                                    147.843327,
+                                    -20.589672
+                                ],
+                                [
+                                    147.843374,
+                                    -20.589658
+                                ],
+                                [
+                                    147.846278,
+                                    -20.588596
+                                ],
+                                [
+                                    147.846509,
+                                    -20.588417
+                                ],
+                                [
+                                    147.848201,
+                                    -20.585913
+                                ],
+                                [
+                                    147.848275,
+                                    -20.585644
+                                ],
+                                [
+                                    147.847906,
+                                    -20.579821
+                                ],
+                                [
+                                    147.847207,
+                                    -20.579447
+                                ],
+                                [
+                                    147.845415,
+                                    -20.580317
+                                ],
+                                [
+                                    147.845271,
+                                    -20.580424
+                                ],
+                                [
+                                    147.835818,
+                                    -20.59075
+                                ],
+                                [
+                                    147.835776,
+                                    -20.591287
+                                ],
+                                [
+                                    147.836308,
+                                    -20.591481
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25NQ10629",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "8",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "7:30PM 24 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "CORDUROY CREEK RD, PELICAN CREEK RD, RICKS LANE",
+                "SUBURBS": "COLLINSVILLE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.946169,
                             -26.238003
                         ]
@@ -122,5 +211,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1756028709.451957"
+    "extracted": "1756029002.991603"
 }
