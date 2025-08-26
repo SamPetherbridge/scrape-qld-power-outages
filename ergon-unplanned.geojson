@@ -119,6 +119,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            150.778744,
+                            -23.649481
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.694983,
+                                    -23.649513
+                                ],
+                                [
+                                    150.822967,
+                                    -23.721374
+                                ],
+                                [
+                                    150.823666,
+                                    -23.721179
+                                ],
+                                [
+                                    150.824206,
+                                    -23.720108
+                                ],
+                                [
+                                    150.824236,
+                                    -23.720031
+                                ],
+                                [
+                                    150.862675,
+                                    -23.582883
+                                ],
+                                [
+                                    150.862262,
+                                    -23.582323
+                                ],
+                                [
+                                    150.821562,
+                                    -23.577587
+                                ],
+                                [
+                                    150.821304,
+                                    -23.577622
+                                ],
+                                [
+                                    150.711944,
+                                    -23.62184
+                                ],
+                                [
+                                    150.711718,
+                                    -23.622027
+                                ],
+                                [
+                                    150.694814,
+                                    -23.648902
+                                ],
+                                [
+                                    150.694983,
+                                    -23.649513
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA11197",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "43",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "9:49AM 26 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "LANGMORN ST, NORTON ST, PORT ALMA RD, RAGLAN ST, RAGLAN STATION RD",
+                "SUBURBS": "BAJOOL, RAGLAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.968325,
                             -27.45094
                         ]
@@ -316,7 +401,7 @@
             "properties": {
                 "EVENT_ID": "25SW11294",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "178",
+                "CUSTOMERS_AFFECTED": "80",
                 "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Crews working on-site",
                 "START": "7:57AM 26 Aug 2025",
@@ -328,5 +413,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1756165501.167351"
+    "extracted": "1756166700.374409"
 }
