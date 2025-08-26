@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            146.28534,
-                            -18.632308
+                            150.51628,
+                            -23.326047
                         ]
                     },
                     {
@@ -19,36 +19,56 @@
                         "coordinates": [
                             [
                                 [
-                                    146.280612,
-                                    -18.632205
+                                    150.51542,
+                                    -23.326006
                                 ],
                                 [
-                                    146.280698,
-                                    -18.63274
+                                    150.515886,
+                                    -23.328135
                                 ],
                                 [
-                                    146.28121,
-                                    -18.633122
+                                    150.5167,
+                                    -23.328373
                                 ],
                                 [
-                                    146.289636,
-                                    -18.632396
+                                    150.516876,
+                                    -23.328219
                                 ],
                                 [
-                                    146.290067,
-                                    -18.63192
+                                    150.517025,
+                                    -23.327951
                                 ],
                                 [
-                                    146.289583,
-                                    -18.631494
+                                    150.517137,
+                                    -23.327177
                                 ],
                                 [
-                                    146.28107,
-                                    -18.631685
+                                    150.517141,
+                                    -23.327099
                                 ],
                                 [
-                                    146.280612,
-                                    -18.632205
+                                    150.517015,
+                                    -23.32417
+                                ],
+                                [
+                                    150.516623,
+                                    -23.323746
+                                ],
+                                [
+                                    150.516492,
+                                    -23.323722
+                                ],
+                                [
+                                    150.515924,
+                                    -23.32405
+                                ],
+                                [
+                                    150.515426,
+                                    -23.325802
+                                ],
+                                [
+                                    150.51542,
+                                    -23.326006
                                 ]
                             ]
                         ]
@@ -56,15 +76,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ10712",
+                "EVENT_ID": "25CA11239",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "CUSTOMERS_AFFECTED": "26",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
                 "STATUS": "Crews working on-site",
-                "START": "8:37AM 27 Aug 2025",
-                "EST_FIX_TIME": "12:00PM 27 Aug 2025",
-                "STREETS": "MIZZIS RD",
-                "SUBURBS": "BRAEMEADOWS"
+                "START": "9:08AM 27 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "CARLTON ST, IBIS AVE, KILKENNY CT",
+                "SUBURBS": "KAWANA"
             }
         },
         {
@@ -387,91 +407,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            150.51628,
-                            -23.326047
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    150.51542,
-                                    -23.326006
-                                ],
-                                [
-                                    150.515886,
-                                    -23.328135
-                                ],
-                                [
-                                    150.5167,
-                                    -23.328373
-                                ],
-                                [
-                                    150.516876,
-                                    -23.328219
-                                ],
-                                [
-                                    150.517025,
-                                    -23.327951
-                                ],
-                                [
-                                    150.517137,
-                                    -23.327177
-                                ],
-                                [
-                                    150.517141,
-                                    -23.327099
-                                ],
-                                [
-                                    150.517015,
-                                    -23.32417
-                                ],
-                                [
-                                    150.516623,
-                                    -23.323746
-                                ],
-                                [
-                                    150.516492,
-                                    -23.323722
-                                ],
-                                [
-                                    150.515924,
-                                    -23.32405
-                                ],
-                                [
-                                    150.515426,
-                                    -23.325802
-                                ],
-                                [
-                                    150.51542,
-                                    -23.326006
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA11239",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "26",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "9:08AM 27 Aug 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "CARLTON ST, IBIS AVE, KILKENNY CT",
-                "SUBURBS": "KAWANA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             138.831929,
                             -17.945034
                         ]
@@ -540,5 +475,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1756251600.610461"
+    "extracted": "1756252200.430428"
 }
