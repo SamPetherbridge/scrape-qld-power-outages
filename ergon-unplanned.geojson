@@ -10,6 +10,115 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.251011,
+                            -23.857146
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.248895,
+                                    -23.856374
+                                ],
+                                [
+                                    151.24894,
+                                    -23.856988
+                                ],
+                                [
+                                    151.248951,
+                                    -23.857056
+                                ],
+                                [
+                                    151.249114,
+                                    -23.857723
+                                ],
+                                [
+                                    151.249417,
+                                    -23.858045
+                                ],
+                                [
+                                    151.249836,
+                                    -23.858193
+                                ],
+                                [
+                                    151.249933,
+                                    -23.858217
+                                ],
+                                [
+                                    151.25107,
+                                    -23.858385
+                                ],
+                                [
+                                    151.251122,
+                                    -23.85839
+                                ],
+                                [
+                                    151.251511,
+                                    -23.858409
+                                ],
+                                [
+                                    151.251581,
+                                    -23.858408
+                                ],
+                                [
+                                    151.252683,
+                                    -23.858317
+                                ],
+                                [
+                                    151.253127,
+                                    -23.857822
+                                ],
+                                [
+                                    151.253,
+                                    -23.856677
+                                ],
+                                [
+                                    151.252584,
+                                    -23.856277
+                                ],
+                                [
+                                    151.249711,
+                                    -23.855888
+                                ],
+                                [
+                                    151.249621,
+                                    -23.855884
+                                ],
+                                [
+                                    151.249364,
+                                    -23.855893
+                                ],
+                                [
+                                    151.248895,
+                                    -23.856374
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA11215",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "49",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "6:01PM 26 Aug 2025",
+                "EST_FIX_TIME": "8:00PM 26 Aug 2025",
+                "STREETS": "BOLES ST, BRESLIN ST, GARDEN ST, HUNTER ST, PICNIC ST, WITT ST",
+                "SUBURBS": "WEST GLADSTONE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             147.395791,
                             -19.563134
                         ]
@@ -74,5 +183,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1756195505.749927"
+    "extracted": "1756196400.34586"
 }
