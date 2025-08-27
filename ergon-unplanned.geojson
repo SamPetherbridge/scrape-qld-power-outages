@@ -10,6 +10,216 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            149.149018,
+                            -24.829788
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.982985,
+                                    -25.073878
+                                ],
+                                [
+                                    149.014664,
+                                    -25.090743
+                                ],
+                                [
+                                    149.014786,
+                                    -25.090789
+                                ],
+                                [
+                                    149.017288,
+                                    -25.091399
+                                ],
+                                [
+                                    149.017436,
+                                    -25.091414
+                                ],
+                                [
+                                    149.120256,
+                                    -25.087639
+                                ],
+                                [
+                                    149.120695,
+                                    -25.087356
+                                ],
+                                [
+                                    149.31528,
+                                    -24.643794
+                                ],
+                                [
+                                    149.315287,
+                                    -24.643479
+                                ],
+                                [
+                                    149.295832,
+                                    -24.592342
+                                ],
+                                [
+                                    149.295541,
+                                    -24.592069
+                                ],
+                                [
+                                    149.226829,
+                                    -24.568162
+                                ],
+                                [
+                                    149.226418,
+                                    -24.568187
+                                ],
+                                [
+                                    149.07406,
+                                    -24.643523
+                                ],
+                                [
+                                    149.07381,
+                                    -24.643834
+                                ],
+                                [
+                                    148.982749,
+                                    -25.073403
+                                ],
+                                [
+                                    148.982985,
+                                    -25.073878
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA11261",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "39",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "2:32PM 27 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "DAWSON HWY, FAIRFIELD RD, MAPALA RD, MOUNT NICHOLSON RD, MUNGA BUNDA RD, NUGA NUGA RD, OFF MAPALA RD, RUDDLEA RD, TACKERACKA RD",
+                "SUBURBS": "BAUHINIA, GLENHAUGHTON, MOURA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.290714,
+                            -24.863127
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.269452,
+                                    -24.869045
+                                ],
+                                [
+                                    152.27082,
+                                    -24.872462
+                                ],
+                                [
+                                    152.270856,
+                                    -24.872533
+                                ],
+                                [
+                                    152.271116,
+                                    -24.872942
+                                ],
+                                [
+                                    152.271662,
+                                    -24.873152
+                                ],
+                                [
+                                    152.28143,
+                                    -24.870937
+                                ],
+                                [
+                                    152.281494,
+                                    -24.870918
+                                ],
+                                [
+                                    152.309874,
+                                    -24.860586
+                                ],
+                                [
+                                    152.309956,
+                                    -24.860548
+                                ],
+                                [
+                                    152.31181,
+                                    -24.85947
+                                ],
+                                [
+                                    152.311977,
+                                    -24.858874
+                                ],
+                                [
+                                    152.310782,
+                                    -24.856899
+                                ],
+                                [
+                                    152.310453,
+                                    -24.856676
+                                ],
+                                [
+                                    152.292129,
+                                    -24.853109
+                                ],
+                                [
+                                    152.291972,
+                                    -24.853102
+                                ],
+                                [
+                                    152.291792,
+                                    -24.85312
+                                ],
+                                [
+                                    152.291547,
+                                    -24.85321
+                                ],
+                                [
+                                    152.269615,
+                                    -24.868533
+                                ],
+                                [
+                                    152.269452,
+                                    -24.869045
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB8828",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "23",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Crews working on-site",
+                "START": "3:24PM 27 Aug 2025",
+                "EST_FIX_TIME": "8:00PM 27 Aug 2025",
+                "STREETS": "CUMMINS ST, GIN GIN RD, NICOLSONS RD, OAKWOOD RD, SHARON RD",
+                "SUBURBS": "OAKWOOD, SHARON"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.171935,
                             -25.241784
                         ]
@@ -110,110 +320,9 @@
                 "STREETS": "ABERCORN THREE MOON CREEK RD, BARRAM RD, BURNETT HWY, CYNTHIA RANGE RD, DAREEN RD, GLENLEIGH RD, GOOMARAM CREEK RD, HAZELDEAN-DAREEN RD, HOLLYWELL RD, KERWEE RD, LOCHABER RD, MONTO RD, MOUNT PERRY RD, NEW FLORISTAN RD, NO GO JUNCTION RD, NOGO RIVER RD, SCREENING PLANT RD, WURUMA DAM RD",
                 "SUBURBS": "ABERCORN, CERATODUS, CYNTHIA, EIDSVOLD, HOLLYWELL, WURUMA DAM"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            149.149018,
-                            -24.829788
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.982985,
-                                    -25.073878
-                                ],
-                                [
-                                    149.014664,
-                                    -25.090743
-                                ],
-                                [
-                                    149.014786,
-                                    -25.090789
-                                ],
-                                [
-                                    149.017288,
-                                    -25.091399
-                                ],
-                                [
-                                    149.017436,
-                                    -25.091414
-                                ],
-                                [
-                                    149.120256,
-                                    -25.087639
-                                ],
-                                [
-                                    149.120695,
-                                    -25.087356
-                                ],
-                                [
-                                    149.31528,
-                                    -24.643794
-                                ],
-                                [
-                                    149.315287,
-                                    -24.643479
-                                ],
-                                [
-                                    149.295832,
-                                    -24.592342
-                                ],
-                                [
-                                    149.295541,
-                                    -24.592069
-                                ],
-                                [
-                                    149.226829,
-                                    -24.568162
-                                ],
-                                [
-                                    149.226418,
-                                    -24.568187
-                                ],
-                                [
-                                    149.07406,
-                                    -24.643523
-                                ],
-                                [
-                                    149.07381,
-                                    -24.643834
-                                ],
-                                [
-                                    148.982749,
-                                    -25.073403
-                                ],
-                                [
-                                    148.982985,
-                                    -25.073878
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25CA11261",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "39",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "2:32PM 27 Aug 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "DAWSON HWY, FAIRFIELD RD, MAPALA RD, MOUNT NICHOLSON RD, MUNGA BUNDA RD, NUGA NUGA RD, OFF MAPALA RD, RUDDLEA RD, TACKERACKA RD",
-                "SUBURBS": "BAUHINIA, GLENHAUGHTON, MOURA"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1756275307.358984"
+    "extracted": "1756276202.022589"
 }
