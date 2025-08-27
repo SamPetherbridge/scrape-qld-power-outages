@@ -284,6 +284,76 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.842142,
+                            -27.639573
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.840831,
+                                    -27.639835
+                                ],
+                                [
+                                    152.84336,
+                                    -27.640207
+                                ],
+                                [
+                                    152.843873,
+                                    -27.639999
+                                ],
+                                [
+                                    152.843853,
+                                    -27.639496
+                                ],
+                                [
+                                    152.843662,
+                                    -27.639262
+                                ],
+                                [
+                                    152.843285,
+                                    -27.639077
+                                ],
+                                [
+                                    152.840947,
+                                    -27.638939
+                                ],
+                                [
+                                    152.84041,
+                                    -27.639338
+                                ],
+                                [
+                                    152.840831,
+                                    -27.639835
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-883748-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "2:34PM 27 Aug 2025",
+                "EST_FIX_TIME": "7:30PM 27 Aug 2025",
+                "STREETS": "REDBANK PLAINS RD",
+                "SUBURBS": "REDBANK PLAINS",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.023466,
                             -27.501717
                         ]
@@ -386,76 +456,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.842142,
-                            -27.639573
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.840831,
-                                    -27.639835
-                                ],
-                                [
-                                    152.84336,
-                                    -27.640207
-                                ],
-                                [
-                                    152.843873,
-                                    -27.639999
-                                ],
-                                [
-                                    152.843853,
-                                    -27.639496
-                                ],
-                                [
-                                    152.843662,
-                                    -27.639262
-                                ],
-                                [
-                                    152.843285,
-                                    -27.639077
-                                ],
-                                [
-                                    152.840947,
-                                    -27.638939
-                                ],
-                                [
-                                    152.84041,
-                                    -27.639338
-                                ],
-                                [
-                                    152.840831,
-                                    -27.639835
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-883748-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "Emergency Repairs",
-                "STATUS": "Awaiting",
-                "START": "2:34PM 27 Aug 2025",
-                "EST_FIX_TIME": "5:30PM 27 Aug 2025",
-                "STREETS": "REDBANK PLAINS RD",
-                "SUBURBS": "REDBANK PLAINS",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             153.014732,
                             -27.258372
                         ]
@@ -518,7 +518,7 @@
                 "TYPE": "UNPLANNED",
                 "CUSTOMERS_AFFECTED": "44",
                 "REASON": "Under Investigation",
-                "STATUS": "In Progress",
+                "STATUS": "Awaiting",
                 "START": "12:36PM 27 Aug 2025",
                 "EST_FIX_TIME": "7:00PM 27 Aug 2025",
                 "STREETS": "KATE CT, OISIN ST, ORLA CT",
@@ -529,5 +529,5 @@
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1756276800.401924"
+    "extracted": "1756277401.209362"
 }
