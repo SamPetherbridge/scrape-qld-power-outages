@@ -10,6 +10,91 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            151.02346,
+                            -25.158932
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    150.962131,
+                                    -25.110233
+                                ],
+                                [
+                                    150.989377,
+                                    -25.199424
+                                ],
+                                [
+                                    150.989653,
+                                    -25.199714
+                                ],
+                                [
+                                    151.061379,
+                                    -25.228761
+                                ],
+                                [
+                                    151.061972,
+                                    -25.228626
+                                ],
+                                [
+                                    151.084711,
+                                    -25.202035
+                                ],
+                                [
+                                    151.084804,
+                                    -25.201664
+                                ],
+                                [
+                                    151.061629,
+                                    -25.103084
+                                ],
+                                [
+                                    151.061221,
+                                    -25.102733
+                                ],
+                                [
+                                    150.96518,
+                                    -25.089103
+                                ],
+                                [
+                                    150.964611,
+                                    -25.089499
+                                ],
+                                [
+                                    150.962116,
+                                    -25.110063
+                                ],
+                                [
+                                    150.962131,
+                                    -25.110233
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB8816",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "30",
+                "REASON": "The loss of supply is due to a pole fire.",
+                "STATUS": "Work delayed - crews unable to continue",
+                "START": "12:44PM 27 Aug 2025",
+                "EST_FIX_TIME": "12:00PM 28 Aug 2025",
+                "STREETS": "BARRAM RD, CYNTHIA RANGE RD, DAREEN RD, GLENLEIGH RD, GOOMARAM CREEK RD, HAZELDEAN-DAREEN RD, WURUMA DAM RD",
+                "SUBURBS": "ABERCORN, EIDSVOLD, WURUMA DAM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.265659,
                             -24.714248
                         ]
@@ -119,8 +204,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            151.02346,
-                            -25.158932
+                            146.815688,
+                            -19.251779
                         ]
                     },
                     {
@@ -128,56 +213,52 @@
                         "coordinates": [
                             [
                                 [
-                                    150.962131,
-                                    -25.110233
+                                    146.81174,
+                                    -19.250526
                                 ],
                                 [
-                                    150.989377,
-                                    -25.199424
+                                    146.812246,
+                                    -19.251981
                                 ],
                                 [
-                                    150.989653,
-                                    -25.199714
+                                    146.812459,
+                                    -19.25223
                                 ],
                                 [
-                                    151.061379,
-                                    -25.228761
+                                    146.813564,
+                                    -19.252839
                                 ],
                                 [
-                                    151.061972,
-                                    -25.228626
+                                    146.813737,
+                                    -19.252896
                                 ],
                                 [
-                                    151.084711,
-                                    -25.202035
+                                    146.819112,
+                                    -19.25361
                                 ],
                                 [
-                                    151.084804,
-                                    -25.201664
+                                    146.819636,
+                                    -19.253283
                                 ],
                                 [
-                                    151.061629,
-                                    -25.103084
+                                    146.819365,
+                                    -19.252747
                                 ],
                                 [
-                                    151.061221,
-                                    -25.102733
+                                    146.812755,
+                                    -19.250064
                                 ],
                                 [
-                                    150.96518,
-                                    -25.089103
+                                    146.812692,
+                                    -19.250044
                                 ],
                                 [
-                                    150.964611,
-                                    -25.089499
+                                    146.812316,
+                                    -19.249947
                                 ],
                                 [
-                                    150.962116,
-                                    -25.110063
-                                ],
-                                [
-                                    150.962131,
-                                    -25.110233
+                                    146.81174,
+                                    -19.250526
                                 ]
                             ]
                         ]
@@ -185,15 +266,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB8816",
+                "EVENT_ID": "25NQ10756",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "30",
-                "REASON": "The loss of supply is due to a pole fire.",
-                "STATUS": "Work delayed - crews unable to continue",
-                "START": "12:44PM 27 Aug 2025",
-                "EST_FIX_TIME": "12:00PM 28 Aug 2025",
-                "STREETS": "BARRAM RD, CYNTHIA RANGE RD, DAREEN RD, GLENLEIGH RD, GOOMARAM CREEK RD, HAZELDEAN-DAREEN RD, WURUMA DAM RD",
-                "SUBURBS": "ABERCORN, EIDSVOLD, WURUMA DAM"
+                "CUSTOMERS_AFFECTED": "57",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "1:15AM 28 Aug 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "EYRE ST, GREGORY ST, LEICHHARDT ST, MITCHELL ST, THE STRAND, WARBURTON ST",
+                "SUBURBS": "NORTH WARD"
             }
         },
         {
@@ -264,106 +345,9 @@
                 "STREETS": "DAWSON HWY",
                 "SUBURBS": "BAUHINIA"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            146.815044,
-                            -19.252592
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    146.810437,
-                                    -19.25416
-                                ],
-                                [
-                                    146.810653,
-                                    -19.254816
-                                ],
-                                [
-                                    146.811006,
-                                    -19.255123
-                                ],
-                                [
-                                    146.811558,
-                                    -19.255236
-                                ],
-                                [
-                                    146.811765,
-                                    -19.255235
-                                ],
-                                [
-                                    146.819284,
-                                    -19.253603
-                                ],
-                                [
-                                    146.819652,
-                                    -19.253202
-                                ],
-                                [
-                                    146.819365,
-                                    -19.252747
-                                ],
-                                [
-                                    146.812755,
-                                    -19.250064
-                                ],
-                                [
-                                    146.812692,
-                                    -19.250044
-                                ],
-                                [
-                                    146.812316,
-                                    -19.249947
-                                ],
-                                [
-                                    146.811742,
-                                    -19.250238
-                                ],
-                                [
-                                    146.810492,
-                                    -19.25372
-                                ],
-                                [
-                                    146.810487,
-                                    -19.253734
-                                ],
-                                [
-                                    146.810436,
-                                    -19.253893
-                                ],
-                                [
-                                    146.810437,
-                                    -19.25416
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25NQ10756",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "210",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "1:15AM 28 Aug 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "CLIFTON ST, EYRE ST, GREGORY ST, LEICHHARDT ST, MITCHELL ST, PANORAMA CT, QUEEN ST, THE STRAND, WARBURTON ST",
-                "SUBURBS": "NORTH WARD"
-            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1756315805.257673"
+    "extracted": "1756316401.634481"
 }
