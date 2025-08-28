@@ -28,27 +28,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    148.706594,
-                    -20.272862
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK5756",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "Work scheduled",
-                "START": "10:00PM 28 Aug 2025",
-                "EST_FIX_TIME": "6:00AM 29 Aug 2025",
-                "STREETS": "SHUTE HARBOUR RD",
-                "SUBURBS": "CANNONVALE, WHITSUNDAYS"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     151.95216,
                     -27.537254
                 ]
@@ -63,6 +42,27 @@
                 "EST_FIX_TIME": "6:00AM 29 Aug 2025",
                 "STREETS": "CIVIL CT, JONES ST, MOLE ST, NORTH ST, PARROT ST, PEACE ST, PROGRESS CT, RUTHVEN ST, WILKINSON ST",
                 "SUBURBS": "HARLAXTON, NORTH TOOWOOMBA, TOOWOOMBA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.706594,
+                    -20.272862
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK5756",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
+                "STATUS": "Work scheduled",
+                "START": "10:00PM 28 Aug 2025",
+                "EST_FIX_TIME": "6:00AM 29 Aug 2025",
+                "STREETS": "SHUTE HARBOUR RD",
+                "SUBURBS": "CANNONVALE, WHITSUNDAYS"
             }
         },
         {
@@ -89,5 +89,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1756377307.749878"
+    "extracted": "1756377907.59"
 }
