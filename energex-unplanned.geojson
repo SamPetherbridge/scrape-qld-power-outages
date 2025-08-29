@@ -1,8 +1,111 @@
 {
     "type": "FeatureCollection",
     "name": "UNPLANNED",
-    "features": [],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.067319,
+                            -27.408038
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.059765,
+                                    -27.406668
+                                ],
+                                [
+                                    153.061257,
+                                    -27.418698
+                                ],
+                                [
+                                    153.061536,
+                                    -27.419054
+                                ],
+                                [
+                                    153.063039,
+                                    -27.419713
+                                ],
+                                [
+                                    153.063484,
+                                    -27.419714
+                                ],
+                                [
+                                    153.074616,
+                                    -27.414886
+                                ],
+                                [
+                                    153.074872,
+                                    -27.41433
+                                ],
+                                [
+                                    153.070732,
+                                    -27.403894
+                                ],
+                                [
+                                    153.070718,
+                                    -27.403862
+                                ],
+                                [
+                                    153.067377,
+                                    -27.397133
+                                ],
+                                [
+                                    153.066986,
+                                    -27.396869
+                                ],
+                                [
+                                    153.063011,
+                                    -27.396362
+                                ],
+                                [
+                                    153.062649,
+                                    -27.396439
+                                ],
+                                [
+                                    153.062254,
+                                    -27.396687
+                                ],
+                                [
+                                    153.062051,
+                                    -27.396963
+                                ],
+                                [
+                                    153.059773,
+                                    -27.406524
+                                ],
+                                [
+                                    153.059765,
+                                    -27.406668
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-884113-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2582",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "10:51AM 29 Aug 2025",
+                "EST_FIX_TIME": "1:30PM 29 Aug 2025",
+                "STREETS": "ALICIA ST, AMISFIELD AVE, ATTEWELL ST, ATTHOW PDE, BUCKBY ST, BUCKLAND RD, DAVID ST, DUKE ST, DWYER ST, FRANKLIN ST, GRACE ST, HEDLEY AVE, HOWS RD, JENNER ST, KREUTZER ST, KUNDE ST, MCMASTER ST, MELTON RD, NELLIE ST, NUDGEE RD, ROBINSON RD, RYANS RD, SANDGATE RD, SIDNEY ST, THOMAS ST, UNION ST, VERNON ST, WALKERS WAY, WALLABY ST, WATTLE ST, WIDDOP ST, YORK ST",
+                "SUBURBS": "HENDRA, NORTHGATE, NUNDAH",
+                "ETR_FLAG": "N"
+            }
+        }
+    ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1756427401.672307"
+    "extracted": "1756428901.469361"
 }
