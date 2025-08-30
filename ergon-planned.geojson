@@ -28,27 +28,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    149.159119,
-                    -21.058127
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK5981",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "128",
-                "REASON": "The loss of supply is to allow maintenance of the electricity network",
-                "STATUS": "Crews working on-site",
-                "START": "8:32AM 30 Aug 2025",
-                "EST_FIX_TIME": "4:00PM 30 Aug 2025",
-                "STREETS": "ABEL TASMAN CT, ARCHER CT, DAWES CRES, EDMUND KENNEDY CT, EIMEO RD, HANN CL, JAMES COOK DR, JOHN OXLEY AVE, LOCKYER CT, OLD EIMEO RD, THOMAS MITCHELL CT, WALLMANS RD",
-                "SUBURBS": "EIMEO, RURAL VIEW"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     149.162068,
                     -21.058967
                 ]
@@ -85,9 +64,30 @@
                 "STREETS": "BROAD ST",
                 "SUBURBS": "SARINA"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.159119,
+                    -21.058127
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK5981",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "128",
+                "REASON": "The loss of supply is to allow maintenance of the electricity network",
+                "STATUS": "Crews working on-site",
+                "START": "8:32AM 30 Aug 2025",
+                "EST_FIX_TIME": "4:00PM 30 Aug 2025",
+                "STREETS": "ABEL TASMAN CT, ARCHER CT, DAWES CRES, EDMUND KENNEDY CT, EIMEO RD, HANN CL, JAMES COOK DR, JOHN OXLEY AVE, LOCKYER CT, OLD EIMEO RD, THOMAS MITCHELL CT, WALLMANS RD",
+                "SUBURBS": "EIMEO, RURAL VIEW"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1756532100.306173"
+    "extracted": "1756532400.351459"
 }
