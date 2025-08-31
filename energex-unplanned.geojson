@@ -10,6 +10,154 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.951133,
+                            -26.57087
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.947979,
+                                    -26.570891
+                                ],
+                                [
+                                    152.948754,
+                                    -26.572074
+                                ],
+                                [
+                                    152.949355,
+                                    -26.572271
+                                ],
+                                [
+                                    152.954137,
+                                    -26.570737
+                                ],
+                                [
+                                    152.954287,
+                                    -26.569963
+                                ],
+                                [
+                                    152.953891,
+                                    -26.56967
+                                ],
+                                [
+                                    152.953592,
+                                    -26.569567
+                                ],
+                                [
+                                    152.950947,
+                                    -26.569469
+                                ],
+                                [
+                                    152.950818,
+                                    -26.569479
+                                ],
+                                [
+                                    152.950323,
+                                    -26.569578
+                                ],
+                                [
+                                    152.950264,
+                                    -26.569593
+                                ],
+                                [
+                                    152.948244,
+                                    -26.570236
+                                ],
+                                [
+                                    152.947979,
+                                    -26.570891
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-884444-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "28",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "3:42PM 31 Aug 2025",
+                "EST_FIX_TIME": "10:00PM 31 Aug 2025",
+                "STREETS": "RETREAT CRES, WAPPA FALLS RD",
+                "SUBURBS": "YANDINA",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.884823,
+                            -26.342959
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.885472,
+                                    -26.342489
+                                ],
+                                [
+                                    152.884141,
+                                    -26.342527
+                                ],
+                                [
+                                    152.883656,
+                                    -26.342992
+                                ],
+                                [
+                                    152.884173,
+                                    -26.343429
+                                ],
+                                [
+                                    152.885504,
+                                    -26.343391
+                                ],
+                                [
+                                    152.885989,
+                                    -26.342926
+                                ],
+                                [
+                                    152.885472,
+                                    -26.342489
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-884457-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "6:22PM 31 Aug 2025",
+                "EST_FIX_TIME": "8:30PM 31 Aug 2025",
+                "STREETS": "LOUIS BAZZO DR",
+                "SUBURBS": "COOTHARABA, POMONA",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.935072,
                             -26.587357
                         ]
@@ -117,68 +265,6 @@
                 "EST_FIX_TIME": "11:00AM 01 Sep 2025",
                 "STREETS": "AYRSHIRE RD, BRACKEN FERN RD, CANE RD, COLEMANS FARM RD, CREIGHTONS RD, FERNTREE CREEK RD, GLENROWAN CL, GOBBERTS RD, HUTTON RD, KOCHO RD, MISTY RISE RD, MOUNT COMBE RD, PUMP STATION RD, SMALLWOOD RD, UPPER FERNTREE CREEK RD, UPPER HUTTON RD, WAPPA FALLS RD, WAPPA PARK RD",
                 "SUBURBS": "IMAGE FLAT, KIAMBA, KULANGOOR, YANDINA",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.884823,
-                            -26.342959
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.885472,
-                                    -26.342489
-                                ],
-                                [
-                                    152.884141,
-                                    -26.342527
-                                ],
-                                [
-                                    152.883656,
-                                    -26.342992
-                                ],
-                                [
-                                    152.884173,
-                                    -26.343429
-                                ],
-                                [
-                                    152.885504,
-                                    -26.343391
-                                ],
-                                [
-                                    152.885989,
-                                    -26.342926
-                                ],
-                                [
-                                    152.885472,
-                                    -26.342489
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-884457-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "6:22PM 31 Aug 2025",
-                "EST_FIX_TIME": "8:00PM 31 Aug 2025",
-                "STREETS": "LOUIS BAZZO DR",
-                "SUBURBS": "COOTHARABA, POMONA",
                 "ETR_FLAG": "N"
             }
         },
@@ -373,95 +459,9 @@
                 "SUBURBS": "ZILLMERE",
                 "ETR_FLAG": "N"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.951133,
-                            -26.57087
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.947979,
-                                    -26.570891
-                                ],
-                                [
-                                    152.948754,
-                                    -26.572074
-                                ],
-                                [
-                                    152.949355,
-                                    -26.572271
-                                ],
-                                [
-                                    152.954137,
-                                    -26.570737
-                                ],
-                                [
-                                    152.954287,
-                                    -26.569963
-                                ],
-                                [
-                                    152.953891,
-                                    -26.56967
-                                ],
-                                [
-                                    152.953592,
-                                    -26.569567
-                                ],
-                                [
-                                    152.950947,
-                                    -26.569469
-                                ],
-                                [
-                                    152.950818,
-                                    -26.569479
-                                ],
-                                [
-                                    152.950323,
-                                    -26.569578
-                                ],
-                                [
-                                    152.950264,
-                                    -26.569593
-                                ],
-                                [
-                                    152.948244,
-                                    -26.570236
-                                ],
-                                [
-                                    152.947979,
-                                    -26.570891
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-884444-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "28",
-                "REASON": "Emergency Repairs",
-                "STATUS": "Awaiting",
-                "START": "3:42PM 31 Aug 2025",
-                "EST_FIX_TIME": "10:00PM 31 Aug 2025",
-                "STREETS": "RETREAT CRES, WAPPA FALLS RD",
-                "SUBURBS": "YANDINA",
-                "ETR_FLAG": "N"
-            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1756634101.311624"
+    "extracted": "1756634701.287234"
 }
