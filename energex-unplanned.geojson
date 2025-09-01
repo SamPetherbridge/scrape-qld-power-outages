@@ -1,8 +1,237 @@
 {
     "type": "FeatureCollection",
     "name": "UNPLANNED",
-    "features": [],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.845822,
+                            -26.355165
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.836825,
+                                    -26.353201
+                                ],
+                                [
+                                    152.83778,
+                                    -26.357486
+                                ],
+                                [
+                                    152.837782,
+                                    -26.357493
+                                ],
+                                [
+                                    152.838227,
+                                    -26.359328
+                                ],
+                                [
+                                    152.838319,
+                                    -26.359506
+                                ],
+                                [
+                                    152.844237,
+                                    -26.366478
+                                ],
+                                [
+                                    152.844931,
+                                    -26.366569
+                                ],
+                                [
+                                    152.847058,
+                                    -26.365172
+                                ],
+                                [
+                                    152.847194,
+                                    -26.365036
+                                ],
+                                [
+                                    152.852557,
+                                    -26.356848
+                                ],
+                                [
+                                    152.852604,
+                                    -26.35675
+                                ],
+                                [
+                                    152.854818,
+                                    -26.350223
+                                ],
+                                [
+                                    152.854708,
+                                    -26.349786
+                                ],
+                                [
+                                    152.850962,
+                                    -26.346097
+                                ],
+                                [
+                                    152.850931,
+                                    -26.346069
+                                ],
+                                [
+                                    152.849024,
+                                    -26.34449
+                                ],
+                                [
+                                    152.848847,
+                                    -26.344396
+                                ],
+                                [
+                                    152.846862,
+                                    -26.343784
+                                ],
+                                [
+                                    152.846658,
+                                    -26.343761
+                                ],
+                                [
+                                    152.843762,
+                                    -26.343977
+                                ],
+                                [
+                                    152.843711,
+                                    -26.343983
+                                ],
+                                [
+                                    152.841766,
+                                    -26.344313
+                                ],
+                                [
+                                    152.841408,
+                                    -26.344558
+                                ],
+                                [
+                                    152.836867,
+                                    -26.352914
+                                ],
+                                [
+                                    152.836825,
+                                    -26.353201
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-884639-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "128",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "5:14PM 01 Sep 2025",
+                "EST_FIX_TIME": "8:00PM 01 Sep 2025",
+                "STREETS": "BELLBIRD FLAT RD, BOWERBIRD LANE, EAGLEHAWK LANE, FERGUSON RD, HAWK LANE, HAWK RD, JAMPOT CREEK RD, JAMPOT LANE, PEACOCK CT, POMONA-KIN KIN RD, POTTERS LANE, POUND RD, RAILWAY PDE, RAILWAY RD, RANSOME ST, SMEDLEY DR, TAYLOR DR",
+                "SUBURBS": "POMONA",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.542454,
+                            -27.02943
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.54021,
+                                    -27.028541
+                                ],
+                                [
+                                    152.541845,
+                                    -27.031401
+                                ],
+                                [
+                                    152.541928,
+                                    -27.031506
+                                ],
+                                [
+                                    152.542249,
+                                    -27.031809
+                                ],
+                                [
+                                    152.542672,
+                                    -27.031947
+                                ],
+                                [
+                                    152.543752,
+                                    -27.031837
+                                ],
+                                [
+                                    152.544159,
+                                    -27.031565
+                                ],
+                                [
+                                    152.544662,
+                                    -27.030507
+                                ],
+                                [
+                                    152.544699,
+                                    -27.030274
+                                ],
+                                [
+                                    152.544394,
+                                    -27.028073
+                                ],
+                                [
+                                    152.54408,
+                                    -27.027709
+                                ],
+                                [
+                                    152.54185,
+                                    -27.026912
+                                ],
+                                [
+                                    152.541288,
+                                    -27.02703
+                                ],
+                                [
+                                    152.540283,
+                                    -27.028034
+                                ],
+                                [
+                                    152.54021,
+                                    -27.028541
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-884640-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "15",
+                "REASON": "Emergency Repairs",
+                "STATUS": "Awaiting",
+                "START": "5:15PM 01 Sep 2025",
+                "EST_FIX_TIME": "8:00PM 01 Sep 2025",
+                "STREETS": "DAVIS CT, SPLITTERS CREEK RD",
+                "SUBURBS": "HAZELDEAN",
+                "ETR_FLAG": "N"
+            }
+        }
+    ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1756710600.367534"
+    "extracted": "1756711201.391535"
 }
