@@ -10,79 +10,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.78702,
-                            -25.357846
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.78527,
-                                    -25.360458
-                                ],
-                                [
-                                    152.788307,
-                                    -25.360379
-                                ],
-                                [
-                                    152.788771,
-                                    -25.360044
-                                ],
-                                [
-                                    152.789176,
-                                    -25.358642
-                                ],
-                                [
-                                    152.789191,
-                                    -25.358508
-                                ],
-                                [
-                                    152.789051,
-                                    -25.355646
-                                ],
-                                [
-                                    152.788694,
-                                    -25.355234
-                                ],
-                                [
-                                    152.78815,
-                                    -25.35541
-                                ],
-                                [
-                                    152.784849,
-                                    -25.359753
-                                ],
-                                [
-                                    152.78527,
-                                    -25.360458
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB8981",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Crews working on-site",
-                "START": "9:09AM 02 Sep 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "MOORABINDA DR",
-                "SUBURBS": "SUNSHINE ACRES"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.29785,
                             -24.970949
                         ]
@@ -139,9 +66,62 @@
                 "STREETS": "NEW VALLEY RD",
                 "SUBURBS": "ALLOWAY"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            151.248872,
+                            -26.393815
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.249372,
+                                    -26.3938
+                                ],
+                                [
+                                    151.248856,
+                                    -26.393365
+                                ],
+                                [
+                                    151.248372,
+                                    -26.39383
+                                ],
+                                [
+                                    151.248889,
+                                    -26.394265
+                                ],
+                                [
+                                    151.249372,
+                                    -26.3938
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB8985",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "12:30PM 02 Sep 2025",
+                "EST_FIX_TIME": "2:30PM 02 Sep 2025",
+                "STREETS": "CHINCHILLA-WONDAI RD",
+                "SUBURBS": "DURONG SOUTH"
+            }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1756780800.46721"
+    "extracted": "1756782300.35605"
 }
