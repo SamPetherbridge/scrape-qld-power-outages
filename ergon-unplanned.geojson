@@ -10,8 +10,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            147.247254,
-                            -19.819723
+                            152.78702,
+                            -25.357846
                         ]
                     },
                     {
@@ -19,72 +19,44 @@
                         "coordinates": [
                             [
                                 [
-                                    147.235788,
-                                    -19.818268
+                                    152.78527,
+                                    -25.360458
                                 ],
                                 [
-                                    147.238843,
-                                    -19.864129
+                                    152.788307,
+                                    -25.360379
                                 ],
                                 [
-                                    147.239678,
-                                    -19.864399
+                                    152.788771,
+                                    -25.360044
                                 ],
                                 [
-                                    147.245742,
-                                    -19.85789
+                                    152.789176,
+                                    -25.358642
                                 ],
                                 [
-                                    147.245832,
-                                    -19.857747
+                                    152.789191,
+                                    -25.358508
                                 ],
                                 [
-                                    147.258694,
-                                    -19.824646
+                                    152.789051,
+                                    -25.355646
                                 ],
                                 [
-                                    147.258722,
-                                    -19.824458
+                                    152.788694,
+                                    -25.355234
                                 ],
                                 [
-                                    147.255134,
-                                    -19.775935
+                                    152.78815,
+                                    -25.35541
                                 ],
                                 [
-                                    147.25468,
-                                    -19.775516
+                                    152.784849,
+                                    -25.359753
                                 ],
                                 [
-                                    147.244016,
-                                    -19.775048
-                                ],
-                                [
-                                    147.243525,
-                                    -19.775413
-                                ],
-                                [
-                                    147.236162,
-                                    -19.811307
-                                ],
-                                [
-                                    147.236157,
-                                    -19.811343
-                                ],
-                                [
-                                    147.235856,
-                                    -19.813902
-                                ],
-                                [
-                                    147.235853,
-                                    -19.813945
-                                ],
-                                [
-                                    147.235787,
-                                    -19.818233
-                                ],
-                                [
-                                    147.235788,
-                                    -19.818268
+                                    152.78527,
+                                    -25.360458
                                 ]
                             ]
                         ]
@@ -92,15 +64,15 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25NQ10908",
+                "EVENT_ID": "25WB8981",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "41",
-                "REASON": "The loss of supply is due to the operating of protective equipment. ",
-                "STATUS": "Crews on route",
-                "START": "9:27AM 02 Sep 2025",
+                "CUSTOMERS_AFFECTED": "9",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
+                "STATUS": "Outage reported",
+                "START": "9:09AM 02 Sep 2025",
                 "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "GELLING RD, KIRKNIE RD, STEVEN RD, STEVENS RD",
-                "SUBURBS": "HOME HILL, OSBORNE"
+                "STREETS": "MOORABINDA DR",
+                "SUBURBS": "SUNSHINE ACRES"
             }
         },
         {
@@ -212,79 +184,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.78702,
-                            -25.357846
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    152.78527,
-                                    -25.360458
-                                ],
-                                [
-                                    152.788307,
-                                    -25.360379
-                                ],
-                                [
-                                    152.788771,
-                                    -25.360044
-                                ],
-                                [
-                                    152.789176,
-                                    -25.358642
-                                ],
-                                [
-                                    152.789191,
-                                    -25.358508
-                                ],
-                                [
-                                    152.789051,
-                                    -25.355646
-                                ],
-                                [
-                                    152.788694,
-                                    -25.355234
-                                ],
-                                [
-                                    152.78815,
-                                    -25.35541
-                                ],
-                                [
-                                    152.784849,
-                                    -25.359753
-                                ],
-                                [
-                                    152.78527,
-                                    -25.360458
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB8981",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "9",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. ",
-                "STATUS": "Outage reported",
-                "START": "9:09AM 02 Sep 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "MOORABINDA DR",
-                "SUBURBS": "SUNSHINE ACRES"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             152.29785,
                             -24.970949
                         ]
@@ -345,5 +244,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1756776300.351609"
+    "extracted": "1756778700.427912"
 }
