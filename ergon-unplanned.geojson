@@ -10,6 +10,107 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            152.000907,
+                            -26.701844
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    151.986647,
+                                    -26.717161
+                                ],
+                                [
+                                    151.988191,
+                                    -26.717661
+                                ],
+                                [
+                                    151.988258,
+                                    -26.717679
+                                ],
+                                [
+                                    151.998102,
+                                    -26.719526
+                                ],
+                                [
+                                    151.998229,
+                                    -26.719534
+                                ],
+                                [
+                                    152.008561,
+                                    -26.719061
+                                ],
+                                [
+                                    152.008929,
+                                    -26.71889
+                                ],
+                                [
+                                    152.015422,
+                                    -26.711457
+                                ],
+                                [
+                                    152.01548,
+                                    -26.710986
+                                ],
+                                [
+                                    152.001597,
+                                    -26.68479
+                                ],
+                                [
+                                    152.001236,
+                                    -26.684542
+                                ],
+                                [
+                                    151.998934,
+                                    -26.684154
+                                ],
+                                [
+                                    151.998494,
+                                    -26.684273
+                                ],
+                                [
+                                    151.99573,
+                                    -26.686669
+                                ],
+                                [
+                                    151.995595,
+                                    -26.686871
+                                ],
+                                [
+                                    151.986334,
+                                    -26.716616
+                                ],
+                                [
+                                    151.986647,
+                                    -26.717161
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB9026",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "146",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "12:22PM 03 Sep 2025",
+                "EST_FIX_TIME": "3:00PM 03 Sep 2025",
+                "STREETS": "FINLAY ST, GEORGE ST, IZZARDS RD, MCEWAN RD, OLD YARRAMAN RD, PITTS RD, TOM SMITH DR, WHITAKER RD",
+                "SUBURBS": "NANANGO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             152.116367,
                             -27.296154
                         ]
@@ -123,67 +224,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            138.829678,
-                            -17.943865
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    138.830766,
-                                    -17.943928
-                                ],
-                                [
-                                    138.829042,
-                                    -17.943018
-                                ],
-                                [
-                                    138.828406,
-                                    -17.943194
-                                ],
-                                [
-                                    138.82859,
-                                    -17.943803
-                                ],
-                                [
-                                    138.830314,
-                                    -17.944712
-                                ],
-                                [
-                                    138.830949,
-                                    -17.944536
-                                ],
-                                [
-                                    138.830766,
-                                    -17.943928
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25FN9253",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "2",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "1:41PM 03 Sep 2025",
-                "EST_FIX_TIME": "Under Investigation",
-                "STREETS": "CANTEL ST, READ ST",
-                "SUBURBS": "DOOMADGEE"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             149.230481,
                             -22.601283
                         ]
@@ -251,6 +291,71 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "MARLBOROUGH-SARINA RD, MAY DOWNS RD",
                 "SUBURBS": "MARLBOROUGH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.29785,
+                            -24.970949
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.290108,
+                                    -24.972715
+                                ],
+                                [
+                                    152.30574,
+                                    -24.970073
+                                ],
+                                [
+                                    152.306139,
+                                    -24.969568
+                                ],
+                                [
+                                    152.305602,
+                                    -24.969183
+                                ],
+                                [
+                                    152.290559,
+                                    -24.970513
+                                ],
+                                [
+                                    152.290149,
+                                    -24.970791
+                                ],
+                                [
+                                    152.289561,
+                                    -24.972103
+                                ],
+                                [
+                                    152.290108,
+                                    -24.972715
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25WB8912",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "3",
+                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
+                "STATUS": "Work delayed. Crew unable to continue.",
+                "START": "4:25PM 30 Aug 2025",
+                "EST_FIX_TIME": "3:00PM 05 Sep 2025",
+                "STREETS": "NEW VALLEY RD",
+                "SUBURBS": "ALLOWAY"
             }
         },
         {
@@ -376,107 +481,6 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "GREGORY CT, MICHAEL AVE, MICHAEL DR, PAGE PL",
                 "SUBURBS": "BILOELA"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            152.000907,
-                            -26.701844
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    151.986647,
-                                    -26.717161
-                                ],
-                                [
-                                    151.988191,
-                                    -26.717661
-                                ],
-                                [
-                                    151.988258,
-                                    -26.717679
-                                ],
-                                [
-                                    151.998102,
-                                    -26.719526
-                                ],
-                                [
-                                    151.998229,
-                                    -26.719534
-                                ],
-                                [
-                                    152.008561,
-                                    -26.719061
-                                ],
-                                [
-                                    152.008929,
-                                    -26.71889
-                                ],
-                                [
-                                    152.015422,
-                                    -26.711457
-                                ],
-                                [
-                                    152.01548,
-                                    -26.710986
-                                ],
-                                [
-                                    152.001597,
-                                    -26.68479
-                                ],
-                                [
-                                    152.001236,
-                                    -26.684542
-                                ],
-                                [
-                                    151.998934,
-                                    -26.684154
-                                ],
-                                [
-                                    151.998494,
-                                    -26.684273
-                                ],
-                                [
-                                    151.99573,
-                                    -26.686669
-                                ],
-                                [
-                                    151.995595,
-                                    -26.686871
-                                ],
-                                [
-                                    151.986334,
-                                    -26.716616
-                                ],
-                                [
-                                    151.986647,
-                                    -26.717161
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25WB9026",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "146",
-                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
-                "STATUS": "Crews working on-site",
-                "START": "12:22PM 03 Sep 2025",
-                "EST_FIX_TIME": "3:00PM 03 Sep 2025",
-                "STREETS": "FINLAY ST, GEORGE ST, IZZARDS RD, MCEWAN RD, OLD YARRAMAN RD, PITTS RD, TOM SMITH DR, WHITAKER RD",
-                "SUBURBS": "NANANGO"
             }
         },
         {
@@ -663,7 +667,7 @@
                 "CUSTOMERS_AFFECTED": "3",
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
-                "START": "10:00AM 03 Sep 2025",
+                "START": "10:48AM 03 Sep 2025",
                 "EST_FIX_TIME": "4:00PM 03 Sep 2025",
                 "STREETS": "WERAI PARK RD",
                 "SUBURBS": "HUNGERFORD"
@@ -677,8 +681,8 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            152.29785,
-                            -24.970949
+                            138.829678,
+                            -17.943865
                         ]
                     },
                     {
@@ -686,36 +690,32 @@
                         "coordinates": [
                             [
                                 [
-                                    152.290108,
-                                    -24.972715
+                                    138.830766,
+                                    -17.943928
                                 ],
                                 [
-                                    152.30574,
-                                    -24.970073
+                                    138.829042,
+                                    -17.943018
                                 ],
                                 [
-                                    152.306139,
-                                    -24.969568
+                                    138.828406,
+                                    -17.943194
                                 ],
                                 [
-                                    152.305602,
-                                    -24.969183
+                                    138.82859,
+                                    -17.943803
                                 ],
                                 [
-                                    152.290559,
-                                    -24.970513
+                                    138.830314,
+                                    -17.944712
                                 ],
                                 [
-                                    152.290149,
-                                    -24.970791
+                                    138.830949,
+                                    -17.944536
                                 ],
                                 [
-                                    152.289561,
-                                    -24.972103
-                                ],
-                                [
-                                    152.290108,
-                                    -24.972715
+                                    138.830766,
+                                    -17.943928
                                 ]
                             ]
                         ]
@@ -723,19 +723,19 @@
                 ]
             },
             "properties": {
-                "EVENT_ID": "25WB8912",
+                "EVENT_ID": "25FN9253",
                 "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "3",
-                "REASON": "The loss of supply is due to public safety concerns as directed by emergency services.",
-                "STATUS": "Work delayed. Crew unable to continue.",
-                "START": "4:25PM 30 Aug 2025",
-                "EST_FIX_TIME": "3:00PM 05 Sep 2025",
-                "STREETS": "NEW VALLEY RD",
-                "SUBURBS": "ALLOWAY"
+                "CUSTOMERS_AFFECTED": "2",
+                "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
+                "STATUS": "Crews working on-site",
+                "START": "1:41PM 03 Sep 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "CANTEL ST, READ ST",
+                "SUBURBS": "DOOMADGEE"
             }
         }
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1756871400.367655"
+    "extracted": "1756871700.438266"
 }
