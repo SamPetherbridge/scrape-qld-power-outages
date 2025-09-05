@@ -143,7 +143,7 @@
                 "REASON": "The loss of supply is to allow emergency maintenance of the electricity network.",
                 "STATUS": "Crews working on-site",
                 "START": "10:07AM 05 Sep 2025",
-                "EST_FIX_TIME": "Under Investigation",
+                "EST_FIX_TIME": "1:00PM 05 Sep 2025",
                 "STREETS": "HENWOOD RD, UNKNOWN ST, UNNAMED RD",
                 "SUBURBS": "COOKTOWN, HOPE VALE, LAURA"
             }
@@ -223,6 +223,91 @@
                 "EST_FIX_TIME": "Under Investigation",
                 "STREETS": "BRUCE HWY, KIME RD, OFF BRUCE HWY, RIVER RD, ROOPE RD, TIPSON LANE",
                 "SUBURBS": "MIDGEE, PORT CURTIS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            149.230319,
+                            -21.384418
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    149.227709,
+                                    -21.385251
+                                ],
+                                [
+                                    149.231979,
+                                    -21.385358
+                                ],
+                                [
+                                    149.23212,
+                                    -21.385342
+                                ],
+                                [
+                                    149.232975,
+                                    -21.385121
+                                ],
+                                [
+                                    149.233301,
+                                    -21.384535
+                                ],
+                                [
+                                    149.233078,
+                                    -21.383947
+                                ],
+                                [
+                                    149.232675,
+                                    -21.383649
+                                ],
+                                [
+                                    149.230951,
+                                    -21.383477
+                                ],
+                                [
+                                    149.23084,
+                                    -21.383478
+                                ],
+                                [
+                                    149.228107,
+                                    -21.383796
+                                ],
+                                [
+                                    149.227781,
+                                    -21.383973
+                                ],
+                                [
+                                    149.227336,
+                                    -21.384529
+                                ],
+                                [
+                                    149.227709,
+                                    -21.385251
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK6676",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "14",
+                "REASON": "The loss of supply is due to damage caused by external influences, such as birds or animals. ",
+                "STATUS": "Crews working on-site",
+                "START": "9:48AM 05 Sep 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "J PITCHERS RD",
+                "SUBURBS": "SARINA"
             }
         },
         {
@@ -418,5 +503,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1757032212.526499"
+    "extracted": "1757033700.244382"
 }
