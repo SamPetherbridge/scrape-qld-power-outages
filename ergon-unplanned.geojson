@@ -293,6 +293,123 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            144.593295,
+                            -23.74102
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    144.227215,
+                                    -23.867414
+                                ],
+                                [
+                                    144.231237,
+                                    -23.877933
+                                ],
+                                [
+                                    144.231261,
+                                    -23.877985
+                                ],
+                                [
+                                    144.26575,
+                                    -23.941457
+                                ],
+                                [
+                                    144.265816,
+                                    -23.941548
+                                ],
+                                [
+                                    144.273094,
+                                    -23.949404
+                                ],
+                                [
+                                    144.273288,
+                                    -23.949532
+                                ],
+                                [
+                                    144.387054,
+                                    -23.990696
+                                ],
+                                [
+                                    144.387378,
+                                    -23.990708
+                                ],
+                                [
+                                    144.95646,
+                                    -23.828785
+                                ],
+                                [
+                                    144.956765,
+                                    -23.828531
+                                ],
+                                [
+                                    144.959376,
+                                    -23.822914
+                                ],
+                                [
+                                    144.959353,
+                                    -23.822517
+                                ],
+                                [
+                                    144.865327,
+                                    -23.666727
+                                ],
+                                [
+                                    144.865131,
+                                    -23.666549
+                                ],
+                                [
+                                    144.513054,
+                                    -23.491332
+                                ],
+                                [
+                                    144.512453,
+                                    -23.491432
+                                ],
+                                [
+                                    144.501129,
+                                    -23.503371
+                                ],
+                                [
+                                    144.501095,
+                                    -23.503411
+                                ],
+                                [
+                                    144.227275,
+                                    -23.867007
+                                ],
+                                [
+                                    144.227215,
+                                    -23.867414
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25CA11644",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "38",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Outage reported",
+                "START": "7:27PM 05 Sep 2025",
+                "EST_FIX_TIME": "Under Investigation",
+                "STREETS": "BARCALDINE-ISISFOR RD, BARCALDINE-ISISFORD RD, DANDARAGA RD, ILFRACOMBE-ISISFOR RD, LANDSBOROUGH HWY, OFF LANDSBOROUGH HWY, OFF MITCHELL ST, WELLSHOT-LOONGANA RD",
+                "SUBURBS": "BARCALDINE, ILFRACOMBE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             144.74274,
                             -23.551947
                         ]
@@ -442,5 +559,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1757064001.389011"
+    "extracted": "1757064608.106334"
 }
