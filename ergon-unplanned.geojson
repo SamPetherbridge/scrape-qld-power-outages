@@ -10,6 +10,83 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            148.811199,
+                            -21.104714
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    148.808224,
+                                    -21.104808
+                                ],
+                                [
+                                    148.812218,
+                                    -21.111435
+                                ],
+                                [
+                                    148.812741,
+                                    -21.111654
+                                ],
+                                [
+                                    148.813117,
+                                    -21.111249
+                                ],
+                                [
+                                    148.814231,
+                                    -21.098213
+                                ],
+                                [
+                                    148.813967,
+                                    -21.097774
+                                ],
+                                [
+                                    148.813434,
+                                    -21.097838
+                                ],
+                                [
+                                    148.808712,
+                                    -21.101736
+                                ],
+                                [
+                                    148.808553,
+                                    -21.10201
+                                ],
+                                [
+                                    148.808166,
+                                    -21.104521
+                                ],
+                                [
+                                    148.808224,
+                                    -21.104808
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "25MK6700",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "10",
+                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
+                "STATUS": "Crews working on-site",
+                "START": "5:17PM 05 Sep 2025",
+                "EST_FIX_TIME": "8:30PM 05 Sep 2025",
+                "STREETS": "MOUNT MARTIN LOOP RD",
+                "SUBURBS": "MOUNT MARTIN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             151.709594,
                             -27.430719
                         ]
@@ -256,83 +333,6 @@
                     {
                         "type": "Point",
                         "coordinates": [
-                            148.811199,
-                            -21.104714
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    148.808224,
-                                    -21.104808
-                                ],
-                                [
-                                    148.812218,
-                                    -21.111435
-                                ],
-                                [
-                                    148.812741,
-                                    -21.111654
-                                ],
-                                [
-                                    148.813117,
-                                    -21.111249
-                                ],
-                                [
-                                    148.814231,
-                                    -21.098213
-                                ],
-                                [
-                                    148.813967,
-                                    -21.097774
-                                ],
-                                [
-                                    148.813434,
-                                    -21.097838
-                                ],
-                                [
-                                    148.808712,
-                                    -21.101736
-                                ],
-                                [
-                                    148.808553,
-                                    -21.10201
-                                ],
-                                [
-                                    148.808166,
-                                    -21.104521
-                                ],
-                                [
-                                    148.808224,
-                                    -21.104808
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "25MK6700",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "10",
-                "REASON": "The loss of supply is due to damage requiring emergency repairs. Fault finding is in progress.",
-                "STATUS": "Crews working on-site",
-                "START": "5:17PM 05 Sep 2025",
-                "EST_FIX_TIME": "8:30PM 05 Sep 2025",
-                "STREETS": "MOUNT MARTIN LOOP RD",
-                "SUBURBS": "MOUNT MARTIN"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
                             146.429337,
                             -19.77486
                         ]
@@ -409,5 +409,5 @@
     ],
     "company": "Ergon",
     "state": "Current",
-    "extracted": "1757065202.952293"
+    "extracted": "1757065801.25726"
 }

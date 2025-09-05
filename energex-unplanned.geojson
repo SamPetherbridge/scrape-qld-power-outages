@@ -10,6 +10,108 @@
                     {
                         "type": "Point",
                         "coordinates": [
+                            153.117816,
+                            -26.685013
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.116153,
+                                    -26.686201
+                                ],
+                                [
+                                    153.116329,
+                                    -26.686456
+                                ],
+                                [
+                                    153.116845,
+                                    -26.686663
+                                ],
+                                [
+                                    153.11872,
+                                    -26.686361
+                                ],
+                                [
+                                    153.118746,
+                                    -26.686357
+                                ],
+                                [
+                                    153.119013,
+                                    -26.686301
+                                ],
+                                [
+                                    153.119355,
+                                    -26.686051
+                                ],
+                                [
+                                    153.119515,
+                                    -26.685741
+                                ],
+                                [
+                                    153.119551,
+                                    -26.685455
+                                ],
+                                [
+                                    153.119391,
+                                    -26.684794
+                                ],
+                                [
+                                    153.119346,
+                                    -26.684682
+                                ],
+                                [
+                                    153.118704,
+                                    -26.683569
+                                ],
+                                [
+                                    153.118054,
+                                    -26.683364
+                                ],
+                                [
+                                    153.116551,
+                                    -26.683963
+                                ],
+                                [
+                                    153.116254,
+                                    -26.684331
+                                ],
+                                [
+                                    153.11608,
+                                    -26.685919
+                                ],
+                                [
+                                    153.116153,
+                                    -26.686201
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-885444-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "117",
+                "REASON": "Under Investigation",
+                "STATUS": "In Progress",
+                "START": "4:54PM 05 Sep 2025",
+                "EST_FIX_TIME": "11:00PM 05 Sep 2025",
+                "STREETS": "BINDAREE CRES, BRISBANE RD, FOOTE ST, RIVER ESP",
+                "SUBURBS": "MOOLOOLABA",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
                             153.206489,
                             -27.594388
                         ]
@@ -111,95 +213,9 @@
                 "SUBURBS": "SHELDON",
                 "ETR_FLAG": "N"
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "GeometryCollection",
-                "geometries": [
-                    {
-                        "type": "Point",
-                        "coordinates": [
-                            153.113997,
-                            -26.688888
-                        ]
-                    },
-                    {
-                        "type": "Polygon",
-                        "coordinates": [
-                            [
-                                [
-                                    153.094208,
-                                    -26.679624
-                                ],
-                                [
-                                    153.110579,
-                                    -26.695235
-                                ],
-                                [
-                                    153.110676,
-                                    -26.695307
-                                ],
-                                [
-                                    153.119458,
-                                    -26.700316
-                                ],
-                                [
-                                    153.12013,
-                                    -26.700205
-                                ],
-                                [
-                                    153.133686,
-                                    -26.683896
-                                ],
-                                [
-                                    153.133786,
-                                    -26.683618
-                                ],
-                                [
-                                    153.13378,
-                                    -26.68335
-                                ],
-                                [
-                                    153.133452,
-                                    -26.682935
-                                ],
-                                [
-                                    153.117094,
-                                    -26.677487
-                                ],
-                                [
-                                    153.116884,
-                                    -26.67746
-                                ],
-                                [
-                                    153.094539,
-                                    -26.678864
-                                ],
-                                [
-                                    153.094208,
-                                    -26.679624
-                                ]
-                            ]
-                        ]
-                    }
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-885444-g",
-                "TYPE": "UNPLANNED",
-                "CUSTOMERS_AFFECTED": "1433",
-                "REASON": "Under Investigation",
-                "STATUS": "In Progress",
-                "START": "4:54PM 05 Sep 2025",
-                "EST_FIX_TIME": "8:00PM 05 Sep 2025",
-                "STREETS": "AKERINGA PL, AMARINA AVE, BINDAREE CRES, BRISBANE RD, CARINYA ST, CARWOOLA CRES, COORUMBONG CL, COROWA CT, CULBARA ST, EDEN ST, ELANORA AVE, FOOTE ST, INCANA CT, KYAMBA CT, MOOLOOLABA ESP, NEERIM DR, NICKLIN WAY, PANGARINDA PL, PARKYN PDE, RIVER ESP, SUNSHINE MWY, SYD LINGARD DR, URUNGA ESP, WOOMBA PL, WOTAMA CT",
-                "SUBURBS": "BOKARINA, BUDERIM, MINYAMA, MOOLOOLABA, MOUNTAIN CREEK",
-                "ETR_FLAG": "N"
-            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1757065202.053371"
+    "extracted": "1757065801.630246"
 }
