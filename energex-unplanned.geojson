@@ -1,8 +1,193 @@
 {
     "type": "FeatureCollection",
     "name": "UNPLANNED",
-    "features": [],
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            153.355155,
+                            -27.998093
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    153.354558,
+                                    -27.999904
+                                ],
+                                [
+                                    153.355656,
+                                    -27.99999
+                                ],
+                                [
+                                    153.356205,
+                                    -27.99948
+                                ],
+                                [
+                                    153.355765,
+                                    -27.996586
+                                ],
+                                [
+                                    153.35528,
+                                    -27.996195
+                                ],
+                                [
+                                    153.354764,
+                                    -27.996554
+                                ],
+                                [
+                                    153.354105,
+                                    -27.999363
+                                ],
+                                [
+                                    153.354558,
+                                    -27.999904
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-885561-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "4",
+                "REASON": "A vehicle damaging our equipment",
+                "STATUS": "Awaiting",
+                "START": "11:42PM 06 Sep 2025",
+                "EST_FIX_TIME": "2:00AM 07 Sep 2025",
+                "STREETS": "NERANG-BROADBEACH RD",
+                "SUBURBS": "CARRARA, NERANG",
+                "ETR_FLAG": "N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "GeometryCollection",
+                "geometries": [
+                    {
+                        "type": "Point",
+                        "coordinates": [
+                            152.987509,
+                            -27.531915
+                        ]
+                    },
+                    {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    152.98194,
+                                    -27.532141
+                                ],
+                                [
+                                    152.982246,
+                                    -27.53338
+                                ],
+                                [
+                                    152.982463,
+                                    -27.533661
+                                ],
+                                [
+                                    152.985089,
+                                    -27.535193
+                                ],
+                                [
+                                    152.985321,
+                                    -27.535264
+                                ],
+                                [
+                                    152.988534,
+                                    -27.53552
+                                ],
+                                [
+                                    152.988714,
+                                    -27.535505
+                                ],
+                                [
+                                    152.991707,
+                                    -27.53477
+                                ],
+                                [
+                                    152.992024,
+                                    -27.534539
+                                ],
+                                [
+                                    152.993028,
+                                    -27.532768
+                                ],
+                                [
+                                    152.993077,
+                                    -27.532499
+                                ],
+                                [
+                                    152.992793,
+                                    -27.530748
+                                ],
+                                [
+                                    152.992445,
+                                    -27.530382
+                                ],
+                                [
+                                    152.985565,
+                                    -27.528435
+                                ],
+                                [
+                                    152.985496,
+                                    -27.52842
+                                ],
+                                [
+                                    152.985141,
+                                    -27.528366
+                                ],
+                                [
+                                    152.985081,
+                                    -27.528361
+                                ],
+                                [
+                                    152.983845,
+                                    -27.52831
+                                ],
+                                [
+                                    152.983348,
+                                    -27.528602
+                                ],
+                                [
+                                    152.981961,
+                                    -27.531885
+                                ],
+                                [
+                                    152.98194,
+                                    -27.532141
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-885562-g",
+                "TYPE": "UNPLANNED",
+                "CUSTOMERS_AFFECTED": "368",
+                "REASON": "Under Investigation",
+                "STATUS": "Awaiting",
+                "START": "11:47PM 06 Sep 2025",
+                "EST_FIX_TIME": "2:00AM 07 Sep 2025",
+                "STREETS": "BLACKWOOD ST, CHANCELLOR ST, EGMONT ST, HALL ST, HOOD ST, JERROLD ST, LAHEY CL, MCCULLA ST, OXLEY RD, PALM AVE, SHERWOOD RD, THOMAS ST",
+                "SUBURBS": "SHERWOOD",
+                "ETR_FLAG": "N"
+            }
+        }
+    ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1757166001.717715"
+    "extracted": "1757166602.334445"
 }
