@@ -51,28 +51,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    153.059343,
-                    -27.472765
-                ]
-            },
-            "properties": {
-                "EVENT_ID": "INCD-882232-g",
-                "TYPE": "PLANNED",
-                "CUSTOMERS_AFFECTED": "61",
-                "REASON": "Planned Maintenance",
-                "STATUS": "In Progress",
-                "START": "6:00PM 07 Sep 2025",
-                "EST_FIX_TIME": "2:00AM 08 Sep 2025",
-                "STREETS": "AGNEW ST, CAWMORE RD, KINGSBURY ST, WYNNUM RD",
-                "SUBURBS": "HAWTHORNE, NORMAN PARK",
-                "ETR_FLAG": "N"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     153.420823,
                     -27.993984
                 ]
@@ -111,9 +89,31 @@
                 "SUBURBS": "EIGHT MILE PLAINS",
                 "ETR_FLAG": "N"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.059343,
+                    -27.472765
+                ]
+            },
+            "properties": {
+                "EVENT_ID": "INCD-882232-g",
+                "TYPE": "PLANNED",
+                "CUSTOMERS_AFFECTED": "61",
+                "REASON": "Planned Maintenance",
+                "STATUS": "In Progress",
+                "START": "6:00PM 07 Sep 2025",
+                "EST_FIX_TIME": "2:00AM 08 Sep 2025",
+                "STREETS": "AGNEW ST, CAWMORE RD, KINGSBURY ST, WYNNUM RD",
+                "SUBURBS": "HAWTHORNE, NORMAN PARK",
+                "ETR_FLAG": "N"
+            }
         }
     ],
     "company": "Energex",
     "state": "Current",
-    "extracted": "1757231109.769662"
+    "extracted": "1757231400.370468"
 }
