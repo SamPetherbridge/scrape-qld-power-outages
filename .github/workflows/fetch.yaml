@@ -18,13 +18,12 @@ jobs:
         
       - name: Fetch latest data
         run: |-
-          # Fetch the air quality data
-          curl -k https://www.energex.com.au/static/Energex/energex_po_current_unplanned.geojson > energex-unplanned.geojson
-          curl -k https://www.energex.com.au/static/Energex/energex_po_current_planned.geojson > energex-planned.geojson
-          curl -k https://www.energex.com.au/api/outages-text/v1.0.ex/summary > energex-summary.json
-          curl -k https://www.energex.com.au/api/outages-text/v1.0.ex/suburb?council=&suburb= > energex-summary-suburbs.json
-          curl -k https://www.ergon.com.au/static/Ergon/ergon_po_current_unplanned.geojson > ergon-unplanned.geojson
-          curl -k https://www.ergon.com.au/static/Ergon/ergon_po_current_planned.geojson > ergon-planned.geojson
+          # Energex (South East Queensland) via ArcGIS Feature Service
+          curl -s "https://services.arcgis.com/bfVzktoY0OhzQCDj/ArcGIS/rest/services/VwEnergexOutages/FeatureServer/0/query?where=TYPE%3D%27UNPLANNED%27&outFields=*&f=geojson" > energex-unplanned.geojson
+          curl -s "https://services.arcgis.com/bfVzktoY0OhzQCDj/ArcGIS/rest/services/VwEnergexOutages/FeatureServer/0/query?where=TYPE%3D%27PLANNED%27&outFields=*&f=geojson" > energex-planned.geojson
+          # Ergon (Regional Queensland) via ArcGIS Feature Service
+          curl -s "https://services.arcgis.com/33eHbTVqo7gtiCE8/arcgis/rest/services/VwErgonOutages/FeatureServer/0/query?where=TYPE%3D%27UNPLANNED%27&outFields=*&f=geojson" > ergon-unplanned.geojson
+          curl -s "https://services.arcgis.com/33eHbTVqo7gtiCE8/arcgis/rest/services/VwErgonOutages/FeatureServer/0/query?where=TYPE%3D%27PLANNED%27&outFields=*&f=geojson" > ergon-planned.geojson
       
       - name: Commit and push if it changed
         run: |-
